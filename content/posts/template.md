@@ -73,5 +73,5 @@ artist: "アーティスト名"
 
 ---
 
-**作成日**: YYYY年MM月DD日
+**作成日**: YYYY-MM-DD
 
