@@ -9,7 +9,7 @@ export default function Home() {
       <main className="max-w-4xl mx-auto px-4 py-12">
         <header className="mb-12">
           <h1 className="text-4xl font-bold mb-4">
-            音楽と言葉の記録サイト
+            How this song feels
           </h1>
           <p className="text-gray-600 text-lg">
             「ある言葉に、なぜ惹かれたか」を残す記録 = 私の愛のログ

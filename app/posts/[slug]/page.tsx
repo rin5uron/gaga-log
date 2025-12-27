@@ -4,7 +4,7 @@ import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   const posts = getAllPosts();
   return posts.map((post) => ({
     slug: post.slug,
@@ -14,9 +14,10 @@ export async function generateStaticParams() {
 export default async function PostPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
-  const post = getPostBySlug(params.slug);
+  const { slug } = await params;
+  const post = getPostBySlug(slug);
 
   if (!post) {
     notFound();
