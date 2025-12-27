@@ -5,14 +5,12 @@ date: "2025-12-27"
 type: "song"
 ---
 
-<!-- 🎧 視聴リンク（最上部・アイコン付き） -->
-<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-flex; align-items: center; gap: 4px; margin-right: 12px;">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="20" height="20" style="vertical-align: middle;">
-  <span>Apple Music</span>
+<!-- 🎧 視聴リンク（アイコンのみ） -->
+<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block; margin-right: 12px;">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="24" height="24">
 </a>
-<a href="https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-flex; align-items: center; gap: 4px;">
-  <img src="/icons/spotify.svg" alt="Spotify" width="20" height="20" style="vertical-align: middle;">
-  <span>Spotify</span>
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block;">
+  <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
 </a>
 
 ---
@@ -21,6 +19,7 @@ type: "song"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2sxw0K10wQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 
 ## この曲について
 
@@ -35,8 +34,8 @@ type: "song"
 とのガガの言葉が印象的だった。
 この曲は、女性同士がお互いを支え合い、競い合うのではなく持ち上げ合うことの大切さを歌っている。メッセージは「we can make it easy if we lift each other」——お互いを支え合えば、物事はもっと楽になる、というものだ。
 
-
 ---
+
 
 ## 印象に残ったフレーズ
 
@@ -53,8 +52,8 @@ type: "song"
 
 「I understand you」でも「I support you」でもない。「I got you」だから、この距離感なんだ。近すぎず、遠すぎず。同じ目線で、確かに支え合う。
 
-
 ---
+
 
 ## 覚えたい、歌いたいポイント
 
@@ -66,8 +65,8 @@ type: "song"
 
 「lift each other」——お互いを持ち上げる。一人じゃない。一緒に、高く。そして、競い合う必要なんてない。これが、この曲の核心なのかもしれない。
 
-
 ---
+
 
 ## 今の私と、この曲
 
@@ -76,7 +75,6 @@ type: "song"
 ガガと一緒に、強い女を目指せる。いや、私らしくありたい。それが、この曲から受け取ったメッセージだ。
 
 「セクシーさを求められたら、それを強烈な個性持って返すわ」——この言葉は、私が今、自分のものにしたい思想だ。そして、「Just know that I got you」——この言葉は、私が誰かに伝えたい言葉でもある。
-
 
 ---
 

@@ -56,6 +56,9 @@ export default async function PostPage({
               {post.title}
               {post.artist && ` / ${post.artist}`}
             </h1>
+            {post.date && (
+              <p className="text-sm text-gray-400">{post.date}</p>
+            )}
           </header>
 
           <div

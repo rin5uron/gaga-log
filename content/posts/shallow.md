@@ -5,14 +5,12 @@ date: "2025-12-27"
 type: "song"
 ---
 
-<!-- 🎧 視聴リンク（最上部・アイコン付き） -->
-<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-flex; align-items: center; gap: 4px; margin-right: 12px;">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="20" height="20" style="vertical-align: middle;">
-  <span>Apple Music</span>
+<!-- 🎧 視聴リンク（アイコンのみ） -->
+<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block; margin-right: 12px;">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="24" height="24">
 </a>
-<a href="https://open.spotify.com/search/Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-flex; align-items: center; gap: 4px;">
-  <img src="/icons/spotify.svg" alt="Spotify" width="20" height="20" style="vertical-align: middle;">
-  <span>Spotify</span>
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block;">
+  <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
 </a>
 
 ---
@@ -21,6 +19,7 @@ type: "song"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bo_efYhYU2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 
 ## この曲について
 
@@ -38,6 +37,7 @@ type: "song"
 
 ---
 
+
 ## "I'm falling"——落ちていく、という感覚
 
 この曲で何度も繰り返される「I'm falling」
@@ -48,15 +48,15 @@ type: "song"
 
 ---
 
+
 ## 覚えたい、歌いたいポイント
 
 サビの「in the shallow」——「浅瀬で」。
 
 shallow（シャロウ）は「浅い」という意味。深い海ではなく、浅瀬。足がつく場所。安全な場所。でも、この曲では「ここににいるままでいいの？」と問いかけている。
 
-
-
 ---
+
 
 ## 今の私と、この曲
 
@@ -67,6 +67,7 @@ shallow（シャロウ）は「浅い」という意味。深い海ではなく�
 理屈じゃない。離れられない。運命的な関係。
 
 この曲が描くのは、そんな二人の物語だ。
+
 ---
 
-2025-12-28
+2025-12-27
