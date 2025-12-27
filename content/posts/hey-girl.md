@@ -5,6 +5,23 @@ date: "2025-12-27"
 type: "song"
 ---
 
+<!-- 🎧 視聴リンク（最上部・アイコン付き） -->
+<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-flex; align-items: center; gap: 4px; margin-right: 12px;">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="20" height="20" style="vertical-align: middle;">
+  <span>Apple Music</span>
+</a>
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-flex; align-items: center; gap: 4px;">
+  <img src="/icons/spotify.svg" alt="Spotify" width="20" height="20" style="vertical-align: middle;">
+  <span>Spotify</span>
+</a>
+
+---
+
+<!-- ▶️ YouTube公式動画の埋め込み -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2sxw0K10wQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## この曲について
 
 2016年にリリース、アルバム「Joanne」の収録曲。フローレンス・ウェルチ（Florence + The Machine）との共演曲で、女性同士の連帯と支え合いをテーマにしている。
@@ -63,4 +80,4 @@ type: "song"
 
 ---
 
-**作成日**: 2025-12-27
+2025-12-27

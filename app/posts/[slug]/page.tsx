@@ -27,7 +27,7 @@ export default async function PostPage({
   try {
     console.log("Processing markdown, content length:", post.content.length);
     const processedContent = await remark()
-      .use(remarkHtml)
+      .use(remarkHtml, { sanitize: false })
       .process(post.content);
     contentHtml = processedContent.toString();
     console.log("HTML generated, length:", contentHtml.length);
