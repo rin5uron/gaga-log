@@ -11,9 +11,6 @@ export default function Home() {
           <h1 className="text-4xl font-bold mb-4">
             How this song feels
           </h1>
-          <p className="text-gray-600 text-lg">
-            「ある言葉に、なぜ惹かれたか」を残す記録 = 私の愛のログ
-          </p>
         </header>
 
         <div className="space-y-8">

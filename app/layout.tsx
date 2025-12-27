@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "How this song feels",
-  description: "「ある言葉に、なぜ惹かれたか」を残す記録 = 私の愛のログ",
+  description: "人生で出会った曲をそっと残す記録",
 };
 
 export default function RootLayout({
