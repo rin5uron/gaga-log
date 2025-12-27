@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import { remark } from "remark";
-import html from "remark-html";
+import remarkHtml from "remark-html";
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -22,8 +22,22 @@ export default async function PostPage({
     notFound();
   }
 
-  const processedContent = await remark().use(html).process(post.content);
-  const contentHtml = processedContent.toString();
+  let contentHtml = "";
+  try {
+    console.log("Processing markdown, content length:", post.content.length);
+    const processedContent = await remark()
+      .use(remarkHtml)
+      .process(post.content);
+    contentHtml = processedContent.toString();
+    console.log("HTML generated, length:", contentHtml.length);
+  } catch (error) {
+    console.error("Error processing markdown:", error);
+    // フォールバック: プレーンテキストとして表示
+    contentHtml = post.content
+      .split("\n")
+      .map((line) => `<p>${line}</p>`)
+      .join("\n");
+  }
 
   return (
     <div className="min-h-screen bg-white">
@@ -37,13 +51,10 @@ export default async function PostPage({
 
         <article className="prose prose-lg max-w-none">
           <header className="mb-8">
-            <h1 className="text-4xl font-bold mb-4">{post.title}</h1>
-            {post.artist && (
-              <p className="text-xl text-gray-600 mb-2">
-                {post.artist}
-                {post.song && ` - ${post.song}`}
-              </p>
-            )}
+            <h1 className="text-4xl font-bold mb-2">
+              {post.title}
+              {post.artist && ` / ${post.artist}`}
+            </h1>
             {post.date && (
               <p className="text-sm text-gray-400">{post.date}</p>
             )}

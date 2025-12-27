@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "音楽と言葉の記録サイト",
-  description: "「ある言葉に、なぜ惹かれたか」を残す記録",
+  title: "How this song feels",
+  description: "人生で出会った曲をそっと残す記録",
 };
 
 export default function RootLayout({

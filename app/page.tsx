@@ -26,13 +26,10 @@ export default function Home() {
                   href={`/posts/${post.slug}`}
                   className="block hover:opacity-70 transition-opacity"
                 >
-                  <h2 className="text-2xl font-semibold mb-2">{post.title}</h2>
-                  {post.artist && (
-                    <p className="text-gray-600 mb-2">
-                      {post.artist}
-                      {post.song && ` - ${post.song}`}
-                    </p>
-                  )}
+                  <h2 className="text-2xl font-semibold mb-2">
+                    {post.title}
+                    {post.artist && ` / ${post.artist}`}
+                  </h2>
                   {post.date && (
                     <p className="text-sm text-gray-400">{post.date}</p>
                   )}

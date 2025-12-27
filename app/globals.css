@@ -57,7 +57,7 @@ body {
 }
 
 .prose hr {
-  @apply my-8 border-gray-300;
+  @apply my-8 border-gray-200 border-t;
 }
 
 .prose code {
