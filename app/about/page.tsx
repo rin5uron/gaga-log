@@ -7,38 +7,44 @@ export default function About() {
         <h1 className="text-4xl font-bold mb-8">運営者情報</h1>
 
         <div className="space-y-12">
-          <section className="flex flex-col md:flex-row gap-8 items-start">
+          <section className="flex flex-col md:flex-row gap-8 items-center md:items-start">
             <div className="flex-shrink-0">
               <Image
                 src="/images/profile.png"
-                alt="運営者プロフィール写真"
-                width={200}
-                height={200}
-                className="rounded-lg"
+                alt="運営者"
+                width={160}
+                height={160}
+                className="rounded-full"
               />
             </div>
             <div className="flex-1">
-              <h2 className="text-2xl font-semibold mb-4">屋号</h2>
-              <p className="text-gray-700 text-lg mb-6">
-                Studio Jinsei
-              </p>
+              <p className="text-gray-600 text-sm mb-2">運営</p>
+              <p className="text-xl font-semibold mb-6">Studio Jinsei</p>
 
-              <h2 className="text-2xl font-semibold mb-4">サイト名</h2>
-              <p className="text-gray-700 text-lg mb-6">
-                How This Song Feels
-              </p>
-
-              <h2 className="text-2xl font-semibold mb-4">URL</h2>
-              <p className="text-gray-700 mb-6">
-                <a
-                  href="https://studiojinsei.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline"
-                >
-                  https://studiojinsei.com
-                </a>
-              </p>
+              <div className="space-y-2">
+                <p className="text-gray-700">
+                  <span className="text-gray-500 text-sm">サイトURL：</span>
+                  <a
+                    href="https://gaga-log.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline ml-2"
+                  >
+                    https://gaga-log.vercel.app/
+                  </a>
+                </p>
+                <p className="text-gray-700">
+                  <span className="text-gray-500 text-sm">会社サイト：</span>
+                  <a
+                    href="https://studiojinsei.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline ml-2"
+                  >
+                    https://studiojinsei.com
+                  </a>
+                </p>
+              </div>
             </div>
           </section>
 
@@ -67,12 +73,8 @@ export default function About() {
               </a>
               よりお願いいたします。
             </p>
-            <p className="text-gray-700">
-              メール：
-              <a href="mailto:contact@studiojinsei.com" className="text-blue-600 hover:underline ml-1">
-                contact@studiojinsei.com
-              </a>
-            </p>
+            
+          
           </section>
 
           <section>

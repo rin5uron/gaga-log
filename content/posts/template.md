@@ -23,10 +23,10 @@ artist: "アーティスト名"
 ---
 
 <!-- 🎧 視聴リンク（アイコンのみ） -->
-<a href="Apple Music の曲リンク" target="_blank" style="display: inline-block; margin-right: 12px;">
+<a href="Apple Music の曲リンク" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="24" height="24">
 </a>
-<a href="Spotify の曲リンク" target="_blank" style="display: inline-block;">
+<a href="Spotify の曲リンク" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
 </a>
 

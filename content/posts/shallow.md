@@ -6,10 +6,10 @@ type: "song"
 ---
 
 <!-- 🎧 視聴リンク（アイコンのみ） -->
-<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block; margin-right: 12px;">
+<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="24" height="24">
 </a>
-<a href="https://open.spotify.com/search/Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block;">
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Bradley%20Cooper%20Shallow" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
 </a>
 

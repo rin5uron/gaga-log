@@ -7,11 +7,6 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <main className="max-w-4xl mx-auto px-4 py-12">
-        <header className="mb-12">
-          <h1 className="text-4xl font-bold mb-4">
-            How this song feels
-          </h1>
-        </header>
 
         <div className="space-y-8">
           {posts.length === 0 ? (
