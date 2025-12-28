@@ -62,7 +62,7 @@ body {
 }
 
 .prose hr {
-  @apply my-12 border-gray-200 border-t;
+  @apply mt-24 mb-12 border-gray-200 border-t;
 }
 
 .prose code {
