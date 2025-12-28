@@ -28,7 +28,7 @@ body {
 }
 
 .prose h2 {
-  @apply text-2xl font-semibold mt-32 mb-3;
+  @apply text-2xl font-semibold mt-6 mb-3;
 }
 
 .prose h3 {
@@ -80,8 +80,12 @@ body {
   height: auto;
 }
 
-/* YouTube直後のhrは上マージンなし */
-.prose iframe + hr {
-  @apply mt-0;
+/* YouTube直後のhrは上マージンなし（間に空行やコメントがあっても対応） */
+.prose hr:has(+ h2) {
+  @apply mb-8;
+}
+
+.prose iframe ~ hr:first-of-type {
+  @apply mt-0 mb-8;
 }
 
