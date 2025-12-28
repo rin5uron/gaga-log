@@ -60,11 +60,19 @@ type: "song"
 
 ## 覚えたい、歌いたいポイント
 
-この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。何度も繰り返される「Hey girl」と「we lift each other」。
+この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。
 
-サビの「we can make it easy if we lift each other」——「私たちがお互いを支え合えば、物事はもっと楽になる」。
+> Hey girl
 
-その次のフレーズ、「We don't need to keep on one-in' up another」——「お互いに競い合う必要はない」。
+何度も繰り返される呼びかけ。
+
+> We can make it easy if we lift each other
+
+「私たちがお互いを支え合えば、物事はもっと楽になる」
+
+> We don't need to keep on one-in' up another
+
+「お互いに競い合う必要はない」
 
 「lift each other」——お互いを持ち上げる。一人じゃない。一緒に、高く。そして、競い合う必要なんてない。これが、この曲の核心なのかもしれない。
 

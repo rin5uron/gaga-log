@@ -28,7 +28,7 @@ body {
 }
 
 .prose h2 {
-  @apply text-2xl font-semibold mt-6 mb-3;
+  @apply text-2xl font-semibold mt-32 mb-3;
 }
 
 .prose h3 {
@@ -40,7 +40,12 @@ body {
 }
 
 .prose blockquote {
-  @apply border-l-4 border-gray-300 pl-4 italic my-4 text-gray-700;
+  @apply border-l-8 border-gray-400 bg-gray-100 px-6 py-4 my-6 text-gray-900;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.6;
+  font-style: normal;
+  border-radius: 0 8px 8px 0;
 }
 
 .prose ul,
@@ -73,5 +78,10 @@ body {
   @apply w-full max-w-full;
   aspect-ratio: 16 / 9;
   height: auto;
+}
+
+/* YouTube直後のhrは上マージンなし */
+.prose iframe + hr {
+  @apply mt-0;
 }
 
