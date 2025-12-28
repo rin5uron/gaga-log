@@ -8,8 +8,10 @@ export interface Post {
   slug: string;
   title: string;
   song?: string;
+  work?: string;
   artist?: string;
   date: string;
+  type?: string;
   content: string;
 }
 
@@ -19,7 +21,7 @@ export function getPostSlugs(): string[] {
   }
   return fs
     .readdirSync(postsDirectory)
-    .filter((file) => file.endsWith(".md") && file !== "template.md")
+    .filter((file) => file.endsWith(".md") && !file.startsWith("template"))
     .map((file) => file.replace(/\.md$/, ""));
 }
 
@@ -36,8 +38,10 @@ export function getPostBySlug(slug: string): Post | null {
       slug,
       title: data.title || slug,
       song: data.song,
+      work: data.work,
       artist: data.artist,
       date: data.date || "",
+      type: data.type,
       content,
     };
   } catch (error) {
