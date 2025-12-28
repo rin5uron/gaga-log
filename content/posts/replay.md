@@ -13,8 +13,6 @@ type: "song"
   <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
 </a>
 
----
-
 <!-- ▶️ YouTube公式動画の埋め込み -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTwpCLZLdRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
