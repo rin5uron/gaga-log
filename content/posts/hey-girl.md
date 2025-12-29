@@ -1,22 +1,25 @@
 ---
 title: "Hey Girl"
+song: "Hey Girl"
 artist: "Lady Gaga"
 date: "2025-12-27"
 type: "song"
 ---
 
-<!-- 🎧 視聴リンク（アイコンのみ） -->
-<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="24" height="24">
-</a>
-<a href="https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="24" height="24">
-</a>
-
 <!-- ▶️ YouTube公式動画の埋め込み -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2sxw0K10wQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
+---
 
 
 
@@ -37,14 +40,13 @@ type: "song"
 
 
 
-## 印象に残ったフレーズ
+## 歌詞で押さえておきたい翻訳ポイント
 
 サビの「Hey girl」が印象的な曲。何度も呼びかけるように繰り返される「Hey girl」——
 
 その中で、印象的だったのはこのフレーズ。
 
 > Just know that I got you
-
 
 「Just know」——これだけは覚えておいて、という距離感。押し付けがましくない、でも確かな。
 
@@ -56,17 +58,17 @@ type: "song"
 
 
 
-## 覚えたい、歌いたいポイント
+## 歌いたい・口ずさみたいフレーズ
 
 この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。
 
 > Hey girl
 
-何度も繰り返される呼びかけ。
+何度も繰り返される呼びかけ。シンプルで覚えやすい。
 
 > We can make it easy if we lift each other
 
-「私たちがお互いを支え合えば、物事はもっと楽になる」
+「私たちがお互いを支え合えば、物事はもっと楽になる」——このフレーズが曲の核心。
 
 > We don't need to keep on one-in' up another
 
@@ -74,11 +76,27 @@ type: "song"
 
 「lift each other」——お互いを持ち上げる。一人じゃない。一緒に、高く。そして、競い合う必要なんてない。これが、この曲の核心なのかもしれない。
 
+カラオケで歌う場合は、「Hey girl」の呼びかけを感情を込めて歌うと、曲全体に深みが出る。
+
 ---
 
 
 
-## 今の私と、この曲
+## MVで印象に残ったポイント
+
+「Hey Girl」のミュージックビデオでは、ガガとフローレンス・ウェルチが登場する。
+
+この曲は、女性同士の連帯と支え合いをテーマにしているため、MVでも二人の強い絆が視覚的に表現されている。
+
+ガガとフローレンスの共演は、お互いを支え合う女性の力強さを象徴している。Mark Ronsonがプロデュースしたこのデュエット曲は、フローレンスが曲全体に渡ってガガとハーモニーを重ね、真のデュエットとして成立している。
+
+競い合うのではなく、お互いを高め合う——そんな女性同士の関係性が、MVからも伝わってくる。
+
+---
+
+
+
+## ガガ様と一緒に、強い女を目指せる
 
 ガガ様は私の中学時代からの強い女の象徴。ガガ様の思想を今こそ理解し共感し自分のものにできる年齢にもなった。今がそのフェーズだと思う。
 
