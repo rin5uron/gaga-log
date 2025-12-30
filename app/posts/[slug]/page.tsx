@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
+import RelatedPosts from "@/components/RelatedPosts";
 
 export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   const posts = getAllPosts();
@@ -22,6 +23,8 @@ export default async function PostPage({
   if (!post) {
     notFound();
   }
+
+  const allPosts = getAllPosts();
 
   let contentHtml = "";
   try {
@@ -66,6 +69,8 @@ export default async function PostPage({
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
         </article>
+
+        <RelatedPosts currentPost={post} allPosts={allPosts} />
       </main>
     </div>
   );
