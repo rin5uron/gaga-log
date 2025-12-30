@@ -2,6 +2,8 @@
 title: "Bloody Mary"
 song: "Bloody Mary"
 artist: "Lady Gaga"
+date: "2025-12-29"
+order: 3
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

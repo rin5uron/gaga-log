@@ -3,6 +3,7 @@ title: "Zoo"
 song: "Zoo"
 artist: "Shakira"
 date: "2025-12-28"
+order: 7
 type: "song"
 ---
 
@@ -127,6 +128,4 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 
 
----
 
-2025-12-29

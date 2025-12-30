@@ -2,6 +2,8 @@
 title: "Alejandro"
 song: "Alejandro"
 artist: "Lady Gaga"
+date: "2025-12-29"
+order: 2
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

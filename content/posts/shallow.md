@@ -2,6 +2,7 @@
 title: "Shallow"
 artist: "Lady Gaga & Bradley Cooper"
 date: "2025-12-27"
+order: 6
 type: "song"
 ---
 
