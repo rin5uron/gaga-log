@@ -21,7 +21,8 @@ function extractYouTubeEmbed(content: string): {
   youtubeEmbed: string | null;
   contentWithoutYouTube: string;
 } {
-  const iframeRegex = /<iframe[^>]*src="https:\/\/www\.youtube\.com\/embed\/[^"]*"[^>]*><\/iframe>/;
+  // より柔軟な正規表現：改行や属性の順序に対応
+  const iframeRegex = /<iframe[\s\S]*?src=["']https:\/\/www\.youtube\.com\/embed\/[^"']*["'][\s\S]*?<\/iframe>/i;
   const match = content.match(iframeRegex);
 
   if (match) {
