@@ -5,6 +5,7 @@ artist: "Lady Gaga"
 date: "2025-12-30"
 order: 14
 type: "song"
+relatedPosts: ["gaga-five-foot-two"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

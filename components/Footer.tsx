@@ -5,6 +5,9 @@ export default function Footer() {
     <footer className="border-t border-gray-200 mt-16">
       <div className="max-w-4xl mx-auto px-4 py-8">
         <nav className="flex flex-wrap gap-6 justify-center text-sm text-gray-600">
+          <Link href="/" className="hover:text-gray-900">
+            トップページ
+          </Link>
           <Link href="/about" className="hover:text-gray-900">
             運営者情報
           </Link>

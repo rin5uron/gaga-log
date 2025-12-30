@@ -89,3 +89,36 @@ body {
   @apply mt-0 mb-8;
 }
 
+/* YouTube固定表示 */
+.youtube-embed-wrapper iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+}
+
+/* セクション区切りのスタイル */
+.post-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #e5e7eb 20%,
+    #e5e7eb 80%,
+    transparent
+  );
+  margin: 3rem 0;
+}
+
+.post-content h2 {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.post-content h2:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+

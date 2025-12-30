@@ -36,9 +36,79 @@
 
 ---
 
+## 記事テンプレート
+
+新しい記事を作成する際は、以下のテンプレートを使用してください：
+
+- **楽曲の記事**: `content/posts/template-song.md`
+- **映像作品の記事**: `content/posts/template-movie.md`
+
+### Front Matter（記事のメタデータ）
+
+記事の冒頭には、以下の形式でメタデータを記載します：
+
+```yaml
+---
+title: "タイトル"
+song: "曲名"  # 楽曲の場合
+work: "作品名"  # 映像作品の場合
+artist: "アーティスト名"
+date: "YYYY-MM-DD"
+order: 1  # 表示順序（数字が小さいほど上に表示）
+type: "song" または "movie"
+relatedPosts: ["関連記事のslug1", "関連記事のslug2"]  # 任意
+---
+```
+
+### 関連リンク機能
+
+記事同士を関連づけることができます。
+
+#### 使い方
+
+Front Matterに `relatedPosts` フィールドを追加します：
+
+```yaml
+relatedPosts: ["joanne", "gaga-five-foot-two"]
+```
+
+- **値**: 関連記事のスラッグ（ファイル名から `.md` を除いたもの）の配列
+- **効果**: 記事ページの下部に「関連する記事」セクションが表示されます
+- **優先順位**:
+  1. 手動指定した関連記事（`relatedPosts`）
+  2. 同じアーティストの他の記事
+
+#### 例
+
+`content/posts/joanne.md`:
+```yaml
+---
+title: "Joanne"
+artist: "Lady Gaga"
+type: "song"
+relatedPosts: ["gaga-five-foot-two"]
+---
+```
+
+`content/posts/gaga-five-foot-two.md`:
+```yaml
+---
+title: "Gaga: Five Foot Two"
+artist: "Lady Gaga / クリス・モーカーベル"
+type: "movie"
+relatedPosts: ["joanne"]
+---
+```
+
+この設定により、「Joanne」の記事には「Gaga: Five Foot Two」へのリンクが、「Gaga: Five Foot Two」の記事には「Joanne」へのリンクが表示されます。
+
+---
+
 ## 技術スタック
 
 - **Next.js** - フレームワーク
+- **TypeScript** - 型安全な開発
+- **Tailwind CSS** - スタイリング
 - **Vercel** - ホスティング
 - **Markdown** - 記事管理
 

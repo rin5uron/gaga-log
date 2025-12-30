@@ -5,6 +5,7 @@ artist: "Lady Gaga"
 date: "2025-12-27"
 order: 4
 type: "song"
+relatedPosts: ["joanne", "gaga-five-foot-two"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

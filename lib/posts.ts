@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import { getArtistSlug } from "./utils";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
@@ -10,8 +11,11 @@ export interface Post {
   song?: string;
   work?: string;
   artist?: string;
+  album?: string;
+  year?: string;
   date: string;
   type?: string;
+  relatedPosts?: string[];
   content: string;
 }
 
@@ -40,8 +44,11 @@ export function getPostBySlug(slug: string): Post | null {
       song: data.song,
       work: data.work,
       artist: data.artist,
+      album: data.album,
+      year: data.year,
       date: data.date || "",
       type: data.type,
+      relatedPosts: data.relatedPosts,
       content,
     };
   } catch (error) {
@@ -64,4 +71,22 @@ export function getAllPosts(): Post[] {
     });
   return posts;
 }
+
+export function getAllArtists(): string[] {
+  const posts = getAllPosts();
+  const artists = new Set<string>();
+  posts.forEach((post) => {
+    if (post.artist) {
+      artists.add(post.artist);
+    }
+  });
+  return Array.from(artists).sort();
+}
+
+export function getPostsByArtist(artist: string): Post[] {
+  const posts = getAllPosts();
+  return posts.filter((post) => post.artist === artist);
+}
+
+export { getArtistSlug } from "./utils";
 

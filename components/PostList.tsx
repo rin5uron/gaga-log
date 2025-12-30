@@ -1,0 +1,75 @@
+"use client";
+
+import Link from "next/link";
+import { useState } from "react";
+import { getArtistSlug } from "@/lib/utils";
+import type { Post } from "@/lib/posts";
+
+interface PostListProps {
+  posts: Post[];
+  artists: string[];
+}
+
+export default function PostList({ posts, artists }: PostListProps) {
+  const [selectedArtist, setSelectedArtist] = useState<string | null>(null);
+
+  const filteredPosts = selectedArtist
+    ? posts.filter((post) => post.artist === selectedArtist)
+    : posts;
+
+  return (
+    <>
+      {artists.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-sm font-semibold text-gray-700 mb-3">
+            アーティスト別
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            <button
+              onClick={() => setSelectedArtist(null)}
+              className={`px-4 py-2 rounded-full text-sm transition-colors ${
+                selectedArtist === null
+                  ? "bg-black text-white"
+                  : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+              }`}
+            >
+              すべて
+            </button>
+            {artists.map((artist) => (
+              <Link
+                key={artist}
+                href={`/artists/${getArtistSlug(artist)}`}
+                className="px-4 py-2 rounded-full text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors"
+              >
+                {artist}
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <div className="space-y-8">
+        {filteredPosts.length === 0 ? (
+          <p className="text-gray-500">まだ記事がありません。</p>
+        ) : (
+          filteredPosts.map((post) => (
+            <article key={post.slug} className="border-b border-gray-200 pb-8">
+              <Link
+                href={`/posts/${post.slug}`}
+                className="block hover:opacity-70 transition-opacity"
+              >
+                <h2 className="text-2xl font-semibold mb-2">
+                  {post.title}
+                  {post.artist && ` / ${post.artist}`}
+                </h2>
+                {post.date && (
+                  <p className="text-sm text-gray-400">{post.date}</p>
+                )}
+              </Link>
+            </article>
+          ))
+        )}
+      </div>
+    </>
+  );
+}
