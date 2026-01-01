@@ -4,6 +4,7 @@ song: "Bloody Mary"
 artist: "Lady Gaga"
 date: "2025-12-29"
 order: 3
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 3
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Bloody Mary」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）に収録された楽曲。当初はアルバム曲として発表されたが、2022年12月、Netflix『Wednesday（ウェンズデー）』でのダンスシーンとTikTokでのバズを受けて、アルバムから11年を経て6枚目のシングルとして正式リリースされた。
 
@@ -39,7 +40,7 @@ order: 3
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -65,7 +66,7 @@ order: 3
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Bloody Mary」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -91,7 +92,7 @@ order: 3
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかったが、2022年にこの曲が再び注目を浴びるきっかけとなったのが、Netflix『Wednesday（ウェンズデー）』のダンスシーンだ。
 
@@ -130,6 +131,3 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
----
-
-2025-12-29

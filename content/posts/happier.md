@@ -4,6 +4,7 @@ song: "Happier"
 artist: "Ed Sheeran"
 date: "2025-12-30"
 order: 12
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 12
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Happier」は、Ed Sheeranの3枚目のスタジオアルバム『÷（Divide）』（2017年3月3日リリース）に収録された楽曲。アルバムの中でも特に感情的な一曲として、多くのリスナーの心に深く刺さっている。
 
@@ -41,7 +42,7 @@ order: 12
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -87,7 +88,7 @@ order: 12
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Happier」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -108,7 +109,7 @@ order: 12
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Happier」のミュージックビデオは、Ed Sheeran自身が登場せず、パペット（人形）によって物語が描かれている。
 
@@ -157,6 +158,3 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 
 
----
-
-2025-12-29

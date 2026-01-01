@@ -23,7 +23,7 @@ type: "song"
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 2018年公開の映画「A Star Is Born（アリー/ スター誕生）」の主題歌。Lady Gagaとブラッドリー・クーパーによるデュエット曲で、アカデミー賞歌曲賞を受賞した。
 
@@ -41,7 +41,7 @@ type: "song"
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 > I'm falling
 
@@ -56,7 +56,7 @@ type: "song"
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 > In the shallow
 
@@ -76,7 +76,7 @@ shallow（シャロウ）は「浅い」という意味。深い海ではなく�
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Shallow」のミュージックビデオは、映画「A Star Is Born」のワンシーンそのもの。ロサンゼルスのGreek Theatreで撮影されたこのシーンは、映画の中で最も重要な転換点となっている。
 
@@ -104,6 +104,3 @@ shallow（シャロウ）は「浅い」という意味。深い海ではなく�
 
 
 
----
-
-2025-12-29

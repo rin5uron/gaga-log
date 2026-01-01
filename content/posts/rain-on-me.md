@@ -23,7 +23,7 @@ relatedPosts: ["telephone", "hey-girl"]
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Rain on Me」は、2020年リリースのアルバム「Chromatica」からのシングル。アリアナ・グランデをフィーチャリングに迎えた、ダンスポップアンセム。
 
@@ -39,7 +39,7 @@ relatedPosts: ["telephone", "hey-girl"]
 
 ---
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 「Rain on Me」というタイトル自体が、この曲の核心を表している。
 
@@ -63,7 +63,7 @@ relatedPosts: ["telephone", "hey-girl"]
 
 ---
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Rain on Me」のミュージックビデオは、カラフルで未来的な世界観。
 

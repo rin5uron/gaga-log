@@ -25,7 +25,7 @@ relatedPosts: ["gaga-five-foot-two"]
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Joanne」は、Lady Gagaの5枚目のスタジオアルバム『Joanne』（2016年10月21日リリース）のタイトルトラックとして収録された楽曲。Mark Ronsonと共同プロデュースされ、アルバムの「真の心と魂」と呼ばれる、深く個人的な一曲。
 
@@ -61,7 +61,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -95,7 +95,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Joanne」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -121,7 +121,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Joanne」のミュージックビデオは、2017年12月19日に公開された。監督はAndrea Gelardin、振付はRichy Jacksonが担当している。
 
@@ -182,10 +182,6 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 「Joanne」——この曲は、静かに、でも確実に、心に残り続ける。
 
 
-
----
-
-2025-12-30
 
 ## Sources
 

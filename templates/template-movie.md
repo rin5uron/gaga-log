@@ -5,7 +5,6 @@ artist: "監督名 / 出演者名"
 date: "YYYY-MM-DD"
 order: 1
 type: "movie"
-relatedPosts: []
 ---
 
 <!-- 🎬 視聴リンク -->
@@ -15,7 +14,7 @@ relatedPosts: []
 
 
 
-## この作品について
+## About <span class="section-subtitle">この作品について</span>
 
 作品の基本情報や背景を記載します。
 
@@ -27,7 +26,7 @@ relatedPosts: []
 
 
 
-## ここだけは見てほしい！
+## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
 
 ### ポイント1のタイトル
 
@@ -43,7 +42,7 @@ relatedPosts: []
 
 
 
-## この作品の私の感想
+## Thoughts <span class="section-subtitle">この作品の私の感想</span>
 
 感想を書きます。
 
@@ -51,7 +50,7 @@ relatedPosts: []
 
 
 
-## 今の私と、この作品
+## Now <span class="section-subtitle">今の私と、この作品</span>
 
 今の自分にとってこの作品がどういう意味を持つかを書きます。
 

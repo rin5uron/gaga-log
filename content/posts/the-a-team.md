@@ -4,6 +4,7 @@ song: "The A Team"
 artist: "Ed Sheeran"
 date: "2025-12-30"
 order: 13
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 13
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「The A Team」は、Ed Sheeranのデビューアルバム『+（Plus）』（2011年9月9日リリース）の先行シングルとして、2011年6月12日にリリースされた楽曲。Ed Sheeranにとって初めてのメジャーヒットとなり、全英シングルチャートで最高3位を記録した。
 
@@ -43,7 +44,7 @@ order: 13
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -79,7 +80,7 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「The A Team」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -105,7 +106,7 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「The A Team」のミュージックビデオは、Ed Sheeran自身が登場せず、一人の女性の物語を映像で描いている。
 
@@ -153,6 +154,3 @@ Ed Sheeranは、距離を"感情"ではなく"状態"として歌っている。
 
 
 
----
-
-2025-12-30

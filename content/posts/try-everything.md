@@ -4,6 +4,7 @@ song: "Try Everything"
 artist: "Shakira"
 date: "2025-12-30"
 order: 10
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 10
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Try Everything」は、2016年のウォルト・ディズニー・アニメーション・スタジオ映画『ズートピア』の主題歌として、Shakiraが歌唱した楽曲。オーストラリアのシンガーソングライター・Siaと、ノルウェーのプロデューサーデュオ・Stargate（Tor Erik Hermansen、Mikkel Eriksen）によって書かれた。2016年1月8日に世界中でデジタルダウンロードとして先行リリースされ、サウンドトラックアルバムは2016年3月4日にウォルト・ディズニー・レコードからリリースされた。
 
@@ -39,7 +40,7 @@ order: 10
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -69,7 +70,7 @@ order: 10
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Try Everything」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -97,7 +98,7 @@ order: 10
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 2016年にリリースされたミュージックビデオは、映画『ズートピア』のシーンと、Shakiraがレコーディングスタジオで歌っている映像を組み合わせた構成になっている。
 
@@ -129,6 +130,3 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 
 
 
----
-
-2025-12-30

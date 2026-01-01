@@ -4,6 +4,7 @@ song: "Thinking Out Loud"
 artist: "Ed Sheeran"
 date: "2025-12-30"
 order: 11
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 11
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Thinking Out Loud」は、Ed Sheeranの2枚目のスタジオアルバム『×（Multiply）』（2014年6月23日リリース）からの3枚目のシングルとして、2014年8月8日（米国）にリリースされた楽曲。2014年2月4日の深夜2時に、わずか20分で書き上げられたという。歌詞の内容は「永遠の愛」についての会話から生まれた。
 
@@ -37,7 +38,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -99,7 +100,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Thinking Out Loud」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -125,7 +126,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 2014年10月7日に公開されたミュージックビデオは、公開から24時間で270万回再生を記録し、2025年9月時点で39億回再生という驚異的な数字を達成している（YouTube史上28番目に再生されている動画）。
 
@@ -178,6 +179,3 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
----
-
-2025-12-30

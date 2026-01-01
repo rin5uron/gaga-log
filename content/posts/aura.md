@@ -24,7 +24,7 @@ type: "song"
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Aura」は、Lady Gagaの3枚目のスタジオアルバム『ARTPOP』（2013年11月6日リリース）のオープニングトラック。元々は「Burqa」というタイトルでリリース前にガガ自身がオンラインコミュニティ「littlemonster.com」にユーザー名「BorisIsHere」で流出させたことでも話題になった。
 
@@ -200,6 +200,3 @@ Dance, Sex, Art, Pop, Tech——すべてが混ざり合って、一人の人間
 
 
 
----
-
-2025-12-30

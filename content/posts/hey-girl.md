@@ -25,7 +25,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 2016年にリリース、アルバム「Joanne」の収録曲。フローレンス・ウェルチ（Florence + The Machine）との共演曲で、女性同士の連帯と支え合いをテーマにしている。
 
@@ -42,7 +42,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 サビの「Hey girl」が印象的な曲。何度も呼びかけるように繰り返される「Hey girl」——
 
@@ -60,7 +60,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。
 
@@ -84,7 +84,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Hey Girl」のミュージックビデオでは、ガガとフローレンス・ウェルチが登場する。
 

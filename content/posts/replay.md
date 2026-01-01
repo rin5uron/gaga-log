@@ -24,7 +24,7 @@ type: "song"
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 2020年5月29日リリースのアルバム「Chromatica」収録曲。Diana Rossの「It's My House」をサンプリングしたディープハウスナンバー。ライブの定番曲で、現在のガガが表現された曲だと言われている。
 
@@ -38,7 +38,7 @@ Netflixのドキュメンタリー「Gaga: Five Foot Two」を見て、ガガの
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 > replay
 
@@ -58,7 +58,7 @@ Netflixのドキュメンタリー「Gaga: Five Foot Two」を見て、ガガの
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 > On replay
 
@@ -76,7 +76,7 @@ Netflixのドキュメンタリー「Gaga: Five Foot Two」を見て、ガガの
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Replay」には公式のスタンドアロンミュージックビデオは制作されなかったが、この曲のテーマは他のChromaticaの楽曲のビジュアルに影響を与えている。
 

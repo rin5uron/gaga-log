@@ -2,12 +2,9 @@
 title: "曲タイトル"
 song: "曲タイトル"
 artist: "アーティスト名"
-album: "アルバム名"
-year: "YYYY"
 date: "YYYY-MM-DD"
 order: 1
 type: "song"
-relatedPosts: []
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -72,7 +69,3 @@ MVの説明や印象的なシーンについて書きます。
 この曲から感じたこと、学んだことを書きます。
 
 
-
----
-
-YYYY-MM-DD

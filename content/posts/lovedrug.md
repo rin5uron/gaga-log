@@ -4,6 +4,7 @@ song: "LoveDrug"
 artist: "Lady Gaga"
 date: "2025-12-30"
 order: 9
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 9
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「LoveDrug」は、Lady Gagaの7枚目のスタジオアルバム『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
 
@@ -53,7 +54,7 @@ Lovedrug は、
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -87,7 +88,7 @@ Lovedrug は、
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「LoveDrug」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -157,6 +158,3 @@ Lovedrug は、
 
 
 
----
-
-2025-12-30

@@ -23,7 +23,7 @@ relatedPosts: ["hey-girl", "joanne"]
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Telephone」は、2009年リリースのアルバム「The Fame Monster」からのシングル。ビヨンセをフィーチャリングに迎えた、ガガの代表曲の一つ。
 
@@ -39,7 +39,7 @@ MVは2部作構成で、前作「Paparazzi」の続編となっている。監�
 
 ---
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Telephone」のミュージックビデオは、約9分30秒にも及ぶ映画的な作品。
 

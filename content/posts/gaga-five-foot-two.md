@@ -15,7 +15,7 @@ relatedPosts: ["joanne"]
 
 
 
-## この作品について
+## About <span class="section-subtitle">この作品について</span>
 
 『Gaga: Five Foot Two』は、2017年にNetflixで配信されたドキュメンタリー。監督はクリス・モーカーベル。レディー・ガガがアルバム『Joanne』の制作期から2017年2月のスーパーボウル・ハーフタイムショー本番までの約8ヶ月間を追った作品。
 
@@ -31,7 +31,7 @@ relatedPosts: ["joanne"]
 
 
 
-## ここだけは見てほしい！
+## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
 
 ### アーティストとしての姿勢
 
@@ -71,7 +71,7 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 
 
 
-## この作品の私の感想
+## Thoughts <span class="section-subtitle">この作品の私の感想</span>
 
 こんな大舞台を前にしても、全力で、楽しそうにしているガガを見ていたら、仕事でちょっとしたことでへこんだりイライラする自分に情けなくなる。
 
@@ -81,7 +81,7 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 
 
 
-## 今の私と、この作品
+## Now <span class="section-subtitle">今の私と、この作品</span>
 
 ガガは、自分を責めろとは言っていない。「もっと軽やかに向き合っていい」と教えてくれているように感じた。
 

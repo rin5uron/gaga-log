@@ -4,6 +4,7 @@ song: "Alejandro"
 artist: "Lady Gaga"
 date: "2025-12-29"
 order: 2
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -22,7 +23,7 @@ order: 2
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。ABBAやAce of Baseといったポップミュージックの要素を取り入れながら、ガガ独自のダークでドラマティックな世界観を作り上げている。
 
@@ -36,7 +37,7 @@ order: 2
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -60,7 +61,7 @@ order: 2
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Alejandro」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -86,7 +87,7 @@ order: 2
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 2010年6月に公開されたミュージックビデオは、公開当時から大きな話題を呼んだ。
 
@@ -116,6 +117,3 @@ order: 2
 
 
 
----
-
-2025-12-29

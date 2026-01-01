@@ -4,6 +4,7 @@ song: "Judas"
 artist: "Lady Gaga"
 date: "2025-12-30"
 order: 8
+type: "song"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -23,7 +24,7 @@ order: 8
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Judas」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）からの2枚目のシングルとして、2011年4月15日にリリースされた楽曲。Lady GagaとRedOneによって書かれ、プロデュースされた。2010年にパリのStudio Gangで録音された。
 
@@ -39,7 +40,7 @@ order: 8
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -67,7 +68,7 @@ order: 8
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 「Judas」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -94,7 +95,7 @@ order: 8
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 2011年5月5日に公開されたミュージックビデオは、公開当時から大きな論争を呼んだ。
 
@@ -130,6 +131,3 @@ order: 8
 
 
 
----
-
-2025-12-29
