@@ -53,7 +53,7 @@ export default function PostList({ posts, artists }: PostListProps) {
           <p className="text-gray-500">まだ記事がありません。</p>
         ) : (
           filteredPosts.map((post) => (
-            <article key={post.slug} className="border-b border-gray-200 pb-8">
+            <article key={post.slug} className="pb-6 mb-6 border-b border-gray-200 last:border-b-0 last:pb-0 last:mb-0">
               <Link
                 href={`/posts/${post.slug}`}
                 className="block hover:opacity-70 transition-opacity"

@@ -2,6 +2,8 @@
 title: "曲タイトル"
 song: "曲タイトル"
 artist: "アーティスト名"
+album: "アルバム名"
+year: "YYYY"
 date: "YYYY-MM-DD"
 order: 1
 type: "song"
@@ -21,39 +23,35 @@ relatedPosts: []
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
+
+
+## About <span class="section-subtitle">この曲について</span>
+
+曲の基本情報や背景を記載します。（客観的情報）
+
+---
+
+曲の印象や第一印象について書きます。（主観的情報）
+
 ---
 
 
 
-## この曲について
-
-曲の基本情報や背景を記載します。
-
----
-
-曲の印象や第一印象について書きます。
-
----
-
-
-
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-### ポイント1のタイトル
+### （サブタイトル - 任意）
 
-ポイント1の説明
-
-### ポイント2のタイトル
-
-ポイント2の説明
+内容を書く
 
 ---
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+
+> 引用したいフレーズ
 
 この曲で覚えておくと、曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -61,7 +59,7 @@ relatedPosts: []
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 MVの説明や印象的なシーンについて書きます。
 
@@ -69,7 +67,7 @@ MVの説明や印象的なシーンについて書きます。
 
 
 
-## この曲が教えてくれたこと
+## （任意のタイトル）
 
 この曲から感じたこと、学んだことを書きます。
 

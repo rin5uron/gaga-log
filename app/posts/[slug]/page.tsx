@@ -22,12 +22,12 @@ function extractYouTubeEmbed(content: string): {
   contentWithoutYouTube: string;
 } {
   // より柔軟な正規表現：改行や属性の順序に対応
-  const iframeRegex = /<iframe[\s\S]*?src=["']https:\/\/www\.youtube\.com\/embed\/[^"']*["'][\s\S]*?<\/iframe>/i;
+  const iframeRegex = /<iframe[\s\S]*?src=["']https:\/\/www\.youtube\.com\/embed\/[^"']*["'][\s\S]*?<\/iframe>/gi;
   const match = content.match(iframeRegex);
 
-  if (match) {
+  if (match && match.length > 0) {
     const youtubeEmbed = match[0];
-    const contentWithoutYouTube = content.replace(iframeRegex, "").trim();
+    const contentWithoutYouTube = content.replace(youtubeEmbed, "").trim();
     return { youtubeEmbed, contentWithoutYouTube };
   }
 
@@ -86,17 +86,25 @@ export default async function PostPage({
 
   const allPosts = getAllPosts();
 
-  // YouTube埋め込みを抽出
+  // YouTube埋め込みとストリーミングリンクを抽出
   const { youtubeEmbed, contentWithoutYouTube } = extractYouTubeEmbed(
     post.content
   );
 
+  // ストリーミングリンクを抽出
+  const streamingLinksRegex = /<!-- 🎧 ストリーミングで聴く -->[\s\S]*?(?=\n\n|##|$)/;
+  const streamingMatch = contentWithoutYouTube.match(streamingLinksRegex);
+  const streamingLinks = streamingMatch ? streamingMatch[0] : null;
+  const contentWithoutStreaming = streamingLinks
+    ? contentWithoutYouTube.replace(streamingLinks, "").trim()
+    : contentWithoutYouTube;
+
   let contentHtml = "";
   try {
-    console.log("Processing markdown, content length:", contentWithoutYouTube.length);
+    console.log("Processing markdown, content length:", contentWithoutStreaming.length);
     const processedContent = await remark()
       .use(remarkHtml, { sanitize: false })
-      .process(contentWithoutYouTube);
+      .process(contentWithoutStreaming);
     contentHtml = processedContent.toString();
 
     // 本文中の曲名・アーティスト名・アルバム名をリンク化
@@ -106,7 +114,7 @@ export default async function PostPage({
   } catch (error) {
     console.error("Error processing markdown:", error);
     // フォールバック: プレーンテキストとして表示
-    contentHtml = contentWithoutYouTube
+    contentHtml = contentWithoutStreaming
       .split("\n")
       .map((line) => `<p>${line}</p>`)
       .join("\n");
@@ -117,71 +125,62 @@ export default async function PostPage({
       <main className="max-w-7xl mx-auto px-4 pt-6 pb-12">
         <Link
           href="/"
-          className="text-gray-600 hover:text-gray-900 mb-8 inline-block"
+          className="text-gray-600 hover:text-gray-900 mb-4 inline-block"
         >
           ← 一覧に戻る
         </Link>
 
-        <div className="lg:grid lg:grid-cols-[1fr_400px] lg:gap-8">
-          {/* メインコンテンツ */}
-          <article className="prose prose-lg max-w-none">
-            <header className="mb-8 not-prose">
-              <h1 className="text-5xl font-bold mb-4 leading-tight">
-                {post.title}
-              </h1>
+        <article className="prose prose-lg max-w-none">
+          <header className="mb-6 not-prose">
+            <h1 className="text-5xl font-bold mb-3 leading-tight">
+              {post.title}
+            </h1>
 
-              {/* 基本情報を箇条書きで表示 */}
-              <div className="bg-gray-50 p-6 rounded-lg mb-6">
-                <ul className="space-y-2 text-sm text-gray-700">
-                  {post.artist && (
-                    <li>
-                      <span className="font-semibold">アーティスト：</span>
-                      <Link
-                        href={`/artists/${getArtistSlug(post.artist)}`}
-                        className="text-blue-600 hover:underline"
-                      >
-                        {post.artist}
-                      </Link>
-                    </li>
-                  )}
-                  {post.album && (
-                    <li>
-                      <span className="font-semibold">アルバム：</span>
-                      {post.album}
-                    </li>
-                  )}
-                  {post.year && (
-                    <li>
-                      <span className="font-semibold">制作年：</span>
-                      {post.year}
-                    </li>
-                  )}
-                  {post.date && (
-                    <li>
-                      <span className="font-semibold">公開日：</span>
-                      {post.date}
-                    </li>
-                  )}
-                </ul>
-              </div>
-            </header>
-
-            <div
-              className="prose prose-lg max-w-none post-content"
-              dangerouslySetInnerHTML={{ __html: contentHtml }}
-            />
-          </article>
-
-          {/* YouTube固定表示 */}
-          {youtubeEmbed && (
-            <aside className="lg:sticky lg:top-6 lg:self-start mt-8 lg:mt-0">
+            {/* YouTube埋め込み */}
+            {youtubeEmbed && (
               <div
-                className="youtube-embed-wrapper"
+                className="youtube-embed-wrapper mb-3 max-w-2xl"
                 dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
               />
-            </aside>
-          )}
-        </div>
+            )}
+
+            {/* アーティスト情報 */}
+            <div className="text-sm text-gray-600 mb-2 max-w-2xl">
+              {post.artist && (
+                <>
+                  <span className="font-semibold">Artist: </span>
+                  <Link
+                    href={`/artists/${getArtistSlug(post.artist)}`}
+                    className="text-blue-600 hover:underline"
+                  >
+                    {post.artist}
+                  </Link>
+                </>
+              )}
+              {post.album && (
+                <>
+                  <span className="mx-2">|</span>
+                  <span className="font-semibold">Album: </span>
+                  <span>{post.album}</span>
+                  {post.year && <span> ({post.year})</span>}
+                </>
+              )}
+            </div>
+
+            {/* ストリーミングリンク */}
+            {streamingLinks && (
+              <div
+                className="streaming-links mb-4 max-w-2xl flex gap-3"
+                dangerouslySetInnerHTML={{ __html: streamingLinks }}
+              />
+            )}
+          </header>
+
+          <div
+            className="prose prose-lg max-w-none post-content"
+            dangerouslySetInnerHTML={{ __html: contentHtml }}
+          />
+        </article>
 
         <RelatedPosts currentPost={post} allPosts={allPosts} />
       </main>

@@ -24,15 +24,19 @@ body {
 }
 
 .prose h1 {
-  @apply text-3xl font-bold mt-8 mb-4;
+  @apply text-5xl font-bold mt-8 mb-4;
 }
 
 .prose h2 {
-  @apply text-2xl font-semibold mt-12 mb-3;
+  @apply text-2xl font-bold mb-4;
+  letter-spacing: -0.01em;
+  margin-top: 0;
 }
 
 .prose h3 {
-  @apply text-xl font-semibold mt-4 mb-2;
+  @apply text-lg font-semibold mb-3;
+  color: #374151;
+  margin-top: 3rem;
 }
 
 .prose p {
@@ -40,12 +44,20 @@ body {
 }
 
 .prose blockquote {
-  @apply border-l-8 border-gray-400 bg-gray-100 px-6 py-4 my-6 text-gray-900;
+  border-left: 8px solid #9ca3af;
+  background-color: #f3f4f6;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  color: #111827;
   font-size: 1.25rem;
   font-weight: 600;
-  line-height: 1.6;
+  line-height: 1.4;
   font-style: normal;
   border-radius: 0 8px 8px 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
 }
 
 .prose ul,
@@ -62,7 +74,7 @@ body {
 }
 
 .prose hr {
-  @apply mt-24 mb-12 border-gray-200 border-t;
+  display: none;
 }
 
 .prose code {
@@ -89,7 +101,11 @@ body {
   @apply mt-0 mb-8;
 }
 
-/* YouTube固定表示 */
+/* YouTube埋め込み */
+.youtube-embed-wrapper {
+  max-width: 672px;
+}
+
 .youtube-embed-wrapper iframe {
   width: 100%;
   height: auto;
@@ -97,28 +113,60 @@ body {
   border-radius: 8px;
 }
 
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+  .youtube-embed-wrapper {
+    max-width: 100%;
+  }
+
+  .post-content h2 {
+    padding-top: 3rem;
+  }
+
+  /* スマホでタイトルサイズ調整 */
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .prose h2 {
+    font-size: 1.5rem;
+  }
+
+  .prose h2 .section-subtitle {
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+
+  /* スマホで引用を軽く */
+  .prose blockquote {
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-style: italic;
+  }
+}
+
 /* セクション区切りのスタイル */
 .post-content hr {
-  border: 0;
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    #e5e7eb 20%,
-    #e5e7eb 80%,
-    transparent
-  );
-  margin: 3rem 0;
+  display: none;
 }
 
 .post-content h2 {
-  margin-top: 3rem;
-  padding-top: 2rem;
+  margin-top: 6rem;
+  padding-top: 1.5rem;
   border-top: 1px solid #e5e7eb;
 }
 
 .post-content h2:first-of-type {
-  border-top: none;
-  padding-top: 0;
+  margin-top: 4rem;
+}
+
+/* セクションサブタイトルのスタイリング */
+.prose h2 .section-subtitle {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #6b7280;
+  margin-left: 1rem;
+  letter-spacing: 0.025em;
+  vertical-align: middle;
 }
 

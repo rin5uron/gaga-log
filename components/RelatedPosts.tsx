@@ -31,7 +31,7 @@ export default function RelatedPosts({
 
   return (
     <section className="mt-12 pt-8 border-t border-gray-200">
-      <h2 className="text-2xl font-bold mb-6">関連する記事</h2>
+      <h2 className="text-2xl font-bold mb-6">関連記事</h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {allRelated.map((post) => (
           <Link

@@ -22,7 +22,7 @@ type: "song"
 
 
 
-## この曲について
+## About <span class="section-subtitle">この曲について</span>
 
 「Zoo」は、2025年12月5日公開のディズニー・アニメーション映画『ズートピア2』の劇中歌。シャキーラが、ガゼル役として歌っている。
 
@@ -40,7 +40,7 @@ type: "song"
 
 
 
-## 歌詞で押さえておきたい翻訳ポイント
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -60,7 +60,7 @@ type: "song"
 
 
 
-## 歌いたい・口ずさみたいフレーズ
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -98,7 +98,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 
 
-## MVで印象に残ったポイント
+## Music Video <span class="section-subtitle">MVの見どころ</span>
 
 「Zoo」のミュージックビデオは、2025年11月12日にDisney VEVOチャンネルでリリースされた。監督はHannah Lux Davisが担当している。
 

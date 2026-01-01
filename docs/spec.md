@@ -39,8 +39,11 @@ gaga-log/
 │   ├── icons/             # ストリーミングサービスアイコン
 │   └── images/            # 画像
 ├── docs/                  # ドキュメント
+│   ├── DESIGN.md          # デザイン設定
 │   ├── SEO-STRATEGY.md    # SEO戦略
 │   └── spec.md            # 本ファイル
+├── templates/             # テンプレート
+│   └── template-song.md   # 記事テンプレート
 └── .claude/               # Claude Code設定
     └── article-workflow.md # 記事作成ワークフロー
 
@@ -50,9 +53,11 @@ gaga-log/
 
 ### 1. 記事管理システム
 - Markdownベースの記事作成
-- フロントマターで曲情報を管理（title, artist, date, type）
+- フロントマターで曲情報を管理（title, song, artist, album, year, date, order, type, relatedPosts）
 - ストリーミングサービスへのリンク（Apple Music, Spotify）
 - YouTube動画埋め込み対応
+- **記事テンプレート**: `/templates/template-song.md`
+- **デザイン設定**: `/docs/DESIGN.md` （タイポグラフィ、余白、カラーなどの詳細設定）
 
 ### 2. 記事作成ワークフロー（AI補助）
 `.claude/article-workflow.md` に定義された6つの質問に基づいて記事を生成：
@@ -128,6 +133,28 @@ gaga-log/
 
 #### ドキュメント整備
 - `docs/spec.md` 作成（本ファイル）
+
+### 2026-01-01
+
+#### デザインシステム構築
+- `docs/DESIGN.md` 作成 - デザイン設定を一元管理
+- 記事テンプレート更新（`templates/template-song.md`）
+  - フロントマターに `album` と `year` を追加
+  - セクションタイトルを英語表記に変更（About, Lyrics, Favorite Lines, Music Video）
+  - セクションサブタイトル追加（日本語補足）
+  - h3サブタイトルと引用の使用例を追加
+
+#### レイアウト改善
+- YouTube動画を記事上部に配置（PCで控えめなサイズ、スマホで全幅）
+- アーティスト情報とストリーミングリンクのレイアウト改善
+- タイトル階層の明確化（h1: 5xl, h2: 2xl, h3: lg）
+- セクション間の余白最適化（h2: 6rem, h3: 3rem）
+- 引用デザインの改善（スマホでイタリック体、軽量表示）
+
+#### レスポンシブ対応
+- スマホでタイトルサイズ縮小（h1: 2rem, h2: 1.5rem）
+- セクションサブタイトルの改行防止
+- 引用フォントの軽量化（スマホ: 400, イタリック）
 
 ## 今後の予定
 
