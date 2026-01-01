@@ -102,5 +102,21 @@ shallow（シャロウ）は「浅い」という意味。深い海ではなく�
 
 この曲が描くのは、そんな二人の物語だ。
 
+---
+
+
+
+## 参考文献
+
+- [Shallow - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Shallow (song) - Wikipedia](https://en.wikipedia.org/wiki/Shallow_(Lady_Gaga_and_Bradley_Cooper_song))
+- [Shallow - Apple Music](https://music.apple.com/jp/search?term=Lady%20Gaga%20Bradley%20Cooper%20Shallow)
+- [Shallow - Spotify](https://open.spotify.com/search/Lady%20Gaga%20Bradley%20Cooper%20Shallow)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+- [Bradley Cooper](/artists/bradley-cooper) - Bradley Cooperの他の楽曲を探す
+
 
 

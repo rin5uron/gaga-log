@@ -198,5 +198,20 @@ Dance, Sex, Art, Pop, Tech——すべてが混ざり合って、一人の人間
 - [Behind The Aura: Ten Years Of Lady Gaga's 'ARTPOP'](https://umusic.co.nz/moments/behind-the-aura-ten-years-of-lady-gagas-artpop/) - ARTPOPアルバム10周年の振り返り記事
 - [ARTPOP (album) - Wikipedia](https://en.wikipedia.org/wiki/Joanne_(album)) - アルバム全体のコンセプトと収録曲
 
+---
+
+
+
+## 参考文献
+
+- [Aura - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Aura (Lady Gaga song) - Wikipedia](https://en.wikipedia.org/wiki/Aura_(Lady_Gaga_song))
+- [Aura - Apple Music](https://music.apple.com/jp/album/aura/1440818588?i=1440818790)
+- [Aura - Spotify](https://open.spotify.com/track/3fibIzbkYbvTmdoD5u2nPm)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+
 
 

@@ -129,5 +129,20 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 時代が変わっても、強くて孤独な女性の物語は、いつも誰かの心に響き続ける。それがこの曲の良さだ。
 
+---
+
+
+
+## 参考文献
+
+- [Bloody Mary - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Bloody Mary (song) - Wikipedia](https://en.wikipedia.org/wiki/Bloody_Mary_(Lady_Gaga_song))
+- [Bloody Mary - Apple Music](https://music.apple.com/jp/album/bloody-mary/1440818588?i=1440819036)
+- [Bloody Mary - Spotify](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+
 
 

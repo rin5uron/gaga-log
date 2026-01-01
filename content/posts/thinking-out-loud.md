@@ -177,5 +177,20 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
+---
+
+
+
+## 参考文献
+
+- [Thinking Out Loud - Ed Sheeran 公式サイト](https://www.edsheeran.com/)
+- [Thinking Out Loud - Wikipedia](https://en.wikipedia.org/wiki/Thinking_Out_Loud)
+- [Thinking Out Loud - Apple Music](https://music.apple.com/us/album/thinking-out-loud/858518077?i=858518367)
+- [Thinking Out Loud - Spotify](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH)
+
+### 関連記事
+
+- [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
+
 
 

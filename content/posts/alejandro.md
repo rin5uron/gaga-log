@@ -115,5 +115,20 @@ type: "song"
 
 「Alejandro」は、愛したい気持ちと、自分の人生を守りたい気持ちの間で揺れる、とても苦しい歌。だからこそ、この曲は強くて、美しくて、少し悲しい。
 
+---
+
+
+
+## 参考文献
+
+- [Alejandro - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Alejandro (song) - Wikipedia](https://en.wikipedia.org/wiki/Alejandro_(song))
+- [Alejandro - Apple Music](https://music.apple.com/jp/album/alejandro/1440818588?i=1440818880)
+- [Alejandro - Spotify](https://open.spotify.com/track/1a0z4N6K8zEu0aiWrtlwTe)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+
 
 

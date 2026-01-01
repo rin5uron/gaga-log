@@ -1,7 +1,7 @@
 ---
 title: "Hey Girl"
 song: "Hey Girl"
-artist: "Lady Gaga"
+artist: "Lady Gaga feat. Florence + The Machine"
 date: "2025-12-27"
 order: 4
 type: "song"
@@ -105,5 +105,21 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 ガガと一緒に、強い女を目指せる。いや、私らしくありたい。それが、この曲から受け取ったメッセージだ。
 
 「セクシーさを求められたら、それを強烈な個性持って返すわ」——この言葉は、私が今、自分のものにしたい思想だ。そして、「Just know that I got you」——この言葉は、私が誰かに伝えたい言葉でもある。
+
+---
+
+
+
+## 参考文献
+
+- [Hey Girl - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Hey Girl - Apple Music](https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl)
+- [Hey Girl - Spotify](https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl)
+
+### 関連記事
+
+- [Joanne](/posts/joanne) - 叔母へのトリビュート。
+- [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

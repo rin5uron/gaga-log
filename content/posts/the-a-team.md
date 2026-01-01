@@ -152,5 +152,20 @@ Ed Sheeranは、距離を"感情"ではなく"状態"として歌っている。
 
 明るい曲じゃないのに、心に残り続ける。それがこの曲の力だ。
 
+---
+
+
+
+## 参考文献
+
+- [The A Team - Ed Sheeran 公式サイト](https://www.edsheeran.com/)
+- [The A Team - Wikipedia](https://en.wikipedia.org/wiki/The_A_Team_(song))
+- [The A Team - Apple Music](https://music.apple.com/us/album/the-a-team/441059566?i=441059580)
+- [The A Team - Spotify](https://open.spotify.com/track/5JLLTTyZpy1n3AWzYlhGNO)
+
+### 関連記事
+
+- [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
+
 
 

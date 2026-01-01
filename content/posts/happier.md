@@ -156,5 +156,20 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 「Happier」は、別れの後に一番聴いてはいけない曲かもしれない。
 
+---
+
+
+
+## 参考文献
+
+- [Happier - Ed Sheeran 公式サイト](https://www.edsheeran.com/)
+- [Happier (song) - Wikipedia](https://en.wikipedia.org/wiki/Happier_(Ed_Sheeran_song))
+- [Happier - Apple Music](https://music.apple.com/us/album/happier/1293950392?i=1293950575)
+- [Happier - Spotify](https://open.spotify.com/track/2dpaYNEQHiPtf1uViWPJTy)
+
+### 関連記事
+
+- [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
+
 
 

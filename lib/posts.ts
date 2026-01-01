@@ -72,12 +72,28 @@ export function getAllPosts(): Post[] {
   return posts;
 }
 
+// アーティスト名を分割する関数（&, /, feat., with などで区切る）
+function splitArtists(artistString: string): string[] {
+  if (!artistString) return [];
+  
+  // &, /, feat., with, × などで分割
+  const separators = /[&/×]|feat\.|with|,/i;
+  return artistString
+    .split(separators)
+    .map((name) => name.trim())
+    .filter((name) => name.length > 0);
+}
+
 export function getAllArtists(): string[] {
   const posts = getAllPosts();
   const artists = new Set<string>();
   posts.forEach((post) => {
     if (post.artist) {
-      artists.add(post.artist);
+      // 個別のアーティスト名を抽出
+      const individualArtists = splitArtists(post.artist);
+      individualArtists.forEach((artist) => {
+        artists.add(artist);
+      });
     }
   });
   return Array.from(artists).sort();
@@ -85,7 +101,16 @@ export function getAllArtists(): string[] {
 
 export function getPostsByArtist(artist: string): Post[] {
   const posts = getAllPosts();
-  return posts.filter((post) => post.artist === artist);
+  return posts.filter((post) => {
+    if (!post.artist) return false;
+    
+    // 完全一致の場合
+    if (post.artist === artist) return true;
+    
+    // 複数アーティストが含まれている場合、いずれかが一致するかチェック
+    const individualArtists = splitArtists(post.artist);
+    return individualArtists.some((a) => a === artist);
+  });
 }
 
 export { getArtistSlug } from "./utils";

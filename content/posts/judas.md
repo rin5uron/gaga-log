@@ -129,5 +129,20 @@ type: "song"
 
 大人になればなるほど、この曲が響く理由がわかる。それがこの曲の良さだ。
 
+---
+
+
+
+## 参考文献
+
+- [Judas - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Judas (song) - Wikipedia](https://en.wikipedia.org/wiki/Judas_(Lady_Gaga_song))
+- [Judas - Apple Music](https://music.apple.com/jp/album/judas/1440818588?i=1440819036)
+- [Judas - Spotify](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+
 
 

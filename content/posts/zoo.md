@@ -126,6 +126,20 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 今の私は、そんな自由な場所を求めている。そして、この曲はそれを与えてくれる。
 
+---
 
+
+
+## 参考文献
+
+- [Zoo - Shakira 公式サイト](https://www.shakira.com/)
+- [Zoo (song) - Wikipedia](https://en.wikipedia.org/wiki/Zoo_(Shakira_song))
+- [Zoo - Apple Music](https://music.apple.com/jp/album/zoo-from-zootopia-2-single/1783759649)
+- [Zoo - Spotify](https://open.spotify.com/intl-ja/track/7o9qVPLe7MI7XhdAS1PkrN)
+
+### 関連記事
+
+- [Try Everything](/posts/try-everything) - ズートピアの主題歌。
+- [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す
 
 

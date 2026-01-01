@@ -102,4 +102,18 @@ Diana Rossの「It's My House」のサンプリングを使ったフレンチハ
 
 ガガと人生の中で繋がれていること。ガガを通して、私の人生や価値観が積み上げられていること。この曲を聴いて、そんな気持ちになっている。
 
+---
+
+
+
+## 参考文献
+
+- [Replay - Lady Gaga 公式サイト](https://www.ladygaga.com/)
+- [Replay - Apple Music](https://music.apple.com/jp/search?term=Lady%20Gaga%20Replay%20Chromatica)
+- [Replay - Spotify](https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd)
+
+### 関連記事
+
+- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+
 
