@@ -34,7 +34,11 @@ function extractYouTubeEmbed(content: string): {
   return { youtubeEmbed: null, contentWithoutYouTube: content };
 }
 
-function linkifyContent(html: string, allPosts: ReturnType<typeof getAllPosts>): string {
+function linkifyContent(
+  html: string,
+  allPosts: ReturnType<typeof getAllPosts>,
+  currentSlug: string
+): string {
   let result = html;
 
   // アーティスト名をリンク化
@@ -47,9 +51,9 @@ function linkifyContent(html: string, allPosts: ReturnType<typeof getAllPosts>):
     );
   });
 
-  // 曲名をリンク化
+  // 曲名をリンク化（現在のページは除外）
   allPosts.forEach((post) => {
-    if (post.song) {
+    if (post.song && post.slug !== currentSlug) {
       const regex = new RegExp(`(?<!<[^>]*)(${post.song})(?![^<]*>)`, "g");
       result = result.replace(
         regex,
@@ -58,9 +62,9 @@ function linkifyContent(html: string, allPosts: ReturnType<typeof getAllPosts>):
     }
   });
 
-  // アルバム名をリンク化（同じアルバムの他の投稿があれば）
+  // アルバム名をリンク化（現在のページは除外）
   allPosts.forEach((post) => {
-    if (post.album) {
+    if (post.album && post.slug !== currentSlug) {
       const regex = new RegExp(`(?<!<[^>]*)(${post.album})(?![^<]*>)`, "g");
       result = result.replace(
         regex,
@@ -107,8 +111,8 @@ export default async function PostPage({
       .process(contentWithoutStreaming);
     contentHtml = processedContent.toString();
 
-    // 本文中の曲名・アーティスト名・アルバム名をリンク化
-    contentHtml = linkifyContent(contentHtml, allPosts);
+    // 本文中の曲名・アーティスト名・アルバム名をリンク化（現在のページは除外）
+    contentHtml = linkifyContent(contentHtml, allPosts, slug);
 
     console.log("HTML generated, length:", contentHtml.length);
   } catch (error) {
