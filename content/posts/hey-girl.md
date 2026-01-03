@@ -27,7 +27,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 ## About <span class="section-subtitle">この曲について</span>
 
-[2016年にリリース](https://en.wikipedia.org/wiki/Hey_Girl_(Lady_Gaga_song))されたアルバム「Joanne」の収録曲。フローレンス・ウェルチ（Florence + The Machine）との共演曲で、女性同士の連帯と支え合いをテーマにしている。
+[2016年10月21日にリリース](https://www.billboard.com/music/pop/lady-gaga-joanne-new-album-release-date-collaborators-7511048/)されたアルバム「Joanne」の収録曲。フローレンス・ウェルチ（Florence + The Machine）との共演曲で、女性同士の連帯と支え合いをテーマにしている。
 
 ---
 
@@ -90,7 +90,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 この曲は、女性同士の連帯と支え合いをテーマにしているため、MVでも二人の強い絆が視覚的に表現されている。
 
-ガガとフローレンスの共演は、お互いを支え合う女性の力強さを象徴している。[Mark Ronsonがプロデュース](https://www.billboard.com/music/pop/lady-gaga-joanne-album-florence-welch-hey-girl-7511076/)したこのデュエット曲は、フローレンスが曲全体に渡ってガガとハーモニーを重ね、真のデュエットとして成立している。
+ガガとフローレンスの共演は、お互いを支え合う女性の力強さを象徴している。[Mark Ronsonがプロデュース](https://www.rollingstone.com/music/music-features/lady-gagas-joanne-mark-ronson-on-producing-raw-and-exposed-new-album-117176/)したこのデュエット曲は、フローレンスが曲全体に渡ってガガとハーモニーを重ね、真のデュエットとして成立している。
 
 競い合うのではなく、お互いを高め合う——そんな女性同士の関係性が、MVからも伝わってくる。
 
@@ -114,7 +114,6 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 ## 関連記事
 
-- **Hey Girl** - フローレンス・ウェルチとの共演。
 - [Joanne](/posts/joanne) - 叔母へのトリビュート。
 - [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す

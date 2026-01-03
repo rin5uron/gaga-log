@@ -149,12 +149,30 @@ export default async function PostPage({
               {post.artist && (
                 <>
                   <span className="font-semibold">Artist: </span>
-                  <Link
-                    href={`/artists/${getArtistSlug(post.artist)}`}
-                    className="text-blue-600 hover:underline"
-                  >
-                    {post.artist}
-                  </Link>
+                  {(() => {
+                    // アーティスト名を分割してリンク化
+                    const parts = post.artist.split(/(\s+&\s+|\s+feat\.\s+|\s+featuring\s+)/i);
+                    const mainArtist = parts[0]; // 最初のアーティスト
+
+                    return (
+                      <>
+                        <Link
+                          href={`/artists/${getArtistSlug(mainArtist)}`}
+                          className="text-blue-600 hover:underline"
+                        >
+                          {mainArtist}
+                        </Link>
+                        {parts.slice(1).map((part, index) => {
+                          // feat. や & はリンクなしで表示
+                          if (part.match(/\s+&\s+|\s+feat\.\s+|\s+featuring\s+/i)) {
+                            return <span key={index}>{part}</span>;
+                          }
+                          // それ以外は通常テキスト（リンクなし）
+                          return <span key={index}>{part}</span>;
+                        })}
+                      </>
+                    );
+                  })()}
                 </>
               )}
               {post.album && (

@@ -131,6 +131,7 @@ relatedPosts: ["joanne"]
 - [フェーズ管理](./docs/PHASES.md) - プロジェクトの進行状況と計画
 - [SEO戦略](./docs/SEO-STRATEGY.md) - AdSense収益化に向けたSEO対策と方針
 - [記事作成ワークフロー](./.claude/article-workflow.md) - AI補助による記事作成の完全手順書
+- [参考文献・情報源のガイドライン](./templates/REFERENCE-GUIDELINES.md) - 信頼できる情報源の優先順位とリンクの埋め込み方
 
 ## 目標
 
