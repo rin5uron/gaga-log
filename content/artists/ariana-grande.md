@@ -64,8 +64,8 @@ type: "artist"
 
 このブログで紹介している曲：
 
-- **[Rain on Me](/posts/rain-on-me)** - Lady Gagaとのコラボ。痛みを受け入れながら前に進む、力強いメッセージ。
-- **[Thank U, Next](/posts/thank-u-next)** - 過去の恋愛経験を前向きに捉えた曲。自己受容と前進のメッセージ。
+- **Rain on Me** - [Lady Gaga](/artists/lady-gaga)とのコラボ。痛みを受け入れながら前に進む、力強いメッセージ。
+- **Thank U, Next** - 過去の恋愛経験を前向きに捉えた曲。自己受容と前進のメッセージ。
 
 ---
 

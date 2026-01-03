@@ -168,6 +168,7 @@ Lovedrug は、
 
 ### 関連記事
 
+- **LoveDrug** - 愛を依存として描いた曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

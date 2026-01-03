@@ -142,6 +142,7 @@ type: "song"
 
 ### 関連記事
 
+- **Judas** - 裏切り者への抗えない愛を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

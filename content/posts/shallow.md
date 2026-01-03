@@ -115,6 +115,7 @@ shallow（シャロウ）は「浅い」という意味。深い海ではなく�
 
 ### 関連記事
 
+- **Shallow** - [Bradley Cooper](/artists/bradley-cooper)とのデュエット。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 - [Bradley Cooper](/artists/bradley-cooper) - Bradley Cooperの他の楽曲を探す
 

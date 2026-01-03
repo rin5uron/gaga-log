@@ -114,6 +114,7 @@ Diana Rossの「It's My House」のサンプリングを使ったフレンチハ
 
 ### 関連記事
 
+- **Replay** - PTSDとトラウマの繰り返しを描いた曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

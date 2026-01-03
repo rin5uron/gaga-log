@@ -128,6 +128,7 @@ type: "song"
 
 ### 関連記事
 
+- **Alejandro** - 恋愛そのものに対する恐怖や距離感を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

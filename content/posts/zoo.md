@@ -139,6 +139,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 ### 関連記事
 
+- **Zoo** - ズートピア2の劇中歌。
 - [Try Everything](/posts/try-everything) - ズートピアの主題歌。
 - [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す
 

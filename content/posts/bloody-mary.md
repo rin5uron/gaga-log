@@ -142,6 +142,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 ### 関連記事
 
+- **Bloody Mary** - マグダラのマリアの視点から歌った、ダークで呪術的な曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 
 

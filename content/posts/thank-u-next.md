@@ -152,7 +152,8 @@ MVの冒頭では、アリアナが過去の恋愛経験を振り返るシーン
 
 ### 関連記事
 
-- [Rain on Me](/posts/rain-on-me) - Lady Gagaとのコラボレーション。
+- **Thank U, Next** - 過去の恋愛経験を前向きに捉えた曲。
+- [Rain on Me](/posts/rain-on-me) - [Lady Gaga](/artists/lady-gaga)とのコラボレーション。
 - [Ariana Grande](/artists/ariana-grande) - Ariana Grandeの他の楽曲を探す
 
 

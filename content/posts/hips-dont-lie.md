@@ -151,6 +151,7 @@ MVの冒頭では、シャキーラがダンスを踊るシーンから始まる
 
 ### 関連記事
 
+- **Hips Don't Lie** - 全米1位を獲得した代表曲。
 - [Try Everything](/posts/try-everything) - ズートピアの主題歌。
 - [Zoo](/posts/zoo) - ズートピア2の劇中歌。
 - [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す

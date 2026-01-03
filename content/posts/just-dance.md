@@ -147,6 +147,7 @@ MVの冒頭では、ガガがパーティー会場に到着するシーンから
 
 ### 関連記事
 
+- **Just Dance** - デビュー曲。考えすぎないこと、ただ楽しむことを歌った曲。
 - [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 

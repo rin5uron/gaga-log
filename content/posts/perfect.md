@@ -152,6 +152,7 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 
 ### 関連記事
 
+- **Perfect** - 妻への愛を歌った結婚式の定番曲。
 - [Thinking Out Loud](/posts/thinking-out-loud) - 永遠の愛を誓うロマンティックなバラード。
 - [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
 

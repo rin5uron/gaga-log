@@ -118,6 +118,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 ### 関連記事
 
+- **Hey Girl** - フローレンス・ウェルチとの共演。
 - [Joanne](/posts/joanne) - 叔母へのトリビュート。
 - [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す

@@ -165,6 +165,7 @@ Ed Sheeranは、距離を"感情"ではなく"状態"として歌っている。
 
 ### 関連記事
 
+- **The A Team** - ホームレスの女性を描いた社会派ソング。
 - [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
 
 

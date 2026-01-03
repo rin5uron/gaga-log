@@ -10,27 +10,27 @@ export default function About() {
           <section className="flex flex-col md:flex-row gap-8 items-center md:items-start">
             <div className="flex-shrink-0">
               <Image
-                src="/images/profile.png"
-                alt="運営者"
-                width={160}
-                height={160}
-                className="rounded-full"
+                src="/images/logo-studdio-jinsei.png"
+                alt="STUDIO Jinsei"
+                width={200}
+                height={200}
+                className="object-contain"
               />
             </div>
             <div className="flex-1">
               <p className="text-gray-600 text-sm mb-2">運営</p>
-              <p className="text-xl font-semibold mb-6">Studio Jinsei</p>
+              <p className="text-xl font-semibold mb-6">STUDIO Jinsei（個人事業）</p>
 
               <div className="space-y-2">
                 <p className="text-gray-700">
                   <span className="text-gray-500 text-sm">サイトURL：</span>
                   <a
-                    href="https://gaga-log.vercel.app/"
+                    href="https://sound-feels.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:underline ml-2"
                   >
-                    https://gaga-log.vercel.app/
+                    https://sound-feels.com/
                   </a>
                 </p>
                 <p className="text-gray-700">
@@ -51,6 +51,13 @@ export default function About() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">サイトについて</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
+              音を慈しむ。声を愛する。
+            </p>
+            <p className="text-gray-700 leading-relaxed mb-4">
+              歌を知ること、アーティストを知ること、その人と良い距離でいること——
+              それが、心地よく愛するための方法だと思っています。
+            </p>
+            <p className="text-gray-700 leading-relaxed mb-4">
               このサイトは、歌詞の意味を解説するのではなく、
               <strong>「なぜその言葉に惹かれたのか」を記録する</strong>場所です。
             </p>
@@ -60,7 +67,7 @@ export default function About() {
               結果として、同じ温度の人が読む。
             </p>
             <p className="text-gray-700 leading-relaxed">
-              そんなアーカイブを目指しています。
+              愛しさを追求するために、残す。
             </p>
           </section>
 

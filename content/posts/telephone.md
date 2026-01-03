@@ -114,6 +114,7 @@ MVでも、2人の個性がぶつかり合いながら調和している。ガ�
 
 ### 関連記事
 
+- **Telephone** - ビヨンセとのコラボ。
 - [Hey Girl](/posts/hey-girl) - フローレンス・ウェルチとの共演。
 - [Joanne](/posts/joanne) - 叔母へのトリビュート。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す

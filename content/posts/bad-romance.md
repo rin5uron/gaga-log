@@ -155,6 +155,7 @@ MVの冒頭では、ガガが白い部屋で目を覚ますシーンから始ま
 
 ### 関連記事
 
+- **Bad Romance** - 恋に壊れる瞬間を歌った曲。
 - [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 

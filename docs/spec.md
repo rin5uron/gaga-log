@@ -43,6 +43,8 @@ gaga-log/
 │   ├── SEO-STRATEGY.md    # SEO戦略
 │   ├── ARTIST-STRATEGY.md # アーティストページ戦略
 │   ├── ADSENSE-STRATEGY.md # AdSense申請戦略
+│   ├── CONTENT-RULES.md   # コンテンツ作成ルール
+│   ├── ALBUM-COVER-STRATEGY.md # アルバムジャケット画像戦略
 │   └── spec.md            # 本ファイル
 ├── templates/             # テンプレート
 │   └── template-song.md   # 記事テンプレート
@@ -62,6 +64,7 @@ gaga-log/
 - **アーティストページテンプレート**: `/templates/template-artist.md`
 - **デザイン設定**: `/docs/DESIGN.md` （タイポグラフィ、余白、カラーなどの詳細設定）
 - **アーティストページ戦略**: `/docs/ARTIST-STRATEGY.md` （著作権、情報ソース、構成など）
+- **コンテンツ作成ルール**: `/docs/CONTENT-RULES.md` （リンク、アーティスト名表記、セクションの文量など）
 
 ### 2. 記事作成ワークフロー（AI補助）
 `.claude/article-workflow.md` に定義された6つの質問に基づいて記事を生成：

@@ -49,6 +49,14 @@ type: "artist"
 
 ---
 
+## 私のお気に入り曲・作品
+
+このブログで紹介している曲：
+
+- **Shallow** - [Lady Gaga](/artists/lady-gaga)とのデュエット。二人の声が交わる瞬間が、運命的な関係を描いている。
+
+---
+
 
 
 ## Notes <span class="section-subtitle">その他</span>

@@ -196,6 +196,7 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 
 ### 関連記事
 
+- **Joanne** - 叔母へのトリビュート。
 - [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 

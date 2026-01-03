@@ -136,6 +136,7 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 
 ### 関連記事
 
+- **Rain on Me** - [Ariana Grande](/artists/ariana-grande)とのコラボ。
 - [Telephone](/posts/telephone) - ビヨンセとのコラボレーション。
 - [Hey Girl](/posts/hey-girl) - フローレンス・ウェルチとの共演。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す

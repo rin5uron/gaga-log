@@ -41,6 +41,14 @@ type: "artist"
 
 ---
 
+## 私のお気に入り曲・作品
+
+このブログで紹介している作品：
+
+- **Gaga: Five Foot Two** - [Lady Gaga](/artists/lady-gaga)の制作過程を追ったドキュメンタリー。完成されたスターというより、一人の人間としての姿を捉えている。
+
+---
+
 
 
 ## Notes <span class="section-subtitle">その他</span>

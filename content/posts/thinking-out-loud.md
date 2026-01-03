@@ -190,6 +190,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 ### 関連記事
 
+- **Thinking Out Loud** - 永遠の愛を誓うロマンティックなバラード。
 - [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
 
 

@@ -141,6 +141,7 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 
 ### 関連記事
 
+- **Try Everything** - ズートピアの主題歌。
 - [Zoo](/posts/zoo) - ズートピア2の劇中歌。
 - [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す
 

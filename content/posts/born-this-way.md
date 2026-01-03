@@ -157,6 +157,7 @@ MVの冒頭では、ガガが「新しい種族」の創造を宣言するシー
 
 ### 関連記事
 
+- **Born This Way** - それでも私は私、という瞬間を歌った曲。
 - [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
 

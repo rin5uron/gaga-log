@@ -150,6 +150,7 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 
 ### 関連記事
 
+- **Poker Face** - 仮面を被る瞬間を歌った曲。
 - [Bad Romance](/posts/bad-romance) - 恋に壊れる瞬間を歌った曲。
 - [Born This Way](/posts/born-this-way) - それでも私は私、という瞬間を歌った曲。
 - [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
