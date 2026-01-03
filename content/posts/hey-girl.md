@@ -116,6 +116,6 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 - [Joanne](/posts/joanne) - 叔母へのトリビュート。
 - [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
+- Lady Gagaの[他の楽曲を探す](/artists/lady-gaga)
 
 

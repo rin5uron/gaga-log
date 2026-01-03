@@ -152,22 +152,41 @@ export default async function PostPage({
                   {(() => {
                     // アーティスト名を分割してリンク化
                     const parts = post.artist.split(/(\s+&\s+|\s+feat\.\s+|\s+featuring\s+)/i);
-                    const mainArtist = parts[0]; // 最初のアーティスト
+                    const allArtists = getAllArtists();
 
                     return (
                       <>
-                        <Link
-                          href={`/artists/${getArtistSlug(mainArtist)}`}
-                          className="text-blue-600 hover:underline"
-                        >
-                          {mainArtist}
-                        </Link>
-                        {parts.slice(1).map((part, index) => {
+                        {parts.map((part, index) => {
                           // feat. や & はリンクなしで表示
                           if (part.match(/\s+&\s+|\s+feat\.\s+|\s+featuring\s+/i)) {
                             return <span key={index}>{part}</span>;
                           }
-                          // それ以外は通常テキスト（リンクなし）
+
+                          // 空白はスキップ
+                          const trimmedPart = part.trim();
+                          if (!trimmedPart) {
+                            return <span key={index}>{part}</span>;
+                          }
+
+                          // アーティスト名の場合、リンクを付ける
+                          // アーティストページが存在するかチェック
+                          const artistExists = allArtists.some(
+                            (artist) => artist.toLowerCase() === trimmedPart.toLowerCase()
+                          );
+
+                          if (artistExists) {
+                            return (
+                              <Link
+                                key={index}
+                                href={`/artists/${getArtistSlug(trimmedPart)}`}
+                                className="text-blue-600 hover:underline"
+                              >
+                                {part}
+                              </Link>
+                            );
+                          }
+
+                          // アーティストページがない場合は通常テキスト
                           return <span key={index}>{part}</span>;
                         })}
                       </>
