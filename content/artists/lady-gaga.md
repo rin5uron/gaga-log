@@ -4,6 +4,18 @@ birthDate: "1986年3月28日"
 nationality: "アメリカ"
 genres: ["ポップ", "ダンス", "エレクトロニック"]
 type: "artist"
+appleMusicUrl: "https://music.apple.com/jp/artist/lady-gaga/277293880"
+spotifyUrl: "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+---
+
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/artist/lady-gaga/277293880" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
 ---
 
 

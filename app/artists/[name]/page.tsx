@@ -100,10 +100,10 @@ export default async function ArtistPage({
           </article>
         )}
 
-        {/* 曲一覧 */}
+        {/* 関連記事 */}
         <section>
           <h2 className="text-3xl font-bold mb-8 pb-4 border-b">
-            曲一覧 ({posts.length}曲)
+            関連記事 ({posts.length}件)
           </h2>
           <div className="space-y-8">
             {posts.map((post) => (
@@ -113,6 +113,11 @@ export default async function ArtistPage({
                   className="block hover:opacity-70 transition-opacity"
                 >
                   <h3 className="text-2xl font-semibold mb-2">{post.title}</h3>
+                  {post.type && (
+                    <p className="text-xs text-gray-500 mb-1">
+                      {post.type === "movie" ? "🎬 映像作品" : "🎵 楽曲"}
+                    </p>
+                  )}
                   {post.date && (
                     <p className="text-sm text-gray-400">{post.date}</p>
                   )}

@@ -4,6 +4,18 @@ birthDate: "1993年6月26日"
 nationality: "アメリカ"
 genres: ["ポップ", "R&B", "ダンス"]
 type: "artist"
+appleMusicUrl: "https://music.apple.com/jp/artist/ariana-grande/412778295"
+spotifyUrl: "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+---
+
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/artist/ariana-grande/412778295" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
 ---
 
 

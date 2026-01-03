@@ -4,6 +4,18 @@ birthDate: "1975年1月5日"
 nationality: "アメリカ"
 genres: ["ポップ", "ロック", "カントリー"]
 type: "artist"
+appleMusicUrl: "https://music.apple.com/jp/artist/bradley-cooper/1436976086"
+spotifyUrl: "https://open.spotify.com/artist/4vheuphSTMkSTPR3WHDJdx"
+---
+
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/artist/bradley-cooper/1436976086" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/artist/4vheuphSTMkSTPR3WHDJdx" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
 ---
 
 

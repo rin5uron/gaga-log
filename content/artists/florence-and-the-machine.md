@@ -4,6 +4,18 @@ birthDate: "2007年結成"
 nationality: "イギリス"
 genres: ["インディー・ロック", "バロック・ポップ", "アート・ロック"]
 type: "artist"
+appleMusicUrl: "https://music.apple.com/jp/artist/florence-the-machine/275988824"
+spotifyUrl: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+---
+
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/artist/florence-the-machine/275988824" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
 ---
 
 
