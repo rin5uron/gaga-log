@@ -139,22 +139,3 @@ MVの冒頭では、シャキーラがダンスを踊るシーンから始まる
 「Hips Don't Lie」は、体が正直に反応することを教えてくれる曲。そして、そのエネルギッシュさが、本当の感情を教えてくれる。
 
 ---
-
-
-
-## 参考文献
-
-- [Hips Don't Lie - Shakira 公式サイト](https://www.shakira.com/)
-- [Hips Don't Lie - Wikipedia](https://en.wikipedia.org/wiki/Hips_Don%27t_Lie)
-- [Hips Don't Lie - Apple Music](https://music.apple.com/jp/album/hips-dont-lie-feat-wyclef-jean/1445003313?i=1445003402)
-- [Hips Don't Lie - Spotify](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V)
-
-### 関連記事
-
-- **Hips Don't Lie** - 全米1位を獲得した代表曲。
-- [Try Everything](/posts/try-everything) - ズートピアの主題歌。
-- [Zoo](/posts/zoo) - ズートピア2の劇中歌。
-- [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す
-
-
-

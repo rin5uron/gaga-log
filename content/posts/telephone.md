@@ -102,22 +102,3 @@ MVでも、2人の個性がぶつかり合いながら調和している。ガ�
 だから、この曲を聴くと、踊りたくなる。そして、自分の選択を肯定できる気がする。
 
 ---
-
-
-
-## 参考文献
-
-- [Telephone - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Telephone (song) - Wikipedia](https://en.wikipedia.org/wiki/Telephone_(Lady_Gaga_song))
-- [Telephone - Apple Music](https://music.apple.com/jp/album/telephone-feat-beyonc%C3%A9/1440818588?i=1440818945)
-- [Telephone - Spotify](https://open.spotify.com/track/4b9CalKlPd27542F2bWMGQ)
-
-### 関連記事
-
-- **Telephone** - ビヨンセとのコラボ。
-- [Hey Girl](/posts/hey-girl) - フローレンス・ウェルチとの共演。
-- [Joanne](/posts/joanne) - 叔母へのトリビュート。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

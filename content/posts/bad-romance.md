@@ -142,22 +142,3 @@ MVの冒頭では、ガガが白い部屋で目を覚ますシーンから始ま
 
 「Bad Romance」は、恋に壊れる勇気を与えてくれる曲。そして、その壊れ方が、自分を守る方法を学ぶ第一歩になる。
 
----
-
-
-
-## 参考文献
-
-- [Bad Romance - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Bad Romance - Wikipedia](https://en.wikipedia.org/wiki/Bad_Romance)
-- [Bad Romance - Apple Music](https://music.apple.com/jp/album/bad-romance/1440818588?i=1440818880)
-- [Bad Romance - Spotify](https://open.spotify.com/track/0SiywuOBPcyXaHy6b6yJcF)
-
-### 関連記事
-
-- **Bad Romance** - 恋に壊れる瞬間を歌った曲。
-- [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

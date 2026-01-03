@@ -88,21 +88,3 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 東京ドームで彼女を見るとき、この作品のことを、きっと思い出す。
 
 ---
-
-
-
-## 参考文献
-
-- [Gaga: Five Foot Two - Netflix](https://www.netflix.com/jp/title/80196586)
-- [Gaga: Five Foot Two - Wikipedia](https://en.wikipedia.org/wiki/Gaga:_Five_Foot_Two)
-- [Lady Gaga 公式サイト](https://www.ladygaga.com/)
-
-### 関連記事
-
-- **Gaga: Five Foot Two** - ガガの制作過程を追ったドキュメンタリー。
-- [Joanne](/posts/joanne) - 叔母へのトリビュート。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-- [Chris Moukarbel](/artists/chris-moukarbel) - 監督の他の作品を探す
-
-
-

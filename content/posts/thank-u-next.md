@@ -140,21 +140,3 @@ MVの冒頭では、アリアナが過去の恋愛経験を振り返るシーン
 「Thank U, Next」は、過去の恋愛経験に感謝し、前へ進む勇気を与えてくれる曲。そして、その前向きさが、本当の自己受容を教えてくれる。
 
 ---
-
-
-
-## 参考文献
-
-- [Thank U, Next - Ariana Grande 公式サイト](https://www.arianagrande.com/)
-- [Thank U, Next - Wikipedia](https://en.wikipedia.org/wiki/Thank_U,_Next_(song))
-- [Thank U, Next - Apple Music](https://music.apple.com/jp/album/thank-u-next/1445003313?i=1445003401)
-- [Thank U, Next - Spotify](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ)
-
-### 関連記事
-
-- **Thank U, Next** - 過去の恋愛経験を前向きに捉えた曲。
-- [Rain on Me](/posts/rain-on-me) - [Lady Gaga](/artists/lady-gaga)とのコラボレーション。
-- [Ariana Grande](/artists/ariana-grande) - Ariana Grandeの他の楽曲を探す
-
-
-

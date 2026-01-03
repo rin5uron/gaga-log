@@ -140,21 +140,3 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 「Perfect」は、完璧じゃなくても、完璧な愛があることを教えてくれる曲。そして、そのシンプルさが、本当の愛を教えてくれる。
 
 ---
-
-
-
-## 参考文献
-
-- [Perfect - Ed Sheeran 公式サイト](https://www.edsheeran.com/)
-- [Perfect (Ed Sheeran song) - Wikipedia](https://en.wikipedia.org/wiki/Perfect_(Ed_Sheeran_song))
-- [Perfect - Apple Music](https://music.apple.com/jp/album/perfect/1293950392?i=1293950576)
-- [Perfect - Spotify](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-
-### 関連記事
-
-- **Perfect** - 妻への愛を歌った結婚式の定番曲。
-- [Thinking Out Loud](/posts/thinking-out-loud) - 永遠の愛を誓うロマンティックなバラード。
-- [Ed Sheeran](/artists/ed-sheeran) - Ed Sheeranの他の楽曲を探す
-
-
-

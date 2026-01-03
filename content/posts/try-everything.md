@@ -129,21 +129,3 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 「Try Everything」は、失敗を恐れずに、何度でも立ち上がる勇気を与えてくれる曲。そして、ズートピアという映画が、何年経っても色褪せない理由の一つが、この曲にあると思う。
 
 ---
-
-
-
-## 参考文献
-
-- [Try Everything - Shakira 公式サイト](https://www.shakira.com/)
-- [Try Everything - Wikipedia](https://en.wikipedia.org/wiki/Try_Everything)
-- [Try Everything - Apple Music](https://music.apple.com/us/album/try-everything-from-zootopia/1445003313?i=1445003400)
-- [Try Everything - Spotify](https://open.spotify.com/track/0P3oVJBFOv3TDXlYRhGL7s)
-
-### 関連記事
-
-- **Try Everything** - ズートピアの主題歌。
-- [Zoo](/posts/zoo) - ズートピア2の劇中歌。
-- [Shakira](/artists/shakira) - Shakiraの他の楽曲を探す
-
-
-

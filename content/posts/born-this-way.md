@@ -145,21 +145,3 @@ MVの冒頭では、ガガが「新しい種族」の創造を宣言するシー
 「Born This Way」は、自分自身を受け入れる勇気を与えてくれる曲。そして、その受容が、本当の自分を生きる方法になる。
 
 ---
-
-
-
-## 参考文献
-
-- [Born This Way - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Born This Way (song) - Wikipedia](https://en.wikipedia.org/wiki/Born_This_Way_(song))
-- [Born This Way - Apple Music](https://music.apple.com/jp/album/born-this-way/1440818588?i=1440819037)
-- [Born This Way - Spotify](https://open.spotify.com/track/6aDiLgBJLbCXq2aBal26f3)
-
-### 関連記事
-
-- **Born This Way** - それでも私は私、という瞬間を歌った曲。
-- [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

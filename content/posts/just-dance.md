@@ -135,21 +135,3 @@ MVの冒頭では、ガガがパーティー会場に到着するシーンから
 「Just Dance」は、考えすぎない勇気を与えてくれる曲。そして、そのシンプルさが、本当の楽しさを教えてくれる。
 
 ---
-
-
-
-## 参考文献
-
-- [Just Dance - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Just Dance (song) - Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_(song))
-- [Just Dance - Apple Music](https://music.apple.com/jp/album/just-dance-feat-colby-odonis/1440818588?i=1440818589)
-- [Just Dance - Spotify](https://open.spotify.com/track/1x2bVkD2Y5jFmTO3AZdsjU)
-
-### 関連記事
-
-- **Just Dance** - デビュー曲。考えすぎないこと、ただ楽しむことを歌った曲。
-- [Poker Face](/posts/poker-face) - 仮面を被る瞬間を歌った曲。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

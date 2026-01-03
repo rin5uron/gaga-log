@@ -138,22 +138,3 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 「Poker Face」は、仮面を被る勇気を与えてくれる曲。そして、その仮面が、本当の自分を守る方法になる。
 
 ---
-
-
-
-## 参考文献
-
-- [Poker Face - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Poker Face - Wikipedia](https://en.wikipedia.org/wiki/Poker_Face_(Lady_Gaga_song))
-- [Poker Face - Apple Music](https://music.apple.com/jp/album/poker-face/1440818588?i=1440818590)
-- [Poker Face - Spotify](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO)
-
-### 関連記事
-
-- **Poker Face** - 仮面を被る瞬間を歌った曲。
-- [Bad Romance](/posts/bad-romance) - 恋に壊れる瞬間を歌った曲。
-- [Born This Way](/posts/born-this-way) - それでも私は私、という瞬間を歌った曲。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

@@ -180,25 +180,3 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 会ったことのない人を愛することができる。名前を呼び続けることで、その人は生き続ける。
 
 「Joanne」——この曲は、静かに、でも確実に、心に残り続ける。
-
-
-
-## 参考文献
-
-- [Joanne - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Joanne (Lady Gaga song) - Wikipedia](https://en.wikipedia.org/wiki/Joanne_(Lady_Gaga_song))
-- [Joanne - Apple Music](https://music.apple.com/jp/album/joanne/1440818588?i=1440818773)
-- [Joanne - Spotify](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6nal)
-- [Behind the Meaning of Lady Gaga's Deeply Personal Track, "Joanne" - American Songwriter](https://americansongwriter.com/behind-the-meaning-of-lady-gagas-deeply-personal-track-joanne/)
-- [Joanne Germanotta | Gagapedia | Fandom](https://ladygaga.fandom.com/wiki/Joanne_Germanotta)
-- [Lady Gaga V Magazine Cover Story: On Her Aunt Joanne's Lupus Battle & Her Album | Billboard](https://www.billboard.com/music/pop/lady-gaga-v-magazine-cover-aunt-joanne-lupus-album-7942384/)
-- [Lady Gaga's 'Joanne': Behind the Album Title | Billboard](https://www.billboard.com/music/pop/lady-gaga-joanne-story-behind-album-title-7511076/)
-
-### 関連記事
-
-- **Joanne** - 叔母へのトリビュート。
-- [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-

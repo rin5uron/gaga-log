@@ -124,23 +124,3 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 そして、思う——少なくとも、生きている。それだけで十分だ、と。
 
 ---
-
-
-
-## 参考文献
-
-- [Rain on Me - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [Rain on Me - Wikipedia](https://en.wikipedia.org/wiki/Rain_on_Me_(Lady_Gaga_and_Ariana_Grande_song))
-- [Rain on Me - Apple Music](https://music.apple.com/jp/album/rain-on-me-with-ariana-grande/1508326043?i=1508326386)
-- [Rain on Me - Spotify](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9)
-
-### 関連記事
-
-- **Rain on Me** - [Ariana Grande](/artists/ariana-grande)とのコラボ。
-- [Telephone](/posts/telephone) - ビヨンセとのコラボレーション。
-- [Hey Girl](/posts/hey-girl) - フローレンス・ウェルチとの共演。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-- [Ariana Grande](/artists/ariana-grande) - Ariana Grandeの他の楽曲を探す
-
-
-

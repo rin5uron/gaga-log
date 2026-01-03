@@ -157,19 +157,3 @@ Lovedrug は、
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 ---
-
-
-
-## 参考文献
-
-- [LoveDrug - Lady Gaga 公式サイト](https://www.ladygaga.com/)
-- [LoveDrug - Apple Music](https://music.apple.com/us/song/lovedrug/1792667018)
-- [LoveDrug - Spotify](https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5)
-
-### 関連記事
-
-- **LoveDrug** - 愛を依存として描いた曲。
-- [Lady Gaga](/artists/lady-gaga) - Lady Gagaの他の楽曲を探す
-
-
-
