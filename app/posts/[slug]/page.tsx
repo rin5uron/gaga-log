@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { Metadata } from "next";
 import {
   getPostBySlug,
   getAllPosts,
@@ -15,6 +16,82 @@ export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   return posts.map((post) => ({
     slug: post.slug,
   }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const post = getPostBySlug(slug);
+
+  if (!post) {
+    return {
+      title: "記事が見つかりません",
+    };
+  }
+
+  // 記事の種類に応じたタイトルとdescriptionを生成
+  const isMovie = post.type === "movie";
+  const isSong = post.type === "song";
+
+  let title = "";
+  let description = "";
+
+  if (isMovie) {
+    // 映画・ドキュメンタリーの場合
+    title = `${post.title} - 映画・ドキュメンタリー解説 | How Sound Feels`;
+    description = `${post.artist ? post.artist + "の" : ""}「${post.title}」の魅力を深掘り。音楽を通して感じる世界を解説。`;
+  } else if (isSong) {
+    // 楽曲の場合
+    title = `${post.title} - ${post.artist} | 歌詞の意味と解説 | How Sound Feels`;
+    description = `${post.artist}の「${post.title}」の歌詞の意味を解説。音を慈しみ、声を愛する。その言葉、音、雰囲気を記録する。`;
+  } else {
+    // その他
+    title = `${post.title} | How Sound Feels`;
+    description = `${post.title}について。音を慈しむ。声を愛する。`;
+  }
+
+  // キーワード生成
+  const keywords = [
+    post.artist || "",
+    post.title,
+    "歌詞",
+    "意味",
+    "解説",
+    "音楽",
+    "レビュー",
+    post.album || "",
+  ].filter(Boolean);
+
+  const baseUrl = "https://sound-feels.com";
+
+  return {
+    title,
+    description,
+    keywords,
+    authors: [{ name: "STUDIO Jinsei" }],
+    openGraph: {
+      title,
+      description,
+      url: `${baseUrl}/posts/${slug}`,
+      siteName: "How Sound Feels",
+      locale: "ja_JP",
+      type: "article",
+      publishedTime: post.date,
+      authors: ["STUDIO Jinsei"],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      site: "@sound_feels", // TwitterアカウントIDがあれば設定
+    },
+    alternates: {
+      canonical: `${baseUrl}/posts/${slug}`,
+    },
+  };
 }
 
 function extractYouTubeEmbed(content: string): {

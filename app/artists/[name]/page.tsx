@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { Metadata } from "next";
 import {
   getAllArtists,
   getPostsByArtist,
@@ -14,6 +15,58 @@ export async function generateStaticParams(): Promise<Array<{ name: string }>> {
   return artists.map((artist) => ({
     name: getArtistSlug(artist),
   }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ name: string }>;
+}): Promise<Metadata> {
+  const { name } = await params;
+
+  // アーティストプロフィールページがあるか確認
+  const artistProfile = getArtistBySlug(name);
+
+  // プロフィールページがない場合は、曲一覧から推測
+  const artists = getAllArtists();
+  const artist = artists.find((a) => getArtistSlug(a) === name);
+
+  if (!artistProfile && !artist) {
+    return {
+      title: "アーティストが見つかりません",
+    };
+  }
+
+  const artistName = artistProfile?.name || artist || "";
+  const posts = getPostsByArtist(artistName);
+
+  const title = `${artistName} - アーティスト情報と楽曲解説 | How Sound Feels`;
+  const description = `${artistName}の楽曲解説一覧（${posts.length}件）。歌詞の意味、音の魅力を深掘り。音を慈しみ、声を愛する。`;
+
+  const baseUrl = "https://sound-feels.com";
+
+  return {
+    title,
+    description,
+    keywords: [artistName, "歌詞", "解説", "音楽", "楽曲一覧"],
+    authors: [{ name: "STUDIO Jinsei" }],
+    openGraph: {
+      title,
+      description,
+      url: `${baseUrl}/artists/${name}`,
+      siteName: "How Sound Feels",
+      locale: "ja_JP",
+      type: "profile",
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
+    },
+    alternates: {
+      canonical: `${baseUrl}/artists/${name}`,
+    },
+  };
 }
 
 export default async function ArtistPage({
