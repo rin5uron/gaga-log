@@ -5,6 +5,9 @@ artist: "アーティスト名"
 date: "YYYY-MM-DD"
 order: 1
 type: "song"
+# ↓ SEO用メタデータは自動生成されます（手動設定不要）
+# 生成内容: title, description, keywords, OGP, Twitter Card, canonical URL
+# 詳細: /docs/SEO-METADATA-IMPLEMENTATION.md を参照
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
