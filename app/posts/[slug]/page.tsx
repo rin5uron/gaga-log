@@ -143,8 +143,17 @@ export default async function PostPage({
             {/* YouTube埋め込み */}
             {youtubeEmbed && (
               <div
+                id="youtube-embed"
                 className="youtube-embed-wrapper mb-3 max-w-2xl"
                 dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
+              />
+            )}
+
+            {/* ストリーミングリンク */}
+            {streamingLinks && (
+              <div
+                className="streaming-links mb-4 max-w-2xl flex gap-3"
+                dangerouslySetInnerHTML={{ __html: streamingLinks }}
               />
             )}
 
@@ -207,14 +216,6 @@ export default async function PostPage({
                 </>
               )}
             </div>
-
-            {/* ストリーミングリンク */}
-            {streamingLinks && (
-              <div
-                className="streaming-links mb-4 max-w-2xl flex gap-3"
-                dangerouslySetInnerHTML={{ __html: streamingLinks }}
-              />
-            )}
           </header>
 
           <div

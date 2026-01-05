@@ -60,7 +60,9 @@ export default function PostList({ posts, artists }: PostListProps) {
               >
                 <h2 className="text-2xl font-semibold mb-2">
                   {post.title}
-                  {post.artist && ` / ${post.artist}`}
+                  {post.artist && (
+                    <span className="text-base font-normal text-gray-600"> / {post.artist}</span>
+                  )}
                 </h2>
                 {post.date && (
                   <p className="text-sm text-gray-400">{post.date}</p>

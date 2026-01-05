@@ -46,7 +46,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 サビの「Hey girl」が印象的な曲。何度も呼びかけるように繰り返される「Hey girl」——
 
-その中で、印象的だったのはこのフレーズ。
+その中で、印象的なのはこのフレーズ。
 
 > Just know that I got you
 
@@ -68,6 +68,8 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 何度も繰り返される呼びかけ。シンプルで覚えやすい。
 
+「girl」とは誰なのか——ガガと同じように戦う女の子なのかもしれない。女性同士がお互いを支え合う、そんな関係性を表しているのかもしれない。
+
 > We can make it easy if we lift each other
 
 「私たちがお互いを支え合えば、物事はもっと楽になる」——このフレーズが曲の核心。
@@ -86,7 +88,7 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-「Hey Girl」のミュージックビデオでは、ガガとフローレンス・ウェルチが登場する。
+<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>では、ガガとフローレンス・ウェルチが登場する。
 
 この曲は、女性同士の連帯と支え合いをテーマにしているため、MVでも二人の強い絆が視覚的に表現されている。
 

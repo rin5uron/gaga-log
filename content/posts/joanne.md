@@ -9,7 +9,7 @@ relatedPosts: ["gaga-five-foot-two"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyZ71o9p26o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyZ71o9p26o?si=7M_WZL6Y52g3hpVh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -123,7 +123,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-「Joanne」のミュージックビデオは、2017年12月19日に公開された。監督はAndrea Gelardin、振付はRichy Jacksonが担当している。
+<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2017年12月19日に公開された。監督はAndrea Gelardin、振付はRichy Jacksonが担当している。
 
 最も印象的なのは、ガガが一人で荒野を歩くシーン。ピンクのハットを被り、シンプルな装いで、広大な砂漠の中を進んでいく。
 
@@ -163,7 +163,7 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 
 ガガは、Joanneという名前を受け継ぎ、その魂を感じながら生きてきた。そして、音楽を通して、叔母の存在を世界に伝えている。
 
-削ぎ落とされたサウンド、シンプルな言葉、静かな祈り——この曲は、ガガの「父の娘」としての一面を表している。
+削ぎ落とされたサウンド、シンプルな言葉、静かな祈り——この曲は、ガガが父親の痛みに寄り添い、家族の記憶を継承しようとする姿を表しているのかもしれない。
 
 派手なパフォーマンスではなく、ただ、人間としての彼女がそこにいる。
 

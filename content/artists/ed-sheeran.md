@@ -3,6 +3,19 @@ name: "Ed Sheeran"
 birthDate: "1991年2月17日"
 nationality: "イギリス"
 genres: ["ポップ", "フォーク", "R&B"]
+type: "artist"
+appleMusicUrl: "https://music.apple.com/jp/artist/ed-sheeran/183313439"
+spotifyUrl: "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+---
+
+<!-- 🎧 ストリーミングで聴く -->
+<a href="https://music.apple.com/jp/artist/ed-sheeran/183313439" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
+<a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+
 ---
 
 ## 経歴

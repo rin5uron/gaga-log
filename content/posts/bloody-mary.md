@@ -32,8 +32,6 @@ type: "song"
 
 この曲は、ダークで呪術的な雰囲気を持つ。エレクトロポップにシンセポップとトランスの要素が混ざり合い、グレゴリオ聖歌のサンプリングが加わることで、宗教的なモチーフとゴシックなビートが絡み合う。ガガの冷たくも力強いボーカルが際立つ。
 
-ガガはこの曲でマグダラのマリア（Mary Magdalene）の視点から歌っている。「Bloody Mary」というタイトルはメアリー1世を指すが、歌詞ではマグダラのマリアとイエス・キリストの関係をアナロジーとして使っている。
-
 2022年のTikTokバズ以降、再び注目を浴び、ライブのオープニングセットリストにも組み込まれるようになった。元々は知る人ぞ知るアルバム曲だったが、今では「Bloody Mary × Wednesday」の組み合わせで新たな命を吹き込まれた楽曲として語られることが多い。
 
 ---
@@ -43,6 +41,8 @@ type: "song"
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
+
+### Maryとは誰か
 
 まず、「Bloody Mary」という名前について。タイトルは「血まみれのメアリー」を意味し、一般的にはイングランド女王メアリー1世を指すが、ガガはマグダラのマリア（Mary Magdalene）の視点から歌っている。マグダラのマリアは聖書に登場する人物で、イエスの最も重要な弟子の一人とされている。
 
@@ -94,7 +94,7 @@ type: "song"
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかったが、2022年にこの曲が再び注目を浴びるきっかけとなったのが、Netflix『Wednesday（ウェンズデー）』のダンスシーンだ。
+<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>について。「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかったが、2022年にこの曲が再び注目を浴びるきっかけとなったのが、Netflix『Wednesday（ウェンズデー）』のダンスシーンだ。
 
 **参考：TikTokでバズったWednesdayのダンスシーン × Bloody Mary**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MsXdUtlDVhk?si=-60JuttbQ3MbctZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
