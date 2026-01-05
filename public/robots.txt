@@ -1,0 +1,7 @@
+# robots.txt for sound-feels.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sound-feels.com/sitemap.xml

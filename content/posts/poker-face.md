@@ -2,7 +2,7 @@
 title: "Poker Face"
 song: "Poker Face"
 artist: "Lady Gaga"
-date: "2026-01-01"
+date: "2025-12-24"
 order: 19
 type: "song"
 relatedPosts: ["bad-romance", "born-this-way"]
