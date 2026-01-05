@@ -1,3 +1,22 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "プライバシーポリシー | How Sound Feels",
+  description: "How Sound Feelsのプライバシーポリシー。個人情報の取り扱い、Cookie、広告、免責事項について。",
+  keywords: ["プライバシーポリシー", "個人情報保護", "Cookie", "広告"],
+  openGraph: {
+    title: "プライバシーポリシー | How Sound Feels",
+    description: "How Sound Feelsのプライバシーポリシー。個人情報の取り扱いについて。",
+    url: "https://sound-feels.com/privacy",
+    siteName: "How Sound Feels",
+    locale: "ja_JP",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://sound-feels.com/privacy",
+  },
+};
+
 export default function Privacy() {
   return (
     <div className="min-h-screen bg-white">

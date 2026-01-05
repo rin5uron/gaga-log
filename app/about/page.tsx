@@ -1,4 +1,22 @@
 import Image from "next/image";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "運営者情報 | How Sound Feels",
+  description: "How Sound Feelsの運営者情報。STUDIO Jinseiが運営する音楽ブログ。音を慈しみ、声を愛する。",
+  keywords: ["運営者情報", "STUDIO Jinsei", "How Sound Feels", "音楽ブログ"],
+  openGraph: {
+    title: "運営者情報 | How Sound Feels",
+    description: "How Sound Feelsの運営者情報。STUDIO Jinseiが運営する音楽ブログ。",
+    url: "https://sound-feels.com/about",
+    siteName: "How Sound Feels",
+    locale: "ja_JP",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://sound-feels.com/about",
+  },
+};
 
 export default function About() {
   return (

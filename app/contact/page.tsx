@@ -2,6 +2,10 @@
 
 import { useState } from "react";
 
+// Note: メタデータは"use client"があると直接exportできないため、
+// layout.tsxで設定するか、静的ページにする必要があります
+// 現在はクライアントコンポーネントなので、layout.tsxのデフォルトメタデータが使用されます
+
 export default function Contact() {
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
 
