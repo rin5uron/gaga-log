@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { getArtistSlug } from "@/lib/utils";
 import type { Post } from "@/lib/posts";
 
 interface PostListProps {
@@ -36,13 +35,17 @@ export default function PostList({ posts, artists }: PostListProps) {
               すべて
             </button>
             {artists.map((artist) => (
-              <Link
+              <button
                 key={artist}
-                href={`/artists/${getArtistSlug(artist)}`}
-                className="px-4 py-2 rounded-full text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors"
+                onClick={() => setSelectedArtist(artist)}
+                className={`px-4 py-2 rounded-full text-sm transition-colors ${
+                  selectedArtist === artist
+                    ? "bg-black text-white"
+                    : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+                }`}
               >
                 {artist}
-              </Link>
+              </button>
             ))}
           </div>
         </div>

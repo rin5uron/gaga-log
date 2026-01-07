@@ -224,3 +224,5 @@ type: "artist"
 - [デザイン設定: `docs/DESIGN.md`](./DESIGN.md)
 - [SEO戦略: `docs/SEO-STRATEGY.md`](./SEO-STRATEGY.md)
 
+
+

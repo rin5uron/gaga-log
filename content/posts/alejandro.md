@@ -23,11 +23,13 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+## About <span class="section-subtitle">この曲について アレハンドロってだレ？</span>
 
-「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。ABBAやAce of Baseといったポップミュージックの要素を取り入れながら、ガガ独自のダークでドラマティックな世界観を作り上げている。ABBAの「Fernando」からインスピレーションを受けたとも言われている。
+「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。ABBAやAce of Baseといったポップミュージックの要素を取り入れながら、ガガ独自のダークでドラマティックな世界観を作り上げている。ABBAの[「Fernando」](/posts/fernando)からインスピレーションを受けたとも言われている。
 
 ---
+
+### <span class="section-subtitle">アレハンドロって誰？</span>
 
 この曲が描いているのは、特定の一人の男性についての物語というより、"恋愛そのもの"に対する恐怖や距離感だ。愛することはできる。でも、深く関われば関わるほど、自分の人生やキャリアが壊れてしまうかもしれない——そんな不安や葛藤が、この曲全体に流れている。
 

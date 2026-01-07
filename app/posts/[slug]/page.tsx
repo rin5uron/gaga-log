@@ -10,6 +10,7 @@ import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 import RelatedPosts from "@/components/RelatedPosts";
+import TableOfContents from "@/components/TableOfContents";
 
 export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   const posts = getAllPosts();
@@ -294,6 +295,9 @@ export default async function PostPage({
               )}
             </div>
           </header>
+
+          {/* 目次 */}
+          <TableOfContents html={contentHtml} />
 
           <div
             className="prose prose-lg max-w-none post-content"

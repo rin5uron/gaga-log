@@ -37,6 +37,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JL8S192TL"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-9JL8S192TL');
+            `,
+          }}
+        />
+      </head>
       <body className="antialiased">
         <Header />
         {children}
