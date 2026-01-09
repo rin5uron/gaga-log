@@ -114,7 +114,7 @@ export default async function ArtistPage({
         </Link>
 
         <header className="mb-12">
-          <h1 className="text-5xl font-bold mb-4 leading-tight">{artistName}</h1>
+          <h1 className="text-4xl font-bold mb-4 leading-tight">{artistName}</h1>
 
           {/* 基本情報 */}
           {artistProfile && (
@@ -155,7 +155,7 @@ export default async function ArtistPage({
 
         {/* 関連記事 */}
         <section>
-          <h2 className="text-3xl font-bold mb-8 pb-4 border-b">
+          <h2 className="text-2xl font-bold mb-8 pb-4 border-b">
             関連記事 ({posts.length}件)
           </h2>
           <div className="space-y-8">
@@ -165,7 +165,7 @@ export default async function ArtistPage({
                   href={`/posts/${post.slug}`}
                   className="block hover:opacity-70 transition-opacity"
                 >
-                  <h3 className="text-2xl font-semibold mb-2">{post.title}</h3>
+                  <h3 className="text-lg font-semibold mb-2">{post.title}</h3>
                   {post.type && (
                     <p className="text-xs text-gray-500 mb-1">
                       {post.type === "movie" ? "🎬 映像作品" : "🎵 楽曲"}

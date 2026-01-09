@@ -1,29 +1,40 @@
 ---
 title: "作品タイトル"
 work: "作品タイトル"
-artist: "監督名 / 出演者名"
+artist: "アーティスト名 / 監督名"
 date: "YYYY-MM-DD"
 order: 1
 type: "movie"
+relatedPosts: ["関連する記事のslug"]
 # ↓ SEO用メタデータは自動生成されます（手動設定不要）
 # 生成内容: title, description, keywords, OGP, Twitter Card, canonical URL
 # 詳細: /docs/SEO-METADATA-IMPLEMENTATION.md を参照
 ---
 
-<!-- 🎬 視聴リンク -->
+<!-- 🎬 視聴リンク（Netflix、Amazon Prime等） -->
 <a href="視聴URL" target="_blank" title="視聴する">
-  <img src="/images/作品画像.png" alt="作品タイトル" style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/作品画像.png" alt="作品タイトル">
 </a>
 
 
 
-## About <span class="section-subtitle">この作品について</span>
+## About <span class="section-subtitle">作品情報</span>
 
-作品の基本情報や背景を記載します。
+### <span class="section-subtitle">作品の概要や背景</span>
+
+作品の基本情報を記載します（公開年、配信サービス、監督、主要な出演者など）。
 
 ---
 
-作品の印象や第一印象について書きます。
+### <span class="section-subtitle">補足情報（必要に応じて）</span>
+
+作品に関連する重要な背景情報や文脈があれば記載します。
+
+---
+
+### <span class="section-subtitle">第一印象や視聴のきっかけ</span>
+
+なぜこの作品を観たのか、最初の印象について書きます。
 
 ---
 
@@ -31,30 +42,42 @@ type: "movie"
 
 ## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
 
-### ポイント1のタイトル
+### <span class="section-subtitle">ポイント1のタイトル</span>
 
-ポイント1の説明
-
----
-
-### ポイント2のタイトル
-
-ポイント2の説明
+印象に残ったシーンや要素について説明します。
 
 ---
 
+### <span class="section-subtitle">ポイント2のタイトル</span>
 
+もう一つの重要なポイントについて説明します。
 
-## Thoughts <span class="section-subtitle">この作品の私の感想</span>
+---
 
-感想を書きます。
+### <span class="section-subtitle">ポイント3のタイトル（必要に応じて追加）</span>
+
+さらに印象的だったポイントがあれば追加します。
 
 ---
 
 
 
-## Now <span class="section-subtitle">今の私と、この作品</span>
+## After Watching <span class="section-subtitle">見終わった後に語りたくなるポイント</span>
 
-今の自分にとってこの作品がどういう意味を持つかを書きます。
+### <span class="section-subtitle">共感したこと・考えさせられたこと</span>
+
+見終わった後に誰かと語りたくなるような気づきや感想を書きます。
+
+---
+
+
+
+## Resonance <span class="section-subtitle">この作品が残したもの</span>
+
+### <span class="section-subtitle">心に残ったメッセージや影響</span>
+
+この作品から受け取ったメッセージや、自分に与えた影響について書きます。
+
+---
 
 

@@ -44,11 +44,10 @@ export default function RelatedPosts({
             className="block p-4 border border-gray-200 rounded-lg hover:border-gray-400 hover:shadow-md transition-all bg-gray-50"
           >
             <h3 className="text-lg font-semibold mb-1">
-              {firstArtist}のページ
+              {firstArtist}
             </h3>
-            <p className="text-sm text-gray-600 mb-2">アーティスト情報</p>
             <p className="text-xs text-gray-500">
-              🎤 全ての楽曲・作品を見る
+              アーティスト
             </p>
           </Link>
         )}

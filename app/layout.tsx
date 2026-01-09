@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import AdSense from "@/components/AdSense";
 
 export const metadata: Metadata = {
   title: {
@@ -40,6 +41,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className="antialiased">
         <GoogleAnalytics />
+        <AdSense />
         <Header />
         {children}
         <Footer />
