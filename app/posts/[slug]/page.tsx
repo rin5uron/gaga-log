@@ -112,6 +112,23 @@ function extractYouTubeEmbed(content: string): {
   return { youtubeEmbed: null, contentWithoutYouTube: content };
 }
 
+function extractMovieImage(content: string): {
+  movieImage: string | null;
+  contentWithoutImage: string;
+} {
+  // 映像作品用の画像リンクを抽出（Netflixやその他のリンク付き画像）
+  const imageRegex = /<!-- 🎬[^>]*>[\s\S]*?<a[^>]*>[\s\S]*?<img[^>]*>[\s\S]*?<\/a>/gi;
+  const match = content.match(imageRegex);
+
+  if (match && match.length > 0) {
+    const movieImage = match[0];
+    const contentWithoutImage = content.replace(movieImage, "").trim();
+    return { movieImage, contentWithoutImage };
+  }
+
+  return { movieImage: null, contentWithoutImage: content };
+}
+
 function linkifyContent(
   html: string,
   allPosts: ReturnType<typeof getAllPosts>,
@@ -168,9 +185,12 @@ export default async function PostPage({
 
   const allPosts = getAllPosts();
 
+  // 映像作品の画像を抽出
+  const { movieImage, contentWithoutImage } = extractMovieImage(post.content);
+
   // YouTube埋め込みとストリーミングリンクを抽出
   const { youtubeEmbed, contentWithoutYouTube } = extractYouTubeEmbed(
-    post.content
+    contentWithoutImage
   );
 
   // ストリーミングリンクを抽出
@@ -218,38 +238,21 @@ export default async function PostPage({
               {post.title}
             </h1>
 
-            {/* YouTube埋め込み */}
-            {youtubeEmbed && (
-              <div
-                id="youtube-embed"
-                className="youtube-embed-wrapper mb-3 max-w-2xl"
-                dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
-              />
-            )}
-
-            {/* ストリーミングリンク */}
-            {streamingLinks && (
-              <div
-                className="streaming-links mb-4 max-w-2xl flex gap-3"
-                dangerouslySetInnerHTML={{ __html: streamingLinks }}
-              />
-            )}
-
             {/* アーティスト情報 */}
-            <div className="text-sm text-gray-600 mb-2 max-w-2xl">
+            <div className="text-sm text-gray-600 mb-4 max-w-2xl">
               {post.artist && (
                 <>
                   <span className="font-semibold">Artist: </span>
                   {(() => {
-                    // アーティスト名を分割してリンク化
-                    const parts = post.artist.split(/(\s+&\s+|\s+feat\.\s+|\s+featuring\s+)/i);
+                    // アーティスト名を分割してリンク化（/、&、feat. などに対応）
+                    const parts = post.artist.split(/(\s*\/\s*|\s+&\s+|\s+feat\.\s+|\s+featuring\s+)/i);
                     const allArtists = getAllArtists();
 
                     return (
                       <>
                         {parts.map((part, index) => {
-                          // feat. や & はリンクなしで表示
-                          if (part.match(/\s+&\s+|\s+feat\.\s+|\s+featuring\s+/i)) {
+                          // feat. や & や / はリンクなしで表示
+                          if (part.match(/\s*\/\s*|\s+&\s+|\s+feat\.\s+|\s+featuring\s+/i)) {
                             return <span key={index}>{part}</span>;
                           }
 
@@ -294,6 +297,32 @@ export default async function PostPage({
                 </>
               )}
             </div>
+
+            {/* 映像作品の画像 */}
+            {movieImage && (
+              <div
+                id="movie-image"
+                className="movie-image-wrapper mb-4 max-w-2xl"
+                dangerouslySetInnerHTML={{ __html: movieImage }}
+              />
+            )}
+
+            {/* YouTube埋め込み */}
+            {youtubeEmbed && (
+              <div
+                id="youtube-embed"
+                className="youtube-embed-wrapper mb-3 max-w-2xl"
+                dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
+              />
+            )}
+
+            {/* ストリーミングリンク */}
+            {streamingLinks && (
+              <div
+                className="streaming-links mb-4 max-w-2xl flex gap-3"
+                dangerouslySetInnerHTML={{ __html: streamingLinks }}
+              />
+            )}
           </header>
 
           {/* 目次 */}

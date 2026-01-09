@@ -22,15 +22,17 @@ export default function TableOfContents({ html }: { html: string }) {
 
     headingElements.forEach((heading, index) => {
       const text = heading.textContent || "";
-      // <span class="section-subtitle">を除外
-      const cleanText = text.replace(/(.*?)\s*(?:About|Lyrics|Favorite Lines|Music Video|その他のセクション名).*/i, "$1").trim();
+
+      // section-subtitleが含まれている場合、サブタイトルのみを抽出
+      const subtitleMatch = text.match(/[\s\S]*?([ぁ-んァ-ヶー一-龠]+.*)/);
+      const displayText = subtitleMatch ? subtitleMatch[1].trim() : text;
 
       const id = `heading-${index}`;
       heading.id = id;
 
       extractedHeadings.push({
         id,
-        text: cleanText || text,
+        text: displayText,
         level: parseInt(heading.tagName[1]),
       });
     });
@@ -74,9 +76,8 @@ export default function TableOfContents({ html }: { html: string }) {
 
   return (
     <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-lg font-bold mb-4 text-gray-900 flex items-center gap-2">
-        <span>📖</span>
-        <span>この記事でわかること</span>
+      <h2 className="text-lg font-bold mb-4 text-gray-900">
+        この記事でわかること
       </h2>
       <ul className="space-y-2.5">
         {headings.map((heading) => (
@@ -86,8 +87,8 @@ export default function TableOfContents({ html }: { html: string }) {
           >
             <a
               href={`#${heading.id}`}
-              className={`flex items-start gap-2 py-1 text-gray-700 hover:text-gray-900 transition-colors group ${
-                activeId === heading.id ? "font-semibold" : ""
+              className={`flex items-start gap-2 py-1 text-gray-700 hover:text-blue-600 transition-colors group ${
+                activeId === heading.id ? "text-blue-600 font-semibold" : ""
               }`}
               onClick={(e) => {
                 e.preventDefault();
@@ -98,7 +99,7 @@ export default function TableOfContents({ html }: { html: string }) {
               }}
             >
               <span className="text-gray-400 mt-0.5 flex-shrink-0">
-                {heading.level === 2 ? "✓" : "→"}
+                {heading.level === 2 ? "·" : "—"}
               </span>
               <span className="group-hover:underline">{heading.text}</span>
             </a>
