@@ -23,9 +23,17 @@ export default function TableOfContents({ html }: { html: string }) {
     headingElements.forEach((heading, index) => {
       const text = heading.textContent || "";
 
-      // section-subtitleが含まれている場合、サブタイトルのみを抽出
-      const subtitleMatch = text.match(/[\s\S]*?([ぁ-んァ-ヶー一-龠]+.*)/);
-      const displayText = subtitleMatch ? subtitleMatch[1].trim() : text;
+      // section-subtitleのspan要素があれば、その内容だけを抽出
+      const spanElement = heading.querySelector(".section-subtitle");
+      let displayText = text;
+
+      if (spanElement && spanElement.textContent) {
+        displayText = spanElement.textContent.trim();
+      } else {
+        // spanがない場合、日本語部分を抽出（後方互換性）
+        const subtitleMatch = text.match(/[\s\S]*?([ぁ-んァ-ヶー一-龠]+.*)/);
+        displayText = subtitleMatch ? subtitleMatch[1].trim() : text;
+      }
 
       const id = `heading-${index}`;
       heading.id = id;
@@ -76,33 +84,38 @@ export default function TableOfContents({ html }: { html: string }) {
 
   return (
     <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-lg font-bold mb-4 text-gray-900">
+      <h2 className="text-[11px] font-semibold mb-3 text-gray-600 uppercase tracking-wide">
         この記事でわかること
       </h2>
-      <ul className="space-y-2.5">
+      <ul className="space-y-1.5 pl-0 list-none">
         {headings.map((heading) => (
           <li
             key={heading.id}
-            className={heading.level === 3 ? "ml-6" : ""}
+            className={heading.level === 3 ? "ml-4" : ""}
           >
-            <a
-              href={`#${heading.id}`}
-              className={`flex items-start gap-2 py-1 text-gray-700 hover:text-blue-600 transition-colors group ${
-                activeId === heading.id ? "text-blue-600 font-semibold" : ""
-              }`}
-              onClick={(e) => {
-                e.preventDefault();
-                document.getElementById(heading.id)?.scrollIntoView({
-                  behavior: "smooth",
-                  block: "start",
-                });
-              }}
-            >
-              <span className="text-gray-400 mt-0.5 flex-shrink-0">
-                {heading.level === 2 ? "·" : "—"}
-              </span>
-              <span className="group-hover:underline">{heading.text}</span>
-            </a>
+            {heading.level === 2 ? (
+              // h2はリンクなし、ただのテキスト
+              <div className="py-1 text-[11px] text-gray-900 font-semibold">
+                {heading.text}
+              </div>
+            ) : (
+              // h3のみリンク化
+              <a
+                href={`#${heading.id}`}
+                className={`block py-1 text-xs text-gray-600 hover:text-gray-900 transition-colors ${
+                  activeId === heading.id ? "font-semibold" : ""
+                }`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  document.getElementById(heading.id)?.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                  });
+                }}
+              >
+                {heading.text}
+              </a>
+            )}
           </li>
         ))}
       </ul>

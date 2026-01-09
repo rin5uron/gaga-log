@@ -135,37 +135,65 @@ function linkifyContent(
   currentSlug: string
 ): string {
   let result = html;
+  const linkedTerms = new Set<string>(); // 既にリンク化した用語を追跡
 
-  // アーティスト名をリンク化
+  // 見出しタグ内のテキストを一時的に保護
+  const headingPlaceholders: { [key: string]: string } = {};
+  let placeholderIndex = 0;
+
+  result = result.replace(/(<h[2-6][^>]*>)(.*?)(<\/h[2-6]>)/gi, (match, openTag, content, closeTag) => {
+    const placeholder = `__HEADING_PLACEHOLDER_${placeholderIndex}__`;
+    headingPlaceholders[placeholder] = match;
+    placeholderIndex++;
+    return placeholder;
+  });
+
+  // アーティスト名をリンク化（1回のみ）
   const artists = getAllArtists();
   artists.forEach((artist) => {
-    const regex = new RegExp(`(?<!<[^>]*)(${artist})(?![^<]*>)`, "g");
-    result = result.replace(
-      regex,
-      `<a href="/artists/${getArtistSlug(artist)}" class="text-blue-600 hover:underline">${artist}</a>`
-    );
-  });
-
-  // 曲名をリンク化（現在のページは除外）
-  allPosts.forEach((post) => {
-    if (post.song && post.slug !== currentSlug) {
-      const regex = new RegExp(`(?<!<[^>]*)(${post.song})(?![^<]*>)`, "g");
-      result = result.replace(
-        regex,
-        `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.song}</a>`
-      );
+    if (!linkedTerms.has(artist.toLowerCase())) {
+      const regex = new RegExp(`(?<!<[^>]*)(${artist})(?![^<]*>)`, "i");
+      if (regex.test(result)) {
+        result = result.replace(
+          regex,
+          `<a href="/artists/${getArtistSlug(artist)}" class="text-blue-600 hover:underline">${artist}</a>`
+        );
+        linkedTerms.add(artist.toLowerCase());
+      }
     }
   });
 
-  // アルバム名をリンク化（現在のページは除外）
+  // 曲名をリンク化（現在のページは除外、1回のみ）
   allPosts.forEach((post) => {
-    if (post.album && post.slug !== currentSlug) {
-      const regex = new RegExp(`(?<!<[^>]*)(${post.album})(?![^<]*>)`, "g");
-      result = result.replace(
-        regex,
-        `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.album}</a>`
-      );
+    if (post.song && post.slug !== currentSlug && !linkedTerms.has(post.song.toLowerCase())) {
+      const regex = new RegExp(`(?<!<[^>]*)(${post.song})(?![^<]*>)`, "i");
+      if (regex.test(result)) {
+        result = result.replace(
+          regex,
+          `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.song}</a>`
+        );
+        linkedTerms.add(post.song.toLowerCase());
+      }
     }
+  });
+
+  // アルバム名をリンク化（現在のページは除外、1回のみ）
+  allPosts.forEach((post) => {
+    if (post.album && post.slug !== currentSlug && !linkedTerms.has(post.album.toLowerCase())) {
+      const regex = new RegExp(`(?<!<[^>]*)(${post.album})(?![^<]*>)`, "i");
+      if (regex.test(result)) {
+        result = result.replace(
+          regex,
+          `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.album}</a>`
+        );
+        linkedTerms.add(post.album.toLowerCase());
+      }
+    }
+  });
+
+  // 見出しを復元
+  Object.keys(headingPlaceholders).forEach((placeholder) => {
+    result = result.replace(placeholder, headingPlaceholders[placeholder]);
   });
 
   return result;
@@ -234,7 +262,7 @@ export default async function PostPage({
 
         <article className="prose prose-lg max-w-none">
           <header className="mb-6 not-prose">
-            <h1 className="text-5xl font-bold mb-3 leading-tight">
+            <h1 className="text-4xl font-bold mb-3 leading-tight">
               {post.title}
             </h1>
 
