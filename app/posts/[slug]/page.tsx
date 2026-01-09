@@ -262,7 +262,7 @@ export default async function PostPage({
 
         <article className="prose prose-lg max-w-none">
           <header className="mb-6 not-prose">
-            <h1 className="text-4xl font-bold mb-3 leading-tight">
+            <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
               {post.title}
             </h1>
 
