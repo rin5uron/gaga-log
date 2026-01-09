@@ -126,7 +126,7 @@ body {
 
 /* 映像作品の画像 */
 .movie-image-wrapper {
-  max-width: 672px;
+  max-width: 500px;
 }
 
 .movie-image-wrapper img {

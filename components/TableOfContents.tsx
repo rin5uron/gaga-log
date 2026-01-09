@@ -84,7 +84,7 @@ export default function TableOfContents({ html }: { html: string }) {
 
   return (
     <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-[11px] font-semibold mb-3 text-gray-600 uppercase tracking-wide">
+      <h2 className="text-[10px] font-normal mb-3 text-gray-500 uppercase tracking-wider">
         この記事でわかること
       </h2>
       <ul className="space-y-1.5 pl-0 list-none">
