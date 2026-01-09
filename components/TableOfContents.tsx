@@ -74,19 +74,20 @@ export default function TableOfContents({ html }: { html: string }) {
 
   return (
     <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-xl font-bold mb-4 text-gray-900">目次</h2>
-      <ul className="space-y-2">
+      <h2 className="text-lg font-bold mb-4 text-gray-900 flex items-center gap-2">
+        <span>📖</span>
+        <span>この記事でわかること</span>
+      </h2>
+      <ul className="space-y-2.5">
         {headings.map((heading) => (
           <li
             key={heading.id}
-            className={heading.level === 3 ? "ml-4" : ""}
+            className={heading.level === 3 ? "ml-6" : ""}
           >
             <a
               href={`#${heading.id}`}
-              className={`block py-1 px-2 rounded transition-colors ${
-                activeId === heading.id
-                  ? "bg-blue-100 text-blue-700 font-semibold"
-                  : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
+              className={`flex items-start gap-2 py-1 text-gray-700 hover:text-gray-900 transition-colors group ${
+                activeId === heading.id ? "font-semibold" : ""
               }`}
               onClick={(e) => {
                 e.preventDefault();
@@ -96,7 +97,10 @@ export default function TableOfContents({ html }: { html: string }) {
                 });
               }}
             >
-              {heading.text}
+              <span className="text-gray-400 mt-0.5 flex-shrink-0">
+                {heading.level === 2 ? "✓" : "→"}
+              </span>
+              <span className="group-hover:underline">{heading.text}</span>
             </a>
           </li>
         ))}
