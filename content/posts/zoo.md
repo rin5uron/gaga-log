@@ -6,7 +6,7 @@ artist: "Shakira / Ed Sheeran"
 date: "2025-12-28"
 order: 7
 type: "song"
-keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala"]
+keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala","元ネタ","ズートピア"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -158,7 +158,7 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 ---
 
-### 日本版だけ特別？Dream Ami版とシャキーラ版の違い
+### <span class="section-subtitle">日本版だけ特別？Dream Ami版とシャキーラ版の違い</span>
 
 ズートピア2では、日本版だけが「ローカライズ版」の制作を許可された。Dream Amiが歌う「Zoo ～君がいるから～」は、世界で唯一のローカライズ版だ。
 
@@ -177,7 +177,7 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 
 
-## <span class="section-subtitle">楽しさを、そのまま受け取る</span>
+## Thoughts <span class="section-subtitle">楽しさを、そのまま受け取る</span>
 
 「Try Everything」が好きで、「Zoo」も同じように楽しくて、歌いたくなる曲だった。
 
