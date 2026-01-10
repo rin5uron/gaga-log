@@ -1,5 +1,6 @@
 import { getAllPosts, getAllArtists } from "@/lib/posts";
 import PostList from "@/components/PostList";
+import AdSenseUnit from "@/components/AdSenseUnit";
 
 export default function Home() {
   const posts = getAllPosts();
@@ -32,6 +33,11 @@ export default function Home() {
             </p>
           </div>
         </section>
+
+        {/* トップページの広告 */}
+        {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
+        {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_HOME || "YOUR_SLOT_ID_HERE"} /> */}
+
         <PostList posts={posts} artists={artists} />
       </main>
     </div>

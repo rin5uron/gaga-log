@@ -11,6 +11,7 @@ import { remark } from "remark";
 import remarkHtml from "remark-html";
 import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
+import AdSenseUnit from "@/components/AdSenseUnit";
 
 export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   const posts = getAllPosts();
@@ -261,6 +262,10 @@ export default async function PostPage({
         </Link>
 
         <article className="prose prose-lg max-w-none">
+          {/* 記事上部の広告 */}
+          {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
+          {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_TOP || "YOUR_SLOT_ID_HERE"} /> */}
+
           <header className="mb-6 not-prose">
             <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
               {post.title}
@@ -361,6 +366,10 @@ export default async function PostPage({
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
         </article>
+
+        {/* 記事下部の広告 */}
+        {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
+        {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "YOUR_SLOT_ID_HERE"} /> */}
 
         <RelatedPosts currentPost={post} allPosts={allPosts} />
       </main>

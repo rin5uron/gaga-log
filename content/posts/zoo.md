@@ -2,7 +2,7 @@
 title: "Zoo"
 description: "シャキーラが歌う「Zoo」はズートピア2の劇中歌。なぜエド・シーランがディズニー映画を作曲？Try Everythingとの違いは？韻の踏み方・歌い方のコツ、日本版Dream Amiとの比較まで徹底解説。"
 song: "Zoo"
-artist: "Shakira"
+artist: "Shakira / Ed Sheeran"
 date: "2025-12-28"
 order: 7
 type: "song"
@@ -70,12 +70,6 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 ---
 
-映画館で聴いて、楽しくて歌えるようになりたかった。
-
-前作『ズートピア』の「Try Everything」も好きで、今回の「Zoo」も同じように楽しくて、歌いたくなる曲だった。
-
----
-
 
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
@@ -108,22 +102,26 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 「zoo」という言葉を引き伸ばして遊ぶような感じ。楽しさが詰まっている。
 
-**「あー・ずー・おー」は自由枠**——正解なし。シャウトでも遊び声でも、好きに出していい。
+**「Ah-a-a-a a zoo ooh-ooh-oooh」は自由枠**——正解なし。シャウトでも遊び声でも、好きに出していい。
 
 ---
 
-### この曲を歌うと楽しいポイント
+### <span class="section-subtitle">この曲を歌うと楽しいポイント</span>
 
-**韻を踏むところを意識する**
+**① 韻を踏むところを意識する**
+
 fade away / celebrate / anything / fade away——音の「-ay」「伸び」をリズムで揃えると気持ちいい。
 
-**意味よりノリ重視**
+**② 意味よりノリ重視**
+
 単語を正確に追わず、ビートに乗せて踏む感覚でOK。
 
-**動物になって歌う**
+**③ 動物になって歌う**
+
 Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
-**体を使う**
+**④ 体を使う**
+
 軽く跳ねると英語のリズムが一気にハマる。
 
 ---
@@ -138,9 +136,19 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
+### <span class="section-subtitle">実写とアニメの融合</span>
+
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2025年11月12日にDisney VEVOチャンネルでリリースされた。監督はHannah Lux Davisが担当している。
 
 このMVの最大の特徴は、シャキーラの実写パフォーマンスとズートピア2のアニメーション映像を組み合わせた「ハイブリッド映像」であること。シャキーラ自身が、ガゼル風の衣装を着て、映画の世界観を体現している。
+
+---
+
+### <span class="section-subtitle">MVに歌詞付き！みんなで歌える工夫</span>
+
+このMVには歌詞が表示されるため、英語がわからなくても一緒に歌える。ディズニーらしい「みんなで楽しむ」仕掛けだ。
+
+Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので、シャキーラと一緒に声を出して歌える。カラオケ感覚で楽しめるのが、このMVの魅力の一つ。
 
 映像には、Zootennial Gala（ズートピア建国100周年記念祭）の華やかなシーン、街に向かうZootopia Expressのシーン、そしてジュディ・ホップス、ニック・ワイルド、ゲイリー・デ・スネイク、ニブルズ・メイプルスティックなど、映画のキャラクターたちが登場する。
 
@@ -169,7 +177,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK。
 
 
 
-## 楽しさを、そのまま受け取る
+## <span class="section-subtitle">楽しさを、そのまま受け取る</span>
 
 「Try Everything」が好きで、「Zoo」も同じように楽しくて、歌いたくなる曲だった。
 
