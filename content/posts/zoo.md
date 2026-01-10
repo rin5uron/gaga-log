@@ -56,24 +56,15 @@ keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2"
 
 前作『ズートピア』の主題歌「[Try Everything](/posts/try-everything)」も、シャキーラが演じるガゼルが歌った。では、2つの曲の違いは何か？
 
-<div class="comparison-box">
-  <div class="comparison-item previous">
-    <h4>Try Everything（前作）</h4>
-    <ul>
-      <li><strong>テーマ:</strong> 「挑戦し続けることの大切さ」</li>
-      <li><strong>メッセージ:</strong> 失敗してもいい、何度でもトライしよう</li>
-      <li><strong>楽曲の雰囲気:</strong> 力強く、励ましのアンセム</li>
-    </ul>
-  </div>
-  <div class="comparison-item current">
-    <h4>Zoo（今作）</h4>
-    <ul>
-      <li><strong>テーマ:</strong> 「共に生きる喜び」</li>
-      <li><strong>メッセージ:</strong> 多様性を祝福し、一緒に楽しもう</li>
-      <li><strong>楽曲の雰囲気:</strong> 祝祭的、ダンサブル</li>
-    </ul>
-  </div>
-</div>
+**Try Everything（前作）**:
+- **テーマ:** 「挑戦し続けることの大切さ」
+- **メッセージ:** 失敗してもいい、何度でもトライしよう
+- **楽曲の雰囲気:** 力強く、励ましのアンセム
+
+**Zoo（今作）**:
+- **テーマ:** 「共に生きる喜び」
+- **メッセージ:** 多様性を祝福し、一緒に楽しもう
+- **楽曲の雰囲気:** 祝祭的、ダンサブル
 
 Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミュニティの団結」を歌っている。どちらもディズニーが伝える「誰もが輝ける場所」というメッセージを体現しているが、アプローチが異なる。
 
@@ -119,34 +110,29 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 ---
 
-<div class="fun-points">
-  <h3>この曲を歌うと楽しいポイント</h3>
-  
-  <div class="fun-point-item">
-    <strong>① 韻を踏むところを意識する</strong>
-    <p>fade away / celebrate / anything / fade away——音の「-ay」「伸び」をリズムで揃えると気持ちいい〜</p>
-  </div>
-  
-  <div class="fun-point-item">
-    <strong>② 意味よりノリ重視</strong>
-    <p>単語を正確に追わず、ビートに乗せて踏む感覚でOK！</p>
-  </div>
-  
-  <div class="fun-point-item">
-    <strong>③ 動物になって歌う</strong>
-    <p>Try Everythingの気持ちで、跳ねる・揺れる・崩してOK！</p>
-  </div>
-  
-  <div class="fun-point-item">
-    <strong>④ 体を使う</strong>
-    <p>軽く跳ねると英語のリズムが一気にハマる！</p>
-  </div>
-  
-  <div class="fun-point-item">
-    <strong>結論：「うまく歌う」より「踏んでノる」</strong>
-    <p>ここが歌えるようになったら、この曲をもっと楽しめる気がする。</p>
-  </div>
-</div>
+### <span class="section-subtitle">この曲を歌うと楽しいポイント</span>
+
+**① 韻を踏むところを意識する**
+
+fade away / celebrate / anything / fade away——音の「-ay」「伸び」をリズムで揃えると気持ちいい〜
+
+**② 意味よりノリ重視**
+
+単語を正確に追わず、ビートに乗せて踏む感覚でOK！
+
+**③ 動物になって歌う**
+
+Try Everythingの気持ちで、跳ねる・揺れる・崩してOK！
+
+**④ 体を使う**
+
+軽く跳ねると英語のリズムが一気にハマる！
+
+---
+
+**結論：「うまく歌う」より「踏んでノる」**
+
+ここが歌えるようになったら、この曲をもっと楽しめる気がする。
 
 ---
 
@@ -210,5 +196,18 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 ズートピアという街が、多様な動物たちが共存する場所であるように、この曲も「誰が歌ってもいい」「どう歌ってもいい」という自由さがある。
 
 そんな自由な場所を求めている。そんな人にぴったりな曲だ。
+
+---
+
+## Related Posts <span class="section-subtitle">関連記事</span>
+
+**ズートピアシリーズの楽曲**
+- **[Try Everything](/posts/try-everything)** - 前作『ズートピア』の主題歌。失敗を恐れずに挑戦し続けるメッセージを歌った、シャキーラの代表的なディズニーソング。
+
+**この曲の共作者**
+- **[Ed Sheeran アーティストページ](/artists/ed-sheeran)** - この曲を共作したエド・シーラン。「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」など、メロディアスなポップソングで知られる。
+
+**シャキーラについてもっと知る**
+- **[Shakira アーティストページ](/artists/shakira)** - シャキーラの経歴、音楽スタイル、代表曲、ディスコグラフィーを網羅。ラテン音楽とポップスの融合を楽しむなら必見。
 
 ---

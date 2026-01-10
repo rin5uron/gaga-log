@@ -63,7 +63,7 @@ export default function TableOfContents({ html }: { html: string }) {
         });
       },
       {
-        rootMargin: "-5rem 0px -80% 0px",
+        rootMargin: "-80px 0px -80% 0px",
       }
     );
 
