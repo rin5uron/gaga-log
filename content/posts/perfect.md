@@ -48,11 +48,11 @@ type: "song"
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
-### <span class="section-subtitle">「I found a love」に込められた想い</span>
+### <span class="section-subtitle">歌い出し「I found a love」</span>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-まず、この曲の核心となるフレーズ。
+まず、歌い出しのフレーズ。
 
 > I found a love, for me
 > Darling, just dive right in and follow my lead
