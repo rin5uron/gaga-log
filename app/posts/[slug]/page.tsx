@@ -271,6 +271,32 @@ export default async function PostPage({
               {post.title}
             </h1>
 
+            {/* 映像作品の画像 */}
+            {movieImage && (
+              <div
+                id="movie-image"
+                className="movie-image-wrapper mb-4 max-w-2xl"
+                dangerouslySetInnerHTML={{ __html: movieImage }}
+              />
+            )}
+
+            {/* YouTube埋め込み */}
+            {youtubeEmbed && (
+              <div
+                id="youtube-embed"
+                className="youtube-embed-wrapper mb-3 max-w-2xl"
+                dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
+              />
+            )}
+
+            {/* ストリーミングリンク */}
+            {streamingLinks && (
+              <div
+                className="streaming-links mb-4 max-w-2xl flex gap-3"
+                dangerouslySetInnerHTML={{ __html: streamingLinks }}
+              />
+            )}
+
             {/* アーティスト情報 */}
             <div className="text-sm text-gray-600 mb-4 max-w-2xl">
               {post.artist && (
@@ -330,32 +356,6 @@ export default async function PostPage({
                 </>
               )}
             </div>
-
-            {/* 映像作品の画像 */}
-            {movieImage && (
-              <div
-                id="movie-image"
-                className="movie-image-wrapper mb-4 max-w-2xl"
-                dangerouslySetInnerHTML={{ __html: movieImage }}
-              />
-            )}
-
-            {/* YouTube埋め込み */}
-            {youtubeEmbed && (
-              <div
-                id="youtube-embed"
-                className="youtube-embed-wrapper mb-3 max-w-2xl"
-                dangerouslySetInnerHTML={{ __html: youtubeEmbed }}
-              />
-            )}
-
-            {/* ストリーミングリンク */}
-            {streamingLinks && (
-              <div
-                className="streaming-links mb-4 max-w-2xl flex gap-3"
-                dangerouslySetInnerHTML={{ __html: streamingLinks }}
-              />
-            )}
           </header>
 
           {/* 目次 */}

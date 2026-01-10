@@ -34,7 +34,7 @@ keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2"
 
 ---
 
-### なぜエド・シーランがディズニー映画を？作曲の背景
+### <span class="section-subtitle">なぜエド・シーランがディズニー映画を？作曲の背景</span>
 
 この曲の作曲を担当した[エド・シーラン](/artists/ed-sheeran)は、「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」「[The A Team](/posts/the-a-team)」など、メロディアスなポップソングで知られるアーティスト。
 
@@ -44,7 +44,7 @@ keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2"
 
 ---
 
-### 劇中どこで流れる？Zootennial Galaシーンの意味
+### <span class="section-subtitle">劇中どこで流れる？Zootennial Galaシーンの意味</span>
 
 劇中では、Zootennial Gala（ズートピア建国100周年記念祭）のシーンで流れる。多様な動物たちが集まり、街の歴史を祝う華やかな場面だ。
 
@@ -52,7 +52,7 @@ keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2"
 
 ---
 
-### Try Everythingとの違いは？前作主題歌との比較
+### <span class="section-subtitle">Try Everythingとの違いは？前作主題歌との比較</span>
 
 前作『ズートピア』の主題歌「[Try Everything](/posts/try-everything)」も、シャキーラが演じるガゼルが歌った。では、2つの曲の違いは何か？
 
