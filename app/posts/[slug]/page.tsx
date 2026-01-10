@@ -13,6 +13,77 @@ import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
 import AdSenseUnit from "@/components/AdSenseUnit";
 
+// カタカナ変換マッピングテーブル
+const katakanaMap: Record<string, string> = {
+  // アーティスト名
+  "Lady Gaga": "レディー・ガガ",
+  "Ed Sheeran": "エド・シーラン",
+  "Shakira": "シャキーラ",
+  "Ariana Grande": "アリアナ・グランデ",
+  "ABBA": "アバ",
+  "Florence + The Machine": "フローレンス・アンド・ザ・マシーン",
+  "Beyoncé": "ビヨンセ",
+  "Wyclef Jean": "ワイクリフ・ジーン",
+  "Bradley Cooper": "ブラッドリー・クーパー",
+  "Chris Moukarbel": "クリス・ムーカーベル",
+  // 曲名
+  "Bad Romance": "バッドロマンス",
+  "Poker Face": "ポーカーフェイス",
+  "Just Dance": "ジャスト・ダンス",
+  "Born This Way": "ボーン・ディス・ウェイ",
+  "Telephone": "テレフォン",
+  "Alejandro": "アレハンドロ",
+  "Judas": "ジューダス",
+  "Bloody Mary": "ブラッディ・マリー",
+  "Aura": "オーラ",
+  "Joanne": "ジョアン",
+  "Shallow": "シャロウ",
+  "Rain on Me": "レイン・オン・ミー",
+  "Replay": "リプレイ",
+  "Hey Girl": "ヘイ・ガール",
+  "LoveDrug": "ラブドラッグ",
+  "Perfect": "パーフェクト",
+  "Sing": "シング",
+  "Happier": "ハッピアー",
+  "The A Team": "ジ・エー・チーム",
+  "Thinking Out Loud": "シンキング・アウト・ラウド",
+  "One Shot": "ワン・ショット",
+  "Zoo": "ズー",
+  "Try Everything": "トライ・エブリシング",
+  "Hips Don't Lie": "ヒップス・ドント・ライ",
+  "Thank U, Next": "サンキュー・ネクスト",
+  "Fernando": "フェルナンド",
+  "Gaga: Five Foot Two": "ガガ: ファイブ・フット・トゥー",
+};
+
+// アーティスト名をカタカナに変換（複数アーティストに対応）
+function getKatakanaArtist(artist: string | undefined): string[] {
+  if (!artist) return [];
+  
+  const result: string[] = [];
+  // /, &, feat., with などで分割
+  const separators = /[&/×]|feat\.|with|,/i;
+  const parts = artist.split(separators);
+  
+  parts.forEach((part) => {
+    const trimmed = part.trim();
+    if (trimmed) {
+      const katakana = katakanaMap[trimmed] || trimmed;
+      if (katakana !== trimmed) {
+        result.push(katakana);
+      }
+    }
+  });
+  
+  return result;
+}
+
+// 曲名をカタカナに変換
+function getKatakanaTitle(title: string | undefined): string | undefined {
+  if (!title) return undefined;
+  return katakanaMap[title] || undefined;
+}
+
 export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   const posts = getAllPosts();
   return posts.map((post) => ({
@@ -56,16 +127,34 @@ export async function generateMetadata({
   }
 
   // キーワード生成
-  const keywords = [
-    post.artist || "",
-    post.title,
-    "歌詞",
-    "意味",
-    "解説",
-    "音楽",
-    "レビュー",
-    post.album || "",
-  ].filter(Boolean);
+  // frontmatterにkeywordsがある場合はそれを使用、ない場合は自動生成
+  let keywords: string[] = [];
+  
+  if (post.keywords && post.keywords.length > 0) {
+    // frontmatterにkeywordsがある場合はそれを使用
+    keywords = [...post.keywords];
+  } else {
+    // 自動生成：英語表記 + カタカナ表記 + 基本キーワード
+    keywords = [
+      post.artist || "",
+      post.title,
+      "歌詞",
+      "意味",
+      "解説",
+      "音楽",
+      "レビュー",
+      post.album || "",
+    ].filter(Boolean);
+    
+    // カタカナ表記を追加
+    const katakanaArtists = getKatakanaArtist(post.artist);
+    const katakanaTitle = getKatakanaTitle(post.title);
+    
+    keywords.push(...katakanaArtists);
+    if (katakanaTitle) {
+      keywords.push(katakanaTitle);
+    }
+  }
 
   const baseUrl = "https://sound-feels.com";
 

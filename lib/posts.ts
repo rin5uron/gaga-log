@@ -16,6 +16,7 @@ export interface Post {
   date: string;
   type?: string;
   relatedPosts?: string[];
+  keywords?: string[];
   content: string;
 }
 
@@ -49,6 +50,7 @@ export function getPostBySlug(slug: string): Post | null {
       date: data.date || "",
       type: data.type,
       relatedPosts: data.relatedPosts,
+      keywords: data.keywords,
       content,
     };
   } catch (error) {

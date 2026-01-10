@@ -38,10 +38,11 @@ body {
 }
 
 .prose h3 {
-  @apply text-lg font-semibold mb-4;
+  @apply text-xl font-semibold mb-4;
   color: #374151;
   margin-top: 5rem;
-  line-height: 1.4;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
 }
 
 /* h2直後のh3は余白1rem */
@@ -55,18 +56,18 @@ body {
 }
 
 .prose blockquote {
-  border-left: 8px solid #9ca3af;
+  border-left: 0.5rem solid #9ca3af;
   background-color: #f3f4f6;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
   color: #111827;
   font-size: 1.25rem;
   font-weight: 600;
-  line-height: 1.6;
+  line-height: 1.7;
   font-style: normal;
-  border-radius: 0 8px 8px 0;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
@@ -114,25 +115,25 @@ body {
 
 /* YouTube埋め込み */
 .youtube-embed-wrapper {
-  max-width: 672px;
+  max-width: 42rem;
 }
 
 .youtube-embed-wrapper iframe {
   width: 100%;
   height: auto;
   aspect-ratio: 16 / 9;
-  border-radius: 8px;
+  border-radius: 0.5rem;
 }
 
 /* 映像作品の画像 */
 .movie-image-wrapper {
-  max-width: 500px;
+  max-width: 31.25rem;
 }
 
 .movie-image-wrapper img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 0.5rem;
 }
 
 /* レスポンシブ対応 */
@@ -165,8 +166,8 @@ body {
   }
 
   .prose h3 {
-    font-size: 1.125rem;
-    line-height: 1.4;
+    font-size: 1.25rem;
+    line-height: 1.5;
   }
 
   .prose h3 .section-subtitle {
@@ -204,7 +205,7 @@ body {
 .post-content h2 {
   margin-top: 5rem;
   padding-top: 2rem;
-  border-top: 2px solid #e5e7eb;
+  border-top: 0.125rem solid #e5e7eb;
 }
 
 .post-content h2:first-of-type {
@@ -224,6 +225,121 @@ body {
 @media (max-width: 768px) {
   .prose h2 .section-subtitle {
     margin-left: 0.5rem;
+  }
+}
+
+/* 前作と今作の比較ボックス */
+.comparison-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.comparison-item {
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  border: 0.125rem solid #e5e7eb;
+  background-color: #ffffff;
+}
+
+.comparison-item.previous {
+  border-color: #9ca3af;
+  background-color: #f9fafb;
+}
+
+.comparison-item.current {
+  border-color: #3b82f6;
+  background-color: #eff6ff;
+}
+
+.comparison-item h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+  padding-bottom: 0.75rem;
+  border-bottom: 0.125rem solid #e5e7eb;
+}
+
+.comparison-item.previous h4 {
+  color: #6b7280;
+  border-bottom-color: #d1d5db;
+}
+
+.comparison-item.current h4 {
+  color: #2563eb;
+  border-bottom-color: #93c5fd;
+}
+
+.comparison-item ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
+
+.comparison-item li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+  color: #374151;
+}
+
+/* 楽しいポイントセクション */
+.fun-points {
+  margin: 2.5rem 0;
+  padding: 2rem;
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+  border-radius: 16px;
+  border: 2px solid #fbbf24;
+}
+
+.fun-points h3 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: #92400e;
+  font-size: 1.5rem;
+}
+
+.fun-point-item {
+  margin-bottom: 1.5rem;
+  padding: 1.25rem;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-left: 4px solid #f59e0b;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.fun-point-item:last-child {
+  margin-bottom: 0;
+}
+
+.fun-point-item strong {
+  display: block;
+  font-size: 1.125rem;
+  color: #92400e;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.fun-point-item p {
+  margin: 0;
+  color: #374151;
+  line-height: 1.7;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+  .comparison-box {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .fun-points {
+    padding: 1.5rem;
+  }
+  
+  .fun-points h3 {
+    font-size: 1.25rem;
   }
 }
 

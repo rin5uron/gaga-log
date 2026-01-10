@@ -84,10 +84,10 @@ export default function TableOfContents({ html }: { html: string }) {
 
   return (
     <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-[9px] font-normal mb-3 text-gray-500 uppercase tracking-wider">
+      <h2 className="text-sm font-normal mb-4 text-gray-500 uppercase tracking-wider">
         この記事でわかること
       </h2>
-      <ul className="space-y-1.5 pl-0 list-none">
+      <ul className="space-y-2 pl-0 list-none">
         {headings.map((heading) => (
           <li
             key={heading.id}
@@ -95,14 +95,14 @@ export default function TableOfContents({ html }: { html: string }) {
           >
             {heading.level === 2 ? (
               // h2はリンクなし、ただのテキスト
-              <div className="py-1 text-[11px] text-gray-900 font-semibold">
+              <div className="py-1.5 text-base text-gray-900 font-semibold">
                 {heading.text}
               </div>
             ) : (
               // h3のみリンク化
               <a
                 href={`#${heading.id}`}
-                className={`block py-1 text-xs text-gray-600 hover:text-gray-900 transition-colors ${
+                className={`block py-1.5 text-sm text-gray-600 hover:text-gray-900 transition-colors ${
                   activeId === heading.id ? "font-semibold" : ""
                 }`}
                 onClick={(e) => {

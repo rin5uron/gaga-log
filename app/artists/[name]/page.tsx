@@ -10,6 +10,25 @@ import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 
+// アーティスト名の別表記マッピングテーブル
+const artistAliasMap: Record<string, string[]> = {
+  "Lady Gaga": ["レディー・ガガ", "レディーガガ", "ガガ"],
+  "Ed Sheeran": ["エド・シーラン", "エドシーラン", "エド"],
+  "Ariana Grande": ["アリアナ・グランデ", "アリアナグランデ", "アリアナ"],
+  "Shakira": ["シャキーラ"],
+  "ABBA": ["アバ"],
+  "Florence + The Machine": ["フローレンス・アンド・ザ・マシーン", "フローレンス"],
+  "Beyoncé": ["ビヨンセ"],
+  "Wyclef Jean": ["ワイクリフ・ジーン", "ワイクリフ"],
+  "Bradley Cooper": ["ブラッドリー・クーパー", "ブラッドリー"],
+  "Chris Moukarbel": ["クリス・ムーカーベル", "クリス"],
+};
+
+// アーティスト名の別表記を取得
+function getArtistAliases(artistName: string): string[] {
+  return artistAliasMap[artistName] || [];
+}
+
 export async function generateStaticParams(): Promise<Array<{ name: string }>> {
   const artists = getAllArtists();
   return artists.map((artist) => ({
@@ -43,12 +62,32 @@ export async function generateMetadata({
   const title = `${artistName} - アーティスト情報と楽曲解説 | How Sound Feels`;
   const description = `${artistName}の楽曲解説一覧（${posts.length}件）。歌詞の意味、音の魅力を深掘り。音を慈しみ、声を愛する。`;
 
+  // キーワード生成
+  const keywords: string[] = [
+    artistName, // 英語表記
+    "歌詞",
+    "解説",
+    "音楽",
+    "楽曲一覧",
+  ];
+
+  // アーティスト名の別表記を追加
+  const aliases = getArtistAliases(artistName);
+  keywords.push(...aliases);
+
+  // 国籍と出身を追加
+  if (artistProfile?.nationality) {
+    keywords.push(artistProfile.nationality); // 国籍（例: "アメリカ"）
+    keywords.push("国籍");
+    keywords.push("出身");
+  }
+
   const baseUrl = "https://sound-feels.com";
 
   return {
     title,
     description,
-    keywords: [artistName, "歌詞", "解説", "音楽", "楽曲一覧"],
+    keywords,
     authors: [{ name: "STUDIO Jinsei" }],
     openGraph: {
       title,
