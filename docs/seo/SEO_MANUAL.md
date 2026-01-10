@@ -273,9 +273,152 @@ Q3: 他のサイトでは答えられていない部分は？
 
 ---
 
+## 📋 既存記事の構造チェック＆修正ガイド
+
+### なぜ構造が重要か？
+
+記事の構造（H2/H3の階層と`<span class="section-subtitle">`タグ）は、以下の理由で重要：
+
+1. **目次生成**: TableOfContentsコンポーネントがH2/H3から目次を生成
+2. **ユーザー体験**: 目次がないと読者が記事の全体像を把握できない
+3. **SEO**: 構造化された見出しは検索エンジンの理解を助ける
+
+### ステップ1: 記事構造の診断（5分）
+
+**必須チェック項目:**
+
+```bash
+# H2の数を確認
+grep -c "^## " content/posts/[記事名].md
+
+# H3の数を確認
+grep -c "^### " content/posts/[記事名].md
+
+# H2にタグがない行を検出（これが出力されたらNG）
+grep "^## [^<]*$" content/posts/[記事名].md
+
+# H3にタグがない行を検出（これが出力されたらNG）
+grep "^### [^<]*$" content/posts/[記事名].md
+```
+
+**診断基準:**
+
+- ✅ **合格**: すべてのH2に最低1つのH3がある、すべてにタグがある
+- ⚠️ **要修正**: H3が0個のH2セクションがある、タグが抜けている
+- ❌ **不合格**: H3が全くない、タグが全て抜けている
+
+---
+
+### ステップ2: H3見出しの追加パターン
+
+各セクションに何を書くべきか、テンプレートを用意：
+
+#### **Aboutセクション**
+```markdown
+## About <span class="section-subtitle">この曲について</span>
+
+### <span class="section-subtitle">キャリアを決定づけた代表曲</span>
+または
+### <span class="section-subtitle">この曲が生まれた背景</span>
+```
+
+**内容例**: リリース情報、チャート成績、制作背景、アーティストのコメント
+
+---
+
+#### **Lyricsセクション**
+```markdown
+## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+
+### <span class="section-subtitle">タイトルの意味</span>
+### <span class="section-subtitle">核心となる歌詞</span>
+```
+
+**内容例**: タイトルの由来、重要な歌詞の引用と解釈、比喩や象徴の説明
+
+---
+
+#### **Favorite Linesセクション**
+```markdown
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+
+### <span class="section-subtitle">この曲を歌うと楽しいポイント</span>
+または
+### <span class="section-subtitle">覚えておきたいフレーズ</span>
+```
+
+**内容例**: 印象的なフレーズ、歌い方のコツ、カラオケでのポイント
+
+---
+
+#### **Music Videoセクション**
+```markdown
+## Music Video <span class="section-subtitle">MVの見どころ</span>
+
+### <span class="section-subtitle">MVのコンセプト</span>
+### <span class="section-subtitle">印象的なシーン</span>
+```
+
+**内容例**: 監督情報、映像の特徴、象徴的なシーン、ファッション
+
+---
+
+#### **Thoughtsセクション**
+```markdown
+## Thoughts <span class="section-subtitle">この曲が残したもの</span>
+
+### <span class="section-subtitle">個人的な感想</span>
+または
+### <span class="section-subtitle">この曲から学んだこと</span>
+```
+
+**内容例**: 筆者の感想、曲がもたらした影響、聴いた時の気持ち
+
+---
+
+### ステップ3: 修正の優先順位
+
+**優先度A（即修正）:**
+- アクセス数が月100PV以上
+- Google検索で11〜30位（あと少しで1ページ目）
+- 独自性が高く、競合が少ない記事
+
+**優先度B（次回修正）:**
+- アクセス数が月50PV以上
+- 関連記事からの内部リンクが多い記事
+
+**優先度C（余裕があれば）:**
+- その他の記事
+- 映像作品の記事（楽曲記事を優先）
+
+---
+
+### ステップ4: 修正作業の流れ
+
+1. `/seo-structure-fix` コマンドを実行
+2. 診断結果を確認
+3. 提案されたH3見出しを確認・承認
+4. 自動で修正が適用される
+5. デプロイして目次を確認
+
+---
+
+### アクセス数の確認方法
+
+#### Google Analytics（推奨）
+1. **Behavior** > **Site Content** > **All Pages**
+2. 期間を「過去30日」に設定
+3. `/posts/` でフィルタリング
+4. **Page Views** でソート
+
+#### Vercel Analytics
+- ダッシュボードで `/posts/` のページビューを確認
+
+---
+
 ## 📝 ページ別改善フロー
 
-### 記事ページの確認・改善手順
+### 新規記事 or コンテンツ強化の改善手順
 
 #### 1. 現状確認（所要時間: 15分）
 ```
