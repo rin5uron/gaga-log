@@ -108,6 +108,7 @@ spotifyUrl: "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
 - **Thinking Out Loud** - 永遠の愛を誓うロマンティックなバラード。結婚式の定番曲。
 - **Happier** - 別れの後に一番聴いてはいけない曲かもしれない。優しさと痛みが共存している。
 - **Perfect** - 妻への愛を歌った結婚式の定番曲。完璧じゃなくても、完璧な愛がある。
+- **Zoo** - [Shakira](/artists/shakira)との共作で、ディズニー映画『ズートピア2』の劇中歌。祝祭感とコミュニティの団結を歌った作品。
 
 ---
 
