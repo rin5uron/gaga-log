@@ -289,8 +289,8 @@ body {
   margin: 2.5rem 0;
   padding: 2rem;
   background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-  border-radius: 16px;
-  border: 2px solid #fbbf24;
+  border-radius: 1rem;
+  border: 0.125rem solid #fbbf24;
 }
 
 .fun-points h3 {
@@ -304,9 +304,9 @@ body {
   margin-bottom: 1.5rem;
   padding: 1.25rem;
   background-color: #ffffff;
-  border-radius: 10px;
-  border-left: 4px solid #f59e0b;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 0.625rem;
+  border-left: 0.25rem solid #f59e0b;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.05);
 }
 
 .fun-point-item:last-child {
