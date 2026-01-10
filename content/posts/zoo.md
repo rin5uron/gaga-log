@@ -74,11 +74,15 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
+### <span class="section-subtitle">「Zoo」に込められた意味</span>
+
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
 この曲のタイトルでもある「Zoo」——動物園という意味だけでなく、ズートピアという街そのものを表している。
 
 「Zoo」というシンプルな言葉の中に、多様な動物たちが共存する街の祝祭感が凝縮されている。歌詞全体が、ズートピア建国100周年を祝う歌になっているため、この「Zoo」は単なる動物園ではなく、「私たちの街」「私たちの居場所」という意味を持つ。
+
+### <span class="section-subtitle">韻を踏むフレーズの魅力</span>
 
 > fade away / celebrate / anything
 
@@ -179,11 +183,15 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 ## Thoughts <span class="section-subtitle">楽しさを、そのまま受け取る</span>
 
+### <span class="section-subtitle">完璧を求めない、ディズニー音楽の魅力</span>
+
 「Try Everything」が好きで、「Zoo」も同じように楽しくて、歌いたくなる曲だ。
 
 ディズニーの映画音楽は、深く考えなくても、その楽しさをそのまま受け取れる。それが良い。考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分だ。
 
 この曲は、「完璧に歌えなくてもいい」と教えてくれる。ノリと楽しさが優先。正解なんてない。シャキーラみたいに、明るく、自由に、楽しく歌えばいい。
+
+### <span class="section-subtitle">自由な場所を求めて</span>
 
 ズートピアという街が、多様な動物たちが共存する場所であるように、この曲も「誰が歌ってもいい」「どう歌ってもいい」という自由さがある。
 
