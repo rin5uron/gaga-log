@@ -113,13 +113,19 @@ const keywords = [
 - [ ] **階層構造**: H2 → H3 の順番が正しいか
 - [ ] **キーワード分散**: 関連キーワードが小見出しに含まれているか
 - [ ] **読みやすさ**: 目次として機能しているか
+- [ ] **目次生成**: すべてのH2/H3に `<span class="section-subtitle">` が付いているか（目次に表示されるため必須）
 
 **確認例**:
 ```markdown
 ## About <span class="section-subtitle">この曲について</span>
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+### <span class="section-subtitle">破壊的な愛を歌う歌詞</span>
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
+### <span class="section-subtitle">実写とアニメの融合</span>
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 ```
+
+**重要**: H2だけでなく、**H3にも必ず `<span class="section-subtitle">` を付けること**。これがないと目次（TableOfContents）に表示されず、読者の利便性が下がる。
 
 ---
 
