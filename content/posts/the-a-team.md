@@ -122,6 +122,8 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 ## 他の曲との対比で見えるもの
 
+### <span class="section-subtitle">恋愛とは違う種類の距離</span>
+
 Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲がある。そして、「Happier」という、別れの痛みを静かに歌う曲がある。
 
 その中で、「The A Team」は、恋愛とは違う種類の「距離」を歌っている。
@@ -138,7 +140,7 @@ Ed Sheeranは、距離を"感情"ではなく"状態"として歌っている。
 
 
 
-## 夜にひとりで聴くと刺さる理由
+## Thoughts <span class="section-subtitle">見過ごさずに歌うということ</span>
 
 この曲は、夜にひとりで聴くと特に刺さる。
 

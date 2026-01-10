@@ -26,9 +26,13 @@ type: "song"
 
 ## About <span class="section-subtitle">この曲について</span>
 
+### <span class="section-subtitle">20分で書かれた永遠のラブソング</span>
+
 「Thinking Out Loud」は、Ed Sheeranの2枚目のスタジオアルバム『×（Multiply）』（2014年6月23日リリース）からの3枚目のシングルとして、2014年8月8日（米国）にリリースされた楽曲。2014年2月4日の深夜2時に、わずか20分で書き上げられたという。歌詞の内容は「永遠の愛」についての会話から生まれた。
 
 ---
+
+### <span class="section-subtitle">結婚式で最も人気の曲</span>
 
 Ed Sheeran自身が「バージンロードを歩くための曲」と語ったように、この曲は時を超えて続く愛を歌った、永遠のラブソング。当時の恋人Athina Andrelosとの関係、そして祖父母の姿から着想を得て、23歳の頃と同じように70歳になっても愛し続けることを約束する——そんな深い献身の物語が描かれている。
 
@@ -102,6 +106,8 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 ## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
+### <span class="section-subtitle">70歳になっても愛し続ける約束</span>
+
 「Thinking Out Loud」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も象徴的な部分。
@@ -128,6 +134,8 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
+### <span class="section-subtitle">エド・シーランが挑戦したダンス</span>
+
 2014年10月7日に公開されたミュージックビデオは、公開から24時間で270万回再生を記録し、2025年9月時点で39億回再生という驚異的な数字を達成している（YouTube史上28番目に再生されている動画）。
 
 最も印象的なのは、Ed Sheeranのダンス。通常、シンガーソングライターのMVではギターを持って歌うイメージが強いが、この曲ではコンテンポラリーダンスに挑戦している。
@@ -135,6 +143,8 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 相手役は、アメリカのダンス番組「So You Think You Can Dance」シーズン10でトップ20に入ったBrittany Cherry。ラテン、バルルーム、バレエ、ジャズ、コンテンポラリーダンスの正式なトレーニングを受けたプロダンサーだ。
 
 振付はNappytabsが担当し、Paul Karmiryanのトレーニングサポートも受けている。Ed Sheeranは、コンサートツアー中に1日5時間、3週間にわたってBrittany Cherryと練習を重ねたという。
+
+### <span class="section-subtitle">39億回再生の理由</span>
 
 映像は、シンプルな背景の中で二人が踊るだけ。でも、そのシンプルさが、曲のメッセージ——純粋で時を超えた愛——を際立たせている。
 
@@ -144,7 +154,9 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## 大学生の頃、夜中に聴いたエド・シーラン
+## Thoughts <span class="section-subtitle">大学生の頃、夜中に聴いたエド・シーラン</span>
+
+### <span class="section-subtitle">ギター1本、そばにいる感覚</span>
 
 あなたが話してくれた。
 

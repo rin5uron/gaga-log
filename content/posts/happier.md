@@ -125,6 +125,8 @@ type: "song"
 
 ## Thinking Out Loud との対比で見えるもの
 
+### <span class="section-subtitle">愛の始まりと終わり</span>
+
 Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲がある。そして、この「Happier」は、その真逆にある曲だ。
 
 - **Thinking Out Loud**：愛が"今ここ"にある
@@ -140,7 +142,7 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 
 
-## 夜に聴くと刺さる理由
+## Thoughts <span class="section-subtitle">別れの後に一番聴いてはいけない曲</span>
 
 この曲は、夜に聴くと特に刺さる。
 
