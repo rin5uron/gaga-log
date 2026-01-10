@@ -7,6 +7,7 @@ date: "2025-12-28"
 order: 7
 type: "song"
 keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala","元ネタ","ズートピア"]
+relatedPosts: ["try-everything"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -196,18 +197,5 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 ズートピアという街が、多様な動物たちが共存する場所であるように、この曲も「誰が歌ってもいい」「どう歌ってもいい」という自由さがある。
 
 そんな自由な場所を求めている。そんな人にぴったりな曲だ。
-
----
-
-## Related Posts <span class="section-subtitle">関連記事</span>
-
-**ズートピアシリーズの楽曲**
-- **[Try Everything](/posts/try-everything)** - 前作『ズートピア』の主題歌。失敗を恐れずに挑戦し続けるメッセージを歌った、シャキーラの代表的なディズニーソング。
-
-**この曲の共作者**
-- **[Ed Sheeran アーティストページ](/artists/ed-sheeran)** - この曲を共作したエド・シーラン。「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」など、メロディアスなポップソングで知られる。
-
-**シャキーラについてもっと知る**
-- **[Shakira アーティストページ](/artists/shakira)** - シャキーラの経歴、音楽スタイル、代表曲、ディスコグラフィーを網羅。ラテン音楽とポップスの融合を楽しむなら必見。
 
 ---

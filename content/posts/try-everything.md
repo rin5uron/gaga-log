@@ -6,7 +6,8 @@ artist: "Shakira"
 date: "2025-12-30"
 order: 10
 type: "song"
-keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Zootopia", "主題歌", "Sia", "失敗を恐れない", "挑戦", "ガゼル", "Gazelle", "歌詞の意味", "英語学習", "ディズニー", "Disney", "レジリエンス", "Zoo", "ズートピア2"]
+keywords: ["Try Everything", "トライエブリシング", "シャキーラ", "Shakira", "ズートピア", "Zootopia", "主題歌", "Sia", "失敗を恐れない", "挑戦", "ガゼル", "Gazelle", "歌詞の意味", "英語学習", "ディズニー", "Disney", "レジリエンス", "Zoo", "ズートピア2"]
+relatedPosts: ["zoo"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -28,17 +29,15 @@ keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Z
 
 ## About <span class="section-subtitle">この曲について</span>
 
-「Try Everything」は、2016年のウォルト・ディズニー・アニメーション・スタジオ映画『ズートピア』の主題歌として、[Shakira](/artists/shakira)が歌唱した楽曲。オーストラリアのシンガーソングライター・Siaと、ノルウェーのプロデューサーデュオ・Stargate（Tor Erik Hermansen、Mikkel Eriksen）によって書かれた。2016年1月8日に世界中でデジタルダウンロードとして先行リリースされ、サウンドトラックアルバムは2016年3月4日にウォルト・ディズニー・レコードからリリースされた。
+### <span class="section-subtitle">ズートピアの主題歌として</span>
 
----
+「Try Everything」は、2016年のウォルト・ディズニー・アニメーション・スタジオ映画『ズートピア』の主題歌として、[Shakira](/artists/shakira)が歌唱した楽曲。オーストラリアのシンガーソングライター・Siaと、ノルウェーのプロデューサーデュオ・Stargate（Tor Erik Hermansen、Mikkel Eriksen）によって書かれた。2016年1月8日に世界中でデジタルダウンロードとして先行リリースされ、サウンドトラックアルバムは2016年3月4日にウォルト・ディズニー・レコードからリリースされた。
 
 ### <span class="section-subtitle">Siaとの共作：なぜこの曲が心に響くのか</span>
 
 この曲の作詞を担当したSiaは、「Chandelier」「Elastic Heart」など、感情の奥底に届く楽曲で知られるアーティスト。Siaが書く歌詞の特徴は、失敗や痛みを隠さず、それでも前を向く——そんな「正直さ」にある。
 
 「Try Everything」の歌詞にも、その特徴が表れている。「失敗してもいい」なんて簡単には言えない。でも、Siaはそれを正面から歌詞にした。だからこそ、この曲は単なる励ましソングではなく、本当に心に響く。
-
----
 
 ### <span class="section-subtitle">劇中での役割：ジュディの挑戦とリンクする楽曲</span>
 
@@ -54,6 +53,8 @@ keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Z
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
+### <span class="section-subtitle">タイトルの意味：「Try Everything」に込められたメッセージ</span>
+
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
 まず、この曲の核心となるフレーズ。
@@ -62,7 +63,9 @@ keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Z
 
 「すべてを試す」「何でもやってみる」——これは単なるポジティブなメッセージではなく、失敗を恐れずに行動することの大切さを表している。完璧を目指すのではなく、まず試してみる。その勇気が、成長への第一歩になる。
 
-そして、この曲の最も象徴的なフレーズ。
+### <span class="section-subtitle">失敗と成長を象徴する歌詞</span>
+
+この曲の最も象徴的なフレーズ。
 
 > Birds don't just fly, they fall down and get up
 
@@ -84,7 +87,7 @@ keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Z
 
 ## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
-「Try Everything」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
+### <span class="section-subtitle">サビで印象的なフレーズ</span>
 
 まず、サビの中心になるのがこのフレーズ。
 
@@ -112,6 +115,8 @@ keywords: ["Try Everything", "シャキーラ", "Shakira", "ズートピア", "Z
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
+### <span class="section-subtitle">映画とレコーディング映像の融合</span>
+
 2016年にリリースされたミュージックビデオは、映画『ズートピア』のシーンと、Shakiraがレコーディングスタジオで歌っている映像を組み合わせた構成になっている。
 
 映画のシーンでは、主人公のウサギ・ジュディ・ホップスが、小さな田舎町からズートピアという大都市へ向かう列車の中で、この曲を聴いているシーンが印象的。彼女の夢——警察官になること——は、周りから無理だと言われ続けてきた。でも、それでも諦めずに挑戦する彼女の姿勢が、この曲のメッセージと完璧に重なっている。
@@ -124,7 +129,9 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 
 
 
-## ズートピア2を見て、また1に戻りたくなった
+## Thoughts <span class="section-subtitle">この曲が残したもの</span>
+
+### <span class="section-subtitle">ズートピア2を見て、また1に戻りたくなった</span>
 
 ズートピア2を観て、改めてこの曲の良さに気づいた。
 
@@ -139,15 +146,5 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Try Everything」は、失敗を恐れずに、何度でも立ち上がる勇気を与えてくれる曲。そして、ズートピアという映画が、何年経っても色褪せない理由の一つが、この曲にあると思う。
-
----
-
-## Related Posts <span class="section-subtitle">関連記事</span>
-
-**シャキーラの他の作品**
-- **[Zoo](/posts/zoo)** - ズートピア2の劇中歌。Try Everythingの続編として、祝祭感とコミュニティの団結を歌った作品。[エド・シーラン](/artists/ed-sheeran)との共作。
-
-**シャキーラについてもっと知る**
-- **[Shakira アーティストページ](/artists/shakira)** - シャキーラの経歴、音楽スタイル、代表曲、ディスコグラフィーを網羅。ラテン音楽とポップスの融合を楽しむなら必見。
 
 ---
