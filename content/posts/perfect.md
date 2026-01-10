@@ -7,6 +7,7 @@ date: "2025-12-22"
 order: 22
 type: "song"
 keywords: ["Perfect", "パーフェクト", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "プロポーズ", "チェリーシーボーン", "Cherry Seaborn", "復縁", "イビサ島"]
+relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

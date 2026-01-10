@@ -7,6 +7,7 @@ date: "2025-12-30"
 order: 11
 type: "song"
 keywords: ["Thinking Out Loud", "シンキング・アウト・ラウド", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "グラミー賞", "Brittany Cherry", "ダンス", "Amy Wadge", "Athina Andrelos"]
+relatedPosts: ["perfect", "happier", "one-shot"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

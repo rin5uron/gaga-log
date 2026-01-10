@@ -7,6 +7,7 @@ date: "2025-12-30"
 order: 13
 type: "song"
 keywords: ["The A Team", "ジ・エー・チーム", "Aチーム", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "ドラッグ", "Class A", "社会問題", "ホームレス", "Angel"]
+relatedPosts: ["happier", "thinking-out-loud", "one-shot"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

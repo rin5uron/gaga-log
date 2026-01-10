@@ -7,6 +7,7 @@ date: "2025-12-30"
 order: 12
 type: "song"
 keywords: ["Happier", "ハピアー", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "失恋", "別れ", "未練", "パペット", "Emil Nava"]
+relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
