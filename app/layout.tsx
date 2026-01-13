@@ -30,6 +30,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://sound-feels.com",
   },
+  // AdSenseの所有権確認メタタグ（AdSense管理画面で取得した値に置き換えてください）
+  // verification: {
+  //   google: "AdSense管理画面で取得した確認コード",
+  // },
 };
 
 export default function RootLayout({
@@ -40,8 +44,8 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <body className="antialiased">
-        <GoogleAnalytics />
         <AdSense />
+        <GoogleAnalytics />
         <Header />
         {children}
         <Footer />

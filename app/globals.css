@@ -251,9 +251,7 @@ body {
 .comparison-item.current {
   border-color: #3b82f6;
   background-color: #eff6ff;
-}
-
-.comparison-item h4 {
+}.comparison-item h4 {
   font-size: 1.125rem;
   font-weight: 700;
   margin-bottom: 1rem;
