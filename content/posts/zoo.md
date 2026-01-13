@@ -1,12 +1,12 @@
 ---
-title: "Zoo"
-description: "シャキーラが歌う「Zoo」はズートピア2の劇中歌。なぜエド・シーランがディズニー映画を作曲？Try Everythingとの違いは？韻の踏み方・歌い方のコツ、日本版Dream Amiとの比較まで徹底解説。"
+title: "Zoo（ズートピア2主題歌）歌詞の意味・和訳｜シャキーラ×エド・シーラン Try Everythingとの違いも"
+description: "シャキーラが歌うズートピア2の主題歌「Zoo」の歌詞を徹底解説。Try Everythingとの違い、エド・シーランが作曲した理由、歌詞の意味・和訳、日本版Dream Ami版との比較まで。"
 song: "Zoo"
 artist: "Shakira / Ed Sheeran"
 date: "2025-12-28"
 order: 7
 type: "song"
-keywords: ["Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala","元ネタ","ズートピア"]
+keywords: ["zoo 歌詞", "zoo 和訳", "ズートピア2 主題歌", "シャキーラ 新曲", "try everything 違い", "ズートピア 歌", "Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala", "zoo 意味"]
 relatedPosts: ["try-everything"]
 ---
 

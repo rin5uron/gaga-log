@@ -59,8 +59,13 @@ export async function generateMetadata({
   const artistName = artistProfile?.name || artist || "";
   const posts = getPostsByArtist(artistName);
 
-  const title = `${artistName} - アーティスト情報と楽曲解説 | How Sound Feels`;
-  const description = `${artistName}の楽曲解説一覧（${posts.length}件）。歌詞の意味、音の魅力を深掘り。音を慈しみ、声を愛する。`;
+  // 日本語表記を取得（別名の最初の要素、なければ英語名のまま）
+  const aliases = getArtistAliases(artistName);
+  const japaneseName = aliases.length > 0 ? aliases[0] : artistName;
+
+  const title = `${artistName}（${japaneseName}）代表曲・おすすめ名曲｜歌詞の意味解説`;
+  const nationalityText = artistProfile?.nationality ? `国籍：${artistProfile.nationality}。` : '';
+  const description = `${artistName}の代表曲・おすすめ楽曲${posts.length}曲を解説。歌詞の意味、和訳、曲の背景まで徹底解説。${nationalityText}`;
 
   // キーワード生成
   const keywords: string[] = [
@@ -69,10 +74,14 @@ export async function generateMetadata({
     "解説",
     "音楽",
     "楽曲一覧",
+    "代表曲",
+    "おすすめ",
+    "名曲",
+    "和訳",
+    "意味",
   ];
 
   // アーティスト名の別表記を追加
-  const aliases = getArtistAliases(artistName);
   keywords.push(...aliases);
 
   // 国籍と出身を追加

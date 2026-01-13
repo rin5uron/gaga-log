@@ -1,10 +1,12 @@
 ---
-title: "Aura"
+title: "Aura（レディー・ガガ）歌詞の意味・和訳｜Do you wanna see me nakedの真意"
+description: "Lady GagaのAuraの歌詞を徹底解説。挑発的なフレーズの本当の意味、ARTPOP時代のダークな世界観、ファッションとアートの融合まで。"
 song: "Aura"
 artist: "Lady Gaga"
 date: "2025-12-30"
 order: 15
 type: "song"
+keywords: ["aura lady gaga 歌詞", "aura 和訳", "レディーガガ aura 意味", "aura 歌詞", "lady gaga aura", "レディーガガ 歌詞", "artpop"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
