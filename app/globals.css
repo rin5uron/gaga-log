@@ -246,9 +246,7 @@ body {
 .comparison-item.previous {
   border-color: #9ca3af;
   background-color: #f9fafb;
-}
-
-.comparison-item.current {
+}.comparison-item.current {
   border-color: #3b82f6;
   background-color: #eff6ff;
 }.comparison-item h4 {

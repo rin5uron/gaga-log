@@ -6,7 +6,7 @@ artist: "Shakira / Ed Sheeran"
 date: "2025-12-28"
 order: 7
 type: "song"
-keywords: ["zoo 歌詞", "zoo 和訳", "ズートピア2 主題歌", "シャキーラ 新曲", "try everything 違い", "ズートピア 歌", "Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala", "zoo 意味"]
+keywords: ["zoo 歌詞", "zoo 和訳", "ズートピア2 主題歌", "シャキーラ 新曲", "try everything 違い", "ズートピア 歌", "Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala"]
 relatedPosts: ["try-everything"]
 ---
 
@@ -35,7 +35,7 @@ relatedPosts: ["try-everything"]
 
 ---
 
-### <span class="section-subtitle">なぜエド・シーランがディズニー映画を？作曲の背景</span>
+### <span class="section-subtitle">なぜエド・シーランがディズニー映画を？</span>
 
 この曲の作曲を担当した[エド・シーラン](/artists/ed-sheeran)は、「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」「[The A Team](/posts/the-a-team)」など、メロディアスなポップソングで知られるアーティスト。
 
@@ -186,9 +186,7 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 ### <span class="section-subtitle">完璧を求めない、ディズニー音楽の魅力</span>
 
-「Try Everything」が好きで、「Zoo」も同じように楽しくて、歌いたくなる曲だ。
-
-ディズニーの映画音楽は、深く考えなくても、その楽しさをそのまま受け取れる。それが良い。考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分だ。
+考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分だ。
 
 この曲は、「完璧に歌えなくてもいい」と教えてくれる。ノリと楽しさが優先。正解なんてない。シャキーラみたいに、明るく、自由に、楽しく歌えばいい。
 

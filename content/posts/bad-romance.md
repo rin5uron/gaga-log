@@ -5,7 +5,7 @@ date: "2025-12-08"
 order: 18
 type: "song"
 relatedPosts: ["poker-face", "born-this-way"]
-description: "Lady Gaga「Bad Romance」のタイトルに隠された3つの意味（俗語のBad、愛の怪物、禁断の恋）とMVの棺桶シーンが示す死と再生、白と赤の色の象徴性を徹底考察。海外サイトが読み解く音楽業界批判のメタファーも日本語で解説。"
+description: "Lady Gaga「Bad Romance」のタイトルに隠された3つの意味とMVの棺桶シーンが示す死と再生、白と赤の色の象徴性を徹底考察。海外サイトが読み解く音楽業界批判のメタファーも日本語で解説。"
 keywords: ["Bad Romance", "バッドロマンス", "タイトル", "意味", "なぜ", "MV", "棺桶", "Monster", "白", "赤", "ファッション", "Vigilant Citizen", "日本語", "考察", "Lady Gaga"]
 ---
 
@@ -41,7 +41,7 @@ keywords: ["Bad Romance", "バッドロマンス", "タイトル", "意味", "�
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
-### <span class="section-subtitle">"Bad Romance"というタイトルになぜ3つの意味が？</span>
+### <span class="section-subtitle">"Bad Romance"3つの意味</span>
 
 「Bad Romance」というタイトルには、実は3つの意味が重なっている。多くの人が「なぜBadなのか？」と疑問に思うが、この言葉には深い意図がある。
 
@@ -68,7 +68,6 @@ keywords: ["Bad Romance", "バッドロマンス", "タイトル", "意味", "�
 > I want your ugly, I want your disease
 > I want your everything as long as it's free
 
-「あなたの醜さが欲しい、あなたの病気が欲しい。無料なら何でも欲しい」
 
 これは、完璧な愛を求めているわけではない。むしろ、相手の欠点や暗い部分まで、すべてを受け入れたい——そんな強烈な渇望を表している。
 
@@ -159,14 +158,13 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 
 ### <span class="section-subtitle">言葉にならない狂気を音にした瞬間</span>
 
-もう一つ重要なのが、この繰り返し。
 
 > Ra-ra-ah-ah-ah
 > Roma-roma-ma
 > Gaga, ooh-la-la
 > Want your bad romance
 
-この意味不明な言葉の繰り返しが、この曲の最大の特徴。これは、言葉では表現できない感情——狂気、渇望、混乱——を音で表現している。
+このの繰り返しが、この曲の最大の特徴。これは、言葉では表現できない感情——狂気、渇望、混乱——を音で表現している。
 
 恋に壊れる。言葉にならない。だから、音になる。
 
@@ -187,7 +185,6 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 棺桶から蘇るように、恋愛は自分を生まれ変わらせる。壊して、再生する。その繰り返し。
 
 「Bad Romance」は、恋に壊れる勇気を歌っている。そして、その壊れ方が美しいことを教えてくれる。
-
-大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
+大人になって聞くと、また違って聞こえる。
 
 ---
