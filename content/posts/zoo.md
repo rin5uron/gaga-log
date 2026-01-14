@@ -7,7 +7,7 @@ date: "2025-12-28"
 order: 7
 type: "song"
 keywords: ["zoo 歌詞", "zoo 和訳", "ズートピア2 主題歌", "シャキーラ 新曲", "try everything 違い", "ズートピア 歌", "Zoo", "シャキーラ", "Shakira", "ズートピア2", "Zootopia 2", "劇中歌", "エドシーラン", "Ed Sheeran", "歌い方", "コツ", "Try Everything", "違い", "比較", "Dream Ami", "日本版", "Zootennial Gala"]
-relatedPosts: ["try-everything"]
+relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

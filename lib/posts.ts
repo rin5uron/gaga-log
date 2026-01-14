@@ -15,6 +15,7 @@ export interface Post {
   year?: string;
   date: string;
   type?: string;
+  description?: string;
   relatedPosts?: string[];
   keywords?: string[];
   content: string;
@@ -49,6 +50,7 @@ export function getPostBySlug(slug: string): Post | null {
       year: data.year,
       date: data.date || "",
       type: data.type,
+      description: data.description,
       relatedPosts: data.relatedPosts,
       keywords: data.keywords,
       content,

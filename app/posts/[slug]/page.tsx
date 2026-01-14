@@ -340,8 +340,79 @@ export default async function PostPage({
       .join("\n");
   }
 
+  // 構造化データ（JSON-LD）を生成
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@graph": [
+      // Article schema
+      {
+        "@type": "Article",
+        headline: post.title,
+        author: {
+          "@type": "Organization",
+          name: "STUDIO Jinsei",
+          url: "https://sound-feels.com",
+        },
+        datePublished: post.date,
+        dateModified: post.date,
+        publisher: {
+          "@type": "Organization",
+          name: "How Sound Feels",
+          url: "https://sound-feels.com",
+        },
+        description: post.description || `${post.artist}の「${post.title}」について。音を慈しむ。声を愛する。`,
+        mainEntityOfPage: {
+          "@type": "WebPage",
+          "@id": `https://sound-feels.com/posts/${slug}`,
+        },
+        ...(post.type === "song" && post.song && {
+          about: {
+            "@type": "MusicRecording",
+            name: post.song,
+            ...(post.artist && {
+              byArtist: {
+                "@type": "MusicGroup",
+                name: post.artist,
+              },
+            }),
+            ...(post.album && {
+              inAlbum: {
+                "@type": "MusicAlbum",
+                name: post.album,
+              },
+            }),
+          },
+        }),
+      },
+      // BreadcrumbList schema
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "ホーム",
+            item: "https://sound-feels.com",
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: post.title,
+            item: `https://sound-feels.com/posts/${slug}`,
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-white">
+      {/* 構造化データの挿入 */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
+
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
         <Link
           href="/"

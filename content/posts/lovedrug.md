@@ -7,6 +7,7 @@ date: "2025-12-30"
 order: 9
 type: "song"
 keywords: ["lovedrug 歌詞", "レディーガガ lovedrug", "lovedrug 和訳", "lovedrug 意味", "lady gaga lovedrug", "レディーガガ 歌詞"]
+relatedPosts: ["bad-romance", "aura", "joanne"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

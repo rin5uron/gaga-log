@@ -7,6 +7,7 @@ date: "2025-12-30"
 order: 15
 type: "song"
 keywords: ["aura lady gaga 歌詞", "aura 和訳", "レディーガガ aura 意味", "aura 歌詞", "lady gaga aura", "レディーガガ 歌詞", "artpop"]
+relatedPosts: ["bad-romance", "poker-face", "born-this-way"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
