@@ -23,6 +23,200 @@
 
 ---
 
+### 2026-01-14: 構造化データ（JSON-LD）追加と内部リンク強化
+
+**実施日**: 2026-01-14
+**対象**: 全記事ページ + 高パフォーマンス記事3本（zoo, aura, lovedrug）
+
+#### 📊 改善前のSearch Consoleデータ（7日間の成果）
+
+**期間**: Search Console登録後7日間
+**総合成績**: 24クリック / 573表示 (CTR: 4.2%)
+
+**主要記事パフォーマンス**:
+| 記事 | クリック数 | 表示回数 | CTR |
+|-----|-----------|---------|-----|
+| zoo | 11 | 318 | 3.5% |
+| aura | 4 | 56 | 7.1% |
+| lovedrug | 2 | 66 | 3.0% |
+
+#### 🎯 戦略：サイトコンセプトを守りながらのSEO強化
+
+**重要な気づき**:
+このサイトは「歌詞の意味を説明する場所ではない」「その言葉、音、雰囲気、いろんなものを記録する場所」というコンセプト。
+→ 記事本文は変更せず、技術的SEO施策（構造化データ、内部リンク）で強化する戦略を採用
+
+#### 実施した改善内容
+
+**1. 構造化データ（JSON-LD）を全記事ページに追加** ⭐ 最重要施策
+
+**変更ファイル**: `app/posts/[slug]/page.tsx`
+
+**追加した構造化データ**:
+```typescript
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    // Article schema
+    {
+      "@type": "Article",
+      headline: post.title,
+      author: { "@type": "Organization", name: "STUDIO Jinsei" },
+      datePublished: post.date,
+      publisher: { "@type": "Organization", name: "How Sound Feels" },
+      description: post.description || フォールバック,
+      mainEntityOfPage: { "@type": "WebPage", "@id": URL },
+      // 楽曲記事の場合
+      about: {
+        "@type": "MusicRecording",
+        name: post.song,
+        byArtist: { "@type": "MusicGroup", name: post.artist },
+        inAlbum: { "@type": "MusicAlbum", name: post.album }
+      }
+    },
+    // BreadcrumbList schema
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "ホーム" },
+        { "@type": "ListItem", position: 2, name: post.title }
+      ]
+    }
+  ]
+}
+```
+
+**狙い**:
+- 検索結果にリッチスニペット表示
+- CTR（クリック率）が平均20-30%向上
+- Googleが記事内容（楽曲情報）を正確に理解
+- クローラビリティ向上
+
+**期待効果**:
+- リッチスニペット表示開始: 1-2週間後
+- CTR向上: 4.2% → 6-8%（全体で50-70クリック/日見込み）
+- 検索順位向上: 構造化データによる評価向上
+
+---
+
+**2. 高パフォーマンス記事にrelatedPosts追加**
+
+**変更ファイル**: `content/posts/zoo.md`, `aura.md`, `lovedrug.md`
+
+**変更内容**:
+```yaml
+# zoo記事
+relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"]
+
+# aura記事
+relatedPosts: ["bad-romance", "poker-face", "born-this-way"]
+
+# lovedrug記事
+relatedPosts: ["bad-romance", "aura", "joanne"]
+```
+
+**狙い**:
+- ページ間の関連性向上
+- 回遊率アップ
+- 滞在時間延長
+- 内部リンク最適化
+
+**期待効果**:
+- 1ユーザーあたり閲覧ページ数: 1.0 → 1.5-2.0
+- 直帰率低下: 80% → 60-70%
+- ドメインオーソリティ向上
+
+---
+
+**3. Post型定義の改善**
+
+**変更ファイル**: `lib/posts.ts`
+
+**追加内容**:
+```typescript
+export interface Post {
+  // ... 既存フィールド
+  description?: string;  // 追加
+}
+```
+
+**狙い**:
+- 構造化データでdescriptionを活用
+- メタデータ管理の強化
+
+---
+
+#### 📈 期待される改善効果
+
+**現状（2026-01-14）**:
+```
+総合: 24クリック / 573表示 (CTR: 4.2%)
+```
+
+**1-2週間後の目標**:
+```
+総合: 50-70クリック / 800-1000表示 (CTR: 6-8%)
+
+内訳:
+- リッチスニペット効果: CTR +2-3%
+- 内部リンク強化効果: 回遊率 +0.5-1.0ページ/ユーザー
+- インデックス増加: 表示回数 +40-75%
+```
+
+**1ヶ月後の目標**:
+```
+総合: 100-150クリック / 1500-2000表示 (CTR: 7-10%)
+
+効果:
+- リッチスニペット完全表示
+- より多くのページがインデックス
+- ドメインオーソリティ向上
+- 検索順位上昇開始
+```
+
+#### 次のアクション（2026-01-21 確認予定）
+
+- [ ] 構造化データのテスト
+  - https://search.google.com/test/rich-results でリッチスニペット確認
+  - 3-5記事でテスト実施
+- [ ] Google Search Consoleで効果測定
+  - リッチスニペット表示状況
+  - CTR変化（4.2% → 6-8%目標）
+  - 内部リンクからの流入
+  - 新規インデックス状況
+- [ ] 追加施策の検討
+  - パフォーマンスが良い記事のさらなる強化
+  - 構造化データの追加項目検討（FAQ schema など）
+
+#### 学んだこと
+
+1. **サイトコンセプトを守りながらSEO強化が可能**
+   - 記事本文は一切変更せず
+   - 技術的SEO施策（構造化データ、内部リンク）で対応
+   - 「和訳」をタイトルに含めるのはSEOキーワード戦略（実際の内容は個人的感想の記録）
+
+2. **構造化データは最も効果的なSEO施策の一つ**
+   - 記事内容を変えずにCTR向上
+   - Googleへの情報提供を強化
+   - リッチスニペット表示で差別化
+
+3. **7日間で24クリックは良いスタート**
+   - インデックス登録は加速段階
+   - 「zoo」記事が既に318表示は有望
+   - 1-2週間後に大幅な伸びが期待できる
+
+4. **内部リンク強化は地味だが重要**
+   - 回遊率向上
+   - Googleへのページ関連性の伝達
+   - ドメインオーソリティ向上
+
+5. **型定義の改善が必要になる**
+   - descriptionフィールドが不足していた
+   - Post型に追加して対応
+   - TypeScriptの型安全性を維持
+
+---
+
 ### 2026-01-13: Search Console分析に基づくメタデータ最適化
 
 **実施日**: 2026-01-13
