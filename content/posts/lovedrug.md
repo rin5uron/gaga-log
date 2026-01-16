@@ -1,5 +1,5 @@
 ---
-title: "Lovedrug（レディー・ガガ）歌詞の意味・和訳｜中毒的な愛を歌うダークソング"
+title: "LoveDrug"
 description: "Lady GagaのLovedrugの歌詞を徹底解説。恋愛依存をドラッグに例えた深い歌詞の意味、ダークで美しいサウンド、Joanneアルバムでの位置づけまで。"
 song: "LoveDrug"
 artist: "Lady Gaga"
