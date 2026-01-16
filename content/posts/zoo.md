@@ -35,7 +35,7 @@ relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"
 
 ---
 
-### <span class="section-subtitle">なぜエド・シーランがディズニー映画を？</span>
+### <span class="section-subtitle">なぜエド・シーランがディズニー映画を作曲したのか</span>
 
 この曲の作曲を担当した[エド・シーラン](/artists/ed-sheeran)は、「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」「[The A Team](/posts/the-a-team)」など、メロディアスなポップソングで知られるアーティスト。
 
@@ -45,7 +45,7 @@ relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"
 
 ---
 
-### <span class="section-subtitle">劇中どこで流れる？Zootennial Galaシーンの意味</span>
+### <span class="section-subtitle">劇中のZootennial Galaシーンでの役割</span>
 
 劇中では、Zootennial Gala（ズートピア建国100周年記念祭）のシーンで流れる。多様な動物たちが集まり、街の歴史を祝う華やかな場面だ。
 
@@ -53,7 +53,7 @@ relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"
 
 ---
 
-### <span class="section-subtitle">Try Everythingとの違いは？前作主題歌との比較</span>
+### <span class="section-subtitle">Try Everythingとの違い：テーマと雰囲気の比較</span>
 
 前作『ズートピア』の主題歌「[Try Everything](/posts/try-everything)」も、シャキーラが演じるガゼルが歌った。では、2つの曲の違いは何か？
 
@@ -75,7 +75,7 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
-### <span class="section-subtitle">「Zoo」に込められた意味</span>
+### <span class="section-subtitle">「Zoo」というタイトルの意味</span>
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -83,7 +83,7 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 「Zoo」というシンプルな言葉の中に、多様な動物たちが共存する街の祝祭感が凝縮されている。歌詞全体が、ズートピア建国100周年を祝う歌になっているため、この「Zoo」は単なる動物園ではなく、「私たちの街」「私たちの居場所」という意味を持つ。
 
-### <span class="section-subtitle">韻を踏むフレーズの魅力</span>
+### <span class="section-subtitle">韻を踏むフレーズ解説</span>
 
 > fade away / celebrate / anything
 
@@ -111,7 +111,7 @@ Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミ
 
 ---
 
-### <span class="section-subtitle">この曲を歌うと楽しいポイント</span>
+### <span class="section-subtitle">この曲を歌うコツ</span>
 
 **① 韻を踏むところを意識する**
 
@@ -131,7 +131,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK！
 
 ---
 
-**結論：「うまく歌う」より「踏んでノる」**
+**歌うコツまとめ：「うまく歌う」より「踏んでノる」**
 
 ここが歌えるようになったら、この曲をもっと楽しめる気がする。
 
@@ -149,7 +149,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK！
 
 ---
 
-### <span class="section-subtitle">MVに歌詞付き！みんなで歌える工夫</span>
+### <span class="section-subtitle">歌詞付きMV：みんなで歌える工夫</span>
 
 このMVには歌詞が表示されるため、英語がわからなくても一緒に歌える。ディズニーらしい「みんなで楽しむ」仕掛けだ。
 
@@ -163,7 +163,7 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 ---
 
-### <span class="section-subtitle">日本版だけ特別？Dream Ami版とシャキーラ版の違い</span>
+### <span class="section-subtitle">日本版の特別性：Dream Ami版とシャキーラ版の違い</span>
 
 ズートピア2では、日本版だけが「ローカライズ版」の制作を許可された。Dream Amiが歌う「Zoo ～君がいるから～」は、世界で唯一のローカライズ版だ。
 
@@ -182,18 +182,18 @@ Ah-a-a-a a zoo ooh-ooh-oooh のフレーズも画面に映し出されるので�
 
 
 
-## Thoughts <span class="section-subtitle">楽しさを、そのまま受け取る</span>
+## Thoughts <span class="section-subtitle">この曲の楽しみ方</span>
 
-### <span class="section-subtitle">完璧を求めない、ディズニー音楽の魅力</span>
+### <span class="section-subtitle">完璧に歌えなくていい理由</span>
 
 考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分だ。
 
 この曲は、「完璧に歌えなくてもいい」と教えてくれる。ノリと楽しさが優先。正解なんてない。シャキーラみたいに、明るく、自由に、楽しく歌えばいい。
 
-### <span class="section-subtitle">自由な場所を求めて</span>
+### <span class="section-subtitle">誰が歌ってもいい曲</span>
 
 ズートピアという街が、多様な動物たちが共存する場所であるように、この曲も「誰が歌ってもいい」「どう歌ってもいい」という自由さがある。
 
-そんな自由な場所を求めている。そんな人にぴったりな曲だ。
+そんな自由な場所を求めている人にぴったりな曲だ。
 
 ---
