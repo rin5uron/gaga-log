@@ -151,7 +151,7 @@ Ed Sheeranは、距離を"感情"ではなく"状態"として歌っている。
 
 
 
-## Thoughts <span class="section-subtitle">見過ごさずに歌うということ</span>
+## Thoughts <span class="section-subtitle">見過ごさずに歌う</span>
 
 この曲は、夜にひとりで聴くと特に刺さる。
 
