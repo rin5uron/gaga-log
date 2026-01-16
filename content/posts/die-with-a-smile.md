@@ -7,7 +7,7 @@ order: 1
 type: "song"
 description: "Lady Gaga×Bruno Mars「Die With a Smile」を徹底解説。一晩で完成した奇跡のコラボの裏側、グラミー賞受賞、Spotify史上最速10億回再生の理由、1970年代レトロMVの意味まで。"
 keywords: ["die with a smile", "ダイウィズアスマイル", "lady gaga", "bruno mars", "レディーガガ", "ブルーノマーズ", "歌詞", "意味", "グラミー賞", "コラボ", "一晩", "mayhem ball tour"]
-relatedPosts: ["bad-romance", "shallow", "joanne"]
+relatedPosts: ["shallow", "bad-romance"]
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -72,11 +72,17 @@ Bruno MarsはソングライターのJames Fauntleroyとプロデューサーの
 
 この曲の核心は、シンプルだけど普遍的な問いかけにある。
 
-「もし世界が終わるなら、誰と一緒にいたい？」
+> If the world was ending
+> I'd wanna be next to you
+
+「もし世界が終わるなら、君の隣にいたい」——この一節が、この曲の全てを表している。
 
 夢の中で別れを経験した後、愛する人と過ごす時間がいかに貴重であるかを痛感する。未来は不確かで、明日が来る保証はない。だからこそ、今この瞬間を大切にしたい。
 
-この曲は、リスナーに「あなたにとって本当に大切な存在は誰か」を想像させる。そして、その人との時間を、もっと大切にしようと思わせてくれる。
+> Nobody's promised tomorrow
+> So I'ma love you every night like it's the last night
+
+「誰にも明日の保証なんてない。だから今夜も君を愛そう、まるでこれが最後の夜のように」——この歌詞が、この曲のテーマを完璧に体現している。
 
 ---
 
@@ -128,11 +134,14 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 ## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
-### <span class="section-subtitle">もし世界が終わるなら</span>
+### <span class="section-subtitle">笑顔で死にたい</span>
 
 この曲で最も印象的なのが、このフレーズ。
 
-「もし世界が終わるなら、あなたの隣で笑顔で死にたい」
+> I'd wanna hold you just for a while
+> And die with a smile
+
+「少しの間でも君を抱きしめて、笑顔で死にたい」
 
 シンプルだけど、胸に響く。恋愛だけじゃなく、家族、友人、大切な人——誰にでも当てはまる、普遍的な想い。
 
@@ -188,6 +197,25 @@ Lady Gagaと Bruno Mars が、一晩で作り上げたこの曲は、そんな�
 
 大人になって聞くと、また違って聞こえる。
 
-Lady Gagaの他の作品では、[Bad Romance](/posts/bad-romance)で破壊的な恋愛を、[Shallow](/posts/shallow)で深い場所への飛び込みを、[Joanne](/posts/joanne)で喪失と癒しを歌っている。Bruno Marsについてもっと知りたい方は、[Bruno Marsアーティストページ](/artists/bruno-mars)、Lady Gagaについては[Lady Gagaアーティストページ](/artists/lady-gaga)もご覧ください。
+Lady Gagaの他の作品では、[Shallow](/posts/shallow)で深い場所への飛び込みを、[Bad Romance](/posts/bad-romance)で破壊的な恋愛を歌っている。Bruno Marsについてもっと知りたい方は、[Bruno Marsアーティストページ](/artists/bruno-mars)、Lady Gagaについては[Lady Gagaアーティストページ](/artists/lady-gaga)もご覧ください。
+
+---
+
+## さらに詳しく知りたい方へ
+
+この曲やコラボレーションについて、より深く知りたい方は以下の記事も参考になります：
+
+### 楽曲情報・制作背景
+- [Die with a Smile - Wikipedia](https://en.wikipedia.org/wiki/Die_with_a_Smile) - 楽曲の詳細情報、チャート成績、制作背景
+- [How Lady Gaga and Bruno Mars' 'Die With a Smile' Became a Massive Hit - Variety](https://variety.com/2025/music/news/lady-gaga-bruno-mars-die-with-a-smile-making-of-song-1236599489/) - 制作過程とヒットの理由
+- [Why Bruno Mars Almost Scrapped Hit Lady Gaga Duet 'Die With A Smile' - K103](https://k103.iheart.com/content/2025-12-05-why-bruno-mars-almost-scrapped-hit-lady-gaga-duet-die-with-a-smile/) - 捨てられかけた名曲の裏話
+
+### チャート成績・記録
+- [Lady Gaga & Bruno Mars' 'Die With a Smile' No. 1 Global 200 18th Week - Billboard](https://www.billboard.com/music/chart-beat/lady-gaga-bruno-mars-die-with-a-smile-number-1-global-200-18-1235956965/) - Billboard Global 200で18週1位の記録
+- [Lady Gaga and Bruno Mars' Die With a Smile is Vevo's most watched music video in 2025 - Music Business Worldwide](https://www.musicbusinessworldwide.com/lady-gaga-and-bruno-mars-die-with-a-smile-is-vevos-most-watched-music-video-in-2025-with-932m-global-views-jennie-records-biggest-premiere-with-33-4m-views-in-first-14-days/) - 2025年最多視聴MV
+
+### グラミー賞・評価
+- [レディー・ガガ＆ブルーノ・マーズ「Die With A Smile」が＜最優秀ポップ・パフォーマンス（デュオ/グループ）＞受賞 - Billboard JAPAN](https://www.billboard-japan.com/d_news/detail/145996) - 第67回グラミー賞受賞
+- [レディー・ガガ & ブルーノ・マーズのコラボ楽曲「Die With A Smile」がリリース - Universal Music](https://www.universal-music.co.jp/lady-gaga/news/2024-08-16/) - 公式リリース情報
 
 ---
