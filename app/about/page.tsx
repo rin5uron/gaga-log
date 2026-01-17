@@ -27,13 +27,20 @@ export default function About() {
         <div className="space-y-12">
           <section className="flex flex-col md:flex-row gap-8 items-center md:items-start">
             <div className="flex-shrink-0">
-              <Image
-                src="/images/logo-studdio-jinsei.png"
-                alt="STUDIO Jinsei"
-                width={200}
-                height={200}
-                className="object-contain"
-              />
+              <a
+                href="https://studiojinsei.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block"
+              >
+                <Image
+                  src="/images/logo-studdio-jinsei.png"
+                  alt="STUDIO Jinsei"
+                  width={200}
+                  height={200}
+                  className="object-contain"
+                />
+              </a>
             </div>
             <div className="flex-1">
               <p className="text-gray-600 text-sm mb-2">運営</p>
@@ -79,7 +86,7 @@ export default function About() {
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
                 このサイトは、歌詞の意味を解説するだけでなく、
-                <strong>その言葉、音、雰囲気、いろんなものを記録する</strong>場所です。
+                <strong>その言葉、音、雰囲気、そうしたものを記録する</strong>場所です。
               </p>
             </div>
 

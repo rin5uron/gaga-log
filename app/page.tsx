@@ -21,7 +21,7 @@ export default function Home() {
             </p>
             <p>
               このサイトは、歌詞の意味を解説するだけでなく、
-              <strong className="text-gray-900">その言葉、音、雰囲気、いろんなものを記録する</strong>場所です。
+              <strong className="text-gray-900">その言葉、音、雰囲気、そうしたものを記録する</strong>場所です。
             </p>
             <p className="text-gray-600 text-sm mt-6">
               他人に向けて"売る"のではなく、自分のために"残す"。
