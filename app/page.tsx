@@ -9,14 +9,6 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
-        {/* タイトルエリア */}
-        <div className="mb-8">
-          <h1 className="text-3xl font-bold mb-2">How Sound Feels</h1>
-          <p className="text-xl text-gray-700 font-medium">
-            音を慈しむ。声を愛する。
-          </p>
-        </div>
-
         {/* 検索とフィルター */}
         <div id="search">
           <PostList posts={posts} artists={artists} />
@@ -24,11 +16,12 @@ export default function Home() {
 
         {/* サイト説明セクション */}
         <section id="about" className="mt-12 pt-8 border-t border-gray-200">
+          <h2 className="text-2xl font-bold mb-6">このサイトについて</h2>
           {/* このサイトの独自性 */}
           <div className="bg-gray-50 border-l-4 border-gray-800 p-6 mb-6">
-            <h2 className="text-lg font-bold text-gray-900 mb-3">
+            <h3 className="text-lg font-bold text-gray-900 mb-3">
               このサイトが他の歌詞サイトと違うこと
-            </h2>
+            </h3>
             <div className="space-y-3 text-gray-700">
               <p className="flex items-start">
                 <span className="text-red-500 font-bold mr-2">✗</span>
