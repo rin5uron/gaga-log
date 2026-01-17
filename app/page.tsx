@@ -10,7 +10,7 @@ export default function Home() {
     <div className="min-h-screen bg-white">
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
         {/* 検索とフィルター */}
-        <div id="search">
+        <div id="search" className="scroll-mt-20">
           <PostList posts={posts} artists={artists} />
         </div>
 

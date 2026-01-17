@@ -38,8 +38,8 @@ export default function PostList({ posts, artists }: PostListProps) {
   // 検索機能：タイトル、アーティスト名、曲名で検索
   const filteredPosts = useMemo(() => {
     return posts.filter((post) => {
-      // アーティストフィルタ
-      const artistMatch = !selectedArtist || post.artist === selectedArtist;
+      // アーティストフィルタ（コラボ曲にも対応）
+      const artistMatch = !selectedArtist || post.artist?.includes(selectedArtist) || false;
 
       // 検索キーワードフィルタ
       if (!searchQuery.trim()) {
