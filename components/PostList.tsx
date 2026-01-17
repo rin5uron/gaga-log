@@ -30,6 +30,18 @@ function normalizeForSearch(str: string): string {
   return toHiragana(toHalfWidth(str.toLowerCase()));
 }
 
+// アーティスト名を分割する関数（&, /, feat., with などで区切る）
+function splitArtists(artistString: string): string[] {
+  if (!artistString) return [];
+
+  // &, /, feat., with, × などで分割
+  const separators = /[&/×]|feat\.|with|,/i;
+  return artistString
+    .split(separators)
+    .map((name) => name.trim())
+    .filter((name) => name.length > 0);
+}
+
 export default function PostList({ posts, artists }: PostListProps) {
   const [selectedArtist, setSelectedArtist] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>("");
@@ -39,7 +51,13 @@ export default function PostList({ posts, artists }: PostListProps) {
   const filteredPosts = useMemo(() => {
     return posts.filter((post) => {
       // アーティストフィルタ（コラボ曲にも対応）
-      const artistMatch = !selectedArtist || post.artist?.includes(selectedArtist) || false;
+      let artistMatch = true;
+      if (selectedArtist && post.artist) {
+        const individualArtists = splitArtists(post.artist);
+        artistMatch = individualArtists.includes(selectedArtist);
+      } else if (selectedArtist) {
+        artistMatch = false;
+      }
 
       // 検索キーワードフィルタ
       if (!searchQuery.trim()) {
