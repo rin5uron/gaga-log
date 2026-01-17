@@ -74,35 +74,6 @@ export default function About() {
           </section>
 
           <section>
-            <h2 className="text-2xl font-semibold mb-4">サイトについて</h2>
-            
-            <div className="mb-8">
-              <p className="text-gray-700 leading-relaxed mb-4">
-                音を慈しむ。声を愛する。
-              </p>
-              <p className="text-gray-700 leading-relaxed mb-4">
-                歌を知ること、アーティストを知ること、その人と良い距離でいること——
-                それが、心地よく愛するための方法だと思っています。
-              </p>
-              <p className="text-gray-700 leading-relaxed mb-4">
-                このサイトは、歌詞の意味を解説するだけでなく、
-                <strong>その言葉、音、雰囲気、そうしたものを記録する</strong>場所です。
-              </p>
-            </div>
-
-            <div className="mt-8 pt-8 border-t border-gray-200">
-              <p className="text-gray-700 leading-relaxed mb-4">
-                他人に向けて"売る"のではなく、自分のために"残す"。
-                正解を提示するのではなく、個人的な感覚を言語化する。
-                結果として、同じ温度の人が読む。
-              </p>
-              <p className="text-gray-700 leading-relaxed">
-                愛しさを追求するために、残す。
-              </p>
-            </div>
-          </section>
-
-          <section>
             <h2 className="text-2xl font-semibold mb-4">お問い合わせ</h2>
             <p className="text-gray-700 mb-4">
               サイトに関するご質問、ご意見、著作権に関するお問い合わせは

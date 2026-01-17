@@ -18,10 +18,12 @@ export default function Home() {
         </div>
 
         {/* 検索とフィルター */}
-        <PostList posts={posts} artists={artists} />
+        <div id="search">
+          <PostList posts={posts} artists={artists} />
+        </div>
 
         {/* サイト説明セクション */}
-        <section className="mt-12 pt-8 border-t border-gray-200">
+        <section id="about" className="mt-12 pt-8 border-t border-gray-200">
           {/* このサイトの独自性 */}
           <div className="bg-gray-50 border-l-4 border-gray-800 p-6 mb-6">
             <h2 className="text-lg font-bold text-gray-900 mb-3">
