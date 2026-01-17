@@ -9,12 +9,19 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
-        <section className="mb-12 pb-8 border-b border-gray-200">
-          <h1 className="text-3xl font-bold mb-4">How Sound Feels</h1>
-          <p className="text-xl text-gray-700 mb-4 font-medium">
+        {/* タイトルエリア */}
+        <div className="mb-8">
+          <h1 className="text-3xl font-bold mb-2">How Sound Feels</h1>
+          <p className="text-xl text-gray-700 font-medium">
             音を慈しむ。声を愛する。
           </p>
+        </div>
 
+        {/* 検索とフィルター */}
+        <PostList posts={posts} artists={artists} />
+
+        {/* サイト説明セクション */}
+        <section className="mt-12 pt-8 border-t border-gray-200">
           {/* このサイトの独自性 */}
           <div className="bg-gray-50 border-l-4 border-gray-800 p-6 mb-6">
             <h2 className="text-lg font-bold text-gray-900 mb-3">
@@ -58,22 +65,13 @@ export default function Home() {
               他の歌詞解説サイトは「正確な和訳」を提供します。
               でも、このサイトは違います。<strong className="text-gray-900">「その曲が、私にとってどんな意味を持つのか」</strong>を記録します。
             </p>
-            <p className="text-gray-600 text-sm mt-6">
-              他人に向けて"売る"のではなく、自分のために"残す"。
-              正解を提示するのではなく、個人的な感覚を言語化する。
-              結果として、同じ温度の人が読む。
-            </p>
-            <p className="text-gray-600 text-sm">
-              愛しさを追求するために、残す。
-            </p>
+          
           </div>
         </section>
 
         {/* トップページの広告 */}
         {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
         {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_HOME || "YOUR_SLOT_ID_HERE"} /> */}
-
-        <PostList posts={posts} artists={artists} />
       </main>
     </div>
   );
