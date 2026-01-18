@@ -519,11 +519,6 @@ export default async function PostPage({
             </div>
           </header>
 
-          {/* この記事でわかること */}
-          {post.highlights && post.highlights.length > 0 && (
-            <ArticleHighlights highlights={post.highlights} />
-          )}
-
           {/* 目次 */}
           <TableOfContents html={contentHtml} />
 
