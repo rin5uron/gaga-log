@@ -5,8 +5,8 @@ date: "2025-12-27"
 order: 6
 type: "song"
 highlights:
-  - "「Shallow」が名作である理由——二人の奇跡の共演と普遍的なテーマ"
-  - ""In the shallow"と"I'm falling"に込められた二重の意味"
+  - 「Shallow」が名作である理由——二人の奇跡の共演と普遍的なテーマ
+  - "In the shallow"と"I'm falling"に込められた二重の意味
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
