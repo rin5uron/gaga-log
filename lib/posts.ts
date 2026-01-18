@@ -18,6 +18,7 @@ export interface Post {
   description?: string;
   relatedPosts?: string[];
   keywords?: string[];
+  highlights?: string[];
   content: string;
 }
 
@@ -53,6 +54,7 @@ export function getPostBySlug(slug: string): Post | null {
       description: data.description,
       relatedPosts: data.relatedPosts,
       keywords: data.keywords,
+      highlights: data.highlights,
       content,
     };
   } catch (error) {

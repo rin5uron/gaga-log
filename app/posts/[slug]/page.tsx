@@ -11,6 +11,7 @@ import { remark } from "remark";
 import remarkHtml from "remark-html";
 import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
+import ArticleHighlights from "@/components/ArticleHighlights";
 import AdSenseUnit from "@/components/AdSenseUnit";
 
 // カタカナ変換マッピングテーブル
@@ -517,6 +518,11 @@ export default async function PostPage({
               )}
             </div>
           </header>
+
+          {/* この記事でわかること */}
+          {post.highlights && post.highlights.length > 0 && (
+            <ArticleHighlights highlights={post.highlights} />
+          )}
 
           {/* 目次 */}
           <TableOfContents html={contentHtml} />

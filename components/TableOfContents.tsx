@@ -11,6 +11,7 @@ interface Heading {
 export default function TableOfContents({ html }: { html: string }) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
+  const [isOpen, setIsOpen] = useState<boolean>(true);
 
   useEffect(() => {
     // HTMLから見出しを抽出
@@ -83,42 +84,72 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-8 p-6 bg-gray-50 rounded-lg border border-gray-200">
-      <h2 className="text-sm font-normal mb-4 text-gray-500 uppercase tracking-wider">
-        この記事でわかること
-      </h2>
-      <ul className="space-y-2 pl-0 list-none">
-        {headings.map((heading) => (
-          <li
-            key={heading.id}
-            className={heading.level === 3 ? "ml-4" : ""}
-          >
-            {heading.level === 2 ? (
-              // h2はリンクなし、ただのテキスト
-              <div className="py-1.5 text-base text-gray-900 font-semibold">
-                {heading.text}
-              </div>
-            ) : (
-              // h3のみリンク化
-              <a
-                href={`#${heading.id}`}
-                className={`block py-1.5 text-sm text-gray-600 hover:text-gray-900 transition-colors ${
-                  activeId === heading.id ? "font-semibold" : ""
-                }`}
-                onClick={(e) => {
-                  e.preventDefault();
-                  document.getElementById(heading.id)?.scrollIntoView({
-                    behavior: "smooth",
-                    block: "start",
-                  });
-                }}
-              >
-                {heading.text}
-              </a>
-            )}
-          </li>
-        ))}
-      </ul>
+    <nav className="mb-8 rounded-xl border-2 border-gray-200 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="w-full px-6 py-4 bg-gradient-to-r from-gray-50 to-white flex items-center justify-between hover:from-gray-100 hover:to-gray-50 transition-all"
+      >
+        <h2 className="text-base font-semibold text-gray-800 flex items-center gap-2">
+          <span className="text-xl">📖</span>
+          <span>この記事でわかること</span>
+        </h2>
+        <svg
+          className={`w-5 h-5 text-gray-600 transition-transform ${
+            isOpen ? "rotate-180" : ""
+          }`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M19 9l-7 7-7-7"
+          />
+        </svg>
+      </button>
+
+      <div
+        className={`transition-all duration-300 ease-in-out ${
+          isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+        } overflow-hidden`}
+      >
+        <ul className="px-6 py-4 space-y-1 pl-0 list-none bg-white">
+          {headings.map((heading) => (
+            <li
+              key={heading.id}
+              className={heading.level === 3 ? "ml-6" : ""}
+            >
+              {heading.level === 2 ? (
+                // h2はリンクなし、セクション見出し
+                <div className="py-2 text-sm font-bold text-gray-800 border-l-4 border-gray-300 pl-3 mt-3 first:mt-0">
+                  {heading.text}
+                </div>
+              ) : (
+                // h3のみリンク化
+                <a
+                  href={`#${heading.id}`}
+                  className={`block py-1.5 pl-3 text-sm transition-all rounded-md ${
+                    activeId === heading.id
+                      ? "bg-gray-100 text-gray-900 font-semibold border-l-2 border-gray-800"
+                      : "text-gray-600 hover:text-gray-900 hover:bg-gray-50 border-l-2 border-transparent"
+                  }`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    document.getElementById(heading.id)?.scrollIntoView({
+                      behavior: "smooth",
+                      block: "start",
+                    });
+                  }}
+                >
+                  {heading.text}
+                </a>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
     </nav>
   );
 }
