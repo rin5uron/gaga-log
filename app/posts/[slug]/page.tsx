@@ -423,13 +423,6 @@ export default async function PostPage({
         </Link>
 
         <article className="prose prose-lg max-w-none">
-          {/* 記事上部の広告（横長） */}
-          <AdSenseUnit 
-            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_TOP || "5675174441"}
-            adFormat="auto"
-            adStyle={{ width: "100%", minHeight: "100px" }}
-          />
-
           <header className="mb-6 not-prose">
             <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
               {post.title}
@@ -519,6 +512,13 @@ export default async function PostPage({
                   {post.year && <span> ({post.year})</span>}
                 </>
               )}
+              {post.date && (
+                <>
+                  <span className="mx-2">|</span>
+                  <span className="font-semibold">Date: </span>
+                  <span>{post.date}</span>
+                </>
+              )}
             </div>
           </header>
 
@@ -526,11 +526,13 @@ export default async function PostPage({
           <TableOfContents html={contentHtml} />
 
           {/* 記事中間の広告（目次の後・横長） */}
-          <AdSenseUnit 
-            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
-            adFormat="auto"
-            adStyle={{ width: "100%", minHeight: "100px" }}
-          />
+          <div className="my-6">
+            <AdSenseUnit 
+              adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
+              adFormat="auto"
+              adStyle={{ width: "100%", minHeight: "100px" }}
+            />
+          </div>
 
           <div
             className="prose prose-lg max-w-none post-content"

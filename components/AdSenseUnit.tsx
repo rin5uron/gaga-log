@@ -53,7 +53,7 @@ export default function AdSenseUnit({
   }, []);
 
   return (
-    <div className="adsense-wrapper my-8">
+    <div className="adsense-wrapper">
       <ins
         className="adsbygoogle"
         style={{

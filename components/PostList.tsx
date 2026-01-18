@@ -179,26 +179,17 @@ export default function PostList({ posts, artists }: PostListProps) {
               すべて
             </button>
             {artists.map((artist) => (
-              <div key={artist} className="flex items-center gap-1">
-                <Link
-                  href={`/artists/${getArtistSlug(artist)}`}
-                  className="px-4 py-2 rounded-full text-sm transition-colors bg-blue-50 text-blue-700 hover:bg-blue-100 border border-blue-200"
-                  title={`${artist}のプロフィールページへ`}
-                >
-                  {artist}
-                </Link>
-                <button
-                  onClick={() => setSelectedArtist(artist)}
-                  className={`px-3 py-2 rounded-full text-sm transition-colors ${
-                    selectedArtist === artist
-                      ? "bg-black text-white"
-                      : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-                  }`}
-                  title={`${artist}の曲一覧を表示`}
-                >
-                  📀
-                </button>
-              </div>
+              <Link
+                key={artist}
+                href={`/artists/${getArtistSlug(artist)}`}
+                className={`px-4 py-2 rounded-full text-sm transition-colors inline-block ${
+                  selectedArtist === artist
+                    ? "bg-black text-white"
+                    : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+                }`}
+              >
+                {artist}
+              </Link>
             ))}
           </div>
         </div>

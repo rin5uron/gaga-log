@@ -84,7 +84,7 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-6 rounded-lg border border-gray-200 overflow-hidden">
+    <nav className="mb-4 rounded-lg border border-gray-200 overflow-hidden">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="w-full px-4 py-2 bg-white flex items-center justify-between hover:bg-gray-50 transition-colors"
