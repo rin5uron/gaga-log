@@ -423,9 +423,12 @@ export default async function PostPage({
         </Link>
 
         <article className="prose prose-lg max-w-none">
-          {/* 記事上部の広告 */}
-          {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
-          {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_TOP || "YOUR_SLOT_ID_HERE"} /> */}
+          {/* 記事上部の広告（横長） */}
+          <AdSenseUnit 
+            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_TOP || "5675174441"}
+            adFormat="auto"
+            adStyle={{ width: "100%", minHeight: "100px" }}
+          />
 
           <header className="mb-6 not-prose">
             <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
@@ -522,15 +525,25 @@ export default async function PostPage({
           {/* 目次 */}
           <TableOfContents html={contentHtml} />
 
+          {/* 記事中間の広告（目次の後・横長） */}
+          <AdSenseUnit 
+            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
+            adFormat="auto"
+            adStyle={{ width: "100%", minHeight: "100px" }}
+          />
+
           <div
             className="prose prose-lg max-w-none post-content"
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
         </article>
 
-        {/* 記事下部の広告 */}
-        {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
-        {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "YOUR_SLOT_ID_HERE"} /> */}
+        {/* 記事下部の広告（横長） */}
+        <AdSenseUnit 
+          adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
+          adFormat="auto"
+          adStyle={{ width: "100%", minHeight: "100px" }}
+        />
 
         <RelatedPosts currentPost={post} allPosts={allPosts} />
       </main>
