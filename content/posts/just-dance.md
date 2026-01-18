@@ -26,7 +26,7 @@ type: "song"
 
 「Just Dance」は、Lady Gagaのデビューアルバム『The Fame』（2008年8月19日リリース）からの1枚目のシングルとして、2008年4月8日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
-この曲は、ガガのデビューシングル。ビルボードHot 100で1位を記録し、世界中で大ヒットした。2009年のグラミー賞では、最優秀ダンスレコーディング賞にノミネートされた。
+この曲は、ガガのデビューシングル。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、世界中で大ヒットした。[2009年のグラミー賞では、最優秀ダンスレコーディング賞にノミネート](https://www.grammy.com/awards/51st-annual-grammy-awards)された。
 
 ---
 
@@ -102,7 +102,7 @@ type: "song"
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-2008年4月8日に公開されたミュージックビデオは、ガガのデビューMV。監督はMelina Matsoukasが担当している。
+2008年4月8日に公開されたミュージックビデオは、ガガのデビューMV。監督は[Melina Matsoukas](https://www.imdb.com/name/nm2192268/)が担当している（[IMDb](https://www.imdb.com/title/tt6743950/)）。
 
 最も印象的なのは、そのシンプルさ。パーティー会場で、ガガが踊り、歌う——それだけのシンプルな構成。でも、そのシンプルさが、この曲の「ただ楽しむ」というメッセージを完璧に表現している。
 

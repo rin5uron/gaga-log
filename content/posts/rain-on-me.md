@@ -33,7 +33,7 @@ relatedPosts: ["telephone", "hey-girl"]
 
 ---
 
-2020年5月にリリースされ、ビルボードHot 100で初登場1位を獲得。2021年のグラミー賞では、最優秀ポップ・デュオ/グループ・パフォーマンス賞を受賞した。
+2020年5月にリリースされ、[Billboard Hot 100で初登場1位を獲得](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)した。これは、全女性コラボレーションとして初の初登場1位という記録となった。[2021年のグラミー賞では、最優秀ポップ・デュオ/グループ・パフォーマンス賞を受賞](https://www.grammy.com/awards/63rd-annual-grammy-awards)した。
 
 パンデミック中にリリースされたこともあり、多くの人々にとって希望と癒しの歌となった。
 

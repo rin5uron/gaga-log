@@ -26,7 +26,7 @@ type: "song"
 
 「Thank U, Next」は、Ariana Grandeの5枚目のスタジオアルバム『Thank U, Next』（2019年2月8日リリース）のタイトルトラックとして、2018年11月3日にリリースされた楽曲。アリアナ・グランデ、Victoria Monét、Tayla Parx、Charles Anderson、Michael Fosterによって書かれ、プロデュースされた。
 
-この曲は、アリアナの過去の恋愛経験を前向きに捉えた楽曲。ビルボードHot 100で1位を記録し、世界中で大ヒットした。2019年のグラミー賞では、最優秀ポップ・ソロ・パフォーマンス賞にノミネートされた。
+この曲は、アリアナの過去の恋愛経験を前向きに捉えた楽曲。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/ariana-grande/chart-history/HSI/1)し、世界中で大ヒットした。[2019年のグラミー賞では、最優秀ポップ・ソロ・パフォーマンス賞にノミネート](https://www.grammy.com/awards/61st-annual-grammy-awards)された。
 
 ---
 
@@ -109,7 +109,7 @@ type: "song"
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-2018年11月30日に公開されたミュージックビデオは、アリアナの過去の恋愛経験をパロディ化した作品。監督はHannah Lux Davisが担当している。
+2018年11月30日に公開されたミュージックビデオは、アリアナの過去の恋愛経験をパロディ化した作品。監督は[Hannah Lux Davis](https://www.imdb.com/name/nm0205500/)が担当している（[IMDb](https://www.imdb.com/title/tt9364124/)）。
 
 最も印象的なのは、そのユーモア。過去の恋愛経験を、映画のパロディとして描いている。シンプルで、キャッチーで、そして何より楽しい。
 

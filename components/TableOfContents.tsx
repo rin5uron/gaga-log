@@ -87,7 +87,7 @@ export default function TableOfContents({ html }: { html: string }) {
     <nav className="mb-6 rounded-lg border border-gray-200 overflow-hidden">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full px-5 py-3 bg-white flex items-center justify-between hover:bg-gray-50 transition-colors"
+        className="w-full px-4 py-2 bg-white flex items-center justify-between hover:bg-gray-50 transition-colors"
       >
         <h2 className="text-sm font-semibold text-gray-700 uppercase tracking-wide">
           目次
@@ -114,22 +114,22 @@ export default function TableOfContents({ html }: { html: string }) {
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-5 py-3 space-y-0.5 pl-0 list-none bg-white border-t border-gray-100">
+        <ul className="px-4 py-2 space-y-0.5 pl-0 list-none bg-white border-t border-gray-100">
           {headings.map((heading) => (
             <li
               key={heading.id}
-              className={heading.level === 3 ? "ml-5" : ""}
+              className={heading.level === 3 ? "ml-4" : ""}
             >
               {heading.level === 2 ? (
                 // h2はリンクなし、セクション見出し
-                <div className="py-1.5 text-sm font-bold text-gray-800 border-l-3 border-blue-500 pl-3 mt-2.5 first:mt-0">
+                <div className="py-1 text-sm font-bold text-gray-800 border-l-3 border-blue-500 pl-3 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
                 // h3のみリンク化
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pl-3 text-sm transition-all ${
+                  className={`block py-0.5 pl-3 text-sm transition-all ${
                     activeId === heading.id
                       ? "text-gray-900 font-medium border-l-2 border-blue-500"
                       : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-300"

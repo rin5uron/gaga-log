@@ -27,7 +27,7 @@ relatedPosts: ["bad-romance", "born-this-way"]
 
 「Poker Face」は、Lady Gagaのデビューアルバム『The Fame』（2008年8月19日リリース）からの2枚目のシングルとして、2008年9月26日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
-この曲は、ガガの最初の世界的ヒット曲。ビルボードHot 100で1位を記録し、世界中で大ヒットした。2009年のグラミー賞では、最優秀ダンスレコーディング賞を受賞した。
+この曲は、ガガの最初の世界的ヒット曲。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、世界中で大ヒットした。[2009年のグラミー賞では、最優秀ダンスレコーディング賞を受賞](https://www.grammy.com/awards/51st-annual-grammy-awards)した。
 
 ---
 
@@ -90,7 +90,7 @@ relatedPosts: ["bad-romance", "born-this-way"]
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-2008年10月25日に公開されたミュージックビデオは、ガガの初期のビジュアルアイデンティティを確立した作品。監督はRay Kayが担当している。
+2008年10月25日に公開されたミュージックビデオは、ガガの初期のビジュアルアイデンティティを確立した作品。監督は[Ray Kay](https://www.imdb.com/name/nm0443392/)が担当している。
 
 最も印象的なのは、そのシンプルさと、同時に強烈なインパクト。白い背景、ガガの独特なファッション、そしてダンサーたちとの群舞——すべてが、この曲の「仮面を被る」というテーマを視覚的に表現している。
 

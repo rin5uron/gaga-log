@@ -41,7 +41,7 @@ relatedPosts: ["perfect", "happier", "one-shot"]
 
 Ed Sheeran自身が「バージンロードを歩くための曲」と語ったように、この曲は時を超えて続く愛を歌った、永遠のラブソング。23歳の頃と同じように70歳になっても愛し続けることを約束する——そんな深い献身の物語が描かれている。
 
-2016年にはグラミー賞で「Song of the Year」と「Best Pop Solo Performance」の2部門を受賞。2017年にはSpotifyで「アメリカで最も人気のある結婚式ソング」の1位に選ばれるなど、多くのカップルにとって特別な一曲となっている。
+[2016年にはグラミー賞で「Song of the Year」と「Best Pop Solo Performance」の2部門を受賞](https://www.grammy.com/awards/58th-annual-grammy-awards)。2017年にはSpotifyで「アメリカで最も人気のある結婚式ソング」の1位に選ばれるなど、多くのカップルにとって特別な一曲となっている。
 
 ---
 

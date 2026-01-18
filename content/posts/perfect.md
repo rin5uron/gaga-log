@@ -31,7 +31,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 「Perfect（パーフェクト）」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）の3枚目のスタジオアルバム『÷（Divide）』（2017年3月3日リリース）からの4枚目のシングルとして、2017年9月26日にリリースされた楽曲。エド・シーラン自身によって書かれ、プロデュースされた。
 
-この曲は、エドの妻チェリー・シーボーン（Cherry Seaborn）への愛を歌った楽曲。結婚式の定番曲として、世界中で愛されている。ビルボードHot 100で1位を記録し、世界中で大ヒットした。
+この曲は、エドの妻チェリー・シーボーン（Cherry Seaborn）への愛を歌った楽曲。結婚式の定番曲として、世界中で愛されている。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/ed-sheeran/chart-history/HSI/1)し、世界中で大ヒットした。
 
 ---
 
@@ -134,7 +134,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 ### <span class="section-subtitle">本物の結婚式映像</span>
 
-2017年11月9日に公開されたミュージックビデオは、エドの妻チェリー・シーボーンとの実際の結婚式の映像を使用した作品。監督はJason Koenigが担当している。
+2017年11月9日に公開されたミュージックビデオは、エドの妻チェリー・シーボーンとの実際の結婚式の映像を使用した作品。監督は[Jason Koenig](https://www.imdb.com/name/nm6202741/)が担当している（[IMDb](https://www.imdb.com/title/tt7649820/)）。
 
 最も印象的なのは、そのリアリティ。実際の結婚式の映像を使っているため、エドとチェリーの愛情がそのまま伝わってくる。シンプルで、美しく、そして何より心に響く。
 

@@ -27,7 +27,7 @@ relatedPosts: ["poker-face"]
 
 「Born This Way」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年5月23日リリース）のタイトルトラックとして、2011年2月11日にリリースされた楽曲。ガガとFernando Garibay、Jeppe Laursen、Paul Blair（DJ White Shadow）によって書かれ、プロデュースされた。
 
-この曲は、ガガのキャリアの中で最も重要なメッセージソングの一つ。ビルボードHot 100で1位を記録し、世界中で大ヒットした。2012年のグラミー賞では、最優秀女性ポップ・ボーカル・パフォーマンス賞にノミネートされた。
+この曲は、ガガのキャリアの中で最も重要なメッセージソングの一つ。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、世界中で大ヒットした。[2012年のグラミー賞では、最優秀女性ポップ・ボーカル・パフォーマンス賞にノミネート](https://www.grammy.com/awards/54th-annual-grammy-awards)された。
 
 ---
 
@@ -101,7 +101,7 @@ relatedPosts: ["poker-face"]
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-2011年2月28日に公開されたミュージックビデオは、ガガのメッセージを視覚的に表現した作品。監督はNick Knightが担当している。
+2011年2月28日に公開されたミュージックビデオは、ガガのメッセージを視覚的に表現した作品。監督は[Nick Knight](https://www.imdb.com/name/nm0460800/)が担当している（[IMDb](https://www.imdb.com/title/tt3559502/)）。
 
 最も印象的なのは、その多様性の表現。様々な人種、性別、体型の人々が登場し、すべての人が「Born This Way」であることを視覚的に表現している。
 

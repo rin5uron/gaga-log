@@ -37,7 +37,7 @@ relatedPosts: ["happier", "thinking-out-loud", "one-shot"]
 
 歌詞の中の「angels to fly（天使が飛ぶ）」というフレーズは、このAngelという女性の名前と、彼女の悲しい状況を重ねたものだ。
 
-2012年には第54回グラミー賞で「Song of the Year」にノミネートされるなど、彼のキャリアを決定づける一曲となった。
+[2012年には第54回グラミー賞で「Song of the Year」にノミネート](https://www.grammy.com/awards/54th-annual-grammy-awards)されるなど、彼のキャリアを決定づける一曲となった。
 
 ---
 

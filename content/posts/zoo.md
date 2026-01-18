@@ -143,7 +143,7 @@ Try Everythingの気持ちで、跳ねる・揺れる・崩してOK！
 
 ### <span class="section-subtitle">実写とアニメの融合</span>
 
-<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2025年11月12日にDisney VEVOチャンネルでリリースされた。監督はHannah Lux Davisが担当している。
+<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2025年11月12日にDisney VEVOチャンネルでリリースされた。監督は[Hannah Lux Davis](https://www.imdb.com/name/nm0205500/)が担当している。
 
 このMVの最大の特徴は、シャキーラの実写パフォーマンスとズートピア2のアニメーション映像を組み合わせた「ハイブリッド映像」であること。シャキーラ自身が、ガゼル風の衣装を着て、映画の世界観を体現している。
 
