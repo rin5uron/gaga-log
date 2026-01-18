@@ -84,16 +84,16 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-4 rounded-lg border border-gray-200 overflow-hidden">
+    <nav className="mb-6 rounded-lg border border-gray-300 bg-gray-50 overflow-hidden shadow-sm">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full px-4 py-2 bg-white flex items-center justify-between hover:bg-gray-50 transition-colors"
+        className="w-full px-4 py-3 bg-gray-100 flex items-center justify-between hover:bg-gray-200 transition-colors border-b border-gray-300"
       >
-        <h2 className="text-sm font-semibold text-gray-700 uppercase tracking-wide">
+        <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
           目次
         </h2>
         <svg
-          className={`w-4 h-4 text-gray-500 transition-transform ${
+          className={`w-4 h-4 text-gray-600 transition-transform ${
             isOpen ? "rotate-180" : ""
           }`}
           fill="none"
@@ -114,7 +114,7 @@ export default function TableOfContents({ html }: { html: string }) {
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-4 py-2 space-y-0.5 pl-0 list-none bg-white border-t border-gray-100">
+        <ul className="px-4 py-3 space-y-0.5 pl-0 list-none bg-white">
           {headings.map((heading) => (
             <li
               key={heading.id}
@@ -122,17 +122,17 @@ export default function TableOfContents({ html }: { html: string }) {
             >
               {heading.level === 2 ? (
                 // h2はリンクなし、セクション見出し
-                <div className="py-1 text-sm font-bold text-gray-800 border-l-3 border-gray-400 pl-3 mt-2 first:mt-0">
+                <div className="py-1.5 text-sm font-semibold text-gray-700 border-l-2 border-gray-300 pl-3 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
                 // h3のみリンク化
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-0.5 pl-3 text-sm transition-all ${
+                  className={`block py-1 pl-3 text-sm transition-all ${
                     activeId === heading.id
-                      ? "text-gray-900 font-medium border-l-2 border-gray-600"
-                      : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-400"
+                      ? "text-gray-900 font-medium border-l-2 border-blue-500 bg-blue-50"
+                      : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-300 hover:bg-gray-50"
                   }`}
                   onClick={(e) => {
                     e.preventDefault();

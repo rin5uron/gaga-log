@@ -423,7 +423,7 @@ export default async function PostPage({
         </Link>
 
         <article className="prose prose-lg max-w-none">
-          <header className="mb-6 not-prose">
+          <header className="mb-4 not-prose">
             <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
               {post.title}
             </h1>
@@ -522,11 +522,16 @@ export default async function PostPage({
             </div>
           </header>
 
+          {/* 「この記事でわかること」を目次の上に配置 */}
+          {post.highlights && post.highlights.length > 0 && (
+            <ArticleHighlights highlights={post.highlights} />
+          )}
+
           {/* 目次 */}
           <TableOfContents html={contentHtml} />
 
           {/* 記事中間の広告（目次の後・横長） */}
-          <div className="my-6">
+          <div className="my-4">
             <AdSenseUnit 
               adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
               adFormat="auto"
@@ -535,24 +540,21 @@ export default async function PostPage({
           </div>
 
           <div
-            className="prose prose-lg max-w-none post-content"
+            className="prose prose-lg max-w-none post-content mb-0"
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
         </article>
 
         {/* 記事下部の広告（横長） */}
-        <AdSenseUnit 
-          adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
-          adFormat="auto"
-          adStyle={{ width: "100%", minHeight: "100px" }}
-        />
+        <div className="my-4">
+          <AdSenseUnit 
+            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
+            adFormat="auto"
+            adStyle={{ width: "100%", minHeight: "100px" }}
+          />
+        </div>
 
         <RelatedPosts currentPost={post} allPosts={allPosts} />
-
-        {/* 「この記事でわかること」を関連記事の下に配置 */}
-        {post.highlights && post.highlights.length > 0 && (
-          <ArticleHighlights highlights={post.highlights} />
-        )}
       </main>
     </div>
   );

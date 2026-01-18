@@ -11,18 +11,20 @@ export default function RelatedPosts({
   currentPost,
   allPosts,
 }: RelatedPostsProps) {
-  // 手動指定された関連記事を取得
+  // 手動指定された関連記事を取得（直接関連する曲のみ）
   const manuallyRelated = currentPost.relatedPosts
     ? allPosts.filter((post) => currentPost.relatedPosts?.includes(post.slug))
     : [];
 
-  // 同じアーティストの他の曲を取得
-  const relatedByArtist = allPosts.filter(
-    (post) =>
-      post.artist === currentPost.artist &&
-      post.slug !== currentPost.slug &&
-      !currentPost.relatedPosts?.includes(post.slug)
-  );
+  // 同じアーティストの他の曲を取得（最大3件まで）
+  const relatedByArtist = allPosts
+    .filter(
+      (post) =>
+        post.artist === currentPost.artist &&
+        post.slug !== currentPost.slug &&
+        !currentPost.relatedPosts?.includes(post.slug)
+    )
+    .slice(0, 3);
 
   const allRelated = [...manuallyRelated, ...relatedByArtist];
 
@@ -53,8 +55,8 @@ export default function RelatedPosts({
     }));
 
   return (
-    <section className="mt-8 sm:mt-12 pt-6 sm:pt-8 border-t border-gray-200">
-      <h2 className="text-2xl font-bold mb-6">関連記事</h2>
+    <section className="mt-6 pt-4 border-t border-gray-200">
+      <h2 className="text-2xl font-bold mb-4">関連記事</h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {artistLinks.map((artist) => (
           <Link
