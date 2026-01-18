@@ -122,7 +122,7 @@ export default function TableOfContents({ html }: { html: string }) {
             >
               {heading.level === 2 ? (
                 // h2はリンクなし、セクション見出し
-                <div className="py-1 text-sm font-bold text-gray-800 border-l-3 border-blue-500 pl-3 mt-2 first:mt-0">
+                <div className="py-1 text-sm font-bold text-gray-800 border-l-3 border-gray-400 pl-3 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
@@ -131,8 +131,8 @@ export default function TableOfContents({ html }: { html: string }) {
                   href={`#${heading.id}`}
                   className={`block py-0.5 pl-3 text-sm transition-all ${
                     activeId === heading.id
-                      ? "text-gray-900 font-medium border-l-2 border-blue-500"
-                      : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-300"
+                      ? "text-gray-900 font-medium border-l-2 border-gray-600"
+                      : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-400"
                   }`}
                   onClick={(e) => {
                     e.preventDefault();

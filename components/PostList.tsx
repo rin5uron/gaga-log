@@ -10,6 +10,25 @@ interface PostListProps {
   artists: string[];
 }
 
+// アーティスト名の別表記マッピング（カタカナ対応）
+const artistAliasMap: Record<string, string[]> = {
+  "Lady Gaga": ["レディー・ガガ", "レディーガガ", "ガガ"],
+  "Ed Sheeran": ["エド・シーラン", "エドシーラン", "エド"],
+  "Ariana Grande": ["アリアナ・グランデ", "アリアナグランデ", "アリアナ"],
+  "Shakira": ["シャキーラ"],
+  "ABBA": ["アバ"],
+  "Florence + The Machine": ["フローレンス・アンド・ザ・マシーン", "フローレンス"],
+  "Beyoncé": ["ビヨンセ"],
+  "Wyclef Jean": ["ワイクリフ・ジーン", "ワイクリフ"],
+  "Bradley Cooper": ["ブラッドリー・クーパー", "ブラッドリー"],
+  "Chris Moukarbel": ["クリス・ムーカーベル", "クリス"],
+};
+
+// アーティスト名の別表記を取得（英語名→カタカナ表記の配列）
+function getArtistAliases(artistName: string): string[] {
+  return artistAliasMap[artistName] || [];
+}
+
 // カタカナ→ひらがな変換
 function toHiragana(str: string): string {
   return str.replace(/[\u30a1-\u30f6]/g, (match) => {
@@ -28,6 +47,12 @@ function toHalfWidth(str: string): string {
 // 検索用の正規化関数（大文字小文字、全角半角、カタカナひらがなを統一）
 function normalizeForSearch(str: string): string {
   return toHiragana(toHalfWidth(str.toLowerCase()));
+}
+
+// アーティスト名を検索用文字列に変換（英語名 + カタカナ別表記）
+function getArtistSearchText(artistName: string): string {
+  const aliases = getArtistAliases(artistName);
+  return [artistName, ...aliases].join(" ");
 }
 
 // アーティスト名を分割する関数（&, /, feat., with などで区切る）
@@ -66,7 +91,17 @@ export default function PostList({ posts, artists }: PostListProps) {
 
       const normalizedQuery = normalizeForSearch(searchQuery);
       const titleMatch = normalizeForSearch(post.title || "").includes(normalizedQuery);
-      const artistMatchQuery = normalizeForSearch(post.artist || "").includes(normalizedQuery);
+      
+      // アーティスト名検索（英語名 + カタカナ別表記に対応）
+      let artistMatchQuery = false;
+      if (post.artist) {
+        const individualArtists = splitArtists(post.artist);
+        artistMatchQuery = individualArtists.some((artist) => {
+          const searchText = getArtistSearchText(artist);
+          return normalizeForSearch(searchText).includes(normalizedQuery);
+        });
+      }
+      
       const songMatch = normalizeForSearch(post.song || "").includes(normalizedQuery);
 
       return artistMatch && (titleMatch || artistMatchQuery || songMatch);
@@ -86,12 +121,12 @@ export default function PostList({ posts, artists }: PostListProps) {
         <div className="relative">
           <input
             type="text"
-            placeholder="記事を検索（タイトル、アーティスト、曲名）"
+            placeholder="タイトル / アーティスト / 曲名で検索"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             onFocus={() => setShowSuggestions(true)}
             onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
-            className="w-full px-4 py-3 pl-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent"
+            className="w-full px-4 py-3 pl-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent text-sm"
           />
           <svg
             className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400"
@@ -144,17 +179,26 @@ export default function PostList({ posts, artists }: PostListProps) {
               すべて
             </button>
             {artists.map((artist) => (
-              <button
-                key={artist}
-                onClick={() => setSelectedArtist(artist)}
-                className={`px-4 py-2 rounded-full text-sm transition-colors ${
-                  selectedArtist === artist
-                    ? "bg-black text-white"
-                    : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-                }`}
-              >
-                {artist}
-              </button>
+              <div key={artist} className="flex items-center gap-1">
+                <Link
+                  href={`/artists/${getArtistSlug(artist)}`}
+                  className="px-4 py-2 rounded-full text-sm transition-colors bg-blue-50 text-blue-700 hover:bg-blue-100 border border-blue-200"
+                  title={`${artist}のプロフィールページへ`}
+                >
+                  {artist}
+                </Link>
+                <button
+                  onClick={() => setSelectedArtist(artist)}
+                  className={`px-3 py-2 rounded-full text-sm transition-colors ${
+                    selectedArtist === artist
+                      ? "bg-black text-white"
+                      : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+                  }`}
+                  title={`${artist}の曲一覧を表示`}
+                >
+                  📀
+                </button>
+              </div>
             ))}
           </div>
         </div>

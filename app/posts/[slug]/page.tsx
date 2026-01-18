@@ -546,6 +546,11 @@ export default async function PostPage({
         />
 
         <RelatedPosts currentPost={post} allPosts={allPosts} />
+
+        {/* 「この記事でわかること」を関連記事の下に配置 */}
+        {post.highlights && post.highlights.length > 0 && (
+          <ArticleHighlights highlights={post.highlights} />
+        )}
       </main>
     </div>
   );
