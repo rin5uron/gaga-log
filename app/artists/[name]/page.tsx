@@ -10,6 +10,7 @@ import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 import remarkGfm from "remark-gfm";
+import DateInfo from "@/components/DateInfo";
 
 // アーティスト名の別表記マッピングテーブル
 const artistAliasMap: Record<string, string[]> = {
@@ -196,6 +197,15 @@ export default async function ArtistPage({
                 )}
               </ul>
             </div>
+          )}
+
+          {/* 作成日・最終更新日（控えめに表示） */}
+          {artistProfile && (
+            <DateInfo
+              date={artistProfile.date}
+              updatedDate={artistProfile.updatedDate}
+              className="text-xs text-gray-400 mb-4"
+            />
           )}
         </header>
 

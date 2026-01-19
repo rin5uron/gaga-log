@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import DateInfo from "@/components/DateInfo";
 
 export const metadata: Metadata = {
   title: "プライバシーポリシー | How Sound Feels",
@@ -99,10 +100,15 @@ export default function Privacy() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-gray-200">
-          <p className="text-gray-600">
-            制定日：2025年12月27日<br />
-            最終更新日：2025年12月27日
-          </p>
+          <DateInfo
+            date="2025-12-27"
+            updatedDate="2025-12-27"
+            className="text-gray-600 text-sm"
+            showCreatedLabel={true}
+            showUpdatedLabel={true}
+            createdLabel="制定日"
+            updatedLabel="最終更新日"
+          />
         </div>
       </main>
     </div>

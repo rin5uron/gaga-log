@@ -84,6 +84,18 @@ export default function Home() {
         {/* トップページの広告 */}
         {/* TODO: AdSense管理画面で広告ユニットを作成し、スロットIDを取得して設定してください */}
         {/* <AdSenseUnit adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_HOME || "YOUR_SLOT_ID_HERE"} /> */}
+
+        {/* サイト全体の更新日 */}
+        <div className="mt-12 pt-8 border-t border-gray-200">
+          <p className="text-gray-600 text-sm">
+            {(() => {
+              // 最新の投稿の更新日を取得
+              const latestPost = posts.length > 0 ? posts[0] : null;
+              const latestUpdateDate = latestPost?.updatedDate || latestPost?.date;
+              return latestUpdateDate ? `サイト最終更新日：${latestUpdateDate}` : null;
+            })()}
+          </p>
+        </div>
       </main>
     </div>
   );

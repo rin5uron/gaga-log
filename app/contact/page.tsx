@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import DateInfo from "@/components/DateInfo";
 
 // Note: メタデータは"use client"があると直接exportできないため、
 // layout.tsxで設定するか、静的ページにする必要があります
@@ -154,6 +155,18 @@ export default function Contact() {
               をご覧ください。
             </p>
           </section>
+
+          <div className="mt-8 pt-4 border-t border-gray-200">
+            <DateInfo
+              date="2025-12-27"
+              updatedDate="2025-12-27"
+              className="text-gray-600 text-sm"
+              showCreatedLabel={true}
+              showUpdatedLabel={true}
+              createdLabel="作成日"
+              updatedLabel="最終更新日"
+            />
+          </div>
         </div>
       </main>
     </div>

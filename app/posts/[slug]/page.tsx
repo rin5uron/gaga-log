@@ -14,6 +14,7 @@ import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
 import ArticleHighlights from "@/components/ArticleHighlights";
 import AdSenseUnit from "@/components/AdSenseUnit";
+import DateInfo from "@/components/DateInfo";
 
 // カタカナ変換マッピングテーブル
 const katakanaMap: Record<string, string> = {
@@ -529,19 +530,11 @@ export default async function PostPage({
             </div>
 
             {/* 作成日・最終更新日（控えめに表示） */}
-            <div className="text-xs text-gray-400 mb-4 max-w-2xl">
-              {post.date && (
-                <>
-                  <span>作成日: {post.date}</span>
-                  {post.updatedDate && (
-                    <>
-                      <span className="mx-2">|</span>
-                      <span>最終更新: {post.updatedDate}</span>
-                    </>
-                  )}
-                </>
-              )}
-            </div>
+            <DateInfo
+              date={post.date}
+              updatedDate={post.updatedDate}
+              className="text-xs text-gray-400 mb-4 max-w-2xl"
+            />
           </header>
 
           {/* 「この記事でわかること」を目次の上に配置 */}

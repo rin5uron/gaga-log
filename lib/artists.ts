@@ -12,6 +12,8 @@ export interface Artist {
   birthDate?: string;
   nationality?: string;
   genres?: string[];
+  date?: string;
+  updatedDate?: string;
   content: string;
 }
 
@@ -41,6 +43,8 @@ export function getArtistBySlug(slug: string): Artist | null {
       birthDate: data.birthDate,
       nationality: data.nationality,
       genres: data.genres,
+      date: data.date,
+      updatedDate: data.updatedDate || data.date,
       content,
     };
   } catch (error) {
