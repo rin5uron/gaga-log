@@ -84,6 +84,15 @@ body {
   @apply mb-4 pl-6;
 }
 
+/* 参考情報セクション内のリストの余白を削除 */
+.post-content h2.references-section ~ ul {
+  margin-bottom: 0 !important;
+}
+
+.post-content h2.references-section ~ ul li:last-child {
+  margin-bottom: 0 !important;
+}
+
 .prose li {
   @apply mb-2;
 }
@@ -254,9 +263,22 @@ body {
 .post-content h2.references-section {
   font-size: 1.125rem !important;
   margin-top: 2rem !important;
+  margin-bottom: 0 !important;
   padding-top: 0.75rem !important;
   border-top: 0.0625rem solid #e5e7eb !important;
   border-left: 2px solid #d1d5db !important;
+}
+
+/* 参考情報セクションの最後の要素の余白を削除 */
+.post-content h2.references-section ~ *:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.post-content h2.references-section ~ ul:last-child,
+.post-content h2.references-section ~ ul:last-child li:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .post-content h2.references-section + h3 {

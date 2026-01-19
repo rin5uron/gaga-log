@@ -119,7 +119,7 @@ export default function TableOfContents({ html }: { html: string }) {
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-4 py-3 space-y-0.5 pl-0 list-none bg-white">
+        <ul className="px-4 py-3 pb-3 space-y-0.5 pl-0 list-none bg-white mb-0">
           {headings.map((heading) => (
             <li
               key={heading.id}
