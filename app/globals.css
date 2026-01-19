@@ -117,18 +117,31 @@ body {
 .prose table {
   @apply w-full border-collapse mb-6;
   border: 1px solid #e5e7eb;
+  display: table;
+  width: 100%;
 }
 
 .prose thead {
   @apply bg-gray-50;
+  display: table-header-group;
+}
+
+.prose tbody {
+  display: table-row-group;
+}
+
+.prose tr {
+  display: table-row;
 }
 
 .prose th {
   @apply px-4 py-3 text-left font-semibold text-gray-900 border-b border-gray-200;
+  display: table-cell;
 }
 
 .prose td {
   @apply px-4 py-3 text-gray-700 border-b border-gray-100;
+  display: table-cell;
 }
 
 .prose tbody tr:hover {
