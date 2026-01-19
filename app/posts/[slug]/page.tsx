@@ -9,6 +9,7 @@ import {
 import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
+import remarkGfm from "remark-gfm";
 import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
 import ArticleHighlights from "@/components/ArticleHighlights";
@@ -324,6 +325,7 @@ export default async function PostPage({
   try {
     console.log("Processing markdown, content length:", contentWithoutStreaming.length);
     const processedContent = await remark()
+      .use(remarkGfm)
       .use(remarkHtml, { sanitize: false })
       .process(contentWithoutStreaming);
     contentHtml = processedContent.toString();

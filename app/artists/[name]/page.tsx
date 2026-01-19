@@ -9,6 +9,7 @@ import { getArtistBySlug, getAllArtistProfiles } from "@/lib/artists";
 import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
+import remarkGfm from "remark-gfm";
 
 // アーティスト名の別表記マッピングテーブル
 const artistAliasMap: Record<string, string[]> = {
@@ -143,6 +144,7 @@ export default async function ArtistPage({
   if (artistProfile) {
     try {
       const processedContent = await remark()
+        .use(remarkGfm)
         .use(remarkHtml, { sanitize: false })
         .process(artistProfile.content);
       contentHtml = processedContent.toString();
