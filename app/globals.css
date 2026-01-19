@@ -84,9 +84,9 @@ body {
   @apply mb-4 pl-6;
 }
 
-/* 参考情報セクション内のリストの余白を削除 */
+/* 参考情報セクション内のリストの余白を調整 */
 .post-content h2.references-section ~ ul {
-  margin-bottom: 0 !important;
+  margin-bottom: 1rem !important;
 }
 
 .post-content h2.references-section ~ ul li:last-child {
@@ -259,34 +259,22 @@ body {
   position: relative;
 }
 
-/* 参考情報セクションを控えめに（JavaScriptでクラスを追加する必要がある） */
+/* 参考情報セクションを他のセクションと同じデザインに */
 .post-content h2.references-section {
-  font-size: 1.125rem !important;
-  margin-top: 2rem !important;
-  margin-bottom: 0 !important;
-  padding-top: 0.75rem !important;
-  border-top: 0.0625rem solid #e5e7eb !important;
-  border-left: 2px solid #d1d5db !important;
-}
-
-/* 参考情報セクションの最後の要素の余白を削除 */
-.post-content h2.references-section ~ *:last-child {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-.post-content h2.references-section ~ ul:last-child,
-.post-content h2.references-section ~ ul:last-child li:last-child {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+  font-size: 1.5rem !important;
+  margin-top: 5rem !important;
+  margin-bottom: 1rem !important;
+  padding-top: 2rem !important;
+  border-top: 0.125rem solid #e5e7eb !important;
+  border-left: 4px solid #3b82f6 !important;
 }
 
 .post-content h2.references-section + h3 {
-  font-size: 0.875rem !important;
-  margin-top: 0.5rem !important;
-  margin-bottom: 0.25rem !important;
-  color: #6b7280 !important;
-  border-left: 1px solid #d1d5db !important;
+  font-size: 1.25rem !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  color: #374151 !important;
+  border-left: 3px solid #94a3b8 !important;
 }
 
 /* セクションサブタイトルのスタイリング */
@@ -299,27 +287,6 @@ body {
   vertical-align: middle;
 }
 
-/* 参考情報セクションを控えめに */
-.post-content h2:has(.section-subtitle) {
-  position: relative;
-}
-
-/* 参考情報のh2を控えめに */
-.post-content h2:has(.section-subtitle:contains("参考情報")) {
-  font-size: 1.125rem !important;
-  margin-top: 2rem !important;
-  padding-top: 0.75rem !important;
-  border-top: 0.0625rem solid #e5e7eb !important;
-  border-left: 2px solid #d1d5db !important;
-}
-
-.post-content h2:has(.section-subtitle:contains("参考情報")) + h3 {
-  font-size: 0.875rem !important;
-  margin-top: 0.5rem !important;
-  margin-bottom: 0.25rem !important;
-  color: #6b7280 !important;
-  border-left: 1px solid #d1d5db !important;
-}
 
 @media (max-width: 768px) {
   .prose h2 .section-subtitle {

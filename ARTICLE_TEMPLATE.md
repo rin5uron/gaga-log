@@ -112,9 +112,15 @@ highlights:
 ```markdown
 ## About <span class="section-subtitle">この曲について</span>
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 ## Music Video <span class="section-subtitle">MV見どころ</span>
 ## Analysis <span class="section-subtitle">考察</span>
+## References <span class="section-subtitle">参考情報</span>
 ```
+
+**セクションの違い：**
+- **Lyrics（歌詞のポイント）**: 歌詞の意味、テーマ、構造などの「解説・考察」
+- **Favorite Lines（口ずさみたいフレーズ）**: 具体的なフレーズの「引用」と、そのフレーズを覚えると曲が楽しくなる「実用的なポイント」
 
 ### H3: 基本2つずつ（具体的な見出し）
 
@@ -150,6 +156,18 @@ highlights:
 [2つのフレーズの意味＋対比・構造＋あなたの印象]
 - デュエット曲なら二人のパート比較
 - あなたの体験
+
+---
+
+
+
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+
+### [印象的なフレーズとその意味]
+
+> 引用したいフレーズ
+
+この曲で覚えておくと、曲が何倍も楽しくなるフレーズを紹介し、その意味や魅力を解説します。
 
 ---
 

@@ -45,7 +45,7 @@ export default function RelatedPosts({
 
   return (
     <section className="mt-6 pt-4 border-t border-gray-200">
-      <h2 className="text-2xl font-bold mb-4">関連情報</h2>
+      <h2 className="text-2xl font-bold mb-4">関連ページ</h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {artistLinks.map((artist) => (
           <Link
