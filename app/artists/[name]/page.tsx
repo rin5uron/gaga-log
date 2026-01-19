@@ -154,12 +154,18 @@ export default async function ArtistPage({
   return (
     <div className="min-h-screen bg-white">
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
-        <Link
-          href="/"
-          className="text-gray-600 hover:text-gray-900 mb-8 inline-block"
-        >
-          ← 一覧に戻る
-        </Link>
+        {/* パンくずリスト */}
+        <nav className="mb-4 text-sm text-gray-600">
+          <ol className="flex items-center space-x-2">
+            <li>
+              <Link href="/" className="hover:text-gray-900">
+                ホーム
+              </Link>
+            </li>
+            <li className="text-gray-400">/</li>
+            <li className="text-gray-900">{artistName}</li>
+          </ol>
+        </nav>
 
         <header className="mb-12">
           <h1 className="text-3xl sm:text-4xl font-bold mb-4 leading-tight">{artistName}</h1>
@@ -201,10 +207,10 @@ export default async function ArtistPage({
           </article>
         )}
 
-        {/* 関連記事 */}
+        {/* 関連ページ */}
         <section>
           <h2 className="text-2xl font-bold mb-8 pb-4 border-b">
-            関連記事 ({posts.length}件)
+            関連ページ ({posts.length}件)
           </h2>
           <div className="space-y-8">
             {posts.map((post) => (
