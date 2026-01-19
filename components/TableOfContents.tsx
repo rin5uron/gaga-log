@@ -84,7 +84,7 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-4 rounded-lg border border-gray-300 bg-gray-50 overflow-hidden shadow-sm">
+    <nav className="mb-0 rounded-lg bg-gray-50 overflow-hidden shadow-sm">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="w-full px-4 py-3 bg-gray-100 flex items-center justify-between hover:bg-gray-200 transition-colors border-b border-gray-300"
@@ -122,7 +122,7 @@ export default function TableOfContents({ html }: { html: string }) {
             >
               {heading.level === 2 ? (
                 // h2はリンクなし、セクション見出し
-                <div className="py-1.5 text-sm font-semibold text-gray-700 border-l-2 border-gray-300 pl-3 mt-2 first:mt-0">
+                <div className="py-1.5 text-sm font-semibold text-gray-700 border-l border-gray-300 pl-3 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
@@ -131,8 +131,8 @@ export default function TableOfContents({ html }: { html: string }) {
                   href={`#${heading.id}`}
                   className={`block py-1 pl-3 text-sm transition-all ${
                     activeId === heading.id
-                      ? "text-gray-900 font-medium border-l-2 border-blue-500 bg-blue-50"
-                      : "text-gray-600 hover:text-gray-900 border-l-2 border-transparent hover:border-gray-300 hover:bg-gray-50"
+                      ? "text-gray-900 font-medium border-l border-blue-500 bg-blue-50"
+                      : "text-gray-600 hover:text-gray-900 border-l border-transparent hover:border-gray-300 hover:bg-gray-50"
                   }`}
                   onClick={(e) => {
                     e.preventDefault();

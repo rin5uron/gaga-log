@@ -331,6 +331,12 @@ export default async function PostPage({
     // 本文中の曲名・アーティスト名・アルバム名をリンク化（現在のページは除外）
     contentHtml = linkifyContent(contentHtml, allPosts, slug);
 
+    // Referencesセクションにクラスを追加
+    contentHtml = contentHtml.replace(
+      /<h2([^>]*)>([^<]*<span[^>]*class="section-subtitle"[^>]*>参考情報<\/span>[^<]*)<\/h2>/gi,
+      '<h2$1 class="references-section">$2</h2>'
+    );
+
     console.log("HTML generated, length:", contentHtml.length);
   } catch (error) {
     console.error("Error processing markdown:", error);
@@ -415,12 +421,18 @@ export default async function PostPage({
       />
 
       <main className="max-w-4xl mx-auto px-4 pt-6 pb-12">
-        <Link
-          href="/"
-          className="text-gray-600 hover:text-gray-900 mb-4 inline-block"
-        >
-          ← 一覧に戻る
-        </Link>
+        {/* パンくずリスト */}
+        <nav className="mb-4 text-sm text-gray-600">
+          <ol className="flex items-center space-x-2">
+            <li>
+              <Link href="/" className="hover:text-gray-900">
+                ホーム
+              </Link>
+            </li>
+            <li className="text-gray-400">/</li>
+            <li className="text-gray-900">{post.title}</li>
+          </ol>
+        </nav>
 
         <article className="prose prose-lg max-w-none">
           <header className="mb-4 not-prose">
@@ -512,24 +524,17 @@ export default async function PostPage({
                   {post.year && <span> ({post.year})</span>}
                 </>
               )}
-              {post.date && (
-                <>
-                  <span className="mx-2">|</span>
-                  <span className="font-semibold">Date: </span>
-                  <span>{post.date}</span>
-                </>
-              )}
             </div>
 
-            {/* 作成日・更新日（控えめに表示） */}
+            {/* 作成日・最終更新日（控えめに表示） */}
             <div className="text-xs text-gray-400 mb-4 max-w-2xl">
               {post.date && (
                 <>
                   <span>作成日: {post.date}</span>
-                  {post.updatedDate && post.updatedDate !== post.date && (
+                  {post.updatedDate && (
                     <>
                       <span className="mx-2">|</span>
-                      <span>更新日: {post.updatedDate}</span>
+                      <span>最終更新: {post.updatedDate}</span>
                     </>
                   )}
                 </>

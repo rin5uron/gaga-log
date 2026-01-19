@@ -245,6 +245,28 @@ body {
   margin-top: 3rem;
 }
 
+/* Referencesセクションを控えめに */
+.post-content h2:has(.section-subtitle) {
+  position: relative;
+}
+
+/* 参考情報セクションを控えめに（JavaScriptでクラスを追加する必要がある） */
+.post-content h2.references-section {
+  font-size: 1.125rem !important;
+  margin-top: 2rem !important;
+  padding-top: 0.75rem !important;
+  border-top: 0.0625rem solid #e5e7eb !important;
+  border-left: 2px solid #d1d5db !important;
+}
+
+.post-content h2.references-section + h3 {
+  font-size: 0.875rem !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
+  color: #6b7280 !important;
+  border-left: 1px solid #d1d5db !important;
+}
+
 /* セクションサブタイトルのスタイリング */
 .prose h2 .section-subtitle {
   font-size: 0.95rem;
@@ -253,6 +275,28 @@ body {
   margin-left: 0.75rem;
   letter-spacing: 0.025em;
   vertical-align: middle;
+}
+
+/* 参考情報セクションを控えめに */
+.post-content h2:has(.section-subtitle) {
+  position: relative;
+}
+
+/* 参考情報のh2を控えめに */
+.post-content h2:has(.section-subtitle:contains("参考情報")) {
+  font-size: 1.125rem !important;
+  margin-top: 2rem !important;
+  padding-top: 0.75rem !important;
+  border-top: 0.0625rem solid #e5e7eb !important;
+  border-left: 2px solid #d1d5db !important;
+}
+
+.post-content h2:has(.section-subtitle:contains("参考情報")) + h3 {
+  font-size: 0.875rem !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
+  color: #6b7280 !important;
+  border-left: 1px solid #d1d5db !important;
 }
 
 @media (max-width: 768px) {
