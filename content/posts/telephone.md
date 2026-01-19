@@ -5,6 +5,7 @@ artist: "Lady Gaga feat. Beyoncé"
 album: "The Fame Monster"
 year: "2009"
 date: "2025-12-31"
+updatedDate: "2026-01-18"
 order: 16
 type: "song"
 relatedPosts: ["paparazzi", "hey-girl", "joanne"]
@@ -131,5 +132,41 @@ MVの最後に、2人が黄色いコンバーチブルで砂漠を走り去る�
 **約15年経った今、この曲が示すもの：**
 
 「Telephone」で歌われた「電話に出ない自由」は、現代では**「デジタルデバイスから自由になる権利」**として拡張される。この曲は、テクノロジーに支配されない生活、そして過度な接続性から自由になることの重要性を先取りして歌っていたのだ。
+
+---
+
+
+
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+
+### "Stop callin', stop callin', I don't wanna think anymore"
+
+> Stop callin', stop callin', I don't wanna think anymore
+
+この曲で覚えておくと、曲が何倍も楽しくなるフレーズ。**「電話をかけるのをやめて、もう考えたくない」**——シンプルな言葉だが、その裏には深い意味が込められている。
+
+このフレーズの力は、**繰り返し**にある。同じ言葉を何度も繰り返すことで、相手からの連絡への拒絶が強調される。ガガのエレクトロニックなボーカルスタイルと、ビヨンセのパワフルな歌唱が、このメッセージに説得力を与えている。
+
+カラオケで歌う場合は、この部分のリズムとアクセントを掴むと、曲全体が歌いやすくなる。特に「I don't wanna think anymore」の部分は、自由を選ぶ決意を表現する重要なポイントだ。
+
+---
+
+
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Telephone - Official Music Video](https://www.youtube.com/watch?v=EVBsypHzF3U)
+
+### インタビュー・発言
+
+- [Lady Gaga and Beyoncé on "Telephone" - Interview](https://www.grammy.com/awards/53rd-annual-grammy-awards)
+
+### その他
+
+- [IMDb - Telephone Music Video](https://www.imdb.com/title/tt1675756/)
+- [Billboard Chart History](https://www.billboard.com/music/lady-gaga/chart-history/HSI/3)
+- [Nicola Formichetti - Fashion Credits](https://nicolaformichetti.blogspot.com/2010/03/fashion-credits-telephone-by-lady-gaga.html)
 
 ---

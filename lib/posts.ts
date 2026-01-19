@@ -14,6 +14,7 @@ export interface Post {
   album?: string;
   year?: string;
   date: string;
+  updatedDate?: string;
   type?: string;
   description?: string;
   relatedPosts?: string[];
@@ -50,6 +51,7 @@ export function getPostBySlug(slug: string): Post | null {
       album: data.album,
       year: data.year,
       date: data.date || "",
+      updatedDate: data.updatedDate || data.date || "",
       type: data.type,
       description: data.description,
       relatedPosts: data.relatedPosts,

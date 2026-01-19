@@ -10,7 +10,7 @@ export default function ArticleHighlights({ highlights }: ArticleHighlightsProps
   }
 
   return (
-    <div className="mb-6 p-5 bg-gray-50 rounded-lg border border-gray-200">
+    <div className="mb-4 p-5 bg-gray-50 rounded-lg border border-gray-200">
       <h2 className="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">
         この記事でわかること
       </h2>

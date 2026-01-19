@@ -355,7 +355,7 @@ export default async function PostPage({
           url: "https://sound-feels.com",
         },
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.updatedDate || post.date,
         publisher: {
           "@type": "Organization",
           name: "How Sound Feels",
@@ -520,11 +520,28 @@ export default async function PostPage({
                 </>
               )}
             </div>
+
+            {/* 作成日・更新日（控えめに表示） */}
+            <div className="text-xs text-gray-400 mb-4 max-w-2xl">
+              {post.date && (
+                <>
+                  <span>作成日: {post.date}</span>
+                  {post.updatedDate && post.updatedDate !== post.date && (
+                    <>
+                      <span className="mx-2">|</span>
+                      <span>更新日: {post.updatedDate}</span>
+                    </>
+                  )}
+                </>
+              )}
+            </div>
           </header>
 
           {/* 「この記事でわかること」を目次の上に配置 */}
           {post.highlights && post.highlights.length > 0 && (
-            <ArticleHighlights highlights={post.highlights} />
+            <div className="mt-2">
+              <ArticleHighlights highlights={post.highlights} />
+            </div>
           )}
 
           {/* 目次 */}

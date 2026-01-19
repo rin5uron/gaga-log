@@ -5,6 +5,7 @@ artist: "Lady Gaga"
 album: "The Fame"
 year: "2009"
 date: "2026-01-18"
+updatedDate: "2026-01-18"
 order: 20
 type: "song"
 highlights:
@@ -140,5 +141,40 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 「Paparazzi」は、その欲望を歌にした。だからこそ、多くの人に刺さる。
 
 **一見自由に見えるが、実は執着に近い状態**——この曲が描くのは、そんな矛盾だ。ガガ自身も、名声を批判しながら、同時にその一部になることを選んだ。その迷走する執着が、この曲の深みを生んでいる。
+
+---
+
+
+
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+
+### "I'm your biggest fan, I'll follow you until you love me"
+
+> I'm your biggest fan, I'll follow you until you love me
+
+この曲で覚えておくと、曲が何倍も楽しくなるフレーズ。**「私はあなたの一番のファン、あなたが私を愛するまで追いかける」**——一見、純粋なファンの言葉に聞こえるが、その裏には執着と依存が隠されている。
+
+このフレーズの美しさは、**二重の意味**にある。セレブリティとファンの関係として聞いても、名声への執着として聞いても、どちらも成立する。ガガは、この曖昧さを意図的に作った。
+
+カラオケで歌う場合は、この部分のリズムとアクセントを掴むと、曲全体が歌いやすくなる。特に「until you love me」の部分は、執着の強さを表現する重要なポイントだ。
+
+---
+
+
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Paparazzi - Official Music Video](https://www.youtube.com/watch?v=d2smz_1L2_0)
+
+### インタビュー・発言
+
+- [Lady Gaga on "Paparazzi" - Interview](https://www.billboard.com/music/lady-gaga/chart-history/HSI/6)
+
+### その他
+
+- [IMDb - Paparazzi Music Video](https://www.imdb.com/title/tt1676684/)
+- [Billboard Chart History](https://www.billboard.com/music/lady-gaga/chart-history/HSI/6)
 
 ---

@@ -4,10 +4,15 @@ song: "曲タイトル"
 artist: "アーティスト名"
 album: "アルバム名"
 year: YYYY
-date: "YYYY-MM-DD"
+date: "YYYY-MM-DD"  # 作成日（初回公開日）
+updatedDate: "YYYY-MM-DD"  # 更新日（構成・考察を見直した日、初回はdateと同じ）
 order: 1
 type: "song"
 relatedPosts: ["関連する記事のslug"]
+highlights:
+  - ハイライト1（SEOキーワード含む、具体的な内容）
+  - ハイライト2（読者が知りたい核心）
+  - ハイライト3（あれば3つ目）
 # ↓ SEO用メタデータは自動生成されます（手動設定不要）
 # 生成内容: title, description, keywords, OGP, Twitter Card, canonical URL
 # 詳細: /docs/SEO-METADATA-IMPLEMENTATION.md を参照
@@ -15,6 +20,8 @@ relatedPosts: ["関連する記事のslug"]
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <!-- 🎧 ストリーミングで聴く -->
 <a href="APPLE_MUSIC_URL" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
@@ -28,15 +35,20 @@ relatedPosts: ["関連する記事のslug"]
 
 ## About <span class="section-subtitle">この曲について</span>
 
-### <span class="section-subtitle">曲の基本情報・背景</span>
+### [具体的な状況・疑問]（例：映画のどこで歌われている？）
 
-曲の基本情報や背景を記載します（リリース年、アルバム、制作背景など）。
+[事実＋あなたの視点]
+- リリース情報
+- 映画・アルバムとの関係
+- チャート成績
 
 ---
 
-### <span class="section-subtitle">第一印象や聴くきっかけ</span>
+### [アーティスト・背景の切り口]（例：ガガとクーパー、二人の奇跡の共演）
 
-この曲との出会いや第一印象について書きます。
+[事実＋意味づけ]
+- アーティストの挑戦
+- 制作背景
 
 ---
 
@@ -44,15 +56,36 @@ relatedPosts: ["関連する記事のslug"]
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
-### <span class="section-subtitle">歌詞の重要なテーマやポイント1</span>
+### [キーワード・テーマの意味]（例："Shallow"という言葉の二重の意味）
 
-この曲を聴くときに知っておくと深まるポイントを説明します。
+[言葉の意味＋曲での使われ方]
+※歌詞の直接引用は最小限に
 
 ---
 
-### <span class="section-subtitle">歌詞のポイント2（必要に応じて追加）</span>
+### [繰り返されるフレーズ＋歌詞の構造]（例："In the shallow" と "I'm falling"——繰り返される2つのフレーズ）
 
-もう一つの重要なポイントについて説明します。
+[2つのフレーズの意味＋対比・構造＋あなたの印象]
+- デュエット曲なら二人のパート比較
+- あなたの体験
+
+---
+
+
+
+## Music Video <span class="section-subtitle">MV見どころ</span>
+
+### [MVの特徴的なシーン]（例：スター誕生の瞬間を切り取った名シーン）
+
+[シーンの描写＋意味]
+- 撮影場所・演出
+- 視聴可能な場所のリンク
+
+---
+
+### [ライブパフォーマンス]（例：アカデミー賞でのライブパフォーマンス）
+
+[パフォーマンスの描写]
 
 ---
 
@@ -60,7 +93,7 @@ relatedPosts: ["関連する記事のslug"]
 
 ## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
-### <span class="section-subtitle">印象的なフレーズとその意味</span>
+### [印象的なフレーズとその意味]
 
 > 引用したいフレーズ
 
@@ -70,22 +103,46 @@ relatedPosts: ["関連する記事のslug"]
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+## Analysis <span class="section-subtitle">考察</span>
 
-### <span class="section-subtitle">MVの印象的なシーンや演出</span>
+### [曲ごとに変える]（例：この曲が今も聞かれ続けている理由 / この曲がヒットした理由 / この曲の本質）
 
-MVの説明や印象的なシーンについて書きます。
+**⚠️ 注意：このタイトルは固定テンプレートではありません。曲に合わせて変えてください。**
+
+[客観的事実＋曲の本質＋普遍的テーマ]
+- アーティストの挑戦
+- 曲の構造・文脈
+- 普遍的テーマの解説
+
+---
+
+### [曲の構造・化学反応]（例：二人だからこそ生まれた化学反応）
+
+[対比・構造の分析＋あなたの体験]
+
+---
+
+### [文化的背景・他曲とのつながり]（あれば）
+
+[他曲との比較、文化的背景、時代性など]
 
 ---
 
 
 
-## （主観的なセクションタイトル） <span class="section-subtitle">魅力的なサブタイトル</span>
+## References <span class="section-subtitle">参考情報</span>
 
-### <span class="section-subtitle">具体的な内容のタイトル</span>
+### 公式MV
 
-この曲から感じたこと、学んだこと、個人的な思い出などを書きます。
+- [曲名 - Official Music Video](URL)
+
+### インタビュー・発言
+
+- [インタビュー記事タイトル](URL)
+- [アーティスト本人の発言](URL)
+
+### その他
+
+- [参考資料](URL)
 
 ---
-
-

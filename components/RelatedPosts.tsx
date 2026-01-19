@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { Post, getAllArtists } from "@/lib/posts";
-import { getArtistSlug } from "@/lib/utils";
+import { Post } from "@/lib/posts";
 
 interface RelatedPostsProps {
   currentPost: Post;
@@ -16,63 +15,16 @@ export default function RelatedPosts({
     ? allPosts.filter((post) => currentPost.relatedPosts?.includes(post.slug))
     : [];
 
-  // 同じアーティストの他の曲を取得（最大3件まで）
-  const relatedByArtist = allPosts
-    .filter(
-      (post) =>
-        post.artist === currentPost.artist &&
-        post.slug !== currentPost.slug &&
-        !currentPost.relatedPosts?.includes(post.slug)
-    )
-    .slice(0, 3);
-
-  const allRelated = [...manuallyRelated, ...relatedByArtist];
-
-  if (allRelated.length === 0) {
+  // 関連記事がない場合は表示しない
+  if (manuallyRelated.length === 0) {
     return null;
   }
-
-  // アーティスト名を分割（feat., &, / などに対応）
-  const splitArtists = (artistString: string): string[] => {
-    if (!artistString) return [];
-    const separators = /[&/×]|feat\.|featuring|with|,/i;
-    return artistString
-      .split(separators)
-      .map((name) => name.trim())
-      .filter((name) => name.length > 0);
-  };
-
-  // アーティストページへのリンクを生成（すべてのアーティスト）
-  const artists = currentPost.artist ? splitArtists(currentPost.artist) : [];
-  const allArtists = getAllArtists();
-  
-  // アーティストページが存在するアーティストのみをフィルタ
-  const artistLinks = artists
-    .filter((artist) => allArtists.some((a) => a.toLowerCase() === artist.toLowerCase()))
-    .map((artist) => ({
-      name: artist,
-      link: `/artists/${getArtistSlug(artist)}`,
-    }));
 
   return (
     <section className="mt-6 pt-4 border-t border-gray-200">
       <h2 className="text-2xl font-bold mb-4">関連記事</h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {artistLinks.map((artist) => (
-          <Link
-            key={artist.name}
-            href={artist.link}
-            className="block p-4 border border-gray-200 rounded-lg hover:border-gray-400 hover:shadow-md transition-all bg-gray-50"
-          >
-            <h3 className="text-lg font-semibold mb-1">
-              {artist.name}
-            </h3>
-            <p className="text-xs text-gray-500">
-              アーティスト
-            </p>
-          </Link>
-        ))}
-        {allRelated.map((post) => (
+        {manuallyRelated.map((post) => (
           <Link
             key={post.slug}
             href={`/posts/${post.slug}`}
