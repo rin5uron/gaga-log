@@ -36,6 +36,11 @@ export default function TableOfContents({ html }: { html: string }) {
         displayText = subtitleMatch ? subtitleMatch[1].trim() : text;
       }
 
+      // 参考情報セクションは目次に含めない
+      if (displayText === "参考情報" || text.includes("参考情報") || text.includes("References")) {
+        return;
+      }
+
       const id = `heading-${index}`;
       heading.id = id;
 
