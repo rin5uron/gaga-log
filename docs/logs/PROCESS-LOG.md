@@ -76,6 +76,56 @@
 
 ---
 
+## 2026年1月20日：曲ページテンプレ・目次・デザイン統一
+
+### 一目でわかる変更一覧
+
+| 種別 | ファイル | 主な変更 |
+|------|----------|----------|
+| テンプレ | `templates/template-song.md` | 考察の締め（私の感想2〜4行）、Referencesルール（本文リンク＋一覧・控えめCSS） |
+| マニュアル | `ARTICLE_TEMPLATE.md` | 上記に合わせてH2/考察/参考文献を更新。リンク・装飾ルール（初出のみリンク、まとめ枠、流し読み）を追加 |
+| 目次 | `components/TableOfContents.tsx` | **h3全文表示**（`"I'm your biggest fan"——ファンか…` などクォート歌詞もそのまま）。参考情報セクション以降を目次から除外。**見出しデザインを本文h2/h3と統一**（.toc-heading-h2 / .toc-heading-h3） |
+| スタイル | `app/globals.css` | **見出し共通トークン**（--heading-h2-border, --heading-h3-border 等）。**.summary-box**（まとめ枠）。**.toc-heading-h2 / .toc-heading-h3**。**.article-title**。参考文献セクションを控えめに（フォント・色・余白）。引用 blockquote の枠を強化 |
+| 記事ページ | `app/posts/[slug]/page.tsx` | 記事タイトル（h1）に `.article-title` を付与。目次・参考文献まわりの AdSense 余白を `my-4`→`my-2` に変更 |
+| 記事本文 | `content/posts/paparazzi.md` | **まとめ枠**を2箇所（Lyrics「この曲の美しさは…」、Analysis「Paparazziは…警告している」） |
+| 記事本文 | `content/posts/telephone.md` | **まとめ枠**を2箇所（Analysis 冒頭・「約15年経った今…」）。比較ボックスを `className`→`class` で **.comparison-box / .comparison-item** に差し替え（2009年=previous、現代=current） |
+
+---
+
+### テンプレ・マニュアル
+
+- **考察の締め**：最後の h3 のあと、私の感想を **2〜4行** で入れる（解釈の延長として短く）。
+- **参考文献**：ピンポイントは **本文中にリンク**。一覧は References にまとめる。セクションは **フォント・サイズ・明るさを抑える**（globals.css で適用）。
+- **リンク・装飾**：アーティスト・アルバム名は **初出のみ** リンク。**引用・まとめは枠の CSS**（blockquote、.summary-box）で文字ばっかにしない。**流し読み**しやすい構成に。
+
+---
+
+### 目次（TableOfContents）
+
+- **h3 が目次に一部だけ出る問題**：h3 に `.section-subtitle` がなく、日本語だけ抜いていた正規表現のため、`"I'm your biggest fan"——ファンか、ストーカーか` のような見出しが「ファンか、ストーカーか」だけになっていた。**h3 は `textContent` の全文をそのまま表示**するよう修正。
+- **参考情報**：「参考情報」の h2 に到達したら、それ以降（公式MV・インタビュー・その他）は **目次に含めない**。
+- **デザイン統一**：目次内の h2 ラベル・h3 リンクに、本文と同じ左边框（h2=青、h3=スレート）と色トークンを適用（.toc-heading-h2 / .toc-heading-h3）。
+
+---
+
+### スタイル（globals.css）
+
+- **:root** に `--heading-h2-border`、`--heading-h3-border`、`--heading-h2-color`、`--heading-h3-color` を定義。記事 h2/h3・目次・タイトルで共用。
+- **.summary-box / .section-summary**：グレー背景・左ボーダーでまとめ文を枠表示。
+- **.article-title**：記事 h1 に `var(--heading-h2-color)` を適用。
+- **参考文献**：`.references-section` 以降の h2 / h3 / ul / a をフォント・色・余白で控えめに。
+
+---
+
+### パパラッチ・テレフォンでの実装
+
+テンプレの「**まとめは枠で**」を反映。
+
+- **パパラッチ**：Lyrics の「この曲の美しさは、この二重性にある。ストーカーの歌として…」／ Analysis の「Paparazziは、その執着の先にあるものを警告している。名声は、愛ではなく、依存だと。」を `<div class="summary-box">` で囲む。
+- **テレフォン**：Analysis 冒頭「Telephoneが特別なのは、自由を選ぶ勇気を歌っている点だ。」／「約15年経った今…」の段落を `<div class="summary-box">` で囲む。2009年 vs 現代の比較は `.comparison-box` + `.comparison-item.previous` / `.current` に変更（`className`→`class`、Tailwind が .md をスキャンしないため既存 CSS を使用）。
+
+---
+
 ## 2026年1月10日：SEOキーワード強化実装
 
 ### 概要
@@ -429,4 +479,4 @@ Sitemap: https://sound-feels.com/sitemap.xml
 
 ---
 
-最終更新日：2026年1月8日
+最終更新日：2026年1月20日
