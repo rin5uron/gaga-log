@@ -149,10 +149,28 @@ export default async function ArtistPage({
         .use(remarkHtml, { sanitize: false })
         .process(artistProfile.content);
       contentHtml = processedContent.toString();
+      // References セクションに class を付与（控えめスタイル適用）
+      contentHtml = contentHtml.replace(
+        /<h2([^>]*)>([^<]*<span[^>]*class="section-subtitle"[^>]*>参考情報<\/span>[^<]*)<\/h2>/gi,
+        '<h2$1 class="references-section">$2</h2>'
+      );
     } catch (error) {
       console.error("Error processing markdown:", error);
     }
   }
+
+  // 国籍→国旗（国籍ワード検索用）
+  const countryFlagMap: Record<string, string> = {
+    アメリカ: "🇺🇸",
+    アメリカ合衆国: "🇺🇸",
+    イギリス: "🇬🇧",
+    コロンビア: "🇨🇴",
+    スウェーデン: "🇸🇪",
+    ジャマイカ: "🇯🇲",
+  };
+  const flag = artistProfile?.nationality
+    ? countryFlagMap[artistProfile.nationality] || ""
+    : "";
 
   return (
     <div className="min-h-screen bg-white">
@@ -186,6 +204,7 @@ export default async function ArtistPage({
                 {artistProfile.nationality && (
                   <li>
                     <span className="font-semibold">国籍：</span>
+                    {flag && <span className="mr-1" aria-hidden>{flag}</span>}
                     {artistProfile.nationality}
                   </li>
                 )}

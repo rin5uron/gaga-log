@@ -1,29 +1,82 @@
-# How Sound Feels - ドキュメント目次
+# How Sound Feels - ドキュメント索引
 
-このフォルダには、プロジェクトの方針・戦略・ログなどのドキュメントがまとめられています。
-
----
-
-## 📁 フォルダ構成
-
-### [project/](./project/) - プロジェクト概要・方針
-プロジェクトの成り立ちや方向性に関するドキュメント
-
-- **[ORIGIN.md](./project/ORIGIN.md)** - なぜこのプロジェクトを始めたか
-- **[ANALYSIS.md](./project/ANALYSIS.md)** - プロジェクトの将来性分析（水平思考バイアスに注意）
-- **[PHASES.md](./project/PHASES.md)** - フェーズ管理と進行状況
+このディレクトリには、プロジェクトの全ドキュメントが格納されています。
 
 ---
 
-### [seo/](./seo/) - SEO・検索最適化
-SEO改善とGoogle検索での上位表示を目指すためのドキュメント
+## 📚 目次
 
-- **[SEO_MANUAL.md](./seo/SEO_MANUAL.md)** ⭐ - **SEO改善の完全マニュアル**（検索順位1位を目指す）
-- **[SEO_IMPROVEMENT_LOG.md](./seo/SEO_IMPROVEMENT_LOG.md)** - 各記事のSEO改善履歴
-- **[SEO-STRATEGY.md](./seo/SEO-STRATEGY.md)** - AdSense収益化に向けたSEO戦略
-- **[SEO-METADATA-IMPLEMENTATION.md](./seo/SEO-METADATA-IMPLEMENTATION.md)** - メタデータ実装の記録
+### 🎯 記事執筆ガイド（最重要）
 
-**SEO改善を始める場合**:
+**新しい記事を書く時は、まずこれを読んでください。**
+
+- **[WRITING-GUIDE.md](WRITING-GUIDE.md)** ⭐ - 記事執筆完全ガイド
+  - 記事作成のルール、テンプレート、意図を一元管理
+  - highlights、目次、引用、日付などの全ルール
+  - AdSense対策、チェックリスト完備
+
+---
+
+### 📝 テンプレート
+
+記事作成時に使用するテンプレートです。
+
+- [template-song.md](../templates/template-song.md) - 曲記事のテンプレート
+- [template-artist.md](../templates/template-artist.md) - アーティストページのテンプレート
+- [template-movie.md](../templates/template-movie.md) - 映画・ドキュメンタリー記事のテンプレート
+
+---
+
+### 📊 プロジェクト管理
+
+プロジェクトの進行状況やフェーズ管理を記録しています。
+
+- **[logs/PROCESS-LOG.md](logs/PROCESS-LOG.md)** - プロセスログ（時系列の実装記録）
+  - 実装内容の詳細な記録
+  - 技術的な変更履歴
+  - 現在のフェーズと達成状況
+
+- [project/PHASES.md](project/PHASES.md) - フェーズ管理
+- [project/ORIGIN.md](project/ORIGIN.md) - プロジェクトの起源
+- [project/ANALYSIS.md](project/ANALYSIS.md) - プロジェクト分析
+- [DAILY-ROUTINE.md](DAILY-ROUTINE.md) - 日々のルーティン
+
+---
+
+### 🎨 デザイン・戦略
+
+サイトのデザインやコンテンツ戦略に関するドキュメント。
+
+- [strategy/ARTIST-STRATEGY.md](strategy/ARTIST-STRATEGY.md) - アーティストページ戦略
+- [strategy/ALBUM-COVER-STRATEGY.md](strategy/ALBUM-COVER-STRATEGY.md) - アルバムカバー戦略
+
+---
+
+### 💰 AdSense関連
+
+Google AdSense申請・改善に関するドキュメント。
+
+**重要度順に並んでいます。**
+
+1. **[strategy/ADSENSE-STRATEGY.md](strategy/ADSENSE-STRATEGY.md)** - AdSense総合戦略
+2. **[strategy/ADSENSE-REJECTION-ANALYSIS.md](strategy/ADSENSE-REJECTION-ANALYSIS.md)** - 不承認分析
+3. [strategy/ADSENSE-CONTENT-IMPROVEMENT.md](strategy/ADSENSE-CONTENT-IMPROVEMENT.md) - コンテンツ改善
+4. [strategy/ADSENSE-CHECKLIST.md](strategy/ADSENSE-CHECKLIST.md) - 申請前チェックリスト
+5. [strategy/ADSENSE-AD-UNIT-SETUP.md](strategy/ADSENSE-AD-UNIT-SETUP.md) - 広告ユニット設定
+6. [strategy/ADSENSE-IMPLEMENTATION-GUIDE.md](strategy/ADSENSE-IMPLEMENTATION-GUIDE.md) - 実装ガイド
+
+---
+
+### 🔍 SEO関連
+
+SEO最適化に関するドキュメント。
+
+- **[seo/SEO-STRATEGY.md](seo/SEO-STRATEGY.md)** - SEO総合戦略
+- **[seo/SEO_MANUAL.md](seo/SEO_MANUAL.md)** ⭐ - SEO改善の完全マニュアル
+- [seo/SEO_IMPROVEMENT_LOG.md](seo/SEO_IMPROVEMENT_LOG.md) - SEO改善ログ
+- [seo/SEO-METADATA-IMPLEMENTATION.md](seo/SEO-METADATA-IMPLEMENTATION.md) - メタデータ実装
+
+**SEO改善コマンド**:
 ```bash
 # 新規SEO改善
 /seo-check
@@ -34,64 +87,55 @@ SEO改善とGoogle検索での上位表示を目指すためのドキュメン�
 
 ---
 
-### [strategy/](./strategy/) - 各種戦略
-コンテンツ戦略とマネタイズ戦略
+### 📚 学習リソース（参考）
 
-- **[ADSENSE-STRATEGY.md](./strategy/ADSENSE-STRATEGY.md)** - Google AdSense収益化戦略
-- **[ARTIST-STRATEGY.md](./strategy/ARTIST-STRATEGY.md)** - アーティストページの戦略
-- **[ALBUM-COVER-STRATEGY.md](./strategy/ALBUM-COVER-STRATEGY.md)** - アルバムカバー表示戦略
-- **[SEO-STRATEGY.md](./strategy/SEO-STRATEGY.md)** - SEO全体戦略（旧版）
+Next.jsやTailwind CSSの学習記録。技術的な理解を深めたい時に参照。
 
----
-
-### [rules/](./rules/) - ルール・ガイドライン
-記事作成とコンテンツ管理のルール
-
-- **[CONTENT-RULES.md](./rules/CONTENT-RULES.md)** - コンテンツ作成ルール
+- [learning/nextjs-progress.md](learning/nextjs-progress.md) - Next.js学習進捗
+- [learning/nextjs-search-implementation.md](learning/nextjs-search-implementation.md) - 検索機能実装
+- [learning/tailwind-css-basics.md](learning/tailwind-css-basics.md) - Tailwind CSS基礎
+- [learning/component-design-guide.md](learning/component-design-guide.md) - コンポーネント設計
+- [learning/beginner-friendly-guide.md](learning/beginner-friendly-guide.md) - 初心者向けガイド
 
 ---
 
-### [logs/](./logs/) - 作業ログ・記録
-開発や実装の作業ログ
+### 📦 アーカイブ
 
-- **[IMPLEMENTATION-LOG.md](./logs/IMPLEMENTATION-LOG.md)** - 実装作業のログ
-- **[PROCESS-LOG.md](./logs/PROCESS-LOG.md)** - プロセス全体のログ
-- **[20260105-google-search-console.md](./logs/20260105-google-search-console.md)** - Search Console設定記録
+過去のドキュメント。現在は使用していませんが、参考として保管。
 
----
-
-### [archive/](./archive/) - アーカイブ・参考資料
-過去のドキュメントや参考資料
-
-- **[DESIGN.md](./archive/DESIGN.md)** - デザインに関するメモ
-- **[spec.md](./archive/spec.md)** - 仕様書（旧版）
-- **[study.md](./archive/study.md)** - 学習メモ
+- [archive/DESIGN.md](archive/DESIGN.md) - 旧デザイン仕様
+- [archive/spec.md](archive/spec.md) - 旧仕様書
+- [archive/study.md](archive/study.md) - 学習メモ
 
 ---
 
-## 🚀 よく使うドキュメント
+## 🚀 クイックスタート
 
-### 記事を作成する場合
-- [記事作成ワークフロー](../.claude/article-workflow.md)
-- [参考文献・情報源のガイドライン](../templates/REFERENCE-GUIDELINES.md)
+### 新しい記事を書きたい
+1. [WRITING-GUIDE.md](WRITING-GUIDE.md) ⭐ を読む
+2. [template-song.md](../templates/template-song.md) をコピー
+3. ガイドに従って執筆
 
-**コマンド**:
-```bash
-/new-article
-```
+### AdSense申請前の確認
+1. [strategy/ADSENSE-CHECKLIST.md](strategy/ADSENSE-CHECKLIST.md) をチェック
+2. [WRITING-GUIDE.md](WRITING-GUIDE.md) のAdSense対策セクションを確認
 
-### SEO改善をする場合
-- [SEOマニュアル](./seo/SEO_MANUAL.md) ⭐
-- [SEO改善記録](./seo/SEO_IMPROVEMENT_LOG.md)
+### プロジェクトの現状を知りたい
+1. [logs/PROCESS-LOG.md](logs/PROCESS-LOG.md) を見る
+2. [project/PHASES.md](project/PHASES.md) で現在のフェーズを確認
 
-**コマンド**:
-```bash
-# 新規改善
-/seo-check
+---
 
-# 追加修正
-/seo-update
-```
+## 📝 ドキュメント管理ルール
+
+### 更新時のルール
+- 大きな変更は [logs/PROCESS-LOG.md](logs/PROCESS-LOG.md) に記録
+- 古いルールは削除し、最新のルールに統合
+- ファイルが増えすぎないように定期的に整理
+
+### ファイル命名規則
+- 大文字＋ハイフン: `WRITING-GUIDE.md`
+- ディレクトリで分類: `strategy/`, `seo/`, `logs/`
 
 ---
 
@@ -102,4 +146,4 @@ SEO改善とGoogle検索での上位表示を目指すためのドキュメン�
 
 ---
 
-**最終更新**: 2026-01-08
+**最終更新**: 2026年1月20日
