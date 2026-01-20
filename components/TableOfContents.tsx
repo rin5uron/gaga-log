@@ -20,26 +20,27 @@ export default function TableOfContents({ html }: { html: string }) {
 
     const headingElements = tempDiv.querySelectorAll("h2, h3");
     const extractedHeadings: Heading[] = [];
+    let referencesReached = false;
 
     headingElements.forEach((heading, index) => {
       const text = heading.textContent || "";
 
       // section-subtitleのspan要素があれば、その内容だけを抽出
       const spanElement = heading.querySelector(".section-subtitle");
-      let displayText = text;
+      let displayText = text.trim();
 
       if (spanElement && spanElement.textContent) {
+        // h2のサブタイトル（例：この曲について）はspanの文言だけ使う
         displayText = spanElement.textContent.trim();
-      } else {
-        // spanがない場合、日本語部分を抽出（後方互換性）
-        const subtitleMatch = text.match(/[\s\S]*?([ぁ-んァ-ヶー一-龠]+.*)/);
-        displayText = subtitleMatch ? subtitleMatch[1].trim() : text;
       }
+      // h3やspanがないh2は本文の見出し全文を使う（"I'm your biggest fan"——ファンか、ストーカーか 等の歌詞入りもそのまま表示）
 
-      // 参考情報セクションは目次に含めない
+      // 参考情報セクション以降は目次に含めない（h2 とその下の h3 すべて）
       if (displayText === "参考情報" || text.includes("参考情報") || text.includes("References")) {
+        referencesReached = true;
         return;
       }
+      if (referencesReached) return;
 
       const id = `heading-${index}`;
       heading.id = id;
@@ -126,18 +127,18 @@ export default function TableOfContents({ html }: { html: string }) {
               className={heading.level === 3 ? "ml-4" : ""}
             >
               {heading.level === 2 ? (
-                // h2はリンクなし、セクション見出し
-                <div className="py-1.5 text-sm font-semibold text-gray-700 border-l border-gray-300 pl-3 mt-2 first:mt-0">
+                // h2はリンクなし、セクション見出し（本文h2と同じ左边框・色）
+                <div className="toc-heading-h2 py-1.5 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
-                // h3のみリンク化
+                // h3はリンク、本文h3と同じ左边框・色で統一
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pl-3 text-sm transition-all ${
+                  className={`block py-1 pl-3 transition-all toc-heading-h3 ${
                     activeId === heading.id
-                      ? "text-gray-900 font-medium border-l border-blue-500 bg-blue-50"
-                      : "text-gray-600 hover:text-gray-900 border-l border-transparent hover:border-gray-300 hover:bg-gray-50"
+                      ? "is-active bg-blue-50"
+                      : "hover:bg-gray-50 hover:text-gray-900"
                   }`}
                   onClick={(e) => {
                     e.preventDefault();

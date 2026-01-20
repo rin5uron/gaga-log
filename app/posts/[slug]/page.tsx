@@ -439,7 +439,7 @@ export default async function PostPage({
 
         <article className="prose prose-lg max-w-none">
           <header className="mb-4 not-prose">
-            <h1 className="text-3xl sm:text-4xl font-bold mb-3 leading-tight">
+            <h1 className="article-title text-3xl sm:text-4xl font-bold mb-3 leading-tight">
               {post.title}
             </h1>
 
@@ -548,7 +548,7 @@ export default async function PostPage({
           <TableOfContents html={contentHtml} />
 
           {/* 記事中間の広告（目次の後・横長） */}
-          <div className="my-4">
+          <div className="my-2">
             <AdSenseUnit 
               adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
               adFormat="auto"
@@ -563,7 +563,7 @@ export default async function PostPage({
         </article>
 
         {/* 記事下部の広告（横長） */}
-        <div className="my-4">
+        <div className="my-2">
           <AdSenseUnit 
             adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
             adFormat="auto"
