@@ -335,22 +335,15 @@ body {
   color: var(--heading-h2-color);
 }
 
-/* 目次：本文h2/h3とデザインを揃える（左边框・色の共通トークン使用） */
+/* 目次：H2は見出し、H3はリンク。帯（左边框・背景）なし */
 .toc-heading-h2 {
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--heading-h2-color);
-  border-left: 3px solid #3b82f6;
-  padding-left: 0.75rem;
 }
 .toc-heading-h3 {
   font-size: 0.875rem;
   color: var(--heading-h3-color);
-  border-left: 3px solid #94a3b8;
-}
-.toc-heading-h3.is-active {
-  border-left-color: #3b82f6;
-  font-weight: 500;
 }
 
 @media (max-width: 768px) {

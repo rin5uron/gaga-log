@@ -539,7 +539,7 @@ export default async function PostPage({
 
           {/* 「この記事でわかること」を目次の上に配置 */}
           {post.highlights && post.highlights.length > 0 && (
-            <div className="mt-2">
+            <div className="mt-0 mb-0">
               <ArticleHighlights highlights={post.highlights} />
             </div>
           )}
@@ -548,7 +548,7 @@ export default async function PostPage({
           <TableOfContents html={contentHtml} />
 
           {/* 記事中間の広告（目次の後・横長） */}
-          <div className="my-2">
+          <div className="my-0">
             <AdSenseUnit 
               adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
               adFormat="auto"
@@ -563,7 +563,7 @@ export default async function PostPage({
         </article>
 
         {/* 記事下部の広告（横長） */}
-        <div className="my-2">
+        <div className="my-0">
           <AdSenseUnit 
             adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
             adFormat="auto"

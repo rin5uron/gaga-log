@@ -10,11 +10,11 @@ export default function ArticleHighlights({ highlights }: ArticleHighlightsProps
   }
 
   return (
-    <div className="mb-4 p-5 bg-white rounded-xl">
-      <h2 className="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">
+    <div className="mb-2">
+      <h2 className="text-sm font-semibold text-gray-700 mb-2 uppercase tracking-wide">
         この記事でわかること
       </h2>
-      <ul className="space-y-2.5 pl-0 list-none">
+      <ul className="space-y-1.5 pl-0 list-none">
         {highlights.map((highlight, index) => (
           <li key={index} className="flex items-start gap-2.5">
             <span className="text-gray-400 text-base mt-0.5 flex-shrink-0">•</span>

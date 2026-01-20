@@ -90,10 +90,10 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-0 rounded-lg bg-gray-50 overflow-hidden shadow-sm">
+    <nav className="mb-0 rounded-lg overflow-hidden">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full px-4 py-3 bg-gray-100 flex items-center justify-between hover:bg-gray-200 transition-colors border-b border-gray-300"
+        className="w-fit px-2 py-2 flex items-center justify-between gap-2 hover:bg-gray-100 transition-colors"
       >
         <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
           目次
@@ -120,25 +120,23 @@ export default function TableOfContents({ html }: { html: string }) {
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-4 py-3 pb-3 space-y-0.5 pl-0 list-none bg-white mb-0">
+        <ul className="px-2 py-2 space-y-0.5 pl-0 list-none mb-0">
           {headings.map((heading) => (
             <li
               key={heading.id}
               className={heading.level === 3 ? "ml-4" : ""}
             >
               {heading.level === 2 ? (
-                // h2はリンクなし、セクション見出し（本文h2と同じ左边框・色）
                 <div className="toc-heading-h2 py-1.5 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
-                // h3はリンク、本文h3と同じ左边框・色で統一
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pl-3 transition-all toc-heading-h3 ${
+                  className={`block py-1 pr-2 transition-all toc-heading-h3 ${
                     activeId === heading.id
-                      ? "is-active bg-blue-50"
-                      : "hover:bg-gray-50 hover:text-gray-900"
+                      ? "font-medium text-gray-900"
+                      : "text-gray-600 hover:text-gray-900"
                   }`}
                   onClick={(e) => {
                     e.preventDefault();
