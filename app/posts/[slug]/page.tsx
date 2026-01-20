@@ -249,7 +249,7 @@ function linkifyContent(
       if (regex.test(result)) {
         result = result.replace(
           regex,
-          `<a href="/artists/${getArtistSlug(artist)}" class="text-blue-600 hover:underline">${artist}</a>`
+          `<a href="/artists/${getArtistSlug(artist)}" class="underline decoration-gray-300 hover:decoration-gray-800">${artist}</a>`
         );
         linkedTerms.add(artist.toLowerCase());
       }
@@ -263,7 +263,7 @@ function linkifyContent(
       if (regex.test(result)) {
         result = result.replace(
           regex,
-          `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.song}</a>`
+          `<a href="/posts/${post.slug}" class="underline decoration-gray-300 hover:decoration-gray-800">${post.song}</a>`
         );
         linkedTerms.add(post.song.toLowerCase());
       }
@@ -277,7 +277,7 @@ function linkifyContent(
       if (regex.test(result)) {
         result = result.replace(
           regex,
-          `<a href="/posts/${post.slug}" class="text-blue-600 hover:underline">${post.album}</a>`
+          `<a href="/posts/${post.slug}" class="underline decoration-gray-300 hover:decoration-gray-800">${post.album}</a>`
         );
         linkedTerms.add(post.album.toLowerCase());
       }
@@ -504,7 +504,7 @@ export default async function PostPage({
                               <Link
                                 key={index}
                                 href={`/artists/${getArtistSlug(trimmedPart)}`}
-                                className="text-blue-600 hover:underline"
+                                className="underline decoration-gray-300 hover:decoration-gray-800"
                               >
                                 {part}
                               </Link>

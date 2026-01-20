@@ -76,53 +76,46 @@
 
 ---
 
-## 2026年1月20日：曲ページテンプレ・目次・デザイン統一
+## 2026年1月20日：曲ページ（Paparazzi / Telephone）改善
 
 ### 一目でわかる変更一覧
 
 | 種別 | ファイル | 主な変更 |
 |------|----------|----------|
 | テンプレ | `templates/template-song.md` | 考察の締め（私の感想2〜4行）、Referencesルール（本文リンク＋一覧・控えめCSS） |
-| マニュアル | `ARTICLE_TEMPLATE.md` | 上記に合わせてH2/考察/参考文献を更新。リンク・装飾ルール（初出のみリンク、まとめ枠、流し読み）を追加 |
-| 目次 | `components/TableOfContents.tsx` | **h3全文表示**（`"I'm your biggest fan"——ファンか…` などクォート歌詞もそのまま）。参考情報セクション以降を目次から除外。**見出しデザインを本文h2/h3と統一**（.toc-heading-h2 / .toc-heading-h3） |
-| スタイル | `app/globals.css` | **見出し共通トークン**（--heading-h2-border, --heading-h3-border 等）。**.summary-box**（まとめ枠）。**.toc-heading-h2 / .toc-heading-h3**。**.article-title**。参考文献セクションを控えめに（フォント・色・余白）。引用 blockquote の枠を強化 |
-| 記事ページ | `app/posts/[slug]/page.tsx` | 記事タイトル（h1）に `.article-title` を付与。目次・参考文献まわりの AdSense 余白を `my-4`→`my-2` に変更 |
-| 記事本文 | `content/posts/paparazzi.md` | **まとめ枠**を2箇所（Lyrics「この曲の美しさは…」、Analysis「Paparazziは…警告している」） |
-| 記事本文 | `content/posts/telephone.md` | **まとめ枠**を2箇所（Analysis 冒頭・「約15年経った今…」）。比較ボックスを `className`→`class` で **.comparison-box / .comparison-item** に差し替え（2009年=previous、現代=current） |
+| マニュアル | `ARTICLE_TEMPLATE.md` | **引用ルール**（歌詞は帯なし・インデントのみ）。**リンクルール**（外部=該当文言に直リンク、参考文献=出典一覧、内部=文脈で必要なだけ）。**「この記事でわかること」**（2点・抽象語禁止・曲名入り・一文で通じる）。**可読性**（太字だけ追っても意味が通じる）。まとめ枠 .summary-box は一旦見送り |
+| 目次 | `components/TableOfContents.tsx` | **山型削除**（`rounded-lg` 削除）。**帯なし**（ボタンの bg・border-b、項目の左边框を削除）。**ボタン幅** `w-full`→`w-fit`。**下余白** リスト `py-2`→`pt-2 pb-0`。h3 は全文表示（クォート歌詞もそのまま）。参考情報セクション以降は目次から除外 |
+| スタイル | `app/globals.css` | **リンク色** `.prose a` を青→`text-gray-800 underline decoration-gray-300 hover:decoration-gray-800`。**引用** blockquote は帯・背景・角丸を削除、左 padding＋イタリックのみ。見出しトークン、.toc-heading-h2 / .toc-heading-h3（左边框なし）、.article-title、参考文献控えめ |
+| 記事ページ | `app/posts/[slug]/page.tsx` | `.article-title`、AdSense `my-0`。linkify とヘッダー Artist のリンク色を青→グレー下線 |
+| 関連 | `components/RelatedPosts.tsx` | **参考文献〜関連の余白** `mt-6 pt-4`→`mt-0 pt-2` |
+| 記事 | `paparazzi.md` | `relatedPosts: ["telephone"]`。**highlights**「『Paparazzi』というタイトルに隠された意図」「衝撃のMVが描く、名声とメディアの関係」。**IMDb**「ガガと共にコンセプトを手掛けた」に直リンク、（IMDb）の括弧リンク削除。**.summary-box 削除**（一旦やめ） |
+| 記事 | `telephone.md` | `relatedPosts: ["paparazzi"]` のみに。**highlights**「ガガとビヨンセの共演背景」「Paparazziから続く"超大作MV"の考察」。比較ボックス `.comparison-box` / `.comparison-item`。**.summary-box 削除** |
 
 ---
 
-### テンプレ・マニュアル
+### テンプレ・ARTICLE_TEMPLATE に決めたルール
 
-- **考察の締め**：最後の h3 のあと、私の感想を **2〜4行** で入れる（解釈の延長として短く）。
-- **参考文献**：ピンポイントは **本文中にリンク**。一覧は References にまとめる。セクションは **フォント・サイズ・明るさを抑える**（globals.css で適用）。
-- **リンク・装飾**：アーティスト・アルバム名は **初出のみ** リンク。**引用・まとめは枠の CSS**（blockquote、.summary-box）で文字ばっかにしない。**流し読み**しやすい構成に。
-
----
-
-### 目次（TableOfContents）
-
-- **h3 が目次に一部だけ出る問題**：h3 に `.section-subtitle` がなく、日本語だけ抜いていた正規表現のため、`"I'm your biggest fan"——ファンか、ストーカーか` のような見出しが「ファンか、ストーカーか」だけになっていた。**h3 は `textContent` の全文をそのまま表示**するよう修正。
-- **参考情報**：「参考情報」の h2 に到達したら、それ以降（公式MV・インタビュー・その他）は **目次に含めない**。
-- **デザイン統一**：目次内の h2 ラベル・h3 リンクに、本文と同じ左边框（h2=青、h3=スレート）と色トークンを適用（.toc-heading-h2 / .toc-heading-h3）。
+- **考察の締め**：最後の h3 のあと、私の感想を 2〜4 行。
+- **参考文献**：本文中に該当文言でリンク。一覧は References に。セクションは控えめスタイル。
+- **引用**：歌詞は帯なし。左余白＋イタリックのみ。.summary-box は一旦使わない。
+- **リンク**：外部=該当文言に直リンク。内部=文脈で「次に読むと自然なもの」だけ。relatedPosts は出しすぎない。
+- **「この記事でわかること」**：2点まで。抽象語禁止。曲名・固有名詞を入れる。一文で分かる。
+- **可読性**：太字だけ追っても内容が理解できる。見出し＋太字で流し読み可能に。
 
 ---
 
-### スタイル（globals.css）
+### 目次
 
-- **:root** に `--heading-h2-border`、`--heading-h3-border`、`--heading-h2-color`、`--heading-h3-color` を定義。記事 h2/h3・目次・タイトルで共用。
-- **.summary-box / .section-summary**：グレー背景・左ボーダーでまとめ文を枠表示。
-- **.article-title**：記事 h1 に `var(--heading-h2-color)` を適用。
-- **参考文献**：`.references-section` 以降の h2 / h3 / ul / a をフォント・色・余白で控えめに。
+- **h3 全文表示**：`"I'm your biggest fan"——ファンか、ストーカーか` など、`textContent` をそのまま表示（日本語だけ抜く正規表現を廃止）。
+- **参考情報**：h2「参考情報」以降は目次に含めない。
+- **見た目**：山型（rounded）削除、ボタン・項目の帯（左边框・背景）削除、ボタン幅 `w-fit`、下余白 `pb-0`。h2 は見出し・h3 はリンクで H2/H3 両方表示。
 
 ---
 
-### パパラッチ・テレフォンでの実装
+### 余白
 
-テンプレの「**まとめは枠で**」を反映。
-
-- **パパラッチ**：Lyrics の「この曲の美しさは、この二重性にある。ストーカーの歌として…」／ Analysis の「Paparazziは、その執着の先にあるものを警告している。名声は、愛ではなく、依存だと。」を `<div class="summary-box">` で囲む。
-- **テレフォン**：Analysis 冒頭「Telephoneが特別なのは、自由を選ぶ勇気を歌っている点だ。」／「約15年経った今…」の段落を `<div class="summary-box">` で囲む。2009年 vs 現代の比較は `.comparison-box` + `.comparison-item.previous` / `.current` に変更（`className`→`class`、Tailwind が .md をスキャンしないため既存 CSS を使用）。
+- AdSense（目次下・記事下）：`my-0`。
+- 関連ページ：`mt-6 pt-4`→`mt-0 pt-2`。参考文献との間を詰める。
 
 ---
 

@@ -70,21 +70,20 @@ body {
   @apply mb-0;
 }
 
-/* 引用：枠で文字ばっかにならないように */
+/* 引用：帯なし。シンプルなインデントのみ */
 .prose blockquote {
-  background-color: #f8fafc;
-  padding: 1rem 1.25rem;
-  color: #1e293b;
-  font-size: 1.0625rem;
-  font-weight: 500;
+  padding: 0.5rem 0 0.5rem 1.25rem;
+  color: #374151;
+  font-size: 1rem;
+  font-weight: 400;
   line-height: 1.7;
-  font-style: normal;
-  border-radius: 0.5rem;
-  border-left: 4px solid #3b82f6;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   display: block;
   max-width: 100%;
+  border-left: none;
+  background: none;
 }
 
 /* まとめ・セクション要約の枠（.summary-box, .section-summary で使用） */
@@ -110,7 +109,7 @@ body {
 }
 
 .prose a {
-  @apply text-blue-600 hover:text-blue-800 underline;
+  @apply text-gray-800 underline decoration-gray-300 hover:decoration-gray-800;
 }
 
 .prose hr {

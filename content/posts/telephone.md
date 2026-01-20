@@ -8,10 +8,10 @@ date: "2025-12-31"
 updatedDate: "2026-01-20"
 order: 16
 type: "song"
-relatedPosts: ["paparazzi", "hey-girl", "joanne"]
+relatedPosts: ["paparazzi"]
 highlights:
-  - 「Telephone」が描く自由と解放——電話に出ない勇気のメッセージ
-  - ガガとビヨンセの2大ディーヴァが共演した歴史的なコラボレーション
+  - ガガとビヨンセの共演背景
+  - Paparazziから続く"超大作MV"の考察
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

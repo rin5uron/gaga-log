@@ -90,7 +90,7 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-0 rounded-lg overflow-hidden">
+    <nav className="mb-0 overflow-hidden">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="w-fit px-2 py-2 flex items-center justify-between gap-2 hover:bg-gray-100 transition-colors"
@@ -120,7 +120,7 @@ export default function TableOfContents({ html }: { html: string }) {
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-2 py-2 space-y-0.5 pl-0 list-none mb-0">
+        <ul className="px-2 pt-2 pb-0 space-y-0.5 pl-0 list-none mb-0">
           {headings.map((heading) => (
             <li
               key={heading.id}

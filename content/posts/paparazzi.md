@@ -8,9 +8,10 @@ date: "2026-01-18"
 updatedDate: "2026-01-20"
 order: 20
 type: "song"
+relatedPosts: ["telephone"]
 highlights:
-  - 「Paparazzi」が描く名声の光と影——愛と執着の境界線
-  - MVの衝撃的な殺人シーンに隠されたメッセージ
+  - 「Paparazzi」というタイトルに隠された意図
+  - 衝撃のMVが描く、名声とメディアの関係
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -105,7 +106,7 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 ### 殺人と名声——衝撃的なストーリー
 
-このMVは、ガガのMVの中でもストーリ性が強い大作だ。[Jonas Åkerlund](https://www.imdb.com/name/nm0015382/)が監督を務め、ガガと共にコンセプトを手掛けた（[IMDb](https://www.imdb.com/title/tt1676684/)）。
+このMVは、ガガのMVの中でもストーリ性が強い大作だ。[Jonas Åkerlund](https://www.imdb.com/name/nm0015382/)が監督を務め、[ガガと共にコンセプトを手掛けた](https://www.imdb.com/title/tt1676684/)。
 
 ストーリーは、ガガが恋人（俳優の[Alexander Skarsgård](https://www.imdb.com/name/nm0002907/)）に殺されかけるところから始まる。バルコニーから突き落とされ、車椅子生活になったガガは、復讐を計画する。
 
