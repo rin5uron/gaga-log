@@ -3,15 +3,12 @@ name: "ABBA"
 birthDate: "1972年結成"
 nationality: "スウェーデン"
 type: "artist"
-createdDate: "2026-01-07"
+musicStyle: "時代を超えるポップハーモニー、完璧なスタジオワークで生まれた普遍的なサウンド"
+date: "2026-01-07"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/abba/372976"
+spotifyUrl: "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>結成:</strong> 1972年</p>
-  <p style="margin: 0.5rem 0;"><strong>出身:</strong> スウェーデン</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 時代を超えるポップハーモニー、完璧なスタジオワークで生まれた普遍的なサウンド</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2026-01-07"
 
 「Waterloo」は、ナポレオンのワーテルローの戦いをモチーフに、恋に負けることを歌った曲。キャッチーなメロディと、アグネタとフリーダの美しいハーモニーが、審査員と観客を魅了した。
 
-この優勝後、ABBAは世界中で次々とヒット曲を生み出し、1970年代を代表するポップグループとなった。
-
-**参考:**
-- [Eurovision Song Contest 1974 - Wikipedia](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974)
+この優勝後、ABBAは世界中で次々とヒット曲を生み出し、1970年代を代表するポップグループとなった。[1974年4月6日、ABBAは「Waterloo」でユーロビジョン・ソング・コンテストに出場し、優勝](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974)した。
 
 ---
 
@@ -42,10 +36,7 @@ createdDate: "2026-01-07"
 
 2008年と2018年には映画化され、いずれも大ヒット。特に1作目は、メリル・ストリープ主演で世界中で6億1500万ドル以上の興行収入を記録した。
 
-40年以上前の曲が、今でも新しい世代に愛されている——それが、ABBAの音楽の力だ。
-
-**参考:**
-- [Mamma Mia! (musical) - Wikipedia](https://en.wikipedia.org/wiki/Mamma_Mia!_(musical))
+40年以上前の曲が、今でも新しい世代に愛されている——それが、ABBAの音楽の力だ。[1999年、ABBAの楽曲を使ったミュージカル「マンマ・ミーア!」がロンドンで初演](https://en.wikipedia.org/wiki/Mamma_Mia!_(musical))され、世界中で大ヒットし、ロングラン公演となった。
 
 ---
 
@@ -75,13 +66,16 @@ ABBAは、スタジオでの録音に何日も何週間もかけることで有�
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.abbasite.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/abba/)
 - [YouTube](https://www.youtube.com/channel/UC38IQsAvIsxxjztdMZQtwHA)
-- [Apple Music](https://music.apple.com/jp/artist/abba/372976)
-- [Spotify](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV)
 - [Twitter/X](https://twitter.com/ABBA)
 
 ---

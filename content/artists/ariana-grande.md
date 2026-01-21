@@ -3,15 +3,12 @@ name: "Ariana Grande"
 birthDate: "1993年6月26日"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2025-12-31"
+musicStyle: "4オクターブの圧倒的歌唱力、R&Bとポップを融合したサウンド"
+date: "2025-12-31"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/ariana-grande/412778295"
+spotifyUrl: "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1993年6月26日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 4オクターブの圧倒的歌唱力、R&Bとポップを融合したサウンド</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2025-12-31"
 
 歌詞には、実際の元恋人の名前が登場する。でも、それは暴露や批判ではなく、「あの経験があったから今の私がいる」という前向きな姿勢を表している。
 
-アリアナは、マンチェスター・テロ事件や、元恋人Mac Millerの死など、個人的な悲劇を経験してきた。そんな中で生まれたこの曲は、痛みを乗り越えて前に進むことの大切さを教えてくれる。
-
-**参考:**
-- [Thank U, Next - Wikipedia](https://en.wikipedia.org/wiki/Thank_U,_Next_(song))
+アリアナは、マンチェスター・テロ事件や、元恋人Mac Millerの死など、個人的な悲劇を経験してきた。そんな中で生まれたこの曲は、痛みを乗り越えて前に進むことの大切さを教えてくれる。[2019年にリリースされた「Thank U, Next」](https://en.wikipedia.org/wiki/Thank_U,_Next_(song))は、アリアナ・グランデの代表曲の一つとなった。
 
 ---
 
@@ -40,10 +34,7 @@ createdDate: "2025-12-31"
 
 アリアナ自身も、この事件の影響でPTSDと診断された。でも、彼女は音楽を通じて前に進むことを選んだ。「Sweetener」(2018年)は、そんな回復と希望をテーマにしたアルバムとなった。
 
-音楽が持つ癒しの力、そしてコミュニティの団結——One Love Manchesterは、そのことを世界に示した瞬間だった。
-
-**参考:**
-- [One Love Manchester - Wikipedia](https://en.wikipedia.org/wiki/One_Love_Manchester)
+音楽が持つ癒しの力、そしてコミュニティの団結——[One Love Manchester](https://en.wikipedia.org/wiki/One_Love_Manchester)は、そのことを世界に示した瞬間だった。
 
 ---
 
@@ -72,13 +63,16 @@ createdDate: "2025-12-31"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.arianagrande.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/arianagrande/)
 - [YouTube](https://www.youtube.com/user/osnapitzari)
-- [Apple Music](https://music.apple.com/jp/artist/ariana-grande/412778295)
-- [Spotify](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
 - [Twitter/X](https://twitter.com/ArianaGrande)
 
 ---

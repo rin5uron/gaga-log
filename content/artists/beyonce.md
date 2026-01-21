@@ -3,15 +3,12 @@ name: "Beyoncé"
 birthDate: "1981年9月4日"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2025-12-31"
+musicStyle: "圧倒的パフォーマンスとパワフルな歌声、グラミー賞史上最多受賞のR&Bディーバ"
+date: "2025-12-31"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/beyonce/1419227"
+spotifyUrl: "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1981年9月4日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 圧倒的パフォーマンスとパワフルな歌声、グラミー賞史上最多受賞のR&Bディーバ</p>
-</div>
 
 
 
@@ -23,11 +20,7 @@ createdDate: "2025-12-31"
 
 ビヨンセは、このアルバムでR&B、ロック、カントリー、ブルース、レゲエ、ゴスペルなど、多様なジャンルを取り入れた。そして、マルコムXの言葉や、マーティン・ルーサー・キング・ジュニアの母親の声をサンプリングし、社会的メッセージを強く打ち出した。
 
-『Lemonade』は、アートと政治、個人的な物語と集団的な歴史を融合させた、ビヨンセの最高傑作だと評価されている。
-
-**参考:**
-- [Lemonade - Wikipedia](https://en.wikipedia.org/wiki/Lemonade_(album))
-- [Rolling Stone's 500 Greatest Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
+『Lemonade』は、アートと政治、個人的な物語と集団的な歴史を融合させた、ビヨンセの最高傑作だと評価されている。このアルバムは、[Rolling Stoneの「21世紀最高のアルバム」リストでトップ](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)に選ばれ、[2016年にリリースされたビジュアルアルバム](https://en.wikipedia.org/wiki/Lemonade_(album))として知られている。
 
 ---
 
@@ -41,10 +34,7 @@ createdDate: "2025-12-31"
 
 アメリカで最も注目されるスーパーボウルのステージで、人種問題に正面から向き合ったビヨンセのパフォーマンスは、賛否両論を巻き起こした。でも、ビヨンセは自分の信念を貫いた。
 
-エンターテインメントとしての完成度と、社会的メッセージの両立——それがビヨンセのパフォーマンスの真髄だ。
-
-**参考:**
-- [Super Bowl 50 halftime show - Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_50_halftime_show)
+エンターテインメントとしての完成度と、社会的メッセージの両立——それがビヨンセのパフォーマンスの真髄だ。このパフォーマンスは、[第50回スーパーボウルのハーフタイムショー](https://en.wikipedia.org/wiki/Super_Bowl_50_halftime_show)で披露された。
 
 ---
 
@@ -74,13 +64,16 @@ createdDate: "2025-12-31"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.beyonce.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/beyonce/)
 - [YouTube](https://www.youtube.com/channel/UCnx1vrLvzaKDzAHfQPRZYHw)
-- [Apple Music](https://music.apple.com/jp/artist/beyonce/1419227)
-- [Spotify](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m)
 - [Twitter/X](https://twitter.com/Beyonce)
 
 ---

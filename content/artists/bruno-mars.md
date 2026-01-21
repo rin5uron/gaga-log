@@ -3,15 +3,12 @@ name: "Bruno Mars"
 birthDate: "1985年10月8日"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2026-01-15"
+musicStyle: "レトロなファンク・ソウルを現代に蘇らせるエンターテイナー"
+date: "2026-01-15"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/bruno-mars/278873078"
+spotifyUrl: "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1985年10月8日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> レトロなファンク・ソウルを現代に蘇らせるエンターテイナー</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2026-01-15"
 
 「Uptown Funk」は、ビルボードHot 100で14週連続1位を記録。Spotifyでは史上最も再生された曲の一つとなった。この曲のミュージックビデオも、カラフルで楽しいパフォーマンスが満載で、YouTubeで50億回以上再生されている。
 
-ブルーノ・マーズの魅力は、古き良き時代のサウンドを現代に蘇らせる才能。決して古臭くならず、むしろ新鮮に聴こえる。それが彼の最大の強みだ。
-
-**参考:**
-- [Uptown Funk - Wikipedia](https://en.wikipedia.org/wiki/Uptown_Funk)
+ブルーノ・マーズの魅力は、古き良き時代のサウンドを現代に蘇らせる才能。決して古臭くならず、むしろ新鮮に聴こえる。それが彼の最大の強みだ。[2014年にMark Ronsonとコラボした「Uptown Funk」](https://en.wikipedia.org/wiki/Uptown_Funk)は、世界中で爆発的ヒットとなった。
 
 ---
 
@@ -40,10 +34,7 @@ createdDate: "2026-01-15"
 
 2016年の第50回スーパーボウルでは、ColdplayとBeyoncéと共演。再び世界中を魅了した。
 
-ブルーノ・マーズのパフォーマンスは、歌、ダンス、バンド演奏のすべてが完璧。マイケル・ジャクソンやジェームス・ブラウンのようなエンターテイナーとしての完成度の高さが、彼の魅力だ。
-
-**参考:**
-- [Super Bowl XLVIII halftime show - Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_XLVIII_halftime_show)
+ブルーノ・マーズのパフォーマンスは、歌、ダンス、バンド演奏のすべてが完璧。マイケル・ジャクソンやジェームス・ブラウンのようなエンターテイナーとしての完成度の高さが、彼の魅力だ。[2014年と2016年、ブルーノ・マーズはスーパーボウルのハーフタイムショーに出演](https://en.wikipedia.org/wiki/Super_Bowl_XLVIII_halftime_show)した。
 
 ---
 
@@ -73,13 +64,16 @@ createdDate: "2026-01-15"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.brunomars.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/brunomars/)
 - [YouTube](https://www.youtube.com/user/BrunoMars)
-- [Apple Music](https://music.apple.com/jp/artist/bruno-mars/278873078)
-- [Spotify](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C)
 - [Twitter/X](https://twitter.com/BrunoMars)
 
 ---

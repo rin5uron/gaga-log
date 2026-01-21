@@ -3,15 +3,12 @@ name: "Bradley Cooper"
 birthDate: "1975年1月5日"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2025-12-28"
+musicStyle: "低く渋い声、ロック・カントリーを融合させたスタイル"
+date: "2025-12-28"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/bradley-cooper/1436976086"
+spotifyUrl: "https://open.spotify.com/artist/4vheuphSTMkSTPR3WHDJdx"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1975年1月5日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 低く渋い声、ロック・カントリーを融合させたスタイル</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2025-12-28"
 
 クーパーは、この映画のために数ヶ月間ボイストレーニングを受け、ギターの演奏技術も磨いた。落ち目のロックスター、ジャクソン・メイン役を演じるために、低く渋い声と、ステージでのパフォーマンスを完璧に仕上げた。
 
-「Shallow」をはじめとする楽曲は、Lady Gagaとの化学反応により、映画史に残る名曲となった。俳優としての表現力が、歌においても活きている。
-
-**参考:**
-- [A Star Is Born (2018 film) - Wikipedia](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film))
+「Shallow」をはじめとする楽曲は、Lady Gagaとの化学反応により、映画史に残る名曲となった。俳優としての表現力が、歌においても活きている。[2018年公開の映画「A Star Is Born(アリー/ スター誕生)」は、ブラッドリー・クーパーの監督デビュー作](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film))である。
 
 ---
 
@@ -40,10 +34,7 @@ createdDate: "2025-12-28"
 
 クーパーの低く渋い声と、ガガのパワフルなボーカルが重なり合う瞬間——それは、二人の化学反応を再び証明する瞬間だった。
 
-俳優として知られるクーパーが、音楽の世界でもこれほどの存在感を示したことは、彼の多才さを証明している。
-
-**参考:**
-- [91st Academy Awards - Wikipedia](https://en.wikipedia.org/wiki/91st_Academy_Awards)
+俳優として知られるクーパーが、音楽の世界でもこれほどの存在感を示したことは、彼の多才さを証明している。[2019年のアカデミー賞授賞式で、ブラッドリー・クーパーとLady Gagaは「Shallow」をライブパフォーマンス](https://en.wikipedia.org/wiki/91st_Academy_Awards)した。
 
 ---
 
@@ -71,11 +62,14 @@ createdDate: "2025-12-28"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [IMDb](https://www.imdb.com/name/nm0177896/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/bradleycooper/)
-- [Apple Music](https://music.apple.com/jp/artist/bradley-cooper/1436976086)
-- [Spotify](https://open.spotify.com/artist/4vheuphSTMkSTPR3WHDJdx)
 
 ---

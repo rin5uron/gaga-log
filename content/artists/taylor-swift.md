@@ -64,9 +64,14 @@ spotifyUrl: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
 
 ---
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.taylorswift.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/taylorswift/)
 - [YouTube](https://www.youtube.com/user/TaylorSwift)
 - [Twitter/X](https://twitter.com/taylorswift)

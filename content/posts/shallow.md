@@ -140,25 +140,32 @@ highlights:
 
 映画館で観た時、ミュージカルもガガも好きな私は、この曲に一瞬で引き込まれた。二人の声が交わる瞬間、涙が止まらなかった。それは、映画の物語に感動したからだけではなく、この曲が持つ普遍的なメッセージに心を打たれたからだと思う。
 
----
-
-### 私の感想
-
-ガガは私の中学時代からの憧れ。そして、ブラッドリー・クーパーは、この曲で知り、この曲で好きになった。
-
-理屈じゃない。離れられない。運命的な関係。この曲が描くのは、そんな二人の物語だ。
-
-「Shallow」を聴くたびに、私は自分の人生を振り返る。安全な場所に留まっていないか。本当にやりたいことから逃げていないか。
-
-この曲は、そんな問いかけを投げかけてくる。そして同時に、深い場所へ飛び込む勇気をくれる。
-
-ガガとブラッドリー・クーパーの声が重なり合う瞬間、私は自分も誰かと一緒なら、深い場所へ飛び込めるかもしれないと思う。一人では怖くても、誰かと一緒なら——そんな希望を、この曲は与えてくれる。
+「Shallow」を聴くたびに、私は自分の人生を振り返る。安全な場所に留まっていないか。本当にやりたいことから逃げていないか。この曲は、そんな問いかけを投げかけてくる。そして同時に、深い場所へ飛び込む勇気をくれる。
 
 ---
 
-**楽曲情報**
-- 作詞・作曲：Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt
-- リリース：2018年
-- アルバム：A Star Is Born (Original Motion Picture Soundtrack)
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
-※この記事は楽曲の魅力を伝えることを目的としており、歌詞の全文転載は行っておりません。
+### "In the shallow, shallow"——問いかけるフレーズ
+
+> In the shallow, shallow
+
+このフレーズは、サビで繰り返される。浅瀬にいるままでいいの？と問いかけてくる。安全だけど、そこに本当の自分はいない。深い場所へ飛び込む勇気がなければ、本当の人生は始まらない。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Shallow - Official Music Video](https://www.youtube.com/watch?v=bo_efYhYU2A)
+
+### インタビュー・発言
+
+- [Billboard Hot 100で1位を獲得](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)
+- [2019年のアカデミー賞歌曲賞を受賞](https://www.oscars.org/oscars/ceremonies/2019)
+
+### その他
+
+- [映画「A Star Is Born」- Netflix](https://www.netflix.com/jp/title/80993098)
+- [映画「A Star Is Born」- Amazon Prime Video](https://www.amazon.co.jp/dp/B07J5XKQZQ)

@@ -3,15 +3,10 @@ name: "Chris Moukarbel"
 birthDate: "1980年"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2025-12-28"
+musicStyle: "ドキュメンタリー映画監督"
+date: "2025-12-28"
+updatedDate: "2026-01-20"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年:</strong> 1980年</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>専門:</strong> ドキュメンタリー映画監督</p>
-</div>
 
 
 
@@ -23,10 +18,7 @@ createdDate: "2025-12-28"
 
 アルバム「Joanne」を家族に聴かせる場面、慢性的な痛みに苦しむ姿、スーパーボウルのリハーサルシーン——モーカーベルは、ガガの人間的な側面を丁寧に描いている。
 
-この作品は、トロント国際映画祭でワールドプレミア上映された後、2017年9月22日にNetflixで全世界配信された。ガガのファンだけでなく、アーティストの人間性に興味がある人々にも支持された。
-
-**参考:**
-- [Gaga: Five Foot Two - Wikipedia](https://en.wikipedia.org/wiki/Gaga:_Five_Foot_Two)
+この作品は、トロント国際映画祭でワールドプレミア上映された後、2017年9月22日にNetflixで全世界配信された。ガガのファンだけでなく、アーティストの人間性に興味がある人々にも支持された。[2017年、クリス・モーカーベルはNetflixで配信されたドキュメンタリー「Gaga: Five Foot Two」を監督](https://en.wikipedia.org/wiki/Gaga:_Five_Foot_Two)した。
 
 ---
 
@@ -40,10 +32,7 @@ createdDate: "2025-12-28"
 
 長期間にわたって撮影し、アーティストの変化や成長を記録する。感情や苦悩を、過剰な演出なしに、自然に表現する。その誠実さが、作品に深みを与えている。
 
-「Gaga: Five Foot Two」では、ガガの完成されたスターというより、自分の身体・感情・音楽と真正面から向き合う一人の人間としての姿を捉えている。
-
-**参考:**
-- [Chris Moukarbel - IMDb](https://www.imdb.com/name/nm2938364/)
+「Gaga: Five Foot Two」では、ガガの完成されたスターというより、自分の身体・感情・音楽と真正面から向き合う一人の人間としての姿を捉えている。[クリス・モーカーベルの詳細情報](https://www.imdb.com/name/nm2938364/)は、IMDbで確認できる。
 
 ---
 
@@ -71,7 +60,9 @@ createdDate: "2025-12-28"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [IMDb](https://www.imdb.com/name/nm2938364/)
 

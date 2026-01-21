@@ -3,15 +3,12 @@ name: "Shakira"
 birthDate: "1977年2月2日"
 nationality: "コロンビア"
 type: "artist"
-createdDate: "2025-12-29"
+musicStyle: "ラテンポップとワールドミュージックを融合"
+date: "2025-12-29"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/shakira/889327"
+spotifyUrl: "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1977年2月2日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> コロンビア</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> ラテンポップとワールドミュージックを融合、情熱的な歌声とダンス</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2025-12-29"
 
 シャキーラは、この曲のために南アフリカを訪れ、地元のダンサーたちと共にパフォーマンスを作り上げた。MVには、世界中のサッカー選手や子どもたちが登場し、スポーツの力で世界が一つになる瞬間を描いている。
 
-「Waka Waka」は、単なるワールドカップソングではなく、音楽が国境を超える力を証明した作品だ。
-
-**参考:**
-- [Waka Waka (This Time for Africa) - Wikipedia](https://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa))
+「Waka Waka」は、単なるワールドカップソングではなく、音楽が国境を超える力を証明した作品だ。この曲は、[史上最も視聴されたワールドカップソング](https://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa))となった。
 
 ---
 
@@ -40,10 +34,7 @@ createdDate: "2025-12-29"
 
 Wyclef Jeanとのコラボレーションも、この曲の魅力を高めている。ラテンポップとヒップホップの融合——異なる文化が交わる瞬間が、この曲にある。
 
-シャキーラのダンスパフォーマンスも忘れられない。ベリーダンスの要素を取り入れた官能的でエネルギッシュな動き。見ているだけで元気が出る。
-
-**参考:**
-- [Hips Don't Lie - Wikipedia](https://en.wikipedia.org/wiki/Hips_Don%27t_Lie)
+シャキーラのダンスパフォーマンスも忘れられない。ベリーダンスの要素を取り入れた官能的でエネルギッシュな動き。見ているだけで元気が出る。この曲は、[ビルボードHot 100で1位を獲得](https://en.wikipedia.org/wiki/Hips_Don%27t_Lie)し、シャキーラの代表曲となった。
 
 ---
 
@@ -77,13 +68,16 @@ Wyclef Jeanとのコラボレーションも、この曲の魅力を高めてい
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.shakira.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/shakira/)
 - [YouTube](https://www.youtube.com/user/shakira)
-- [Apple Music](https://music.apple.com/jp/artist/shakira/889327)
-- [Spotify](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp)
 - [Twitter/X](https://twitter.com/shakira)
 
 ---

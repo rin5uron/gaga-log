@@ -81,9 +81,14 @@ spotifyUrl: "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.ladygaga.com/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/ladygaga/)
 - [YouTube](https://www.youtube.com/user/LadyGagaVEVO)
 - [Twitter/X](https://twitter.com/ladygaga)

@@ -3,15 +3,12 @@ name: "Florence + The Machine"
 birthDate: "2007年結成"
 nationality: "イギリス"
 type: "artist"
-createdDate: "2025-12-27"
+musicStyle: "壮大なバロック・ポップと力強いボーカル、幻想的で詩的な世界観"
+date: "2025-12-27"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/florence-the-machine/275988824"
+spotifyUrl: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
 ---
-
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>結成:</strong> 2007年</p>
-  <p style="margin: 0.5rem 0;"><strong>出身:</strong> イギリス・ロンドン</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 壮大なバロック・ポップと力強いボーカル、幻想的で詩的な世界観</p>
-</div>
 
 
 
@@ -23,10 +20,7 @@ createdDate: "2025-12-27"
 
 歌詞は、そんな辛い時期が終わり、新しい時代が始まることを告げている。「走り続けろ」というメッセージが、聴く者に勇気を与える。
 
-この曲は、映画やテレビドラマでも使用され、Florence + The Machineの名を世界に知らしめた。ライブでは、観客が一斉に跳ねながら歌う光景が印象的だ。
-
-**参考:**
-- [Dog Days Are Over - Wikipedia](https://en.wikipedia.org/wiki/Dog_Days_Are_Over)
+この曲は、映画やテレビドラマでも使用され、Florence + The Machineの名を世界に知らしめた。ライブでは、観客が一斉に跳ねながら歌う光景が印象的だ。[2008年にリリースされた「Dog Days Are Over」](https://en.wikipedia.org/wiki/Dog_Days_Are_Over)は、Florence + The Machineのデビューシングルであり、世界的ヒットとなった。
 
 ---
 
@@ -40,10 +34,7 @@ createdDate: "2025-12-27"
 
 彼女の歌詞は、愛、喪失、自然、神話をテーマにした詩的な世界を描く。クラシカルな文学やシェイクスピアからの影響も感じられる。
 
-また、Welchはメンタルヘルスやアルコール依存症との闘いについて公にしており、その経験が音楽制作に大きな影響を与えている。特にアルバム『High as Hope』(2018年)は、回復と自己受容をテーマにした作品として知られている。
-
-**参考:**
-- [Florence Welch - The Guardian Interview](https://www.theguardian.com/music/florence-welch)
+また、Welchはメンタルヘルスやアルコール依存症との闘いについて公にしており、その経験が音楽制作に大きな影響を与えている。特にアルバム『High as Hope』(2018年)は、回復と自己受容をテーマにした作品として知られている。[Florence Welchのインタビュー](https://www.theguardian.com/music/florence-welch)では、その経験が詳しく語られている。
 
 ---
 
@@ -71,13 +62,16 @@ Welchの力強い歌唱は、感情をストレートに表現し、聴く者の
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://florenceandthemachine.net/)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/floralandthemachine/)
 - [YouTube](https://www.youtube.com/user/FlorenceMachineVEVO)
-- [Apple Music](https://music.apple.com/jp/artist/florence-the-machine/275988824)
-- [Spotify](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG)
 - [Twitter/X](https://twitter.com/flo_tweet)
 
 ---
