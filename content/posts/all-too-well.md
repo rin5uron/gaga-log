@@ -162,8 +162,6 @@ highlights:
 
 ## References <span class="section-subtitle">参考情報</span>
 
-**ルール**：ピンポイントの出典は本文中にリンク。一覧はここにまとめる。参考文献セクションはフォント・サイズ・明るさを抑え、存在感を消す（CSS適用）。
-
 ### 公式MV
 
 - [All Too Well: The Short Film - YouTube](https://www.youtube.com/watch?v=tollGa3S0o8)

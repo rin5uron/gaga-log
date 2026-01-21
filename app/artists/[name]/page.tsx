@@ -11,6 +11,7 @@ import { remark } from "remark";
 import remarkHtml from "remark-html";
 import remarkGfm from "remark-gfm";
 import DateInfo from "@/components/DateInfo";
+import AdSenseUnit from "@/components/AdSenseUnit";
 
 // アーティスト名の別表記マッピングテーブル
 const artistAliasMap: Record<string, string[]> = {
@@ -265,6 +266,15 @@ export default async function ArtistPage({
             />
           </article>
         )}
+
+        {/* アーティストページ下部の広告（横長） */}
+        <div className="my-0">
+          <AdSenseUnit 
+            adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_BOTTOM || "2979910109"}
+            adFormat="auto"
+            adStyle={{ width: "100%", minHeight: "100px" }}
+          />
+        </div>
 
         {/* 関連ページ */}
         <section>

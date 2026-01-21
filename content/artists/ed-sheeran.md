@@ -62,9 +62,15 @@ spotifyUrl: "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](https://www.edsheeran.com/)
+- [Ed Sheeran - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%B3)
+
+### SNS
+
 - [Instagram](https://www.instagram.com/teddysphotos/)
 - [YouTube](https://www.youtube.com/user/EdSheeranVEVO)
 - [Twitter/X](https://twitter.com/edsheeran)

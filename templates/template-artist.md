@@ -110,10 +110,17 @@ Beyoncé:
 
 
 
-## 公式リンク
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式・メディア
 
 - [公式サイト](URL)
+- [Wikipedia](URL)
+
+### SNS
+
 - [Instagram](URL)
 - [YouTube](URL)
+- [Twitter/X](URL)
 
 ---
