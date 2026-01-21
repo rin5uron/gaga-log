@@ -2,7 +2,8 @@
 title: "Born This Way"
 song: "Born This Way"
 artist: "Lady Gaga"
-date: "2025-12-11"
+date: "2026-01-02"
+updatedDate: "2026-01-18"
 order: 20
 type: "song"
 relatedPosts: ["poker-face"]

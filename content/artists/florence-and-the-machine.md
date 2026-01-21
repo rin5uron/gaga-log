@@ -2,79 +2,56 @@
 name: "Florence + The Machine"
 birthDate: "2007年結成"
 nationality: "イギリス"
-genres: ["インディー・ロック", "バロック・ポップ", "アート・ロック"]
 type: "artist"
-appleMusicUrl: "https://music.apple.com/jp/artist/florence-the-machine/275988824"
-spotifyUrl: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+createdDate: "2025-12-27"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/florence-the-machine/275988824" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
-
----
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>結成:</strong> 2007年</p>
+  <p style="margin: 0.5rem 0;"><strong>出身:</strong> イギリス・ロンドン</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 壮大なバロック・ポップと力強いボーカル、幻想的で詩的な世界観</p>
+</div>
 
 
 
-## Career <span class="section-subtitle">経歴</span>
+## 「Dog Days Are Over」——世界を駆け抜けたデビュー曲
 
-Florence + The Machine（フローレンス・アンド・ザ・マシーン）は、2007年にロンドンで結成されたイギリスのインディー・ロック・バンド。
+**2008年にリリースされた「Dog Days Are Over」は、Florence + The Machineのデビューシングルであり、世界的ヒットとなった。**
 
-リードボーカルの**Florence Welch（フローレンス・ウェルチ）**を中心に、Isabella Summers（キーボード）、Robert Ackroyd（ギター）、Tom Monger（ハープ）らで構成される。
+この曲の特徴は、ハープとドラムが絡み合う壮大なサウンドと、Florence Welchの圧倒的なボーカル。タイトルの「Dog Days(犬の日々)」は、ギリシャ・ローマ時代の言葉で「不運な時期」を意味する。
 
-バンド名の由来は、フローレンス・ウェルチと友人のIsabella Summersとの音楽制作における内輪のジョークから。Summersを「Isabella Machine」、自身を「Florence Robot」と呼んでいたことから、「Florence + The Machine」という名前が生まれた。
+歌詞は、そんな辛い時期が終わり、新しい時代が始まることを告げている。「走り続けろ」というメッセージが、聴く者に勇気を与える。
 
-2009年、デビューアルバム『Lungs』をリリースし、[イギリスで大ヒット](https://www.udiscovermusic.com/stories/best-florence-and-the-machine-songs/)。その後、『Ceremonials』（2011年）、『How Big, How Blue, How Beautiful』（2015年）、『High as Hope』（2018年）、『Dance Fever』（2022年）と、5枚のアルバムをリリース。
+この曲は、映画やテレビドラマでも使用され、Florence + The Machineの名を世界に知らしめた。ライブでは、観客が一斉に跳ねながら歌う光景が印象的だ。
 
-2016年には、Lady Gagaのアルバム『Joanne』に収録された「Hey Girl」でコラボレーション。女性同士の連帯と支え合いをテーマにした楽曲として話題となった。
+**参考:**
+- [Dog Days Are Over - Wikipedia](https://en.wikipedia.org/wiki/Dog_Days_Are_Over)
 
 ---
 
 
 
-## Style <span class="section-subtitle">音楽スタイル</span>
+## Florence Welchの独特な世界観——幻想的で自由なスタイル
 
-Florence + The Machineの音楽的特徴は、壮大で感情的なサウンドと、Florence Welchの力強いボーカル。
+**Florence Welchは、その独特なファッションセンスとパフォーマンススタイルでも知られている。**
 
-- **バロック・ポップ**: ハープやストリングスを多用した、クラシカルで壮大なサウンド。
-- **力強いボーカル**: Florence Welchの圧倒的な歌唱力と表現力。感情をストレートに表現する歌い方が特徴。
-- **詩的な歌詞**: 愛、喪失、自然、神話などをテーマにした、詩的で抽象的な歌詞。
+ボヘミアン風のドレス、花冠、ベアフット(裸足)でのパフォーマンス——彼女のスタイルは、幻想的で自由だ。まるで森の妖精が現代のロックステージに降り立ったかのよう。
 
----
+彼女の歌詞は、愛、喪失、自然、神話をテーマにした詩的な世界を描く。クラシカルな文学やシェイクスピアからの影響も感じられる。
 
+また、Welchはメンタルヘルスやアルコール依存症との闘いについて公にしており、その経験が音楽制作に大きな影響を与えている。特にアルバム『High as Hope』(2018年)は、回復と自己受容をテーマにした作品として知られている。
 
-
-## Works <span class="section-subtitle">主な作品</span>
-
-### アルバム
-- **Lungs** (2009) - デビューアルバム。「Dog Days Are Over」「You've Got the Love」収録。
-- **Ceremonials** (2011) - 「Shake It Out」「What The Water Gave Me」収録。
-- **How Big, How Blue, How Beautiful** (2015) - 「Ship to Wreck」収録。
-- **High as Hope** (2018) - 「Hunger」「Sky Full of Song」収録。
-- **Dance Fever** (2022) - 「King」「Free」収録。
-
-### コラボレーション
-- **Hey Girl** (with Lady Gaga) - 2016年、アルバム『Joanne』収録。女性同士の連帯をテーマにしたデュエット曲。
+**参考:**
+- [Florence Welch - The Guardian Interview](https://www.theguardian.com/music/florence-welch)
 
 ---
 
 
 
-## 私のお気に入り曲・作品
+## 壮大な感情表現——Florence + The Machineの魅力
 
-このブログで紹介している曲：
-
-- **Hey Girl** - [Lady Gaga](/artists/lady-gaga)とのコラボ。女性同士の支え合いと連帯を歌った楽曲。
-
----
-
-## Florence + The Machineの魅力
-
-**壮大な感情表現**——Florence + The Machineの最大の魅力は、その壮大で感情的なサウンドと、Florence Welchの圧倒的なボーカル。
+**Florence + The Machineの最大の魅力は、その壮大で感情的なサウンドと、Florence Welchの圧倒的なボーカル。**
 
 ハープやストリングスを多用したバロック・ポップのサウンドは、クラシカルでありながら現代的。詩的な歌詞は、愛、喪失、自然、神話をテーマにした抽象的な世界を描く。
 
@@ -86,10 +63,21 @@ Welchの力強い歌唱は、感情をストレートに表現し、聴く者の
 
 
 
-## Notes <span class="section-subtitle">その他</span>
+## このブログで紹介している曲(1件)
 
-Florence Welchは、その独特なファッションセンスでも知られている。ボヘミアン風のドレス、花冠、ベアフットでのパフォーマンスなど、幻想的で自由なスタイルが特徴。
+- **[Hey Girl](/posts/hey-girl)** - Lady Gagaとのコラボ、女性同士の支え合いと連帯を歌う
 
-また、Welchはメンタルヘルスやアルコール依存症との闘いについて公にしており、その経験が音楽制作に大きな影響を与えている。特にアルバム『High as Hope』は、回復と自己受容をテーマにした作品として知られている。
+---
 
 
+
+## 公式リンク
+
+- [公式サイト](https://florenceandthemachine.net/)
+- [Instagram](https://www.instagram.com/floralandthemachine/)
+- [YouTube](https://www.youtube.com/user/FlorenceMachineVEVO)
+- [Apple Music](https://music.apple.com/jp/artist/florence-the-machine/275988824)
+- [Spotify](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG)
+- [Twitter/X](https://twitter.com/flo_tweet)
+
+---

@@ -3,6 +3,7 @@ title: "Joanne"
 song: "Joanne"
 artist: "Lady Gaga"
 date: "2025-12-30"
+updatedDate: "2026-01-05"
 order: 14
 type: "song"
 relatedPosts: ["gaga-five-foot-two"]

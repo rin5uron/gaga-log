@@ -4,6 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Happier（ハピアー�
 song: "Happier"
 artist: "Ed Sheeran"
 date: "2025-12-30"
+updatedDate: "2026-01-18"
 order: 12
 type: "song"
 keywords: ["Happier", "ハピアー", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "失恋", "別れ", "未練", "パペット", "Emil Nava"]

@@ -215,8 +215,8 @@ export default function PostList({ posts, artists }: PostListProps) {
                     <span className="text-base font-normal text-gray-600"> / {post.artist}</span>
                   )}
                 </h2>
-                {post.date && (
-                  <p className="text-sm text-gray-400">{post.date}</p>
+                {post.updatedDate && (
+                  <p className="text-sm text-gray-400">{post.updatedDate}</p>
                 )}
               </Link>
             </article>

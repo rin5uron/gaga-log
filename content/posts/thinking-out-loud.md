@@ -4,6 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Thinking Out Loud（シ
 song: "Thinking Out Loud"
 artist: "Ed Sheeran"
 date: "2025-12-30"
+updatedDate: "2026-01-18"
 order: 11
 type: "song"
 keywords: ["Thinking Out Loud", "シンキング・アウト・ラウド", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "グラミー賞", "Brittany Cherry", "ダンス", "Amy Wadge", "Athina Andrelos"]

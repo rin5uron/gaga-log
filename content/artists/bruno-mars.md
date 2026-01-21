@@ -2,104 +2,56 @@
 name: "Bruno Mars"
 birthDate: "1985年10月8日"
 nationality: "アメリカ"
-genres: ["ポップ", "R&B", "ファンク", "ソウル"]
 type: "artist"
-appleMusicUrl: "https://music.apple.com/jp/artist/bruno-mars/278873078"
-spotifyUrl: "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+createdDate: "2026-01-15"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/bruno-mars/278873078" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1985年10月8日</p>
+  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> レトロなファンク・ソウルを現代に蘇らせるエンターテイナー</p>
+</div>
 
----
 
-## 経歴
 
-ブルーノ・マーズ（Bruno Mars）は、アメリカ・ハワイ州ホノルル出身のシンガーソングライター。本名はピーター・ジーン・ヘルナンデス（Peter Gene Hernandez）。
+## 「Uptown Funk」——2010年代を代表するファンクアンセム
 
-1985年10月8日、音楽一家に生まれる。父はプエルトリコ系アメリカ人、母はフィリピン人。幼少期から家族のバンドでパフォーマンスを行い、エルヴィス・プレスリーのものまねで地元ハワイで人気を博した。
+**2014年にMark Ronsonとコラボした「Uptown Funk」は、世界中で爆発的ヒットとなった。**
 
-2004年、18歳でロサンゼルスに移住。プロデューサー・チーム「The Smeezingtons」を結成し、他アーティストへの楽曲提供で頭角を現す。Flo Rida「Right Round」、K'naan「Wavin' Flag」など、数々のヒット曲を手がける。
+この曲は、1970-80年代のファンクミュージックを現代的にアレンジした作品。James BrownやPrinceの影響を受けたグルーヴと、キャッチーなフックが特徴だ。
 
-2010年、デビューシングル「Just the Way You Are」で全米1位を獲得。デビューアルバム「Doo-Wops & Hooligans」は世界的大ヒットとなり、一躍トップアーティストの仲間入りを果たす。
+「Uptown Funk」は、ビルボードHot 100で14週連続1位を記録。Spotifyでは史上最も再生された曲の一つとなった。この曲のミュージックビデオも、カラフルで楽しいパフォーマンスが満載で、YouTubeで50億回以上再生されている。
 
-その後、「Unorthodox Jukebox」(2012年)、「24K Magic」(2016年)と、アルバムを重ねるごとに音楽性を進化させ、世界中で愛されるアーティストとなった。
+ブルーノ・マーズの魅力は、古き良き時代のサウンドを現代に蘇らせる才能。決して古臭くならず、むしろ新鮮に聴こえる。それが彼の最大の強みだ。
 
-## 音楽スタイル
-
-ブルーノ・マーズの音楽的特徴は、古き良き時代のR&B、ファンク、ソウルを現代的にアレンジした独自のサウンド。
-
-- **レトロ・フューチャー**: 1970-80年代のファンク、ソウル、R&Bを彷彿とさせるサウンドを、現代的なプロダクションで再構築。
-- **高い歌唱力**: 滑らかで表現力豊かなボーカル。ファルセットから力強い高音まで幅広いレンジを持つ。
-- **パフォーマンス**: マイケル・ジャクソンやジェームス・ブラウンの影響を受けた、キレのあるダンスと圧倒的なステージング。
-- **プロデュース力**: 自身の楽曲のほとんどをプロデュース。洗練されたアレンジとキャッチーなメロディが特徴。
-
-## 代表曲
-
-### 王道ポップ・バラード
-- **Just the Way You Are** - デビューシングル。ありのままの君が美しいと歌う永遠の名曲
-- **When I Was Your Man** - 別れた恋人への後悔を歌った切ないバラード
-- **Marry You** - プロポーズソングの定番。結婚式で流れる幸せな一曲
-
-### ファンク・ダンサブル
-- **Uptown Funk** (with Mark Ronson) - 2014年の世界的大ヒット。ファンクの極み
-- **24K Magic** - ゴージャスでファンキーな自信作
-- **Treasure** - 1980年代ディスコ調のダンスナンバー
-- **Finesse** (Remix feat. Cardi B) - 1990年代R&B風のレトロポップ
-
-### R&B・ソウル
-- **Grenade** - 君のためなら何でもするという激しい愛の歌
-- **Locked Out of Heaven** - The Policeの影響を受けたロック調R&B
-- **That's What I Like** - スムーズなR&Bグルーヴ
-
-### コラボレーション
-- **Die With a Smile** (with Lady Gaga) - 2024年の奇跡のコラボ。ソウルフルなバラード
-
-## ディスコグラフィー
-
-1. **Doo-Wops & Hooligans** (2010) - デビューアルバム
-   - 「Just the Way You Are」「Grenade」収録
-   - 世界で1,500万枚以上を売り上げ
-
-2. **Unorthodox Jukebox** (2012)
-   - 「Locked Out of Heaven」「When I Was Your Man」「Treasure」収録
-   - グラミー賞「最優秀ポップ・ボーカル・アルバム」受賞
-
-3. **24K Magic** (2016)
-   - 「24K Magic」「That's What I Like」「Finesse」収録
-   - グラミー賞「アルバム・オブ・ザ・イヤー」含む6部門受賞
-
-## 受賞歴
-
-- **グラミー賞**: 17回受賞（史上最多クラス）
-  - アルバム・オブ・ザ・イヤー (24K Magic)
-  - レコード・オブ・ザ・イヤー (24K Magic, That's What I Like, Uptown Funk)
-  - 楽曲賞 (That's What I Like)
-- **ギネス世界記録**: 2つ
-- **ビルボード Hot 100**: 最も多く1位を獲得した男性ソロアーティスト
-- **全世界**: 1億3,000万枚以上のレコード販売
-
-## スーパーボウル
-
-- **2014年**: スーパーボウルXLVIIIハーフタイムショー出演（Red Hot Chili Peppersとコラボ）
-- **2016年**: スーパーボウル50でコールドプレイ、ビヨンセと共演
-
-## 私のお気に入り曲・作品
-
-このブログで紹介している曲：
-
-- **Die With a Smile** - [Lady Gaga](/artists/lady-gaga)との奇跡のコラボレーション。もし世界が終わるなら、あなたの隣で笑顔で死にたい。一晩で完成した、純粋で美しいバラード。
+**参考:**
+- [Uptown Funk - Wikipedia](https://en.wikipedia.org/wiki/Uptown_Funk)
 
 ---
 
-## ブルーノ・マーズの魅力
 
-**時代を超える普遍性**——ブルーノ・マーズの最大の魅力は、古き良き時代のソウル、ファンク、R&Bを現代に蘇らせる才能だと思う。
+
+## スーパーボウルハーフタイムショー——エンターテイナーとしての完成度
+
+**2014年と2016年、ブルーノ・マーズはスーパーボウルのハーフタイムショーに出演した。**
+
+2014年の第48回スーパーボウルでは、Red Hot Chili Peppersと共演。「Locked Out of Heaven」「Treasure」などを披露し、1億1500万人以上が視聴した。このパフォーマンスは、「史上最高のハーフタイムショー」として高く評価された。
+
+2016年の第50回スーパーボウルでは、ColdplayとBeyoncéと共演。再び世界中を魅了した。
+
+ブルーノ・マーズのパフォーマンスは、歌、ダンス、バンド演奏のすべてが完璧。マイケル・ジャクソンやジェームス・ブラウンのようなエンターテイナーとしての完成度の高さが、彼の魅力だ。
+
+**参考:**
+- [Super Bowl XLVIII halftime show - Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_XLVIII_halftime_show)
+
+---
+
+
+
+## 時代を超える普遍性——ブルーノ・マーズの魅力
+
+**ブルーノ・マーズの最大の魅力は、古き良き時代のソウル、ファンク、R&Bを現代に蘇らせる才能。**
 
 1970-80年代のレトロなサウンドを、決して古臭くなく、むしろ新鮮に聴かせる。それは彼が持つ圧倒的な歌唱力、プロデュース力、パフォーマンス力の賜物だ。
 
@@ -108,3 +60,26 @@ spotifyUrl: "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
 恋愛、自信、喜び——シンプルだけど力強いメッセージを、最高にグルーヴィーな音楽に乗せて届けてくれる。
 
 **聴くだけで幸せになれる。** それがブルーノ・マーズの音楽だ。
+
+---
+
+
+
+## このブログで紹介している曲(1件)
+
+- **[Die With a Smile](/posts/die-with-a-smile)** - Lady Gagaとの奇跡のコラボ、ソウルフルなバラード
+
+---
+
+
+
+## 公式リンク
+
+- [公式サイト](https://www.brunomars.com/)
+- [Instagram](https://www.instagram.com/brunomars/)
+- [YouTube](https://www.youtube.com/user/BrunoMars)
+- [Apple Music](https://music.apple.com/jp/artist/bruno-mars/278873078)
+- [Spotify](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C)
+- [Twitter/X](https://twitter.com/BrunoMars)
+
+---

@@ -3,6 +3,7 @@ title: "Gaga: Five Foot Two"
 work: "Gaga: Five Foot Two"
 artist: "Lady Gaga / Chris Moukarbel"
 date: "2025-12-28"
+updatedDate: "2026-01-09"
 order: 1
 type: "movie"
 relatedPosts: ["joanne"]

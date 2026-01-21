@@ -3,7 +3,8 @@ title: "Perfect"
 description: "エド・シーラン（Ed Sheeran）の「Perfect（パーフェクト）」は結婚式の定番曲。妻チェリー・シーボーンへの愛、過去の別れと復縁、イビサ島での思い出を歌った永遠のラブソング。歌詞の意味を徹底解説。"
 song: "Perfect"
 artist: "Ed Sheeran"
-date: "2025-12-22"
+date: "2026-01-02"
+updatedDate: "2026-01-18"
 order: 22
 type: "song"
 keywords: ["Perfect", "パーフェクト", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "プロポーズ", "チェリーシーボーン", "Cherry Seaborn", "復縁", "イビサ島"]

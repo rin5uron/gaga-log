@@ -3,6 +3,7 @@ title: "One Shot"
 work: "One Shot"
 artist: "Ed Sheeran"
 date: "2026-01-10"
+updatedDate: "2026-01-10"
 order: 26
 type: "movie"
 relatedPosts: ["perfect", "sing"]

@@ -4,6 +4,7 @@ description: "Lady GagaのLovedrugの歌詞を徹底解説。恋愛依存をド�
 song: "LoveDrug"
 artist: "Lady Gaga"
 date: "2025-12-30"
+updatedDate: "2026-01-16"
 order: 9
 type: "song"
 keywords: ["lovedrug 歌詞", "レディーガガ lovedrug", "lovedrug 和訳", "lovedrug 意味", "lady gaga lovedrug", "レディーガガ 歌詞"]

@@ -4,7 +4,8 @@ song: "Shallow"
 artist: "Lady Gaga & Bradley Cooper"
 album: "A Star Is Born (Original Motion Picture Soundtrack)"
 year: "2018"
-date: "2025-12-27"
+date: "2025-12-28"
+updatedDate: "2026-01-18"
 order: 6
 type: "song"
 highlights:

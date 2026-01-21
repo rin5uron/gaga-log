@@ -5,6 +5,7 @@ artist: "Lady Gaga feat. Ariana Grande"
 album: "Chromatica"
 year: "2020"
 date: "2025-12-31"
+updatedDate: "2026-01-18"
 order: 17
 type: "song"
 relatedPosts: ["telephone", "hey-girl"]

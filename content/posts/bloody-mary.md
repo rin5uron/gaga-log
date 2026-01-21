@@ -2,9 +2,15 @@
 title: "Bloody Mary"
 song: "Bloody Mary"
 artist: "Lady Gaga"
+album: "Born This Way"
+year: 2011
 date: "2025-12-29"
+updatedDate: "2026-01-20"
 order: 3
 type: "song"
+highlights:
+  - TikTokバズで11年ぶりに再ブレイク
+  - Wednesday（ウェンズデー）のダンスシーンとの奇跡の融合
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -13,10 +19,10 @@ type: "song"
 ---
 
 <!-- 🎧 ストリーミングで聴く -->
-<a href="Apple Music の曲リンク" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+<a href="https://music.apple.com/jp/album/bloody-mary/1440818588?i=1440818799" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
 </a>
-<a href="Spotify の曲リンク" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+<a href="https://open.spotify.com/track/0lYcBShtvDJXRdBMaFl0Zm" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
@@ -26,13 +32,17 @@ type: "song"
 
 ## About <span class="section-subtitle">この曲について</span>
 
-「Bloody Mary」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）に収録された楽曲。当初はアルバム曲として発表されたが、2022年12月、Netflix『Wednesday（ウェンズデー）』でのダンスシーンとTikTokでのバズを受けて、アルバムから11年を経て6枚目のシングルとして正式リリースされた。
+### 11年の時を経て、TikTokで再ブレイク
+
+**「Bloody Mary」は、[Lady Gaga](/artists/lady-gaga)の2枚目のスタジオアルバム『Born This Way』（[2011年5月23日リリース](https://www.billboard.com/music/lady-gaga/chart-history/)）に収録された楽曲。**当初はアルバム曲として発表されたが、2022年12月、Netflix『Wednesday（ウェンズデー）』でのダンスシーンとTikTokでのバズを受けて、アルバムから11年を経て6枚目のシングルとして正式リリースされた。
+
+**この曲は、ダークで呪術的な雰囲気を持つ。**エレクトロポップにシンセポップとトランスの要素が混ざり合い、グレゴリオ聖歌のサンプリングが加わることで、宗教的なモチーフとゴシックなビートが絡み合う。ガガの冷たくも力強いボーカルが際立つ。
 
 ---
 
-この曲は、ダークで呪術的な雰囲気を持つ。エレクトロポップにシンセポップとトランスの要素が混ざり合い、グレゴリオ聖歌のサンプリングが加わることで、宗教的なモチーフとゴシックなビートが絡み合う。ガガの冷たくも力強いボーカルが際立つ。
+### 「Bloody Mary × Wednesday」の奇跡の融合
 
-2022年のTikTokバズ以降、再び注目を浴び、ライブのオープニングセットリストにも組み込まれるようになった。元々は知る人ぞ知るアルバム曲だったが、今では「Bloody Mary × Wednesday」の組み合わせで新たな命を吹き込まれた楽曲として語られることが多い。
+**2022年のTikTokバズ以降、再び注目を浴び、ライブのオープニングセットリストにも組み込まれるようになった。**元々は知る人ぞ知るアルバム曲だったが、今では「Bloody Mary × Wednesday」の組み合わせで新たな命を吹き込まれた楽曲として語られることが多い。
 
 ---
 
@@ -40,27 +50,29 @@ type: "song"
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
-この曲を聴くときに知っておくと深まるポイントがいくつかある。
+### Maryとは誰か——マグダラのマリアの視点
 
-### Maryとは誰か
+**まず、「Bloody Mary」という名前について。**タイトルは「血まみれのメアリー」を意味し、一般的にはイングランド女王メアリー1世を指すが、**ガガはマグダラのマリア（Mary Magdalene）の視点から歌っている。**マグダラのマリアは聖書に登場する人物で、イエスの最も重要な弟子の一人とされている。
 
-まず、「Bloody Mary」という名前について。タイトルは「血まみれのメアリー」を意味し、一般的にはイングランド女王メアリー1世を指すが、ガガはマグダラのマリア（Mary Magdalene）の視点から歌っている。マグダラのマリアは聖書に登場する人物で、イエスの最も重要な弟子の一人とされている。
+ガガは[「マグダラのマリアは完全に神聖であり、完全に人間でもある」](https://www.facebook.com/ladygaga)と説明している。イエスが預言を果たして死ぬとき、彼女は強くなければならないが、同時に彼を手放すことに動揺する人間的な瞬間も持っている。
 
-ガガは「マグダラのマリアは完全に神聖であり、完全に人間でもある」と説明している。イエスが預言を果たして死ぬとき、彼女は強くなければならないが、同時に彼を手放すことに動揺する人間的な瞬間も持っている。
+---
+
+### 「あなたのために泣かない」——強さと孤独の宣言
 
 サビで繰り返される核心的なフレーズがこれだ。
 
 > I won't cry for you
 
-「あなたのために泣かない」という宣言。これは、愛する人を失っても、その人が世界に広めた愛に焦点を当て、自分自身の方法で愛を広め続けるという決意を表している。
+**「あなたのために泣かない」という宣言。**これは、愛する人を失っても、その人が世界に広めた愛に焦点を当て、自分自身の方法で愛を広め続けるという決意を表している。
 
 そして、この曲の核心にある"gone"という言葉。
 
 > When you are gone
 
-"gone"は単に「去る」「いなくなる」という意味だけではなく、「死ぬ」という意味も含まれている。「あなたがいなくなったとき」「あなたが死んだとき」——この二重の意味が、この曲に深い陰影を与えている。
+**"gone"は単に「去る」「いなくなる」という意味だけではなく、「死ぬ」という意味も含まれている。**「あなたがいなくなったとき」「あなたが死んだとき」——この二重の意味が、この曲に深い陰影を与えている。
 
-それでも涙を流さない、それでも踊り続ける——そんな強さと孤独が交錯する。ガガ自身が「Bloody Maryは現実と幻想の間に生きることについての曲」とFacebookで説明している。
+それでも涙を流さない、それでも踊り続ける——そんな強さと孤独が交錯する。ガガ自身が[「Bloody Maryは現実と幻想の間に生きることについての曲」](https://www.facebook.com/ladygaga)とFacebookで説明している。
 
 ---
 
@@ -115,18 +127,40 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## TikTokバズを経て、再び光を浴びた曲
+## Analysis <span class="section-subtitle">考察</span>
 
-この曲を初めて聞いたのは2011年だった人も多いだろう。当時はアルバム曲の一つとして、ファンの間で愛されていた。
+### TikTokバズを経て、再び光を浴びた曲
+
+**この曲を初めて聞いたのは2011年だった人も多いだろう。**当時はアルバム曲の一つとして、ファンの間で愛されていた。
 
 でも、2022年のTikTokバズを経て、この曲は全く違う形で再び世界中に広まった。11年の時を経て、新しい世代がこの曲に出会い、新しい解釈が生まれた。
 
-音楽は時代を超えて、新しい形で蘇ることがある。ガガが2011年に込めたマグダラのマリアの物語が、2022年のWednesdayというキャラクターと結びついたとき、それは偶然ではなく、何か必然的なものを感じさせる。
+---
+
+### 音楽は時代を超えて蘇る
+
+**音楽は時代を超えて、新しい形で蘇ることがある。**ガガが2011年に込めたマグダラのマリアの物語が、2022年のWednesdayというキャラクターと結びついたとき、それは偶然ではなく、何か必然的なものを感じさせる。
 
 孤独で、強くて、誰にも媚びない——そんな女性像が、時代を超えて共鳴している。
 
-そして今、この曲はライブのオープニングセットリストで公開されるようになった。TikTokでのバズを経て、再び光を浴びた「Bloody Mary」は、ガガのライブでも重要な位置を占めている。
+**そして今、この曲はライブのオープニングセットリストで公開されるようになった。**TikTokでのバズを経て、再び光を浴びた「Bloody Mary」は、ガガのライブでも重要な位置を占めている。時代が変わっても、強くて孤独な女性の物語は、いつも誰かの心に響き続ける。それがこの曲の良さだ。
 
-時代が変わっても、強くて孤独な女性の物語は、いつも誰かの心に響き続ける。それがこの曲の良さだ。
+---
+
+
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式音源
+- [Lady Gaga - Bloody Mary (Audio)](https://www.youtube.com/watch?v=j3BSPim2CSU)
+
+### インタビュー・発言
+- [Lady Gaga on Facebook](https://www.facebook.com/ladygaga)
+- [Lady Gaga Chart History - Billboard](https://www.billboard.com/music/lady-gaga/chart-history/)
+
+### その他
+- [Netflix 『Wednesday（ウェンズデー）』](https://www.netflix.com/title/81231974)
+- [Lady Gaga TikTok Response](https://www.tiktok.com/@ladygaga/video/7174951907461467435)
+- [Bloody Mary - Spotify](https://open.spotify.com/track/0lYcBShtvDJXRdBMaFl0Zm)
 
 ---

@@ -3,6 +3,7 @@ title: "Hey Girl"
 song: "Hey Girl"
 artist: "Lady Gaga feat. Florence + The Machine"
 date: "2025-12-27"
+updatedDate: "2026-01-05"
 order: 4
 type: "song"
 relatedPosts: ["joanne", "gaga-five-foot-two"]

@@ -3,6 +3,7 @@ title: "Judas"
 song: "Judas"
 artist: "Lady Gaga"
 date: "2025-12-30"
+updatedDate: "2026-01-18"
 order: 8
 type: "song"
 ---

@@ -2,88 +2,56 @@
 name: "Ariana Grande"
 birthDate: "1993年6月26日"
 nationality: "アメリカ"
-genres: ["ポップ", "R&B", "ダンス"]
 type: "artist"
-appleMusicUrl: "https://music.apple.com/jp/artist/ariana-grande/412778295"
-spotifyUrl: "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+createdDate: "2025-12-31"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/ariana-grande/412778295" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
-
----
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1993年6月26日</p>
+  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> 4オクターブの圧倒的歌唱力、R&Bとポップを融合したサウンド</p>
+</div>
 
 
 
-## Career <span class="section-subtitle">経歴</span>
+## 「Thank U, Next」——過去の恋愛を前向きに捉える新しいアンセム
 
-アリアナ・グランデ（Ariana Grande）は、アメリカ・フロリダ州出身のシンガーソングライター、女優。本名はアリアナ・グランデ＝ブテラ（Ariana Grande-Butera）。
+**2019年にリリースされた「Thank U, Next」は、アリアナ・グランデの代表曲の一つとなった。**
 
-2008年にブロードウェイミュージカル「13」でデビュー。その後、ニコロデオン（Nickelodeon）のテレビシリーズ「Victorious」「Sam & Cat」で女優として活躍。
+この曲の最大の特徴は、過去の恋愛経験——そこには別れや痛みも含まれている——を否定せず、感謝の言葉で振り返ること。"Thank you, next"というシンプルなフレーズが、自己成長のメッセージとして響く。
 
-2013年にデビューアルバム「Yours Truly」をリリース。R&Bとポップを融合させた独自のスタイルで、一躍スターダムに。
+歌詞には、実際の元恋人の名前が登場する。でも、それは暴露や批判ではなく、「あの経験があったから今の私がいる」という前向きな姿勢を表している。
 
-2014年の「My Everything」、2016年の「Dangerous Woman」、2018年の「Sweetener」、2019年の「Thank U, Next」と、アルバムごとに進化を遂げ、ポップミュージック界のトップアーティストの一人となる。
+アリアナは、マンチェスター・テロ事件や、元恋人Mac Millerの死など、個人的な悲劇を経験してきた。そんな中で生まれたこの曲は、痛みを乗り越えて前に進むことの大切さを教えてくれる。
 
-2020年には、Lady Gagaとのコラボレーション「Rain on Me」でグラミー賞を受賞。
+**参考:**
+- [Thank U, Next - Wikipedia](https://en.wikipedia.org/wiki/Thank_U,_Next_(song))
 
 ---
 
 
 
-## Style <span class="section-subtitle">音楽スタイル</span>
+## マンチェスター・テロ事件後のOne Love Manchester——音楽の力
 
-アリアナ・グランデの音楽的特徴は、その圧倒的なボーカル力と、R&Bとポップを融合させた独自のスタイル。
+**2017年5月22日、マンチェスター・アリーナでのアリアナのコンサート後に自爆テロが発生。22人が亡くなり、多数が負傷した。**
 
-- **ボーカル力**: 4オクターブの音域を持つと言われ、特に高音域での力強いボーカルが特徴。ウィスパーボイスからパワフルなベルティングまで、幅広い表現力を持つ。
-- **R&Bとポップの融合**: 90年代R&Bの影響を受けながら、現代的なポップサウンドを取り入れる。特に「Sweetener」以降は、より実験的なサウンドに挑戦。
-- **エモーショナルな歌詞**: 恋愛、自己受容、メンタルヘルスなど、個人的なテーマを率直に歌う。特に「Thank U, Next」では、過去の恋愛経験を前向きに捉える姿勢が多くの人々に共感を与えた。
+事件から2週間後、アリアナは「One Love Manchester」というチャリティコンサートを開催した。Coldplay、Miley Cyrus、Katy Perry、Justin Bieberなど、多くのアーティストが参加し、被害者への追悼と支援を表明した。
 
----
+アリアナ自身も、この事件の影響でPTSDと診断された。でも、彼女は音楽を通じて前に進むことを選んだ。「Sweetener」(2018年)は、そんな回復と希望をテーマにしたアルバムとなった。
 
+音楽が持つ癒しの力、そしてコミュニティの団結——One Love Manchesterは、そのことを世界に示した瞬間だった。
 
-
-## Works <span class="section-subtitle">主な作品・受賞歴</span>
-
-### アルバム
-- **Yours Truly** (2013) - デビューアルバム
-- **My Everything** (2014) - 「Problem」「Break Free」収録
-- **Dangerous Woman** (2016) - 「Side to Side」「Into You」収録
-- **Sweetener** (2018) - 「No Tears Left to Cry」「God is a woman」収録
-- **Thank U, Next** (2019) - 「7 rings」「Thank U, Next」収録
-- **Positions** (2020) - 「Positions」「34+35」収録
-
-### コラボレーション
-- **Rain on Me** (with Lady Gaga) - 2020年、グラミー賞受賞
-- **The Way** (feat. Mac Miller) - 2013年
-- **Bang Bang** (with Jessie J & Nicki Minaj) - 2014年
-
-### 受賞歴
-- **グラミー賞**: 2回受賞（「Rain on Me」で最優秀ポップ・デュオ/グループ・パフォーマンス賞など）
-- **ビルボード・ミュージック・アワード**: 多数受賞
-- **MTV ビデオ・ミュージック・アワード**: 多数受賞
+**参考:**
+- [One Love Manchester - Wikipedia](https://en.wikipedia.org/wiki/One_Love_Manchester)
 
 ---
 
 
 
-## 私のお気に入り曲・作品
+## 圧倒的なボーカル力と誠実さ——アリアナ・グランデの魅力
 
-このブログで紹介している曲：
-
-- **Rain on Me** - [Lady Gaga](/artists/lady-gaga)とのコラボ。痛みを受け入れながら前に進む、力強いメッセージ。
-- **Thank U, Next** - 過去の恋愛経験を前向きに捉えた曲。自己受容と前進のメッセージ。
-
----
-
-## アリアナ・グランデの魅力
-
-**圧倒的なボーカル力と誠実さ**——アリアナ・グランデの最大の魅力は、その4オクターブの音域を持つ圧倒的なボーカル力。
+**アリアナ・グランデの最大の魅力は、その4オクターブの音域を持つ圧倒的なボーカル力。**
 
 ウィスパーボイスからパワフルなベルティングまで、幅広い表現力を持ち、90年代R&Bの影響を受けながら現代的なポップサウンドを取り入れる。
 
@@ -95,13 +63,22 @@ spotifyUrl: "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
 
 
 
-## Notes <span class="section-subtitle">その他</span>
+## このブログで紹介している曲(2件)
 
-2017年、マンチェスター・アリーナでのコンサート後にテロ事件が発生。この経験は、アリアナの音楽と人生に大きな影響を与えた。
+- **[Rain on Me](/posts/rain-on-me)** - Lady Gagaとのコラボ、痛みを受け入れ前に進む
+- **[Thank U, Next](/posts/thank-u-next)** - 過去の恋愛を前向きに捉える自己受容のアンセム
 
-「Sweetener」アルバムは、この事件後のメンタルヘルスの回復と、前向きな姿勢を表現した作品として知られている。
-
-また、アリアナはメンタルヘルスや自己受容について、積極的に発信している。その誠実さと、音楽を通じたメッセージが、多くの人々に共感を与えている。
-
+---
 
 
+
+## 公式リンク
+
+- [公式サイト](https://www.arianagrande.com/)
+- [Instagram](https://www.instagram.com/arianagrande/)
+- [YouTube](https://www.youtube.com/user/osnapitzari)
+- [Apple Music](https://music.apple.com/jp/artist/ariana-grande/412778295)
+- [Spotify](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
+- [Twitter/X](https://twitter.com/ArianaGrande)
+
+---

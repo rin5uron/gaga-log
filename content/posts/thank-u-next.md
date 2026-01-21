@@ -2,7 +2,8 @@
 title: "Thank U, Next"
 song: "Thank U, Next"
 artist: "Ariana Grande"
-date: "2025-12-30"
+date: "2026-01-02"
+updatedDate: "2026-01-18"
 order: 23
 type: "song"
 ---

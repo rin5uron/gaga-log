@@ -4,6 +4,7 @@ description: "ズートピアの主題歌「トライエブリシング（Try Ev
 song: "Try Everything"
 artist: "Shakira"
 date: "2025-12-30"
+updatedDate: "2026-01-10"
 order: 10
 type: "song"
 keywords: ["Try Everything", "トライエブリシング", "意味", "ズートピア", "主題歌", "ポイント", "歌", "シャキーラ", "Shakira"]

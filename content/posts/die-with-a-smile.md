@@ -2,7 +2,8 @@
 title: "Die With a Smile"
 song: "Die With a Smile"
 artist: "Lady Gaga / Bruno Mars"
-date: "2026-01-14"
+date: "2026-01-15"
+updatedDate: "2026-01-16"
 order: 1
 type: "song"
 description: "Lady Gaga×Bruno Mars「Die With a Smile」を徹底解説。一晩で完成した奇跡のコラボの裏側、グラミー賞受賞、Spotify史上最速10億回再生の理由、1970年代レトロMVの意味まで。"

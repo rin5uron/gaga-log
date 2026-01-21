@@ -3,6 +3,7 @@ title: "Alejandro"
 song: "Alejandro"
 artist: "Lady Gaga"
 date: "2025-12-29"
+updatedDate: "2026-01-18"
 order: 2
 type: "song"
 ---

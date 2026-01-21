@@ -1,7 +1,8 @@
 ---
 title: "Bad Romance"
 artist: "Lady Gaga"
-date: "2025-12-08"
+date: "2026-01-02"
+updatedDate: "2026-01-18"
 order: 18
 type: "song"
 relatedPosts: ["poker-face", "born-this-way"]

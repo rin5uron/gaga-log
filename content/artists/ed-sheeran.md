@@ -2,119 +2,54 @@
 name: "Ed Sheeran"
 birthDate: "1991年2月17日"
 nationality: "イギリス"
-genres: ["ポップ", "フォーク", "R&B"]
 type: "artist"
-appleMusicUrl: "https://music.apple.com/jp/artist/ed-sheeran/183313439"
-spotifyUrl: "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+createdDate: "2025-12-27"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/ed-sheeran/183313439" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1991年2月17日</p>
+  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> イギリス</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> ギター1本で世界を魅了するシンガーソングライター</p>
+</div>
 
----
 
-## 経歴
 
-エド・シーラン（Ed Sheeran）は、イギリス・ウェストヨークシャー州出身のシンガーソングライター。本名はエドワード・クリストファー・シーラン（Edward Christopher Sheeran）。
+## ループステーションで作る「一人オーケストラ」
 
-幼少期から音楽に親しみ、11歳でギターを始める。ロンドンで路上ライブを重ね、独自のスタイルを確立。2010年にインディーズEP「Loose Change」をリリースし、徐々に注目を集める。
+**エド・シーランのライブパフォーマンスの最大の特徴は、ループステーションを駆使した「一人オーケストラ」。**
 
-2011年のデビューアルバム「+（プラス）」で一躍スターダムに。「The A Team」がヒットし、イギリスで最も成功したアーティストの一人となる。
+ステージにはエド一人。バンドもバックダンサーもいない。あるのはギター1本とループペダルだけ。でも、そこから生まれる音楽は、まるで何人ものミュージシャンが演奏しているかのような壮大さを持つ。
 
-その後、「×（マルティプライ）」(2014年)、「÷（ディバイド）」(2017年)と数学記号をタイトルにしたアルバムシリーズで世界的な成功を収める。特に「Shape of You」「Thinking Out Loud」は全世界で大ヒット。
+エドは、ループペダルを使って自分のギターとボーカルを多重録音していく。ベースライン、パーカッション、コーラス——すべてをリアルタイムで重ねていく。この技術は、ロンドンでストリートミュージシャンとして活動していた時代に磨かれた。
 
-2019年には音楽活動を一時休止し、結婚・家庭生活に専念。2021年に「=（イコールズ）」でカムバックを果たした。
+「音楽は一人でも作れる」——エド・シーランのパフォーマンスは、その可能性を示している。
 
-## 音楽スタイル
-
-エド・シーランの音楽的特徴は、アコースティックギター1本で勝負するシンプルさと、それを補って余りある表現力。
-
-- **ループステーション**: ライブでループペダルを駆使し、一人で多重録音を行うパフォーマンスが特徴。ベース、パーカッション、コーラスを重ねて壮大なサウンドを作り上げる。
-- **ジャンル融合**: ポップをベースに、フォーク、R&B、ヒップホップ、ダンスミュージックなど幅広いジャンルを取り入れる。特にラップとメロディを融合させた楽曲が多い。
-- **ストーリーテリング**: 歌詞は自身の経験や感情を率直に綴ったものが多く、リスナーに共感を与える。恋愛、家族、友情など身近なテーマを扱う。
-
-## 代表曲
-
-### 恋愛ソング
-- **Thinking Out Loud** - 永遠の愛を誓うロマンティックなバラード
-- **Perfect** - 妻チェリー・シーボーンへの愛を歌った結婚式の定番曲
-- **Shape of You** - トロピカルハウス調のダンスポップ
-
-### ストーリー性のある曲
-- **The A Team** - ホームレスの女性を描いた社会派ソング
-- **Photograph** - 離れていても繋がる想いを歌ったバラード
-- **Castle on the Hill** - 故郷への郷愁を歌った青春ソング
-
-### コラボレーション
-- **I Don't Care** (with Justin Bieber) - ポップなデュエット
-- **Beautiful People** (feat. Khalid) - R&B調の楽曲
-- **Afterglow** - パンデミック中に書かれた温かいラブソング
-
-## ディスコグラフィー
-
-1. **+ (Plus)** (2011) - デビューアルバム
-   - 「The A Team」「Lego House」収録
-   - 全英1位、グラミー賞ノミネート
-
-2. **× (Multiply)** (2014)
-   - 「Thinking Out Loud」「Photograph」収録
-   - グラミー賞「最優秀ポップ・ボーカル・アルバム」受賞
-
-3. **÷ (Divide)** (2017)
-   - 「Shape of You」「Perfect」「Castle on the Hill」収録
-   - 史上最も売れたアルバムの一つ
-
-4. **No.6 Collaborations Project** (2019)
-   - 様々なアーティストとのコラボレーション集
-   - Justin Bieber, Cardi B, Bruno Marsなど豪華ゲスト
-
-5. **= (Equals)** (2021)
-   - 「Bad Habits」「Shivers」収録
-   - 休養後のカムバック作
-
-6. **- (Subtract)** (2023)
-   - よりパーソナルで内省的な作品
-
-## 受賞歴
-
-- **グラミー賞**: 4回受賞（「Thinking Out Loud」で楽曲賞・最優秀ポップ・ソロ・パフォーマンス受賞など）
-- **ブリット・アワード**: 複数回受賞
-- **アイヴァー・ノヴェロ賞**: ソングライターとして複数回受賞
-- **ビルボード・ミュージック・アワード**: 多数受賞
-- **MTV ビデオ・ミュージック・アワード**
-
-## 映画・テレビ出演
-
-- **Yesterday** (2019) - 本人役でカメオ出演
-- **Game of Thrones** シーズン7 - ランニスター兵士役で出演
-- **The Simpsons** - 本人役で声の出演
-
-## プライベート
-
-2019年に幼馴染のチェリー・シーボーンと結婚。2020年に第一子、2022年に第二子が誕生。家族との時間を大切にするため、ツアーのスケジュールを調整することでも知られる。
-
-サッカー（特にイプスウィッチ・タウンFC）の熱狂的なファンで、スポンサー契約も結んでいる。
-
-## 私のお気に入り曲・作品
-
-このブログで紹介している曲：
-
-- **The A Team** - ホームレスの女性を描いた社会派ソング。優しさと現実を同時に描いている。
-- **Thinking Out Loud** - 永遠の愛を誓うロマンティックなバラード。結婚式の定番曲。
-- **Happier** - 別れの後に一番聴いてはいけない曲かもしれない。優しさと痛みが共存している。
-- **Perfect** - 妻への愛を歌った結婚式の定番曲。完璧じゃなくても、完璧な愛がある。
-- **Zoo** - [Shakira](/artists/shakira)との共作で、ディズニー映画『ズートピア2』の劇中歌。祝祭感とコミュニティの団結を歌った作品。
+**参考:**
+- [Ed Sheeran's Loop Station Performance - YouTube](https://www.youtube.com/results?search_query=ed+sheeran+loop+station)
 
 ---
 
-## エド・シーランの魅力
 
-**飾らない誠実さ**——エド・シーランの最大の魅力は、その等身大の人間性だと思う。
+
+## 「Shape of You」——世界で最も再生された曲の秘密
+
+**2017年にリリースされた「Shape of You」は、Spotifyで史上最も再生された曲の一つとなった。**
+
+この曲の成功の理由は、トロピカルハウスのビートと、耳に残るメロディ。そして、歌詞の普遍性だ。恋に落ちる瞬間の高揚感——それは、世界中の誰もが経験する感情。
+
+エド自身は、この曲を元々リアーナのために書いていたと語っている。でも、最終的に自分で歌うことに決めた。その決断が、彼のキャリアを更に押し上げることになった。
+
+「Shape of You」は、エド・シーランが持つ「シンプルだけど深い」メロディセンスの集大成だと思う。
+
+**参考:**
+- [Shape of You - Spotify](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI)
+
+---
+
+
+
+## 飾らない誠実さ——エド・シーランの魅力
 
 スーパースターでありながら、普通の青年のような親しみやすさを持ち続けている。歌詞は自分の経験を素直に綴り、メロディはシンプルで心に残る。
 
@@ -123,3 +58,30 @@ spotifyUrl: "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
 恋愛、家族、友情——誰もが経験する普遍的なテーマを、自分の言葉で歌う。だからこそ、世界中の人々の心に届くのだろう。
 
 **シンプルだけど、深い。** それがエド・シーランの音楽だ。
+
+---
+
+
+
+## このブログで紹介している曲(5件)
+
+- **[The A Team](/posts/the-a-team)** - ホームレスの女性を描いた社会派ソング
+- **[Thinking Out Loud](/posts/thinking-out-loud)** - 永遠の愛を誓うロマンティックなバラード
+- **[Happier](/posts/happier)** - 別れの後の優しさと痛み
+- **[Perfect](/posts/perfect)** - 妻への愛を歌った結婚式の定番曲
+- **[Zoo](/posts/zoo)** - Shakiraとの共作、ズートピア2の劇中歌
+
+---
+
+
+
+## 公式リンク
+
+- [公式サイト](https://www.edsheeran.com/)
+- [Instagram](https://www.instagram.com/teddysphotos/)
+- [YouTube](https://www.youtube.com/user/EdSheeranVEVO)
+- [Apple Music](https://music.apple.com/jp/artist/ed-sheeran/183313439)
+- [Spotify](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V)
+- [Twitter/X](https://twitter.com/edsheeran)
+
+---

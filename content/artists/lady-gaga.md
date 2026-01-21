@@ -2,98 +2,52 @@
 name: "Lady Gaga"
 birthDate: "1986年3月28日"
 nationality: "アメリカ"
-genres: ["ポップ", "ダンス", "エレクトロニック"]
 type: "artist"
-date: "2026-01-20"
-updatedDate: "2026-01-20"
-appleMusicUrl: "https://music.apple.com/jp/artist/lady-gaga/277293880"
-spotifyUrl: "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+createdDate: "2026-01-20"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/lady-gaga/277293880" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
-
----
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1986年3月28日</p>
+  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> ジャンルの壁を超えるアートポップ</p>
+</div>
 
 
 
-## Career <span class="section-subtitle">経歴</span>
+## 「肉のドレス」から見るガガのアート性
 
-レディー・ガガ（Lady Gaga）は、アメリカ・ニューヨーク出身のシンガーソングライター、女優。本名はステファニー・ジョアン・アンジェリーナ・ジャーマノッタ（Stefani Joanne Angelina Germanotta）。
+**2010年のMTVビデオ・ミュージック・アワード(VMA)で、レディー・ガガは生肉でできたドレスを着て登場した。**
 
-2008年のデビューアルバム「The Fame」で一躍スターダムに。「Just Dance」「Poker Face」などの楽曲が世界的ヒットとなり、ポップミュージック界のアイコン的存在となる。
+このドレスは、単なる奇抜なファッションではない。ガガは「私は肉だと思われたくない」というメッセージを込めた——つまり、有名人として「消費される対象」ではなく、「アーティスト」として見てほしいという声明だった。
 
----
+この事件以降、ガガのファッションは常に「メッセージ」として機能している。彼女にとって、すべてはアートだ。音楽も、ファッションも、パフォーマンスも——すべてが一つの作品として存在している。
 
-
-
-## Style <span class="section-subtitle">音楽スタイル</span>
-
-ポップ、ダンス、エレクトロニックを基調としながらも、アルバムごとに異なるスタイルに挑戦。ジャズ、カントリー、ロックなど幅広いジャンルを取り入れている。
-
-特に「Joanne」（2016年）では、よりパーソナルでロック/カントリー寄りのサウンドを披露。
+**参考:**
+- [2010 MTV Video Music Awards - Wikipedia](https://en.wikipedia.org/wiki/2010_MTV_Video_Music_Awards)
 
 ---
 
 
 
-## Works <span class="section-subtitle">主な作品・受賞歴</span>
+## スーパーボウルのハーフタイムショー——なぜ世界が熱狂したのか
 
-### アルバム
-- **The Fame** (2008) - デビューアルバム
-- **The Fame Monster** (2009) -  EP／拡張
-- **Born This Way** (2011) - 代表作
-- **ARTPOP** (2013)
-- **Joanne** (2016) - 個人的な作品
-- **A Star Is Born** (2018) - 映画サウンドトラック
-- **Chromatica** (2020)
+**2017年、ガガは第51回スーパーボウルのハーフタイムショーに出演した。**
 
-### 受賞歴
-- グラミー賞 13回受賞
-- アカデミー賞（歌曲賞）- 「Shallow」(2019年)
-- ゴールデングローブ賞
-- その他多数
+このパフォーマンスは、アメリカで1億1700万人以上が視聴し、世界中で話題となった。ガガは、屋根から飛び降り、ワイヤーアクションで宙を舞い、13分間ノンストップで踊り続けた。
+
+政治的なメッセージを避けるよう圧力があった中、ガガは「This Land is Your Land」を歌い、暗に多様性と包括性を訴えた。彼女のパフォーマンスは、エンターテインメントとしての完成度と、社会的メッセージの両立を示した。
+
+スーパーボウルのハーフタイムショーは、アメリカで最も注目されるパフォーマンスの一つ。ガガは、そこで自分の信念を貫いた。
+
+**参考:**
+- [Super Bowl LI halftime show - Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_LI_halftime_show)
 
 ---
 
 
 
-## 私のお気に入り曲・作品
-
-このブログで紹介している曲：
-
-- **Bad Romance** - 恋に壊れる瞬間を歌った、強烈な曲。意味不明な言葉の繰り返しが、言葉にならない感情を表現している。
-- **Poker Face** - 仮面を被る瞬間を歌った曲。本当の感情を隠すことについて、キャッチーに歌っている。
-- **Born This Way** - それでも私は私、という瞬間を歌った曲。多様性と自己受容を訴えかける。
-- **Shallow** - [Bradley Cooper](/artists/bradley-cooper)とのデュエット。二人の声が交わる瞬間が、運命的な関係を描いている。
-- **Rain on Me** - [Ariana Grande](/artists/ariana-grande)とのコラボ。痛みを受け入れながら前に進む、力強いメッセージ。
-- **Telephone** - [Beyoncé](/artists/beyonce)とのコラボ。自由を選ぶ勇気を与えてくれる曲。
-- **Hey Girl** - [Florence + The Machine](/artists/florence-and-the-machine)との共演。女性同士の連帯と支え合いをテーマにしている。
-- **Joanne** - 叔母へのトリビュート。家族の記憶と愛が込められた、深く個人的な一曲。
-- **Replay** - PTSDとトラウマの繰り返しを描いた曲。ガガのありのままがそこにある。
-- **Alejandro** - 恋愛そのものに対する恐怖や距離感を歌った曲。大人になって聞くと、また違って聞こえる。
-- **Bloody Mary** - マグダラのマリアの視点から歌った、ダークで呪術的な曲。
-- **Judas** - 裏切り者への抗えない愛を歌った曲。自分の闇を受け入れることについて。
-- **Aura** - 仮面の下の本当の自分について問いかける曲。ARTPOPのコンセプトを象徴している。
-- **LoveDrug** - 愛を依存として描いた曲。恋をしている自分が、少しずつ自分じゃなくなっていく瞬間を言語化している。
-- **Just Dance** - デビュー曲。考えすぎないこと、ただ楽しむことを歌った曲。
-
-映画・ドキュメンタリー：
-
-- **Gaga: Five Foot Two** - [Chris Moukarbel](/artists/chris-moukarbel)が監督を務めたドキュメンタリー。ガガの制作過程と家族との関係を描いている。完成されたスターというより、一人の人間としての姿を捉えている。
-
----
-
-
-
-## Notes <span class="section-subtitle">その他</span>
-
-### 私にとってのガガ
+## 私にとってのガガ
 
 中学時代からの強い女の象徴。セクシーさを求められたら、それを強烈な個性持って返す。そのスタンスが今の自分にとって、とても共感できる。
 
@@ -103,18 +57,42 @@ spotifyUrl: "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
 
-### 公式・メディア
-- [Lady Gaga - 公式サイト](https://www.ladygaga.com/)
-- [Lady Gaga - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%AC%E3%82%AC)
-- [Lady Gaga - Apple Music](https://music.apple.com/jp/artist/lady-gaga/277293880)
-- [Lady Gaga - Spotify](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms)
 
-### SNS
-- [Twitter/X](https://twitter.com/ladygaga)
+## このブログで紹介している曲(16件)
+
+- **[Bad Romance](/posts/bad-romance)** - 恋に壊れる瞬間を歌った強烈な曲
+- **[Poker Face](/posts/poker-face)** - 仮面を被る瞬間を歌った曲
+- **[Born This Way](/posts/born-this-way)** - 多様性と自己受容を訴えかける曲
+- **[Shallow](/posts/shallow)** - Bradley Cooperとのデュエット
+- **[Rain on Me](/posts/rain-on-me)** - Ariana Grandeとのコラボ
+- **[Telephone](/posts/telephone)** - Beyoncéとのコラボ
+- **[Hey Girl](/posts/hey-girl)** - Florence + The Machineとの共演
+- **[Joanne](/posts/joanne)** - 叔母へのトリビュート
+- **[Replay](/posts/replay)** - PTSDとトラウマの繰り返しを描く
+- **[Alejandro](/posts/alejandro)** - 恋愛への恐怖や距離感を歌う
+- **[Bloody Mary](/posts/bloody-mary)** - マグダラのマリアの視点から
+- **[Judas](/posts/judas)** - 裏切り者への抗えない愛
+- **[Aura](/posts/aura)** - 仮面の下の本当の自分について
+- **[LoveDrug](/posts/lovedrug)** - 愛を依存として描いた曲
+- **[Just Dance](/posts/just-dance)** - デビュー曲
+- **[Paparazzi](/posts/paparazzi)** - 名声と狂気の境界を描く
+
+映画・ドキュメンタリー：
+
+- **[Gaga: Five Foot Two](/posts/gaga-five-foot-two)** - ガガの制作過程と家族との関係を描いたドキュメンタリー
+
+---
+
+
+
+## 公式リンク
+
+- [公式サイト](https://www.ladygaga.com/)
 - [Instagram](https://www.instagram.com/ladygaga/)
 - [YouTube](https://www.youtube.com/user/LadyGagaVEVO)
+- [Apple Music](https://music.apple.com/jp/artist/lady-gaga/277293880)
+- [Spotify](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms)
+- [Twitter/X](https://twitter.com/ladygaga)
 
-
-
+---

@@ -2,7 +2,8 @@
 title: "Hips Don't Lie"
 song: "Hips Don't Lie"
 artist: "Shakira feat. Wyclef Jean"
-date: "2025-12-16"
+date: "2026-01-02"
+updatedDate: "2026-01-18"
 order: 24
 type: "song"
 ---

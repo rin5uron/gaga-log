@@ -2,83 +2,56 @@
 name: "Wyclef Jean"
 birthDate: "1969年10月17日"
 nationality: "ハイチ / アメリカ"
-genres: ["ヒップホップ", "R&B", "レゲエ"]
 type: "artist"
-appleMusicUrl: "https://music.apple.com/jp/artist/wyclef-jean/14154"
-spotifyUrl: "https://open.spotify.com/artist/2QcZsdkI3SWxkfRxwmvIU1"
+createdDate: "2026-01-02"
 ---
 
-<!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/artist/wyclef-jean/14154" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
-  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
-</a>
-<a href="https://open.spotify.com/artist/2QcZsdkI3SWxkfRxwmvIU1" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
-  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
-</a>
-
----
+<!-- 基本情報（グレー枠） -->
+<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
+  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1969年10月17日</p>
+  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> ハイチ / アメリカ</p>
+  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> ヒップホップにレゲエ・ハイチ音楽を融合、ギターを弾くラッパー</p>
+</div>
 
 
 
-## Career <span class="section-subtitle">経歴</span>
+## Fugees「The Score」——1990年代ヒップホップの金字塔
 
-Wyclef Jean（ワイクリフ・ジョン）は、ハイチ出身、アメリカで活動するラッパー、音楽プロデューサー、ギタリスト。本名はNelust Wyclef Jean。
+**1996年、Wyclef JeanがメンバーのヒップホップグループFugeesは、2ndアルバム『The Score』をリリース。このアルバムは史上最も売れたヒップホップアルバムの一つとなった。**
 
-1969年10月17日、ハイチ生まれ。幼少期にアメリカに移住し、ニューヨーク・ブルックリン、その後ニュージャージーで育つ。
+『The Score』には、「Killing Me Softly」「Ready or Not」「Fu-Gee-La」など、数々の名曲が収録されている。特に「Killing Me Softly」は、Roberta Flackの1973年の名曲をヒップホップ/R&Bスタイルでカバーしたもので、世界中で大ヒットした。
 
-1990年、Lauryn HillとPras Michelと共に[ヒップホップグループ Fugees を結成](https://en.wikipedia.org/wiki/Wyclef_Jean)。グループのリードプロデューサー兼ギタリストを務める。1996年の2ndアルバム『The Score』は史上最も売れたアルバムの一つとなった。
+Wyclef Jeanは、Fugeesのリードプロデューサーとしてアルバム全体のサウンドを作り上げた。ヒップホップにレゲエ、R&B、ソウル、ハイチ音楽を融合させた独自のスタイルが、このアルバムの成功の鍵となった。
 
-Fugeesの成功後、1997年にソロデビューアルバム『[Wyclef Jean Presents The Carnival](https://www.grammy.com/news/for-the-record-wyclef-jean-presents-the-carnival-expanded-the-boundaries-of-hip-hop)』をリリース。「Gone till November」がビルボードHot 100でトップ10入りし、グラミー賞に3回ノミネートされた。2011年、Rolling Stoneは同アルバムを1990年代の69位の名盤にランク付けした。
+このアルバムは、グラミー賞2部門を受賞し、全世界で2200万枚以上を売り上げた。
 
-これまでに9枚のスタジオアルバム、1枚のコンピレーションアルバム、2枚のEP、複数のミックステープをリリース。ソロアーティストとして25曲以上のシングルをリリースし、多数のコラボレーションにも参加している。
+**参考:**
+- [The Score (Fugees album) - Wikipedia](https://en.wikipedia.org/wiki/The_Score_(Fugees_album))
 
 ---
 
 
 
-## Style <span class="section-subtitle">音楽スタイル</span>
+## ハイチへの愛——音楽と社会活動を通じた支援
 
-Wyclef Jeanの音楽的特徴は、ヒップホップにレゲエ、R&B、ワールドミュージックを融合させた独自のサウンド。
+**Wyclef Jeanは、音楽活動だけでなく、母国ハイチへの支援活動でも知られている。**
 
-- **ジャンルの融合**: ヒップホップ、レゲエ、R&B、ハイチ音楽、ラテン音楽など、多様なジャンルをミックス。
-- **ギタープレイ**: ラッパーでありながら、ギタリストとしても活躍。
-- **プロデューサー**: Fugees時代から現在まで、プロデューサーとして数多くのアーティストと共演。
-- **社会的メッセージ**: ハイチのルーツと社会問題をテーマにした楽曲も多い。
+2010年1月12日、ハイチで大地震が発生。この地震により、約23万人が亡くなり、100万人以上が家を失った。Wyclef Jeanは、チャリティー団体「Yéle Haiti」を通じて救援活動を行い、世界中に支援を呼びかけた。
 
----
+また、2010年にはハイチ大統領選挙への出馬を表明した。最終的には資格要件を満たさず出馬できなかったが、母国への強い思いを示した。
 
+Wyclef Jeanの音楽には、ハイチのルーツと社会問題をテーマにした楽曲も多い。音楽を通じて社会的メッセージを発信する姿勢が、彼の魅力の一つだ。
 
-
-## Works <span class="section-subtitle">主な作品</span>
-
-### アルバム
-- **Wyclef Jean Presents The Carnival** (1997) - ソロデビューアルバム。「Gone till November」収録。
-- **The Ecleftic: 2 Sides II a Book** (2000) - 「It Doesn't Matter」「911」収録。
-- **Masquerade** (2002)
-- **The Preacher's Son** (2003)
-- **Welcome to Haiti: Creole 101** (2004)
-
-### Fugeesとして
-- **The Score** (1996) - 「Killing Me Softly」「Ready or Not」「Fu-Gee-La」収録。
-
-### コラボレーション
-- **Hips Don't Lie** (with Shakira) - 2006年、世界的大ヒット。
+**参考:**
+- [2010 Haiti earthquake - Wikipedia](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 
 ---
 
 
 
-## 私のお気に入り曲・作品
+## ジャンルを超える自由さ——ワイクリフ・ジョンの魅力
 
-このブログで紹介している曲：
-
-- **Hips Don't Lie** - [Shakira](/artists/shakira)とのコラボ。全米1位を獲得した代表曲。ヒップホップとラテンの融合が最高。
-
----
-
-## ワイクリフ・ジョンの魅力
-
-**ジャンルを超える自由さ**——ワイクリフ・ジョンの最大の魅力は、ヒップホップにレゲエ、R&B、ハイチ音楽、ラテンなど、多様なジャンルを自由に融合させるスタイル。
+**ワイクリフ・ジョンの最大の魅力は、ヒップホップにレゲエ、R&B、ハイチ音楽、ラテンなど、多様なジャンルを自由に融合させるスタイル。**
 
 ラッパーでありながらギタリストとしても活躍し、プロデューサーとしても数多くのアーティストと共演。その多才さが、音楽の幅を広げている。
 
@@ -90,12 +63,21 @@ Wyclef Jeanの音楽的特徴は、ヒップホップにレゲエ、R&B、ワー
 
 
 
-## Notes <span class="section-subtitle">その他</span>
+## このブログで紹介している曲(1件)
 
-Wyclef Jeanは、音楽活動だけでなく、母国ハイチへの支援活動でも知られている。
+- **[Hips Don't Lie](/posts/hips-dont-lie)** - Shakiraとのコラボ、全米1位を獲得した代表曲
 
-2010年のハイチ地震後、チャリティー団体「Yéle Haiti」を通じて救援活動を行った。また、2010年にはハイチ大統領選挙への出馬を表明したが、資格要件を満たさず出馬できなかった。
-
-音楽プロデューサーとしても、Shakira、Destiny's Child、Santana、Mary J. Bligeなど、多数のアーティストと共演している。
+---
 
 
+
+## 公式リンク
+
+- [公式サイト](https://www.wyclef.com/)
+- [Instagram](https://www.instagram.com/wyclef/)
+- [YouTube](https://www.youtube.com/user/wyclefjeanVEVO)
+- [Apple Music](https://music.apple.com/jp/artist/wyclef-jean/14154)
+- [Spotify](https://open.spotify.com/artist/2QcZsdkI3SWxkfRxwmvIU1)
+- [Twitter/X](https://twitter.com/wyclef)
+
+---
