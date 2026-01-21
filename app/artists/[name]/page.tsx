@@ -208,13 +208,41 @@ export default async function ArtistPage({
                     {artistProfile.nationality}
                   </li>
                 )}
-                {artistProfile.genres && artistProfile.genres.length > 0 && (
+                {artistProfile.musicStyle && (
                   <li>
-                    <span className="font-semibold">ジャンル：</span>
-                    {artistProfile.genres.join(", ")}
+                    <span className="font-semibold">音楽スタイル：</span>
+                    {artistProfile.musicStyle}
                   </li>
                 )}
               </ul>
+            </div>
+          )}
+
+          {/* ストリーミングリンク */}
+          {artistProfile && (artistProfile.appleMusicUrl || artistProfile.spotifyUrl) && (
+            <div className="mb-6">
+              {artistProfile.appleMusicUrl && (
+                <a
+                  href={artistProfile.appleMusicUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block mr-3"
+                  title="Apple Musicで聴く"
+                >
+                  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32" />
+                </a>
+              )}
+              {artistProfile.spotifyUrl && (
+                <a
+                  href={artistProfile.spotifyUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block"
+                  title="Spotifyで聴く"
+                >
+                  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32" />
+                </a>
+              )}
             </div>
           )}
 

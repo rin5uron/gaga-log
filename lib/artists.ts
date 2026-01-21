@@ -12,8 +12,11 @@ export interface Artist {
   birthDate?: string;
   nationality?: string;
   genres?: string[];
+  musicStyle?: string;
   date?: string;
   updatedDate?: string;
+  appleMusicUrl?: string;
+  spotifyUrl?: string;
   content: string;
 }
 
@@ -43,8 +46,11 @@ export function getArtistBySlug(slug: string): Artist | null {
       birthDate: data.birthDate,
       nationality: data.nationality,
       genres: data.genres,
+      musicStyle: data.musicStyle,
       date: data.date,
       updatedDate: data.updatedDate || data.date,
+      appleMusicUrl: data.appleMusicUrl,
+      spotifyUrl: data.spotifyUrl,
       content,
     };
   } catch (error) {

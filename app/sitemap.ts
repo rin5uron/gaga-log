@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts, getAllArtists, getArtistSlug } from '@/lib/posts';
+import { getAllArtistProfiles } from '@/lib/artists';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://sound-feels.com';
@@ -36,19 +37,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
   const postPages = posts.map((post) => ({
     url: `${baseUrl}/posts/${post.slug}`,
-    lastModified: new Date(post.date),
+    lastModified: new Date(post.updatedDate || post.date),
     changeFrequency: 'weekly' as const,
     priority: 0.9,
   }));
 
-  // アーティストページ
-  const artists = getAllArtists();
-  const artistPages = artists.map((artist) => ({
-    url: `${baseUrl}/artists/${getArtistSlug(artist)}`,
-    lastModified: new Date(),
+  // アーティストページ（プロファイルページがある場合はそれを使用、ない場合は記事から抽出）
+  const artistProfiles = getAllArtistProfiles();
+  const artistPagesFromProfiles = artistProfiles.map((artist) => ({
+    url: `${baseUrl}/artists/${artist.slug}`,
+    lastModified: new Date(artist.updatedDate || artist.date || new Date()),
     changeFrequency: 'weekly' as const,
     priority: 0.7,
   }));
 
-  return [...staticPages, ...postPages, ...artistPages];
+  // 記事から抽出したアーティスト名で、プロファイルページがないものも追加
+  const artistsFromPosts = getAllArtists();
+  const existingSlugs = new Set(artistProfiles.map((a) => getArtistSlug(a.name)));
+  const additionalArtistPages = artistsFromPosts
+    .filter((artist) => !existingSlugs.has(getArtistSlug(artist)))
+    .map((artist) => ({
+      url: `${baseUrl}/artists/${getArtistSlug(artist)}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }));
+
+  return [...staticPages, ...postPages, ...artistPagesFromProfiles, ...additionalArtistPages];
 }

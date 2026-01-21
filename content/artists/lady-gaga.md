@@ -3,28 +3,22 @@ name: "Lady Gaga"
 birthDate: "1986年3月28日"
 nationality: "アメリカ"
 type: "artist"
-createdDate: "2026-01-20"
+musicStyle: "ジャンルの壁を超えるアートポップ"
+date: "2026-01-20"
+updatedDate: "2026-01-20"
+appleMusicUrl: "https://music.apple.com/jp/artist/lady-gaga/277293880"
+spotifyUrl: "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
 ---
 
-<!-- 基本情報（グレー枠） -->
-<div style="background-color: #f3f4f6; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 2rem;">
-  <p style="margin: 0.5rem 0;"><strong>生年月日:</strong> 1986年3月28日</p>
-  <p style="margin: 0.5rem 0;"><strong>国籍:</strong> アメリカ</p>
-  <p style="margin: 0.5rem 0;"><strong>音楽スタイル:</strong> ジャンルの壁を超えるアートポップ</p>
-</div>
 
 
+## 強い女の象徴——ガガのスタンス
 
-## 「肉のドレス」から見るガガのアート性
+**中学時代からの強い女の象徴。セクシーさを求められたら、それを強烈な個性持って返す。**
 
-**2010年のMTVビデオ・ミュージック・アワード(VMA)で、レディー・ガガは生肉でできたドレスを着て登場した。**
+ガガの音楽は、単なるポップソングを超えて、アートとしての表現力を持つ。恋に壊れ、仮面を被り、それでも私は私——そんな旅路を、音楽を通じて描いている。
 
-このドレスは、単なる奇抜なファッションではない。ガガは「私は肉だと思われたくない」というメッセージを込めた——つまり、有名人として「消費される対象」ではなく、「アーティスト」として見てほしいという声明だった。
-
-この事件以降、ガガのファッションは常に「メッセージ」として機能している。彼女にとって、すべてはアートだ。音楽も、ファッションも、パフォーマンスも——すべてが一つの作品として存在している。
-
-**参考:**
-- [2010 MTV Video Music Awards - Wikipedia](https://en.wikipedia.org/wiki/2010_MTV_Video_Music_Awards)
+大人になって聞くと、また違って聞こえる。それがガガの音楽の良さだ。
 
 ---
 
@@ -32,7 +26,7 @@ createdDate: "2026-01-20"
 
 ## スーパーボウルのハーフタイムショー——なぜ世界が熱狂したのか
 
-**2017年、ガガは第51回スーパーボウルのハーフタイムショーに出演した。**
+**2017年、ガガは[第51回スーパーボウルのハーフタイムショー](https://en.wikipedia.org/wiki/Super_Bowl_LI_halftime_show)に出演した。**
 
 このパフォーマンスは、アメリカで1億1700万人以上が視聴し、世界中で話題となった。ガガは、屋根から飛び降り、ワイヤーアクションで宙を舞い、13分間ノンストップで踊り続けた。
 
@@ -40,20 +34,21 @@ createdDate: "2026-01-20"
 
 スーパーボウルのハーフタイムショーは、アメリカで最も注目されるパフォーマンスの一つ。ガガは、そこで自分の信念を貫いた。
 
-**参考:**
-- [Super Bowl LI halftime show - Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_LI_halftime_show)
-
 ---
 
 
 
-## 私にとってのガガ
+## 「肉のドレス」から見るガガのアート性
 
-中学時代からの強い女の象徴。セクシーさを求められたら、それを強烈な個性持って返す。そのスタンスが今の自分にとって、とても共感できる。
+**2010年の[MTVビデオ・ミュージック・アワード(VMA)](https://en.wikipedia.org/wiki/2010_MTV_Video_Music_Awards)で、レディー・ガガは生肉でできたドレスを着て登場した。**
 
-ガガの音楽は、単なるポップソングを超えて、アートとしての表現力を持つ。恋に壊れ、仮面を被り、それでも私は私——そんな旅路を、音楽を通じて描いている。
+このドレスは、単なる奇抜なファッションではない。ガガは「私は肉だと思われたくない」というメッセージを込めた——つまり、有名人として「消費される対象」ではなく、「アーティスト」として見てほしいという声明だった。
 
-大人になって聞くと、また違って聞こえる。それがガガの音楽の良さだ。
+この事件以降、ガガのファッションは常に「メッセージ」として機能している。彼女にとって、すべてはアートだ。音楽も、ファッションも、パフォーマンスも——すべてが一つの作品として存在している。
+
+---
+
+
 
 ---
 
@@ -91,8 +86,6 @@ createdDate: "2026-01-20"
 - [公式サイト](https://www.ladygaga.com/)
 - [Instagram](https://www.instagram.com/ladygaga/)
 - [YouTube](https://www.youtube.com/user/LadyGagaVEVO)
-- [Apple Music](https://music.apple.com/jp/artist/lady-gaga/277293880)
-- [Spotify](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms)
 - [Twitter/X](https://twitter.com/ladygaga)
 
 ---
