@@ -4,7 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「The A Team（ジ・エ�
 song: "The A Team"
 artist: "Ed Sheeran"
 date: "2025-12-30"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 13
 type: "song"
 keywords: ["The A Team", "ジ・エー・チーム", "Aチーム", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "ドラッグ", "Class A", "社会問題", "ホームレス", "Angel"]

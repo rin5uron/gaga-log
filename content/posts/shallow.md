@@ -5,7 +5,7 @@ artist: "Lady Gaga & Bradley Cooper"
 album: "A Star Is Born (Original Motion Picture Soundtrack)"
 year: "2018"
 date: "2025-12-28"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 6
 type: "song"
 highlights:
@@ -86,7 +86,15 @@ highlights:
 
 ---
 
+## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
+### "In the shallow, shallow"——問いかけるフレーズ
+
+> In the shallow, shallow
+
+このフレーズは、サビで繰り返される。浅瀬にいるままでいいの？と問いかけてくる。安全だけど、そこに本当の自分はいない。深い場所へ飛び込む勇気がなければ、本当の人生は始まらない。
+
+---
 
 ## Music Video <span class="section-subtitle">MV見どころ</span>
 
@@ -141,16 +149,6 @@ highlights:
 映画館で観た時、ミュージカルもガガも好きな私は、この曲に一瞬で引き込まれた。二人の声が交わる瞬間、涙が止まらなかった。それは、映画の物語に感動したからだけではなく、この曲が持つ普遍的なメッセージに心を打たれたからだと思う。
 
 「Shallow」を聴くたびに、私は自分の人生を振り返る。安全な場所に留まっていないか。本当にやりたいことから逃げていないか。この曲は、そんな問いかけを投げかけてくる。そして同時に、深い場所へ飛び込む勇気をくれる。
-
----
-
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
-
-### "In the shallow, shallow"——問いかけるフレーズ
-
-> In the shallow, shallow
-
-このフレーズは、サビで繰り返される。浅瀬にいるままでいいの？と問いかけてくる。安全だけど、そこに本当の自分はいない。深い場所へ飛び込む勇気がなければ、本当の人生は始まらない。
 
 ---
 
