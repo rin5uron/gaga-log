@@ -4,7 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Thinking Out Loud（シ
 song: "Thinking Out Loud"
 artist: "Ed Sheeran"
 date: "2025-12-30"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 11
 type: "song"
 keywords: ["Thinking Out Loud", "シンキング・アウト・ラウド", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "グラミー賞", "Brittany Cherry", "ダンス", "Amy Wadge", "Athina Andrelos"]
@@ -194,5 +194,18 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 今この曲を聴くと、あの夜のギターの音が蘇る人もいるだろう。誰かと過ごした静かな夜、誰かの声、誰かの温度——そんな記憶と一緒に、この曲は心に残り続ける。
 
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Thinking Out Loud - Official Music Video](https://www.youtube.com/watch?v=lp-EO5I60KA)
+
+### その他
+
+- [Thinking Out Loud - Apple Music](https://music.apple.com/us/album/thinking-out-loud/858518077?i=858518367)
+- [Thinking Out Loud - Spotify](https://open.spotify.com/track/46Ig2df5zCa132qPusb0iL)
 
 ---

@@ -3,7 +3,7 @@ title: "Gaga: Five Foot Two"
 work: "Gaga: Five Foot Two"
 artist: "Lady Gaga / Chris Moukarbel"
 date: "2025-12-28"
-updatedDate: "2026-01-09"
+updatedDate: "2026-01-21"
 order: 1
 type: "movie"
 relatedPosts: ["joanne"]
@@ -108,5 +108,13 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 ガガは、自分を責めろとは言っていない。「もっと軽やかに向き合っていい」と教えてくれているように感じた。
 
 東京ドームで彼女を見るとき、この作品のことを、きっと思い出す。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### その他
+
+- [Gaga: Five Foot Two - Netflix](https://www.netflix.com/title/80154688)
 
 ---

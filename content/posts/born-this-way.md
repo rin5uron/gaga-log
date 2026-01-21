@@ -3,7 +3,7 @@ title: "Born This Way"
 song: "Born This Way"
 artist: "Lady Gaga"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 20
 type: "song"
 relatedPosts: ["poker-face"]
@@ -135,5 +135,18 @@ MVの冒頭では、ガガが「新しい種族」の創造を宣言するシー
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Born This Way」は、自分自身を受け入れる勇気を与えてくれる曲。そして、その受容が、本当の自分を生きる方法になる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Born This Way - Official Music Video](https://www.youtube.com/watch?v=wV1FrqwZyKw)
+
+### その他
+
+- [Born This Way - Apple Music](https://music.apple.com/jp/album/born-this-way/1440818588?i=1440819037)
+- [Born This Way - Spotify](https://open.spotify.com/track/6aDiLgBJLbCXq2aBal26f3)
 
 ---

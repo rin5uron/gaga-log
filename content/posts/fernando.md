@@ -3,7 +3,7 @@ title: "Fernando"
 song: "Fernando"
 artist: "ABBA"
 date: "2026-01-07"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 25
 type: "song"
 ---
@@ -141,5 +141,18 @@ Lady Gagaの[「Alejandro」](/posts/alejandro)は、この「Fernando」から�
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Fernando」は、時代を超えて色あせない友情の歌。そして、失われた時代への深い郷愁を、美しいメロディに乗せて届けてくれる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Fernando - Official Music Video](https://www.youtube.com/watch?v=dQsjAbZDx-4)
+
+### その他
+
+- [Fernando - Apple Music](https://music.apple.com/jp/album/fernando/1422648512?i=1422648770)
+- [Fernando - Spotify](https://open.spotify.com/track/5wl9SpfvI6gUaAYvfQfFSA)
 
 ---

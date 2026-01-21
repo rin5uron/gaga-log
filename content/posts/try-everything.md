@@ -4,7 +4,7 @@ description: "ズートピアの主題歌「トライエブリシング（Try Ev
 song: "Try Everything"
 artist: "Shakira"
 date: "2025-12-30"
-updatedDate: "2026-01-10"
+updatedDate: "2026-01-21"
 order: 10
 type: "song"
 keywords: ["Try Everything", "トライエブリシング", "意味", "ズートピア", "主題歌", "ポイント", "歌", "シャキーラ", "Shakira"]
@@ -147,5 +147,18 @@ Shakiraのレコーディング風景も挿入されていて、彼女がこの�
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Try Everything」は、失敗を恐れずに、何度でも立ち上がる勇気を与えてくれる曲。そして、ズートピアという映画が、何年経っても色褪せない理由の一つが、この曲にあると思う。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Try Everything - Official Music Video](https://www.youtube.com/watch?v=c6rP-YP4c5I)
+
+### その他
+
+- [Try Everything - Apple Music](https://music.apple.com/us/album/try-everything-from-zootopia/1445003313?i=1445003400)
+- [Try Everything - Spotify](https://open.spotify.com/track/0P3oVJBFOv3TDXlYRhGL7s)
 
 ---

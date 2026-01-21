@@ -3,7 +3,7 @@ title: "Hips Don't Lie"
 song: "Hips Don't Lie"
 artist: "Shakira feat. Wyclef Jean"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 24
 type: "song"
 ---
@@ -112,5 +112,18 @@ MVの中で印象的なのは、金色の衣装と赤い背景の組み合わせ
 それは、この曲が「流行」ではなく「リズム」で成り立っているから。リズムは時代を超える。
 
 大人になって聴くと、また違って聞こえる。それがこの曲の良さだ。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Hips Don't Lie - Official Music Video](https://www.youtube.com/watch?v=DUT5rEU6pqM)
+
+### その他
+
+- [Hips Don't Lie - Apple Music](https://music.apple.com/jp/album/hips-dont-lie-feat-wyclef-jean/1445003313?i=1445003402)
+- [Hips Don't Lie - Spotify](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V)
 
 ---

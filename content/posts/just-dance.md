@@ -3,7 +3,7 @@ title: "Just Dance"
 song: "Just Dance"
 artist: "Lady Gaga"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 21
 type: "song"
 ---
@@ -130,5 +130,18 @@ MVの冒頭では、ガガがパーティー会場に到着するシーンから
 デビュー曲として、ガガの世界観を表現している。ポップで、キャッチーで、そして何より楽しい。
 
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Just Dance - Official Music Video](https://www.youtube.com/watch?v=2Abk1jAONjw)
+
+### その他
+
+- [Just Dance - Apple Music](https://music.apple.com/jp/album/just-dance-feat-colby-odonis/1440818588?i=1440818589)
+- [Just Dance - Spotify](https://open.spotify.com/track/1x2bVkD2Y5jFmTO3AZdsjU)
 
 ---

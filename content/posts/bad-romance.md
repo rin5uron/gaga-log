@@ -2,7 +2,7 @@
 title: "Bad Romance"
 artist: "Lady Gaga"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 18
 type: "song"
 relatedPosts: ["poker-face", "born-this-way"]
@@ -174,5 +174,18 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 
 「Bad Romance」は、恋に壊れる勇気を歌っている。そして、その壊れ方が美しいことを教えてくれる。
 大人になって聞くと、また違って聞こえる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Bad Romance - Official Music Video](https://www.youtube.com/watch?v=qrO4YZeyl0I)
+
+### その他
+
+- [Bad Romance - Apple Music](https://music.apple.com/jp/album/bad-romance/1440818588?i=1440818880)
+- [Bad Romance - Spotify](https://open.spotify.com/track/0SiywuOBRcynK0uKgwMoI)
 
 ---

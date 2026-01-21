@@ -3,7 +3,7 @@ title: "Thank U, Next"
 song: "Thank U, Next"
 artist: "Ariana Grande"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 23
 type: "song"
 ---
@@ -139,5 +139,18 @@ MVの冒頭では、アリアナが過去の恋愛経験を振り返るシーン
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Thank U, Next」は、過去の恋愛経験に感謝し、前へ進む勇気を与えてくれる曲。そして、その前向きさが、本当の自己受容を教えてくれる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Thank U, Next - Official Music Video](https://www.youtube.com/watch?v=gl1aHhXnN1k)
+
+### その他
+
+- [Thank U, Next - Apple Music](https://music.apple.com/jp/album/thank-u-next/1445003313?i=1445003401)
+- [Thank U, Next - Spotify](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ)
 
 ---

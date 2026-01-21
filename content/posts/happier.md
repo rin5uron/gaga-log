@@ -4,7 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Happier（ハピアー�
 song: "Happier"
 artist: "Ed Sheeran"
 date: "2025-12-30"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 12
 type: "song"
 keywords: ["Happier", "ハピアー", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "失恋", "別れ", "未練", "パペット", "Emil Nava"]
@@ -171,5 +171,18 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 優しい曲なのに、全然優しくない。
 
 「Happier」は、別れの後に一番聴いてはいけない曲かもしれない。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Happier - Official Music Video](https://www.youtube.com/watch?v=iWZmdoY1aTE)
+
+### その他
+
+- [Happier - Apple Music](https://music.apple.com/us/album/happier/1293950392?i=1293950575)
+- [Happier - Spotify](https://open.spotify.com/track/2dpaYNEQHiPtf1uViWPJTy)
 
 ---

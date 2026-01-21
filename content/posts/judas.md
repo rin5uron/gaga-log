@@ -3,7 +3,7 @@ title: "Judas"
 song: "Judas"
 artist: "Lady Gaga"
 date: "2025-12-30"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 8
 type: "song"
 ---
@@ -129,5 +129,18 @@ type: "song"
 「Judas」は、そんな葛藤を抱えたすべての人への、力強いメッセージだと思う。完璧である必要はない。善だけを選べなくてもいい。ユダに恋してしまう自分も、イエスを愛したい自分も、どちらも本当の自分だから。
 
 大人になればなるほど、この曲が響く理由がわかる。それがこの曲の良さだ。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Judas - Official Music Video](https://www.youtube.com/watch?v=wagn8Wrmzuc)
+
+### その他
+
+- [Judas - Apple Music](https://music.apple.com/jp/album/judas/1440818588?i=1440819036)
+- [Judas - Spotify](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3)
 
 ---

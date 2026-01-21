@@ -3,7 +3,7 @@ title: "Hey Girl"
 song: "Hey Girl"
 artist: "Lady Gaga feat. Florence + The Machine"
 date: "2025-12-27"
-updatedDate: "2026-01-05"
+updatedDate: "2026-01-21"
 order: 4
 type: "song"
 relatedPosts: ["joanne", "gaga-five-foot-two"]
@@ -120,5 +120,20 @@ relatedPosts: ["joanne", "gaga-five-foot-two"]
 - [Joanne](/posts/joanne) - 叔母へのトリビュート。
 - [Gaga: Five Foot Two](/posts/gaga-five-foot-two) - ガガの制作過程を追ったドキュメンタリー。
 - [他の楽曲を探す](/artists/lady-gaga)
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Hey Girl - Official Music Video](https://www.youtube.com/watch?v=i2sxw0K10wQ)
+
+### その他
+
+- [Hey Girl - Apple Music](https://music.apple.com/jp/search?term=Lady%20Gaga%20Hey%20Girl)
+- [Hey Girl - Spotify](https://open.spotify.com/search/Lady%20Gaga%20Hey%20Girl)
+
+---
 
 

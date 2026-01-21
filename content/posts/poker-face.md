@@ -3,7 +3,7 @@ title: "Poker Face"
 song: "Poker Face"
 artist: "Lady Gaga"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 19
 type: "song"
 relatedPosts: ["bad-romance", "born-this-way"]
@@ -124,5 +124,18 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Poker Face」は、仮面を被る勇気を与えてくれる曲。そして、その仮面が、本当の自分を守る方法になる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Poker Face - Official Music Video](https://www.youtube.com/watch?v=bESGLojNYSo)
+
+### その他
+
+- [Poker Face - Apple Music](https://music.apple.com/jp/album/poker-face/1440818588?i=1440818590)
+- [Poker Face - Spotify](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO)
 
 ---

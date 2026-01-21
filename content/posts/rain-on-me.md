@@ -5,7 +5,7 @@ artist: "Lady Gaga feat. Ariana Grande"
 album: "Chromatica"
 year: "2020"
 date: "2025-12-31"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 17
 type: "song"
 relatedPosts: ["telephone", "hey-girl"]
@@ -123,5 +123,18 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 ガガとアリアナの声が重なり合うコーラスを聴くたびに、自分も一緒に踊っている気分になる。
 
 そして、思う——少なくとも、生きている。それだけで十分だ、と。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Rain on Me - Official Music Video](https://www.youtube.com/watch?v=AoAm4om0wTs)
+
+### その他
+
+- [Rain on Me - Apple Music](https://music.apple.com/jp/album/rain-on-me-with-ariana-grande/1508326043?i=1508326386)
+- [Rain on Me - Spotify](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9)
 
 ---

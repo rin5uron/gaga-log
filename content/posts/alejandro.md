@@ -3,7 +3,7 @@ title: "Alejandro"
 song: "Alejandro"
 artist: "Lady Gaga"
 date: "2025-12-29"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 2
 type: "song"
 ---
@@ -119,5 +119,14 @@ type: "song"
 「Alejandro」は、愛したい気持ちと、自分の人生を守りたい気持ちの間で揺れる、とても苦しい歌。だからこそ、この曲は強くて、美しくて、少し悲しい。
 
 Netflixのドキュメンタリー「Gaga: Five Foot Two」では、キャリアが成功するほど恋愛がダメになっていく、と話すシーンが印象的。この映画の[リンク](/posts/gaga-five-foot-two)を付け、その話題も付け足しておく。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### その他
+
+- [Alejandro - Apple Music](Apple Music の曲リンク)
+- [Alejandro - Spotify](Spotify の曲リンク)
 
 ---

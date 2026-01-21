@@ -3,7 +3,7 @@ title: "Die With a Smile"
 song: "Die With a Smile"
 artist: "Lady Gaga / Bruno Mars"
 date: "2026-01-15"
-updatedDate: "2026-01-16"
+updatedDate: "2026-01-21"
 order: 1
 type: "song"
 description: "Lady Gaga×Bruno Mars「Die With a Smile」を徹底解説。一晩で完成した奇跡のコラボの裏側、グラミー賞受賞、Spotify史上最速10億回再生の理由、1970年代レトロMVの意味まで。"
@@ -218,5 +218,18 @@ Lady Gagaの他の作品では、[Shallow](/posts/shallow)で深い場所への�
 ### グラミー賞・評価
 - [レディー・ガガ＆ブルーノ・マーズ「Die With A Smile」が＜最優秀ポップ・パフォーマンス（デュオ/グループ）＞受賞 - Billboard JAPAN](https://www.billboard-japan.com/d_news/detail/145996) - 第67回グラミー賞受賞
 - [レディー・ガガ & ブルーノ・マーズのコラボ楽曲「Die With A Smile」がリリース - Universal Music](https://www.universal-music.co.jp/lady-gaga/news/2024-08-16/) - 公式リリース情報
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Die With a Smile - Official Music Video](https://www.youtube.com/watch?v=kPa7bsKwL-c)
+
+### その他
+
+- [Die With a Smile - Apple Music](https://music.apple.com/jp/album/die-with-a-smile-single/1762656730)
+- [Die With a Smile - Spotify](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
 
 ---

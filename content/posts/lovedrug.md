@@ -4,7 +4,7 @@ description: "Lady GagaのLovedrugの歌詞を徹底解説。恋愛依存をド�
 song: "LoveDrug"
 artist: "Lady Gaga"
 date: "2025-12-30"
-updatedDate: "2026-01-16"
+updatedDate: "2026-01-21"
 order: 9
 type: "song"
 keywords: ["lovedrug 歌詞", "レディーガガ lovedrug", "lovedrug 和訳", "lovedrug 意味", "lady gaga lovedrug", "レディーガガ 歌詞"]
@@ -159,5 +159,18 @@ Lovedrug は、
 「あなたもそうだったよね」と、静かに寄り添ってくれるような曲。
 
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [LoveDrug - Official Music Video](https://www.youtube.com/watch?v=rLH59aRkyQc)
+
+### その他
+
+- [LoveDrug - Apple Music](https://music.apple.com/us/song/lovedrug/1792667018)
+- [LoveDrug - Spotify](https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5)
 
 ---

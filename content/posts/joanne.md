@@ -3,7 +3,7 @@ title: "Joanne"
 song: "Joanne"
 artist: "Lady Gaga"
 date: "2025-12-30"
-updatedDate: "2026-01-05"
+updatedDate: "2026-01-21"
 order: 14
 type: "song"
 relatedPosts: ["gaga-five-foot-two"]
@@ -181,3 +181,18 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 会ったことのない人を愛することができる。名前を呼び続けることで、その人は生き続ける。
 
 「Joanne」——この曲は、静かに、でも確実に、心に残り続ける。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Joanne - Official Music Video](https://www.youtube.com/watch?v=gyZ71o9p26o)
+
+### その他
+
+- [Joanne - Apple Music](https://music.apple.com/jp/album/joanne/1440818588?i=1440818773)
+- [Joanne - Spotify](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6nal)
+
+---

@@ -3,7 +3,7 @@ title: "One Shot"
 work: "One Shot"
 artist: "Ed Sheeran"
 date: "2026-01-10"
-updatedDate: "2026-01-10"
+updatedDate: "2026-01-21"
 order: 26
 type: "movie"
 relatedPosts: ["perfect", "sing"]
@@ -134,5 +134,11 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
----
+## References <span class="section-subtitle">参考情報</span>
 
+### その他
+
+- [One Shot - Apple Music](https://music.apple.com/jp/album/one-shot/1293950392)
+- [One Shot - Spotify](https://open.spotify.com/album/1TqJg4X4)
+
+---

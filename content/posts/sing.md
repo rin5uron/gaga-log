@@ -4,7 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Sing（シング）」�
 song: "Sing"
 artist: "Ed Sheeran"
 date: "2026-01-10"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 27
 type: "song"
 keywords: ["Sing", "シング", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "歌詞", "意味", "和訳", "解説", "Pharrell Williams", "ファレル・ウィリアムス", "ONE SHOT", "ライブ", "パフォーマンス"]
@@ -147,6 +147,19 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Sing」は、みんなで歌う勇気を与えてくれる曲。そして、そのシンプルさが、本当の楽しさを教えてくれる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Sing - Official Music Video](https://www.youtube.com/watch?v=tlYcUqEPN58)
+
+### その他
+
+- [Sing - Apple Music](https://music.apple.com/jp/album/sing/1293950392?i=1293950393)
+- [Sing - Spotify](https://open.spotify.com/track/6Kjq1QC1VDTv68bCw0vqJz)
 
 ---
 

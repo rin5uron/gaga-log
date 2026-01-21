@@ -4,7 +4,7 @@ description: "エド・シーラン（Ed Sheeran）の「Perfect（パーフェ�
 song: "Perfect"
 artist: "Ed Sheeran"
 date: "2026-01-02"
-updatedDate: "2026-01-18"
+updatedDate: "2026-01-21"
 order: 22
 type: "song"
 keywords: ["Perfect", "パーフェクト", "Ed Sheeran", "エドシーラン", "エド・シーラン", "イギリス", "結婚式", "歌詞", "意味", "和訳", "解説", "プロポーズ", "チェリーシーボーン", "Cherry Seaborn", "復縁", "イビサ島"]
@@ -168,5 +168,18 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
 
 「Perfect」は、完璧じゃなくても、完璧な愛があることを教えてくれる曲。そして、そのシンプルさが、本当の愛を教えてくれる。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Perfect - Official Music Video](https://www.youtube.com/watch?v=2Vv-BfVoq4g)
+
+### その他
+
+- [Perfect - Apple Music](https://music.apple.com/jp/album/perfect/1293950392?i=1293950576)
+- [Perfect - Spotify](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
 
 ---

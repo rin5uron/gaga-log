@@ -3,7 +3,7 @@ title: "Replay"
 song: "Replay"
 artist: "Lady Gaga"
 date: "2025-12-28"
-updatedDate: "2026-01-17"
+updatedDate: "2026-01-21"
 order: 5
 type: "song"
 ---
@@ -188,5 +188,18 @@ PTSDという重いテーマを、ポップミュージックという形で表�
 傷跡が何度も再生される。でも、それでも生きていく。それが、この曲が伝えるメッセージなのかもしれない。ガガは、痛みから逃げずに、それを音楽という形で昇華している。その姿勢が、多くの人に勇気を与えている。
 
 この曲を聴くたびに、自分の痛みと向き合う勇気をもらえる。それが、「Replay」という楽曲の持つ力なのだと思う。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Replay - Official Music Video](https://www.youtube.com/watch?v=ZTwpCLZLdRs)
+
+### その他
+
+- [Replay - Apple Music](https://music.apple.com/jp/search?term=Lady%20Gaga%20Replay%20Chromatica)
+- [Replay - Spotify](https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd)
 
 ---
