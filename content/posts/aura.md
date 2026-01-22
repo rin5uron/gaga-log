@@ -1,17 +1,18 @@
 ---
-title: "Aura"
+title: "Aura - Lady Gaga 歌詞の意味と考察"
 song: "Aura"
 artist: "Lady Gaga"
 album: "ARTPOP"
 year: 2013
 date: "2025-12-30"
-updatedDate: "2026-01-20"
+updatedDate: "2026-01-22"
 order: 15
 type: "song"
 relatedPosts: ["bad-romance", "poker-face", "born-this-way"]
 highlights:
-  - ARTPOPアルバムのオープニングを飾る挑発的な一曲
+  - 元タイトル「Burqa」——名声のヴェールと本当の自分
   - Dance, Sex, Art, Pop, Tech——5つの要素が作るガガのオーラ
+  - 「仮面の下を見たいのか？」という挑発的な問いかけ
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -53,11 +54,29 @@ highlights:
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
 
+### "Do you wanna see me naked, lover?"——仮面の下を見たいのか？
+
+**曲の冒頭から、ガガは挑発的な問いかけをする。**
+
+> "Do you wanna see me naked, lover?
+> Do you wanna peek underneath the cover?"
+> （私の裸を見たい？ヴェールの下を覗きたい？）
+
+これは単なる性的な誘惑ではない。**「有名人としての仮面を剥ぎたいのか？」という問いだ。**
+
+人々は、Lady Gagaの「オーラ」——つまり、派手な衣装、パフォーマンス、キャラクター——の向こう側にいる本当のStefani Germanotta（本名）を見たがる。でも、その「本当の私」を見せることは、果たして彼女を解放するのか？それとも、さらに傷つけるのか？
+
+---
+
 ### Dance, Sex, Art, Pop, Tech——5つの要素が作るガガ
 
-**この曲の中で繰り返されるフレーズがある。**
+**サビで繰り返されるフレーズがある。**
 
-**Dance（ダンス）**、**Sex（セックス）**、**Art（アート）**、**Pop（ポップ）**、**Tech（テック）**——この5つの言葉。これは、Lady Gagaというアーティストを構成する要素の宣言だ。
+> "I'm not a wandering slave, I am a woman of choice
+> My choice is you but you don't have a clue
+> Dance, sex, art, pop, tech"
+
+**Dance（ダンス）**、**Sex（セックス）**、**Art（アート）**、**Pop（ポップ）**、**Tech（テック）**——この5つの言葉が、Lady Gagaというアーティストを構成する。
 
 - **Dance**: 身体表現、動き、パフォーマンス。ガガの音楽は常に身体と結びついている
 - **Sex**: 性行為そのものではなく、セクシュアリティ、性的表現の自由、タブーへの挑戦
@@ -65,7 +84,7 @@ highlights:
 - **Pop**: 大衆音楽。でも、ガガのポップはアートとポップの境界を壊す
 - **Tech**: テクノロジー。この曲は、ARTPOP用のアプリ開発に合わせて書かれた
 
-この5つが、ガガの「オーラ」を形作っている。
+**「私は選ぶ女性だ」**という宣言。奴隷ではなく、自分で選択する。でも、その選択は理解されない——"you don't have a clue"。ガガの本質を、誰も本当には理解していない。
 
 ---
 

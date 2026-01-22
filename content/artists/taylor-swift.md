@@ -12,6 +12,18 @@ spotifyUrl: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
 
 
 
+## 「Folklore」と「Evermore」——パンデミック中に生まれた2枚の傑作
+
+**2020年、テイラースウィフトはパンデミックの最中、わずか数ヶ月で2枚のアルバム「[Folklore](https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album))」と「[Evermore](https://en.wikipedia.org/wiki/Evermore_(Taylor_Swift_album))」をリリースした。**
+
+これらのアルバムは、テイラースウィフトの音楽的進化の新たな段階を示している。カントリーポップからポップへ、そして今度はフォークやオルタナティブロックへ——彼女は常に新しい挑戦を続けている。
+
+「Folklore」と「Evermore」では、テイラースウィフトがこれまで以上に物語性を重視した楽曲を制作。架空のキャラクターや過去の記憶をテーマにした曲が多く、リスナーはまるで小説を読むように、曲の世界に没入できる。
+
+この2枚のアルバムは、グラミー賞で「Folklore」が最優秀アルバム賞を受賞するなど、批評家からも高い評価を受けた。
+
+---
+
 ## 物語を語る力——テイラースウィフトの魅力
 
 **テイラースウィフトの音楽は、常に「物語」を語っている。**
@@ -26,8 +38,6 @@ spotifyUrl: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
 
 ---
 
-
-
 ## 「Taylor's Version」——自分の音楽を取り戻す戦い
 
 **2019年、テイラースウィフトは過去のアルバムのマスターレコーディングの所有権をめぐる問題に直面した。彼女は、過去のアルバムを再録音し、「Taylor's Version」としてリリースすることを発表。これは、アーティストが自分の作品の権利を取り戻すための、前例のない取り組みだった。**
@@ -35,12 +45,6 @@ spotifyUrl: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
 「Taylor's Version」シリーズでは、オリジナルに加えて「From The Vault」トラック（当時未発表だった曲）も収録。ファンは、過去のアルバムを新しい視点で楽しむことができるようになった。
 
 この取り組みは、音楽業界におけるアーティストの権利について、重要な議論を引き起こした。テイラースウィフトは、自分の音楽を自分の手に取り戻すことで、アーティストの権利の重要性を示した。
-
----
-
-
-
-## 「Folklore」と「Evermore」——パンデミック中に生まれた2枚の傑作
 
 **2020年、テイラースウィフトはパンデミックの最中、わずか数ヶ月で2枚のアルバム「[Folklore](https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album))」と「[Evermore](https://en.wikipedia.org/wiki/Evermore_(Taylor_Swift_album))」をリリースした。**
 

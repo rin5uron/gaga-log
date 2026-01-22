@@ -1,13 +1,18 @@
 ---
-title: "Bad Romance"
+title: "Bad Romance - Lady Gaga 歌詞の意味と考察"
+song: "Bad Romance"
 artist: "Lady Gaga"
+album: "The Fame Monster"
+year: 2009
 date: "2026-01-02"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-22"
 order: 18
 type: "song"
-relatedPosts: ["poker-face", "born-this-way"]
-description: "Lady Gaga「Bad Romance」のタイトルに隠された3つの意味とMVの棺桶シーンが示す死と再生、白と赤の色の象徴性を徹底考察。海外サイトが読み解く音楽業界批判のメタファーも日本語で解説。"
-keywords: ["Bad Romance", "バッドロマンス", "タイトル", "意味", "なぜ", "MV", "棺桶", "Monster", "白", "赤", "ファッション", "Vigilant Citizen", "日本語", "考察", "Lady Gaga"]
+relatedPosts: ["poker-face", "born-this-way", "paparazzi"]
+highlights:
+  - 「Bad」の多層性——「悪い恋」でも「最高の恋」でもある
+  - 棺桶から蘇るシーン——死と再生、恋愛による自己の変容
+  - 「I want your ugly, I want your disease」——破壊的な愛の渇望
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

@@ -24,7 +24,17 @@ spotifyUrl: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
 
 ---
 
+## 壮大な感情表現——Florence + The Machineの魅力
 
+**Florence + The Machineの最大の魅力は、その壮大で感情的なサウンドと、Florence Welchの圧倒的なボーカル。**
+
+ハープやストリングスを多用したバロック・ポップのサウンドは、クラシカルでありながら現代的。詩的な歌詞は、愛、喪失、自然、神話をテーマにした抽象的な世界を描く。
+
+Welchの力強い歌唱は、感情をストレートに表現し、聴く者の心を揺さぶる。幻想的で自由なスタイルも魅力的だ。
+
+**壮大さと繊細さ。** それがFlorence + The Machineの魅力だ。
+
+---
 
 ## Florence Welchの独特な世界観——幻想的で自由なスタイル
 
@@ -35,12 +45,6 @@ spotifyUrl: "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
 彼女の歌詞は、愛、喪失、自然、神話をテーマにした詩的な世界を描く。クラシカルな文学やシェイクスピアからの影響も感じられる。
 
 また、Welchはメンタルヘルスやアルコール依存症との闘いについて公にしており、その経験が音楽制作に大きな影響を与えている。特にアルバム『High as Hope』(2018年)は、回復と自己受容をテーマにした作品として知られている。[Florence Welchのインタビュー](https://www.theguardian.com/music/florence-welch)では、その経験が詳しく語られている。
-
----
-
-
-
-## 壮大な感情表現——Florence + The Machineの魅力
 
 **Florence + The Machineの最大の魅力は、その壮大で感情的なサウンドと、Florence Welchの圧倒的なボーカル。**
 

@@ -1,14 +1,18 @@
 ---
-title: "LoveDrug"
-description: "Lady GagaのLovedrugの歌詞を徹底解説。恋愛依存をドラッグに例えた深い歌詞の意味、ダークで美しいサウンド、Joanneアルバムでの位置づけまで。"
+title: "LoveDrug - Lady Gaga 歌詞の意味と考察"
 song: "LoveDrug"
 artist: "Lady Gaga"
+album: "MAYHEM"
+year: 2025
 date: "2025-12-30"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-22"
 order: 9
 type: "song"
-keywords: ["lovedrug 歌詞", "レディーガガ lovedrug", "lovedrug 和訳", "lovedrug 意味", "lady gaga lovedrug", "レディーガガ 歌詞"]
 relatedPosts: ["bad-romance", "aura", "joanne"]
+highlights:
+  - 「あなたの愛の薬 (your love drug)」——愛を中毒として描く
+  - 80年代アリーナロックとエレクトロポップの融合サウンド
+  - 「離れられない愛」の苦しさを静かに受け入れる曲
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

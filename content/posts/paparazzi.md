@@ -1,17 +1,18 @@
 ---
-title: "Paparazzi"
+title: "Paparazzi - Lady Gaga 歌詞の意味と考察"
 song: "Paparazzi"
 artist: "Lady Gaga"
 album: "The Fame"
-year: "2009"
+year: 2009
 date: "2026-01-18"
-updatedDate: "2026-01-20"
+updatedDate: "2026-01-22"
 order: 20
 type: "song"
-relatedPosts: ["telephone"]
+relatedPosts: ["telephone", "bad-romance"]
 highlights:
-  - 「Paparazzi」というタイトルに隠された意図
-  - 衝撃のMVが描く、名声とメディアの関係
+  - 「I'm your biggest fan」——ファンか、ストーカーか、名声への執着か
+  - 衝撃のMV——殺人と復讐、名声のために何でもする覚悟
+  - SNS時代にも通じる、「認められたい」という普遍的な欲望
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

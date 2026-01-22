@@ -1,11 +1,18 @@
 ---
-title: "Alejandro"
+title: "Alejandro - Lady Gaga 歌詞の意味と考察"
 song: "Alejandro"
 artist: "Lady Gaga"
+album: "The Fame Monster"
+year: 2009
 date: "2025-12-29"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-22"
 order: 2
 type: "song"
+relatedPosts: ["bad-romance", "poker-face", "paparazzi"]
+highlights:
+  - Alejandro、Fernando、Roberto——三つの名前が象徴する「男性像」
+  - 「Don't call my name」——愛したいけど愛せない葛藤
+  - ABBAの影響を受けた、ダークでドラマティックなポップサウンド
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

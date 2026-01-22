@@ -1,10 +1,20 @@
 import { getAllPosts, getAllArtists } from "@/lib/posts";
+import { getAllArtistProfiles } from "@/lib/artists";
+import { getArtistSlug } from "@/lib/utils";
 import PostList from "@/components/PostList";
 import AdSenseUnit from "@/components/AdSenseUnit";
 
 export default function Home() {
   const posts = getAllPosts();
-  const artists = getAllArtists();
+  const artistsFromPosts = getAllArtists();
+  
+  // 専用アーティストページ（content/artists/）からもアーティスト名を取得
+  const artistProfiles = getAllArtistProfiles();
+  const artistsFromProfiles = artistProfiles.map((profile) => profile.name);
+  
+  // 両方をマージして重複を除去
+  const allArtistsSet = new Set([...artistsFromPosts, ...artistsFromProfiles]);
+  const artists = Array.from(allArtistsSet).sort();
 
   return (
     <div className="min-h-screen bg-white">
