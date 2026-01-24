@@ -1,11 +1,18 @@
 ---
-title: "Judas"
+title: "Judas - Lady Gaga 歌詞の意味と考察"
 song: "Judas"
 artist: "Lady Gaga"
+album: "Born This Way"
+year: 2011
 date: "2025-12-30"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-23"
 order: 8
 type: "song"
+relatedPosts: ["born-this-way", "bad-romance", "alejandro"]
+highlights:
+  - 「I'm in love with Judas」——悪いとわかっているのに惹かれてしまう葛藤
+  - 聖書のユダをモチーフに、自己破壊的な恋愛パターンを描く
+  - 善と悪、光と闇——自分の内なる闇を受け入れることで前に進む
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

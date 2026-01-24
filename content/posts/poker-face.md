@@ -1,12 +1,18 @@
 ---
-title: "Poker Face"
+title: "Poker Face - Lady Gaga 歌詞の意味と考察"
 song: "Poker Face"
 artist: "Lady Gaga"
+album: "The Fame"
+year: 2008
 date: "2026-01-02"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-23"
 order: 19
 type: "song"
-relatedPosts: ["bad-romance", "born-this-way"]
+relatedPosts: ["bad-romance", "born-this-way", "just-dance"]
+highlights:
+  - 「P-p-p-poker face」——本当の感情を隠す、言葉にならない葛藤
+  - ポーカー用語に隠された二重の意味（恋愛とゲーム）
+  - 世界的ヒット、Billboard Hot 100で1位を記録
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
