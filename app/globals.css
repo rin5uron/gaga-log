@@ -456,21 +456,42 @@ body {
   margin: 2rem 0;
 }
 
+.setlist-container h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #3b82f6;
+}
+
+.setlist-container h4:first-child {
+  margin-top: 0;
+}
+
+.setlist-container h4 a {
+  color: #3b82f6;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 400;
+  margin-left: 0.5rem;
+}
+
+.setlist-container h4 a:hover {
+  text-decoration: underline;
+}
+
 .setlist-act {
   margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .setlist-act:last-child {
   margin-bottom: 0;
-}
-
-.setlist-act-title {
-  font-size: 1.125rem;
-  font-weight: 700;
-  color: #111827;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #3b82f6;
+  padding-bottom: 0;
+  border-bottom: none;
 }
 
 .setlist-song {
@@ -480,6 +501,7 @@ body {
   margin-bottom: 0.5rem;
   color: #374151;
   line-height: 1.6;
+  font-weight: 400;
 }
 
 .setlist-song:last-child {
@@ -505,6 +527,11 @@ body {
   font-weight: 700;
   color: #1e40af;
   margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+
+.setlist-features h4:first-child {
+  margin-top: 0;
 }
 
 .setlist-features ul {
@@ -523,6 +550,182 @@ body {
 
 .setlist-features strong {
   color: #1e40af;
+}
+
+/* 日本公演情報カード */
+.japan-tour-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.japan-tour-card h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.japan-tour-card h4:first-child {
+  margin-top: 0;
+}
+
+.japan-tour-card ul {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.japan-tour-card li {
+  margin-bottom: 0.5rem;
+  color: #374151;
+}
+
+.news-update {
+  background-color: #fef3c7;
+  border-left: 4px solid #f59e0b;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+.news-update strong {
+  color: #92400e;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.news-update ul {
+  margin: 0.5rem 0 0 0;
+  padding-left: 1.5rem;
+}
+
+.news-update li {
+  margin-bottom: 0.25rem;
+  color: #374151;
+}
+
+/* 5つのアクトハイライト */
+.act-highlights {
+  margin: 1.5rem 0;
+}
+
+.act-highlights h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.act-highlights h4:first-child {
+  margin-top: 0;
+}
+
+.act-highlights h4 strong {
+  color: #3b82f6;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+.act-highlights p {
+  margin: 0.5rem 0 0 0;
+  color: #374151;
+  line-height: 1.6;
+}
+
+/* 日本公演情報カード */
+.japan-tour-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.japan-tour-card h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.japan-tour-card h4:first-child {
+  margin-top: 0;
+}
+
+.japan-tour-card ul {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.japan-tour-card li {
+  margin-bottom: 0.5rem;
+  color: #374151;
+}
+
+.news-update {
+  background-color: #fef3c7;
+  border-left: 4px solid #f59e0b;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+.news-update strong {
+  color: #92400e;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.news-update ul {
+  margin: 0.5rem 0 0 0;
+  padding-left: 1.5rem;
+}
+
+.news-update li {
+  margin-bottom: 0.25rem;
+  color: #374151;
+}
+
+/* 5つのアクトハイライト */
+.act-highlights {
+  margin: 1.5rem 0;
+}
+
+.act-highlights h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.act-highlights h4:first-child {
+  margin-top: 0;
+}
+
+.act-highlights h4 strong {
+  color: #3b82f6;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+.act-highlights p {
+  margin: 0.5rem 0 0 0;
+  color: #374151;
+  line-height: 1.6;
 }
 
 /* レスポンシブ対応 */
@@ -544,7 +747,15 @@ body {
     padding: 1rem;
   }
   
-  .setlist-act-title {
+  .setlist-container h4 {
+    font-size: 1rem;
+  }
+  
+  .japan-tour-card {
+    padding: 1rem;
+  }
+  
+  .act-highlights h4 {
     font-size: 1rem;
   }
 }

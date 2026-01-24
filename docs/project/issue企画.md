@@ -23,7 +23,42 @@
 
 ---
 
-## Issue作成タイミング
+## Issue作成方法
+
+### GitHub CLIを使用（推奨）
+
+**基本的な使い方**:
+```bash
+# テンプレートファイルから作成
+gh issue create --title "[タイプ] タイトル" --body-file .github/ISSUE_TEMPLATE/issues/xxx.md
+
+# ラベルを追加（ラベルが存在する場合）
+gh issue create --title "[タイプ] タイトル" --body-file .github/ISSUE_TEMPLATE/issues/xxx.md --label "seo,content"
+
+# 直接本文を指定
+gh issue create --title "[タイプ] タイトル" --body "本文内容"
+```
+
+**テンプレートファイルの配置場所**:
+- `.github/ISSUE_TEMPLATE/issues/` ディレクトリに配置
+- ファイル名は `記事名-improvement.md` などの形式
+
+**例**:
+```bash
+# MAYHEM Ballツアー記事の改善issue
+gh issue create --title "[ライブ] The MAYHEM Ball Tour - SEO最適化と構成改善" \
+  --body-file .github/ISSUE_TEMPLATE/issues/mayhem-ball-tour-improvement.md
+
+# LoveDrug記事の改善issue
+gh issue create --title "[楽曲] LoveDrug - SEO最適化とテンプレート準拠" \
+  --body-file .github/ISSUE_TEMPLATE/issues/lovedrug-seo-improvement.md
+```
+
+**注意**:
+- ラベルが存在しない場合は、後からGitHubのWeb UIで追加するか、`gh label create`で作成
+- テンプレートファイルは事前に作成しておく
+
+---
 
 ### 必ず作成するケース
 - 新規記事を作成する時
@@ -148,9 +183,17 @@
 ## Issue運用ガイドライン
 
 ### Issueを開く時
-1. テンプレートを使用
-2. ラベルを必ず設定
-3. 関連Issueがあればリンク
+1. **GitHub CLIを使用して作成**
+   ```bash
+   # テンプレートファイルから作成
+   gh issue create --title "[タイプ] タイトル" --body-file .github/ISSUE_TEMPLATE/issues/xxx.md --label "ラベル1,ラベル2"
+   
+   # または直接本文を指定
+   gh issue create --title "[タイプ] タイトル" --body "本文" --label "ラベル1,ラベル2"
+   ```
+2. テンプレートを使用
+3. ラベルを必ず設定（ラベルが存在しない場合は後から追加）
+4. 関連Issueがあればリンク
 
 ### Issue進行中
 1. 進捗をコメントで報告
@@ -181,5 +224,7 @@
 
 ## 参考リンク
 - `.github/ISSUE_TEMPLATE/` にテンプレート配置
+- `.github/ISSUE_TEMPLATE/issues/` に記録用issueのテンプレート配置
 - `docs/project/` にプロジェクト管理ドキュメント
 - `docs/seo/` にSEO戦略ドキュメント
+- **Issue作成**: GitHub CLI (`gh issue create`) を使用

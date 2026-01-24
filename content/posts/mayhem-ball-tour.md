@@ -10,8 +10,8 @@ description: "The MAYHEM Ball Tour 2025-2026のセトリ、日本公演情報、
 keywords: "レディーガガ, ガガ,ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演,予習"
 relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
 highlights:
-  - 日本公演情報　東京ドーム／京セラドーム
-  - The MAYHEM Ballセトリ特徴(過去セトリ情報も！)
+  - 東京ドーム／京セラドームを含む日本公演情報
+  - セットリストの特徴（初披露曲・久々の復活曲・構成の流れ）
   - スタジアムではなくアリーナを選んだ理由と演劇的構成
 ---
 
@@ -37,11 +37,13 @@ highlights:
 
 ## About <span class="section-subtitle">ツアー情報</span>
 
-### MAYHEMを体現した世界ツアー
-
 **The MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー。**
 
 「メイヘム（Mayhem）」とは和訳すると「大混乱」「騒動」等の意。アルバム『Mayhem』（2025年）のコンセプトを体現したツアーです。
+
+**「Ball」という名称について**
+
+「Ball」は一般的に舞踏会や大規模なイベントを指す言葉ですが、このツアーでは公式に明確な説明はありません。ガガはこのツアーを「演劇的で電撃的な体験」と表現しており、単なるコンサートではなく、一つの芸術作品として構成されています。
 
 **このツアーは、アルバム『Mayhem』のワールドツアーとして開催されます。**
 
@@ -55,9 +57,16 @@ highlights:
 
 **4年ぶりの来日公演が決定。自身初のドームツアー全6公演。**
 
+<div class="japan-tour-card">
+
 #### ニュース｜2026年1月23日 情報更新
 
-開演時間が変更になりました。最新情報は公式サイトでご確認ください。
+<div class="news-update">
+**開演時間が変更になりました。**最新情報は公式サイトでご確認ください。
+
+- **開場**: 17:00
+- **開演**: 1/26・1/29・1/30 → **18:45**
+</div>
 
 #### 京セラドーム大阪
 
@@ -70,6 +79,8 @@ highlights:
 - 2026年1月26日（月）開場17:00 / 開演18:45
 - 2026年1月29日（木）開場17:00 / 開演18:45
 - 2026年1月30日（金）開場17:00 / 開演18:45（追加公演）
+
+</div>
 
 [チケット情報はLive Nation公式サイトで](https://www.livenation.co.jp/)確認できる。
 
@@ -111,13 +122,15 @@ highlights:
 
 **このセットリストは、ツアー開幕日のラスベガス公演（2025年7月16日、T-Mobile Arena）で披露されたものです。**
 
-セットリストは公演ごとに変わる可能性があり、日本公演でも同様の構成が予想されますが、サプライズソングが追加される可能性があります。
+**セットリストは公演ごとに変わる可能性があります。**日本公演でも同様の構成が予想されますが、日替わり要素が追加される可能性があります。
 
 **情報の出典：** [setlist.fm - Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025)](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
 
 <div class="setlist-container">
 
-#### Act I: Of Velvet And Vice（ベルベットと悪徳の）
+#### Act I: Of Velvet And Vice（ベルベットと悪徳の）<a id="act-i" href="#highlights-acts"></a>
+
+**オープニングアクトの特徴：**ベルベットと悪徳をテーマにした、ダークで官能的な世界観。ツアーの基調を決定づける重要なアクト。
 
 <div class="setlist-act">
 <div class="setlist-song"><span class="setlist-song-number">1.</span> The Art of Personal Chaos（録音イントロ）</div>
@@ -128,7 +141,7 @@ highlights:
 <div class="setlist-song"><span class="setlist-song-number">6.</span> Scheiße（短縮版）</div>
 </div>
 
-#### Act II: And She Fell Into A Gothic Dream（そして彼女はゴシックな夢に堕ちた）
+#### Act II: And She Fell Into A Gothic Dream（そして彼女はゴシックな夢に堕ちた）<a id="act-ii" href="#highlights-acts"></a>
 
 <div class="setlist-act">
 <div class="setlist-song"><span class="setlist-song-number">7.</span> Garden of Eden（拡張オーケストラ・イントロ、ギター）</div>
@@ -136,10 +149,10 @@ highlights:
 <div class="setlist-song"><span class="setlist-song-number">9.</span> Abracadabra（Gesaffelstein Remix、録音ボールルームバトル）</div>
 <div class="setlist-song"><span class="setlist-song-number">10.</span> Perfect Celebrity（短縮版）</div>
 <div class="setlist-song"><span class="setlist-song-number">11.</span> Disease（拡張イントロ）</div>
-<div class="setlist-song"><span class="setlist-song-number">12.</span> [Paparazzi](/posts/paparazzi)（別バージョン、2014年以来ライブでフル披露）</div>
+<div class="setlist-song"><span class="setlist-song-number">12.</span> [Paparazzi](/posts/paparazzi)（2014年以来ライブでフル披露）</div>
 </div>
 
-#### Act III: The Beautiful Nightmare That Knows Her Name（彼女の名を知る美しい悪夢）
+#### Act III: The Beautiful Nightmare That Knows Her Name（彼女の名を知る美しい悪夢）<a id="act-iii" href="#highlights-acts"></a>
 
 <div class="setlist-act">
 <div class="setlist-song"><span class="setlist-song-number">13.</span> LoveGame（短縮版）</div>
@@ -149,10 +162,10 @@ highlights:
 <div class="setlist-song"><span class="setlist-song-number">17.</span> Zombieboy（拡張イントロ/アウトロ）</div>
 <div class="setlist-song"><span class="setlist-song-number">18.</span> [LoveDrug](/posts/lovedrug)（ライブ初披露）</div>
 <div class="setlist-song"><span class="setlist-song-number">19.</span> [Applause](/posts/applause)（短縮版、2020年以来ライブ初披露）</div>
-<div class="setlist-song"><span class="setlist-song-number">20.</span> [Just Dance](/posts/just-dance)（別バージョン）</div>
+<div class="setlist-song"><span class="setlist-song-number">20.</span> [Just Dance](/posts/just-dance)</div>
 </div>
 
-#### Act IV: Every Chessboard Has Two Queens（すべてのチェス盤には2人の女王がいる）
+#### Act IV: Every Chessboard Has Two Queens（すべてのチェス盤には2人の女王がいる）<a id="act-iv" href="#highlights-acts"></a>
 
 <div class="setlist-act">
 <div class="setlist-song"><span class="setlist-song-number">21.</span> Wake Her Up!（録音セグメント）</div>
@@ -162,11 +175,11 @@ highlights:
 <div class="setlist-song"><span class="setlist-song-number">25.</span> [Born This Way](/posts/born-this-way)（拡張イントロ）</div>
 </div>
 
-#### Finale: Eternal Aria Of The Monster Heart（モンスターの心の永遠のアリア）
+#### Finale: Eternal Aria Of The Monster Heart（モンスターの心の永遠のアリア）<a id="finale" href="#highlights-acts"></a>
 
 <div class="setlist-act">
 <div class="setlist-song"><span class="setlist-song-number">26.</span> [Million Reasons](/posts/million-reasons)（拡張イントロ）</div>
-<div class="setlist-song"><span class="setlist-song-number">27.</span> [Shallow](/posts/shallow)（別バージョン）</div>
+<div class="setlist-song"><span class="setlist-song-number">27.</span> [Shallow](/posts/shallow)</div>
 <div class="setlist-song"><span class="setlist-song-number">28.</span> [Die With a Smile](/posts/die-with-a-smile)（ソロ）</div>
 <div class="setlist-song"><span class="setlist-song-number">29.</span> Vanish Into You</div>
 <div class="setlist-song"><span class="setlist-song-number">30.</span> [Bad Romance](/posts/bad-romance)</div>
@@ -188,7 +201,9 @@ highlights:
 
 <div class="setlist-features">
 
-**このセットリストの特徴は、アルバム『Mayhem』の新曲と、過去の名曲をバランスよくブレンドしていること。**
+**このセットリストは、アルバム『Mayhem』の新曲と、過去の名曲をバランスよくブレンドしています。**
+
+**セットリストは公演ごとに変わる可能性があります。**以下は、ラスベガス公演での傾向です。
 
 #### 初披露曲
 
@@ -207,43 +222,46 @@ highlights:
 
 - **5つのアクト構成** - 演劇的な物語として構成
 - **オペラティック要素** - Bloody Mary、Poker Faceなど、オペラティックな演出が随所に
-- **別バージョン** - Just Dance、Paparazzi、Shallowなど、オリジナルとは異なるアレンジ
 
 </div>
 
 **ガガは、2025年9月にアルバム『Mayhem』のデジタル再リリースに追加された「The Dead Dance」をセットリストに加え、全30曲に拡張した（Act III終盤に追加）。**
 
-**また、2025年8月22日のマディソン・スクエア・ガーデン公演から、サプライズソングセグメントを導入している。**
+**また、2025年8月22日のマディソン・スクエア・ガーデン公演から、日替わり要素を導入している。**
 
 ---
 
 ## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
 
-### 演劇的構成——5つのアクトで語られる物語
+### 演劇的構成——5つのアクトで語られる物語 <span id="highlights-acts"></span>
 
 **このツアーの最大の特徴は、単なるコンサートではなく、演劇として構成されていること。**
 
 5つのアクトで構成されている。
 
+<div class="act-highlights">
+
 #### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
-ベルベットと悪徳をテーマにしたオープニングアクト。
+**オープニングアクト。**ベルベットと悪徳をテーマにした、ダークで官能的な世界観。ツアーの基調を決定づける重要なアクト。
 
 #### Act II: And She Fell Into A Gothic Dream（そして彼女はゴシックな夢に堕ちた）
 
-ゴシックな世界観を表現したアクト。
+**ゴシックな世界観を表現したアクト。**宗教的なモチーフとゴシックなビートが絡み合う、幻想的な演出。
 
 #### Act III: The Beautiful Nightmare That Knows Her Name（彼女の名を知る美しい悪夢）
 
-美しい悪夢をテーマにしたアクト。
+**美しい悪夢をテーマにしたアクト。**美しさと狂気が交錯する、ツアーの中盤のクライマックス。
 
 #### Act IV: Every Chessboard Has Two Queens（すべてのチェス盤には2人の女王がいる）
 
-チェス盤をモチーフにしたアクト。
+**チェス盤をモチーフにしたアクト。**戦略的で計算された演出が特徴。
 
 #### Finale: Eternal Aria Of The Monster Heart（モンスターの心の永遠のアリア）
 
-モンスターの心をテーマにしたフィナーレ。
+**モンスターの心をテーマにしたフィナーレ。**ツアーの集大成として、感情のすべてを表現する。
+
+</div>
 
 **それぞれが、独自のテーマと雰囲気を持っている。**
 
@@ -285,27 +303,33 @@ highlights:
 
 しかし、ガガとLive Nationのチームは、それを実現した。しかも、単にスケジュールを組んだだけではない。
 
-**このツアーは、短期間で組まれたにもかかわらず、細部までコントロールされた高品質なパフォーマンスを実現している。**
+**このツアーは、短期間で組まれたにもかかわらず、細部までコントロールされたハイクオリティなパフォーマンスを実現している。**
 
 この事実が示しているのは、情熱があれば、困難なことも実現できる可能性があるということ。ファンの声に応え、自分のビジョンを実現する——ガガの行動力が、このツアーを生んだ。
 
 **このツアーは、ガガが「妥協しないアーティスト」であることを改めて示している。**
 
-チケット収容人数よりも芸術的コントロール。効率よりも体験の質。短期間での実現と、高品質なパフォーマンスの両立——その姿勢が、ファンに質の高い体験を届ける。そして、それがガガの音楽が愛され続ける理由の一つだと考えられる。
+チケット収容人数よりも芸術的コントロール。効率よりも体験の質。短期間での実現と、ハイクオリティなパフォーマンスの両立——その姿勢が、ファンに質の高い体験を届ける。そして、それがガガの音楽が愛され続ける理由の一つだと考えられる。
 
 ---
 
 ## Japan Tour <span class="section-subtitle">日本公演の見どころ</span>
 
-**日本公演では、上記セットリストをベースに、日本限定のサプライズ演出がある可能性がある。**
+**日本公演では、上記セットリストをベースに、日本限定のサプライズ演出がある可能性があります。**
 
-過去のガガの来日公演では、日本のファンへの特別なメッセージや、日本語での挨拶が話題になった。The MAYHEM Ball日本公演でも、同様の演出が期待できる。
+過去のガガの来日公演では、日本のファンへの特別なメッセージや、日本語での挨拶が話題になりました。The MAYHEM Ball日本公演でも、同様の演出が期待できます。
 
-**また、ガガは2025年8月のマディソン・スクエア・ガーデン公演からサプライズソングセグメントを導入している。**
+**また、ガガは2025年8月のマディソン・スクエア・ガーデン公演から日替わり要素を導入しています。**
 
-日本公演でも、毎公演異なるサプライズ曲が披露される可能性がある。
+日本公演でも、毎公演異なるサプライズ曲が披露される可能性があります。行く前に公式情報とファンレポートを確認しておくと安心です。
 
 ---
+
+### ライブ当日の情報
+
+**会場導線、持ち物、物販、当日の流れは、公式案内に加えて、ファンブログ・レポまとめを事前にチェックしておくと安心です。**
+
+公式サイトで最新情報を確認し、当日の準備を整えましょう。
 
 ## References <span class="section-subtitle">参考情報</span>
 

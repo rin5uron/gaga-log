@@ -460,7 +460,15 @@ export default async function PostPage({
         <article className="prose prose-lg max-w-none">
           <header className="mb-4 not-prose">
             <h1 className="article-title text-3xl sm:text-4xl font-bold mb-3 leading-tight">
-              {post.title}
+              {post.title.includes("2025-2026") || post.title.includes("2025–2026") ? (
+                <>
+                  {post.title.replace(/\s*2025[–-]2026\s*/, "")}
+                  <br />
+                  <span className="text-2xl sm:text-3xl">2025–2026</span>
+                </>
+              ) : (
+                post.title
+              )}
             </h1>
 
             {/* 映像作品の画像 */}
@@ -482,7 +490,7 @@ export default async function PostPage({
             )}
 
             {/* ストリーミングリンク */}
-            {streamingLinks && (
+            {streamingLinks && !tourPoster && (
               <div
                 className="streaming-links mb-4 max-w-2xl flex gap-3"
                 dangerouslySetInnerHTML={{ __html: streamingLinks }}
@@ -563,11 +571,19 @@ export default async function PostPage({
                 dangerouslySetInnerHTML={{ __html: tourPoster }}
               />
             )}
+
+            {/* ストリーミングリンク（画像の下に配置） */}
+            {streamingLinks && (
+              <div
+                className="streaming-links mb-4 max-w-2xl flex gap-3"
+                dangerouslySetInnerHTML={{ __html: streamingLinks }}
+              />
+            )}
           </header>
 
-          {/* 「この記事でわかること」を目次の上に配置 */}
+          {/* 「この記事でわかること」を画像・サブスクの下に配置 */}
           {post.highlights && post.highlights.length > 0 && (
-            <div className="mt-0 mb-0">
+            <div className="mt-0 mb-6">
               <ArticleHighlights highlights={post.highlights} />
             </div>
           )}

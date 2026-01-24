@@ -42,6 +42,15 @@ export default function TableOfContents({ html }: { html: string }) {
       }
       if (referencesReached) return;
 
+      // H3の除外リスト（目次に出さないH3）
+      const excludedH3Texts = [
+        "MAYHEMを体現した世界ツアー",
+        "MAYHEMを体現した世界ツアー",
+      ];
+      if (parseInt(heading.tagName[1]) === 3 && excludedH3Texts.some(excluded => text.includes(excluded))) {
+        return;
+      }
+
       const id = `heading-${index}`;
       heading.id = id;
 
@@ -90,7 +99,7 @@ export default function TableOfContents({ html }: { html: string }) {
   }
 
   return (
-    <nav className="mb-0 overflow-hidden">
+    <nav className="mb-4 overflow-hidden">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="w-fit px-2 py-2 flex items-center justify-between gap-2 hover:bg-gray-100 transition-colors"
