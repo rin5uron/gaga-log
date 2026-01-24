@@ -447,6 +447,84 @@ body {
   line-height: 1.7;
 }
 
+/* セットリスト用スタイル */
+.setlist-container {
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.setlist-act {
+  margin-bottom: 1.5rem;
+}
+
+.setlist-act:last-child {
+  margin-bottom: 0;
+}
+
+.setlist-act-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #3b82f6;
+}
+
+.setlist-song {
+  padding: 0.5rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #94a3b8;
+  margin-bottom: 0.5rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.setlist-song:last-child {
+  margin-bottom: 0;
+}
+
+.setlist-song-number {
+  font-weight: 600;
+  color: #6b7280;
+  margin-right: 0.5rem;
+}
+
+.setlist-features {
+  background-color: #eff6ff;
+  border-left: 4px solid #3b82f6;
+  padding: 1.25rem;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.setlist-features h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #1e40af;
+  margin-bottom: 0.75rem;
+}
+
+.setlist-features ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.setlist-features li {
+  margin-bottom: 0.5rem;
+  color: #374151;
+}
+
+.setlist-features li:last-child {
+  margin-bottom: 0;
+}
+
+.setlist-features strong {
+  color: #1e40af;
+}
+
 /* レスポンシブ対応 */
 @media (max-width: 768px) {
   .comparison-box {
@@ -460,5 +538,13 @@ body {
   
   .fun-points h3 {
     font-size: 1.25rem;
+  }
+  
+  .setlist-container {
+    padding: 1rem;
+  }
+  
+  .setlist-act-title {
+    font-size: 1rem;
   }
 }
