@@ -1,14 +1,18 @@
 ---
-title: "The MAYHEM Ball"
+title: "The MAYHEM Ball Tour 2025-2026 完全ガイド｜セットリスト・日本公演情報"
 work: "The MAYHEM Ball"
 artist: "Lady Gaga"
 date: "2026-01-24"
 updatedDate: "2026-01-24"
 order: 2
 type: "live"
+description: "Lady Gaga The MAYHEM Ball Tour 2025-2026の完全セットリスト、東京ドーム・京セラドーム大阪公演情報、ツアー背景を徹底解説。33曲のセトリ、5つのアクト構成、初披露曲・復活曲も網羅。"
+keywords: "レディーガガ, ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演"
 relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
 highlights:
   - 2025年7月〜2026年4月、世界87公演のグローバルツアー
+  - 東京ドーム3公演、京セラドーム大阪2公演（2026年1月）
+  - 全33曲のセットリスト——初披露曲・18年ぶり復活曲も
   - アルバム『Mayhem』を完全に体現した演劇的・電撃的な体験
   - スタジアムではなくアリーナ——細部までコントロールされた芸術
 ---
@@ -24,9 +28,26 @@ highlights:
 
 ### MAYHEMを体現した世界ツアー
 
-**The MAYHEM Ballは、Lady Gagaの8番目のコンサートツアー。アルバム『Mayhem』（2025年）を支援するワールドツアーとして、2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕し、2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。**
+**The MAYHEM Ballは、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー。アルバム『Mayhem』（2025年）を支援するワールドツアーとして、2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕し、2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。**
 
 アジア、ヨーロッパ、北米、オセアニアを巡る全87公演のツアー。
+
+---
+
+### 日本公演情報（2026年1月）
+
+**4年ぶりの来日公演が決定！自身初のドームツアー全5公演。**
+
+#### 京セラドーム大阪
+- 2026年1月21日（水）19:00開演
+- 2026年1月22日（木）19:00開演
+
+#### 東京ドーム
+- 2026年1月25日（日）18:00開演
+- 2026年1月26日（月）19:00開演
+- 2026年1月29日（木）19:00開演
+
+[チケット情報はLive Nation公式サイトで](https://www.livenation.co.jp/)確認できる。
 
 ガガは、このツアーについてこう語っている。
 
@@ -64,9 +85,11 @@ highlights:
 
 ## Setlist <span class="section-subtitle">セットリスト</span>
 
-### オープニングナイト（2025年7月16日、ラスベガス）
+### オープニングナイト（2025年7月16日、ラスベガス）セトリ
 
 **全33曲、約2時間15分のパフォーマンス。**5つのアクトとアンコールで構成された演劇的なショー。
+
+日本公演（東京ドーム・京セラドーム大阪）でも同様の構成が予想されるが、サプライズソングが追加される可能性がある。
 
 #### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
@@ -220,16 +243,50 @@ highlights:
 
 
 
+## Japan Tour <span class="section-subtitle">日本公演の見どころ</span>
+
+### 東京ドーム・京セラドーム大阪で何が見られる？
+
+**日本公演では、上記セットリストをベースに、日本限定のサプライズ演出がある可能性が高い。**
+
+過去のガガの来日公演では、日本のファンへの特別なメッセージや、日本語での挨拶が話題になった。The MAYHEM Ball日本公演でも、同様の演出が期待できる。
+
+また、ガガは2025年8月のマディソン・スクエア・ガーデン公演からサプライズソングセグメントを導入している。日本公演でも、毎公演異なるサプライズ曲が披露される可能性がある。
+
+---
+
+### 日本公演の予習プレイリスト
+
+日本公演に向けて、セットリストに含まれる可能性が高い曲を聴いて予習するのがおすすめ。特に以下の曲は必聴：
+
+- **Bloody Mary** - オペラティック版で披露
+- **Bad Romance** - フィナーレの定番曲
+- **Poker Face** - 日本でも大ヒット
+- **Shallow** - 別バージョンで披露
+- **Born This Way** - 代表曲の一つ
+- **Judas** - ダークな演出
+- **Million Reasons** - 感動的なバラード
+
+[Spotifyの公式予習プレイリスト](https://open.spotify.com/playlist/1v0fLCJO4qNxthbzig8AJJ)も公開されている。
+
+---
+
+
+
 ## References <span class="section-subtitle">参考情報</span>
 
 ### 公式ツアー情報
 
 - [Lady Gaga - Live Nation](https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events)
+- [Lady Gaga: The MAYHEM Ball 日本公演 - Live Nation Japan](https://www.livenation.co.jp/event/lady-gaga-the-mayhem-ball-tokyo-tickets-edp1604097)
+- [Lady Gaga: The MAYHEM Ball 来日公演特設サイト](https://www.hipjpn.co.jp/live/ladygaga2026/en.html)
 
 ### セットリスト情報
 
 - [Lady Gaga Concert Setlists - setlist.fm](https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html)
 - [Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025) - setlist.fm](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
+- [The Mayhem Ball - Wikipedia](https://en.wikipedia.org/wiki/The_Mayhem_Ball)
+- [Setlists for The MAYHEM Ball - Gagapedia](https://ladygaga.fandom.com/wiki/The_Mayhem_Ball/Show/Setlist)
 
 ### ツアー詳細・背景
 
