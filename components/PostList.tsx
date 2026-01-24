@@ -195,37 +195,6 @@ export default function PostList({ posts, artists }: PostListProps) {
         </div>
       </div>
 
-      {/* カテゴリタブ */}
-      <div className="mb-6 border-b border-gray-200">
-        <div className="flex space-x-8">
-          {tabs.map((tab) => (
-            <button
-              key={tab.id}
-              onClick={() => {
-                setSelectedTab(tab.id);
-                setSelectedArtist(null); // タブ切り替え時にアーティストフィルタをリセット
-                setSearchQuery(""); // タブ切り替え時に検索クエリもリセット
-              }}
-              className={`pb-3 px-1 text-sm font-medium transition-colors relative ${
-                selectedTab === tab.id
-                  ? "text-black"
-                  : "text-gray-500 hover:text-gray-700"
-              }`}
-            >
-              {tab.label}
-              {tabCounts[tab.id] > 0 && (
-                <span className="ml-2 text-xs text-gray-400">
-                  ({tabCounts[tab.id]})
-                </span>
-              )}
-              {selectedTab === tab.id && (
-                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-black" />
-              )}
-            </button>
-          ))}
-        </div>
-      </div>
-
       {artists.length > 0 && (
         <div className="mb-8">
           <h2 className="text-sm font-semibold text-gray-700 mb-3">
@@ -258,6 +227,37 @@ export default function PostList({ posts, artists }: PostListProps) {
           </div>
         </div>
       )}
+
+      {/* カテゴリタブ */}
+      <div className="mb-6 border-b border-gray-200">
+        <div className="flex space-x-8">
+          {tabs.map((tab) => (
+            <button
+              key={tab.id}
+              onClick={() => {
+                setSelectedTab(tab.id);
+                setSelectedArtist(null); // タブ切り替え時にアーティストフィルタをリセット
+                setSearchQuery(""); // タブ切り替え時に検索クエリもリセット
+              }}
+              className={`pb-3 px-1 text-sm font-medium transition-colors relative ${
+                selectedTab === tab.id
+                  ? "text-black"
+                  : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              {tab.label}
+              {tabCounts[tab.id] > 0 && (
+                <span className="ml-2 text-xs text-gray-400">
+                  ({tabCounts[tab.id]})
+                </span>
+              )}
+              {selectedTab === tab.id && (
+                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-black" />
+              )}
+            </button>
+          ))}
+        </div>
+      </div>
 
       <div className="space-y-8">
         {filteredPosts.length === 0 ? (
