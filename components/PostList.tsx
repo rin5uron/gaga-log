@@ -67,14 +67,23 @@ function splitArtists(artistString: string): string[] {
     .filter((name) => name.length > 0);
 }
 
+type ContentType = "song" | "live" | "movie" | "other";
+
 export default function PostList({ posts, artists }: PostListProps) {
   const [selectedArtist, setSelectedArtist] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [showSuggestions, setShowSuggestions] = useState<boolean>(false);
+  const [selectedTab, setSelectedTab] = useState<ContentType>("song");
 
-  // 検索機能：タイトル、アーティスト名、曲名で検索
+  // 検索機能：タイトル、アーティスト名、曲名で検索 + タブフィルタ
   const filteredPosts = useMemo(() => {
     return posts.filter((post) => {
+      // タブフィルタ（type フィールドで絞り込み）
+      const postType = post.type || "other";
+      if (postType !== selectedTab) {
+        return false;
+      }
+
       // アーティストフィルタ（コラボ曲にも対応）
       let artistMatch = true;
       if (selectedArtist && post.artist) {
@@ -91,7 +100,7 @@ export default function PostList({ posts, artists }: PostListProps) {
 
       const normalizedQuery = normalizeForSearch(searchQuery);
       const titleMatch = normalizeForSearch(post.title || "").includes(normalizedQuery);
-      
+
       // アーティスト名検索（英語名 + カタカナ別表記に対応）
       let artistMatchQuery = false;
       if (post.artist) {
@@ -101,12 +110,12 @@ export default function PostList({ posts, artists }: PostListProps) {
           return normalizeForSearch(searchText).includes(normalizedQuery);
         });
       }
-      
+
       const songMatch = normalizeForSearch(post.song || "").includes(normalizedQuery);
 
       return artistMatch && (titleMatch || artistMatchQuery || songMatch);
     });
-  }, [posts, selectedArtist, searchQuery]);
+  }, [posts, selectedArtist, searchQuery, selectedTab]);
 
   // サジェスト候補（検索クエリがある場合、上位5件を表示）
   const suggestions = useMemo(() => {
@@ -114,8 +123,62 @@ export default function PostList({ posts, artists }: PostListProps) {
     return filteredPosts.slice(0, 5);
   }, [filteredPosts, searchQuery, showSuggestions]);
 
+  // タブごとの記事数を計算
+  const tabCounts = useMemo(() => {
+    const counts: Record<ContentType, number> = {
+      song: 0,
+      live: 0,
+      movie: 0,
+      other: 0,
+    };
+
+    posts.forEach((post) => {
+      const type = (post.type as ContentType) || "other";
+      counts[type] = (counts[type] || 0) + 1;
+    });
+
+    return counts;
+  }, [posts]);
+
+  const tabs: Array<{ id: ContentType; label: string }> = [
+    { id: "song", label: "楽曲" },
+    { id: "live", label: "ライブ" },
+    { id: "movie", label: "映像" },
+    { id: "other", label: "その他" },
+  ];
+
   return (
     <>
+      {/* カテゴリタブ */}
+      <div className="mb-6 border-b border-gray-200">
+        <div className="flex space-x-8">
+          {tabs.map((tab) => (
+            <button
+              key={tab.id}
+              onClick={() => {
+                setSelectedTab(tab.id);
+                setSelectedArtist(null); // タブ切り替え時にアーティストフィルタをリセット
+              }}
+              className={`pb-3 px-1 text-sm font-medium transition-colors relative ${
+                selectedTab === tab.id
+                  ? "text-black"
+                  : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              {tab.label}
+              {tabCounts[tab.id] > 0 && (
+                <span className="ml-2 text-xs text-gray-400">
+                  ({tabCounts[tab.id]})
+                </span>
+              )}
+              {selectedTab === tab.id && (
+                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-black" />
+              )}
+            </button>
+          ))}
+        </div>
+      </div>
+
       {/* 検索バー */}
       <div className="mb-8">
         <div className="relative">
