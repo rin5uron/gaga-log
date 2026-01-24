@@ -12,24 +12,27 @@ relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
 highlights:
   - 2025年7月〜2026年4月、世界87公演のグローバルツアー
   - 東京ドーム4公演、京セラドーム大阪2公演（2026年1月）
-  - 全33曲のセットリスト——初披露曲・18年ぶり復活曲も
-  - アルバム『Mayhem』を完全に体現した演劇的・電撃的な体験
   - スタジアムではなくアリーナ——細部までコントロールされた芸術
 ---
 
 <!-- ▶️ 公式ツアー情報 -->
-<!-- 画像ファイルが存在しないため、一時的にコメントアウト -->
-<!-- <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" title="Live Nationツアー情報">
-  <img src="/images/mayhem-ball-tour.jpg" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px;">
-</a> -->
+<a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" title="Live Nationツアー情報" style="display: block; text-align: center; margin-bottom: 1rem;">
+  <img src="https://www.livenation.com/assets/img/artists/lady-gaga.jpg" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px; border-radius: 8px;" onerror="this.style.display='none';">
+</a>
 
-[公式ツアー情報はLive Nation公式サイトで](https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events)確認できる。
+<!-- 🎧 セトリプレイリストで聴く -->
+<a href="https://open.spotify.com/playlist/1v0fLCJO4qNxthbzig8AJJ" target="_blank" style="display: inline-block; margin-right: 12px;" title="Spotifyでセトリプレイリストを聴く">
+  <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
+</a>
+<a href="https://music.apple.com/jp/artist/lady-gaga/277293880" target="_blank" style="display: inline-block;" title="Apple Musicでセトリプレイリストを聴く">
+  <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
+</a>
 
 ---
 
 ## この記事でわかること
 
-① **東京ドーム／京セラドーム公演を含む日本公演情報**
+① **日本公演情報（東京ドーム／京セラドーム）**
 - 東京ドーム、京セラドーム大阪での公演情報を把握できる
 - 開場・開演時間、追加公演など日本公演に関する最新情報が分かる
 
@@ -49,9 +52,9 @@ highlights:
 
 ### MAYHEMを体現した世界ツアー
 
-**The MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー。**「メイヘム（Mayhem）」とは「大混乱」「騒動」という意味で、アルバム『Mayhem』（2025年）のコンセプトを体現したツアーです。
+**The MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー。**「メイヘム（Mayhem）」とは和訳すると「大混乱」「騒動」等の意。アルバム『Mayhem』（2025年）のコンセプトを体現したツアーです。
 
-**このツアーは、アルバム『Mayhem』を支援するワールドツアーとして開催されます。**「アルバムを支援する」とは、アルバムのリリースを記念して、そのアルバムの曲を中心にライブを行うという意味です。2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕し、2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。
+**このツアーは、アルバム『Mayhem』のワールドツアーとして開催されます。**2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕し、2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。
 
 アジア、ヨーロッパ、北米、オセアニアを巡る全87公演のツアー。
 
@@ -111,31 +114,31 @@ highlights:
 #### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
 1. The Art of Personal Chaos（録音イントロ）
-2. Bloody Mary（短縮版、オペラティック）
+2. [Bloody Mary](/posts/bloody-mary)（短縮版、オペラティック）
 3. Abracadabra（アカペライントロ）
-4. Judas（Abracadabraの要素を含む）
-5. Aura（短縮版、2020年以来初披露）
+4. [Judas](/posts/judas)（Abracadabraの要素を含む）
+5. [Aura](/posts/aura)（短縮版、2020年以来初披露）
 6. Scheiße（短縮版）
 
 #### Act II: And She Fell Into A Gothic Dream（そして彼女はゴシックな夢に堕ちた）
 
 7. Garden of Eden（拡張オーケストラ・イントロ、ギター）
-8. Poker Face（オペラティック・イントロとアウトロ）
+8. [Poker Face](/posts/poker-face)（オペラティック・イントロとアウトロ）
 9. Abracadabra（Gesaffelstein Remix、録音ボールルームバトル）
 10. Perfect Celebrity（短縮版）
 11. Disease（拡張イントロ）
-12. Paparazzi（別バージョン、2014年以来初のフル披露）
+12. [Paparazzi](/posts/paparazzi)（別バージョン、2014年以来初のフル披露）
 
 #### Act III: The Beautiful Nightmare That Knows Her Name（彼女の名を知る美しい悪夢）
 
 13. LoveGame（短縮版）
-14. Alejandro（短縮版）
+14. [Alejandro](/posts/alejandro)（短縮版）
 15. The Beast（初のフル披露、ギター）
 16. Killah（拡張イントロ/アウトロ）
 17. Zombieboy（拡張イントロ/アウトロ）
-18. LoveDrug（ライブ初披露）
-19. Applause（短縮版、2020年以来初披露）
-20. Just Dance（別バージョン）
+18. [LoveDrug](/posts/lovedrug)（ライブ初披露）
+19. [Applause](/posts/applause)（短縮版、2020年以来初披露）
+20. [Just Dance](/posts/just-dance)（別バージョン）
 
 #### Act IV: Every Chessboard Has Two Queens（すべてのチェス盤には2人の女王がいる）
 
@@ -143,15 +146,15 @@ highlights:
 22. Shadow of a Man（拡張イントロ）
 23. Kill for Love（ライブ初披露、スタンドアロン）
 24. Summerboy（短縮版、2007年以来初披露、ギター）
-25. Born This Way（拡張イントロ）
+25. [Born This Way](/posts/born-this-way)（拡張イントロ）
 
 #### Finale: Eternal Aria Of The Monster Heart（モンスターの心の永遠のアリア）
 
-26. Million Reasons（拡張イントロ）
-27. Shallow（別バージョン）
-28. Die With a Smile（ソロ）
+26. [Million Reasons](/posts/million-reasons)（拡張イントロ）
+27. [Shallow](/posts/shallow)（別バージョン）
+28. [Die With a Smile](/posts/die-with-a-smile)（ソロ）
 29. Vanish Into You
-30. Bad Romance
+30. [Bad Romance](/posts/bad-romance)
 
 #### Encore（アンコール）
 
@@ -212,11 +215,11 @@ highlights:
 
 
 
-## Resonance <span class="section-subtitle">このツアーが残したもの</span>
+## Resonance <span class="section-subtitle">ガガだからこそ実現——短期間でのハイクオリティツアー</span>
 
-数週間でグローバルツアーを組むことは、通常困難とされている。でも、ガガとLive Nationのチームは、それを実現した。この事実が示しているのは、情熱があれば、困難なことも実現できる可能性があるということ。ファンの声に応え、自分のビジョンを実現する——ガガの行動力が、このツアーを生んだ。
+数週間でグローバルツアーを組むことは、通常困難とされている。しかし、ガガとLive Nationのチームは、それを実現した。しかも、単にスケジュールを組んだだけではない。このツアーは、短期間で組まれたにもかかわらず、細部までコントロールされた高品質なパフォーマンスを実現している。この事実が示しているのは、情熱があれば、困難なことも実現できる可能性があるということ。ファンの声に応え、自分のビジョンを実現する——ガガの行動力が、このツアーを生んだ。
 
-このツアーは、ガガが「妥協しないアーティスト」であることを改めて示している。チケット収容人数よりも芸術的コントロール。効率よりも体験の質。その姿勢が、ファンに質の高い体験を届ける。そして、それがガガの音楽が愛され続ける理由の一つだと考えられる。
+このツアーは、ガガが「妥協しないアーティスト」であることを改めて示している。チケット収容人数よりも芸術的コントロール。効率よりも体験の質。短期間での実現と、高品質なパフォーマンスの両立——その姿勢が、ファンに質の高い体験を届ける。そして、それがガガの音楽が愛され続ける理由の一つだと考えられる。
 
 ---
 
@@ -232,15 +235,14 @@ highlights:
 
 ### 日本公演の予習プレイリスト
 
-日本公演に向けて、セットリストに含まれる可能性が高い曲を聴いて予習することをおすすめします。特に以下の曲は参考になります：
-
+日本公演に向けて、これだけは押さえておきたい曲をリストアップ！：
 - **[Bloody Mary](/posts/bloody-mary)** - オペラティック版で披露される
 - **[Bad Romance](/posts/bad-romance)** - フィナーレの定番曲
 - **[Poker Face](/posts/poker-face)** - 日本でも大ヒットした曲
-- **[Shallow](/posts/shallow)** - バラードの名曲
-- **[Born This Way](/posts/born-this-way)** - 代表曲の一つ
-- **[Judas](/posts/judas)** - ダークな演出が特徴
-- **[Million Reasons](/posts/million-reasons)** - 感動的なバラード
+- **[Shallow](/posts/shallow)** - ガガ主演映画で話題の名曲
+- **[Born This Way](/posts/born-this-way)** - ガガと言えばの代表曲
+- **[Judas](/posts/judas)** - ダークな演出が期待
+- **[Million Reasons](/posts/million-reasons)** - Joanneアルバムの核心バラード
 
 **公式プレイリスト：**
 - [Spotify公式プレイリスト](https://open.spotify.com/playlist/1v0fLCJO4qNxthbzig8AJJ)
