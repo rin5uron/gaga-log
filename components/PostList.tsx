@@ -142,43 +142,13 @@ export default function PostList({ posts, artists }: PostListProps) {
 
   const tabs: Array<{ id: ContentType; label: string }> = [
     { id: "song", label: "楽曲" },
-    { id: "live", label: "ライブ" },
     { id: "movie", label: "映像" },
+    { id: "live", label: "ライブ" },
     { id: "other", label: "その他" },
   ];
 
   return (
     <>
-      {/* カテゴリタブ */}
-      <div className="mb-6 border-b border-gray-200">
-        <div className="flex space-x-8">
-          {tabs.map((tab) => (
-            <button
-              key={tab.id}
-              onClick={() => {
-                setSelectedTab(tab.id);
-                setSelectedArtist(null); // タブ切り替え時にアーティストフィルタをリセット
-              }}
-              className={`pb-3 px-1 text-sm font-medium transition-colors relative ${
-                selectedTab === tab.id
-                  ? "text-black"
-                  : "text-gray-500 hover:text-gray-700"
-              }`}
-            >
-              {tab.label}
-              {tabCounts[tab.id] > 0 && (
-                <span className="ml-2 text-xs text-gray-400">
-                  ({tabCounts[tab.id]})
-                </span>
-              )}
-              {selectedTab === tab.id && (
-                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-black" />
-              )}
-            </button>
-          ))}
-        </div>
-      </div>
-
       {/* 検索バー */}
       <div className="mb-8">
         <div className="relative">
@@ -222,6 +192,37 @@ export default function PostList({ posts, artists }: PostListProps) {
               ))}
             </div>
           )}
+        </div>
+      </div>
+
+      {/* カテゴリタブ */}
+      <div className="mb-6 border-b border-gray-200">
+        <div className="flex space-x-8">
+          {tabs.map((tab) => (
+            <button
+              key={tab.id}
+              onClick={() => {
+                setSelectedTab(tab.id);
+                setSelectedArtist(null); // タブ切り替え時にアーティストフィルタをリセット
+                setSearchQuery(""); // タブ切り替え時に検索クエリもリセット
+              }}
+              className={`pb-3 px-1 text-sm font-medium transition-colors relative ${
+                selectedTab === tab.id
+                  ? "text-black"
+                  : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              {tab.label}
+              {tabCounts[tab.id] > 0 && (
+                <span className="ml-2 text-xs text-gray-400">
+                  ({tabCounts[tab.id]})
+                </span>
+              )}
+              {selectedTab === tab.id && (
+                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-black" />
+              )}
+            </button>
+          ))}
         </div>
       </div>
 

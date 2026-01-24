@@ -1,13 +1,13 @@
 ---
-title: "The MAYHEM Ball Tour 2025-2026 完全ガイド｜セットリスト・日本公演情報"
+title: "The MAYHEM Ball"
 work: "The MAYHEM Ball"
 artist: "Lady Gaga"
 date: "2026-01-24"
 updatedDate: "2026-01-24"
 order: 2
 type: "live"
-description: "Lady Gaga The MAYHEM Ball Tour 2025-2026の完全セットリスト、東京ドーム・京セラドーム大阪公演情報、ツアー背景を徹底解説。33曲のセトリ、5つのアクト構成、初披露曲・復活曲も網羅。"
-keywords: "レディーガガ, ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演"
+description: "The MAYHEM Ball Tour 2025-2026のセトリ、日本公演情報、ツアー背景を徹底解説。5つのアクト構成、初披露曲・復活曲も網羅。"
+keywords: "レディーガガ, ガガ,ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演"
 relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
 highlights:
   - 2025年7月〜2026年4月、世界87公演のグローバルツアー
