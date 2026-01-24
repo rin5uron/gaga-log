@@ -1,5 +1,5 @@
 ---
-title: "Applause - Lady Gaga 歌詞の意味と考察"
+title: "Applause"
 song: "Applause"
 artist: "Lady Gaga"
 album: "ARTPOP"
@@ -76,9 +76,9 @@ highlights:
 
 **この曲の核心となるフレーズ。**
 
-「I live for the applause」——拍手のために生きる。
+> I live for the applause, applause, applause
 
-これは、単なる名声への執着ではない。ガガにとって、拍手は観客とパフォーマーの間の相互作用、エネルギーの交換を象徴している。
+「拍手のために生きる」——これは、単なる名声への執着ではない。ガガにとって、拍手は観客とパフォーマーの間の相互作用、エネルギーの交換を象徴している。
 
 **パフォーマンスをして、観客が楽しんで、そして拍手をする。**その瞬間のために、ガガはステージに立つ。痛みがあっても、疲れていても、その拍手が彼女を支える。
 

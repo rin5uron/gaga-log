@@ -44,6 +44,16 @@ highlights:
 
 **2022年のTikTokバズ以降、再び注目を浴び、ライブのオープニングセットリストにも組み込まれるようになった。**元々は知る人ぞ知るアルバム曲だったが、今では「Bloody Mary × Wednesday」の組み合わせで新たな命を吹き込まれた楽曲として語られることが多い。
 
+[Netflix『Wednesday（ウェンズデー）』](https://www.netflix.com/title/81231974)のダンスシーン（シーズン1・第4話、約33:30〜）で踊っている映像がTikTokで拡散され、その映像に「Bloody Mary」（主に早回しver）を乗せた投稿が増えた。「最初からこの曲で踊ってた？」レベルでハマって見えて、一気にトレンド化。
+
+本編で実際に流れている曲は「Goo Goo Muck（The Cramps）」で、Bloody Maryは"後からTikTokで合成されて定着した音源"という立ち位置。
+
+なぜこんなに噛み合って見えたのか？ それは、同じ"身体言語"だから。関節がカクカクする（ゾンビ／マリオネットっぽい）動き、大きく跳ねない内側に沈む動き、表情を作りすぎない（無表情〜冷たい感じ）、リズムを刻むより「間」と「空気」で魅せる——そんな要素が重なった。
+
+そして興味深いのは、ガガ自身も過去のライブやパフォーマンスで、同じような振り付け——カクカクした動き、マリオネットのような身体表現——を「Bloody Mary」で披露していたこと。これは偶然なのか、それともガガが最初からこの曲に込めていた身体言語が、Wednesdayのダンスと共鳴したのか。
+
+Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tiktok.com/@ladygaga/video/7174951907461467435)している。"Bloody Mary × Wednesday"は、本編の公式コラボではなく、TikTokの編集文化が生んだ噛み合わせバズとして広まった。
+
 ---
 
 
@@ -106,22 +116,15 @@ highlights:
 
 ## Music Video <span class="section-subtitle">MVの見どころ</span>
 
-<a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>について。「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかったが、2022年にこの曲が再び注目を浴びるきっかけとなったのが、Netflix『Wednesday（ウェンズデー）』のダンスシーンだ。
+「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかった。しかし、ガガは過去のライブやパフォーマンスで、この曲を披露する際に独特な振り付けを披露してきた。
 
-**参考：TikTokでバズったWednesdayのダンスシーン × Bloody Mary**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MsXdUtlDVhk?si=-60JuttbQ3MbctZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**ガガのライブパフォーマンスでの特徴的な動き：**
+- カクカクした関節の動き（ゾンビ／マリオネットのような身体表現）
+- 大きく跳ねない、内側に沈むような動き
+- 表情を作りすぎない、無表情〜冷たい感じの表現
+- リズムを刻むより「間」と「空気」で魅せる身体言語
 
-[Netflix『Wednesday（ウェンズデー）』](https://www.netflix.com/title/81231974)のダンスシーン（シーズン1・第4話、約33:30〜）で踊っている映像がTikTokで拡散され、その映像に「Bloody Mary」（主に早回しver）を乗せた投稿が増えた。「最初からこの曲で踊ってた？」レベルでハマって見えて、一気にトレンド化。
-
-本編で実際に流れている曲は「Goo Goo Muck（The Cramps）」で、Bloody Maryは"後からTikTokで合成されて定着した音源"という立ち位置。
-
-なぜこんなに噛み合って見えたのか？ それは、同じ"身体言語"だから。関節がカクカクする（ゾンビ／マリオネットっぽい）動き、大きく跳ねない内側に沈む動き、表情を作りすぎない（無表情〜冷たい感じ）、リズムを刻むより「間」と「空気」で魅せる——そんな要素が重なった。
-
-「Bloody Mary」は呪文のように反復するビートで"間"を作れる曲。Wednesdayのダンスも、雰囲気主導で動きが切り替わるタイプ。だから後乗せでもズレずに"噛み合って見える"現象が起きた。
-
-そして興味深いのは、ガガ自身も過去のライブやパフォーマンスで、同じような振り付け——カクカクした動き、マリオネットのような身体表現——を「Bloody Mary」で披露していたこと。これは偶然なのか、それともガガが最初からこの曲に込めていた身体言語が、Wednesdayのダンスと共鳴したのか。
-
-Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tiktok.com/@ladygaga/video/7174951907461467435)している。"Bloody Mary × Wednesday"は、本編の公式コラボではなく、TikTokの編集文化が生んだ噛み合わせバズとして広まった。
+ガガがこの曲で披露してきた振り付けは、2022年にNetflix『Wednesday（ウェンズデー）』のダンスシーンと奇跡的に共鳴し、TikTokでバズを生んだ。これは偶然ではなく、ガガが最初からこの曲に込めていた身体言語が、時代を超えて新しい世代に響いた証拠だ。
 
 ---
 
@@ -160,7 +163,6 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 ### その他
 - [Netflix 『Wednesday（ウェンズデー）』](https://www.netflix.com/title/81231974)
-- [Lady Gaga TikTok Response](https://www.tiktok.com/@ladygaga/video/7174951907461467435)
 - [Bloody Mary - Spotify](https://open.spotify.com/track/0lYcBShtvDJXRdBMaFl0Zm)
 
 ---

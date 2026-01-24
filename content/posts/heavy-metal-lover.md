@@ -1,5 +1,5 @@
 ---
-title: "Heavy Metal Lover - Lady Gaga 歌詞の意味と考察"
+title: "Heavy Metal Lover"
 song: "Heavy Metal Lover"
 artist: "Lady Gaga"
 album: "Born This Way"
@@ -59,6 +59,8 @@ highlights:
 ### 激しく、謝らない恋愛
 
 この曲が描いているのは、従順な恋愛ではない。
+
+> I want your whiskey mouth all over my blonde south
 
 激しく、情熱的で、時には破壊的——でも、それでいい。謝らない。それが、この曲のメッセージだ。
 

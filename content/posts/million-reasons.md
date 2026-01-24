@@ -1,5 +1,5 @@
 ---
-title: "Million Reasons - Lady Gaga 歌詞の意味と考察"
+title: "Million Reasons"
 song: "Million Reasons"
 artist: "Lady Gaga"
 album: "Joanne"
@@ -36,7 +36,7 @@ highlights:
 
 **「Million Reasons」は、Lady Gagaの5枚目のスタジオアルバム『Joanne』（2016年）からの2枚目のシングルとして、2016年10月29日にリリースされた楽曲。**
 
-[Wikipedia](https://en.wikipedia.org/wiki/Million_Reasons)によると、Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga、BloodPopがプロデュースを担当した。
+Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga、BloodPopがプロデュースを担当した。
 
 この曲は、カントリーとポップの融合。ガガのこれまでのエレクトロポップとは全く違う、生々しく、感情的なバラードだ。
 
@@ -75,6 +75,9 @@ highlights:
 ### 去るべき理由と留まる理由の葛藤
 
 この曲は、「留まる理由を1つ教えて」という問いかけから始まる。
+
+> I've got a hundred million reasons to walk away
+> But baby, I just need one good one to stay
 
 100万の理由で去るべきなのに、たった1つの理由があれば留まる。この葛藤が、恋愛の本質だ。
 

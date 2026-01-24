@@ -1,5 +1,5 @@
 ---
-title: "Judas - Lady Gaga 歌詞の意味と考察"
+title: "Judas"
 song: "Judas"
 artist: "Lady Gaga"
 album: "Born This Way"

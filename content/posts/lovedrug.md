@@ -1,5 +1,5 @@
 ---
-title: "LoveDrug - Lady Gaga 歌詞の意味と考察"
+title: "LoveDrug"
 song: "LoveDrug"
 artist: "Lady Gaga"
 album: "MAYHEM"

@@ -1,5 +1,5 @@
 ---
-title: "Alejandro - Lady Gaga 歌詞の意味と考察"
+title: "Alejandro"
 song: "Alejandro"
 artist: "Lady Gaga"
 album: "The Fame Monster"

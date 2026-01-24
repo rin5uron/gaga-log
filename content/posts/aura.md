@@ -1,5 +1,5 @@
 ---
-title: "Aura - Lady Gaga 歌詞の意味と考察"
+title: "Aura"
 song: "Aura"
 artist: "Lady Gaga"
 album: "ARTPOP"

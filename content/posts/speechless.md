@@ -1,5 +1,5 @@
 ---
-title: "Speechless - Lady Gaga 歌詞の意味と考察"
+title: "Speechless"
 song: "Speechless"
 artist: "Lady Gaga"
 album: "The Fame Monster"

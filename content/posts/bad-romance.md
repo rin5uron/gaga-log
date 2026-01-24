@@ -1,5 +1,5 @@
 ---
-title: "Bad Romance - Lady Gaga 歌詞の意味と考察"
+title: "Bad Romance"
 song: "Bad Romance"
 artist: "Lady Gaga"
 album: "The Fame Monster"
