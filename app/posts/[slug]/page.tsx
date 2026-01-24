@@ -205,6 +205,23 @@ function extractYouTubeEmbed(content: string): {
   return { youtubeEmbed: null, contentWithoutYouTube: content };
 }
 
+function extractTourPoster(content: string): {
+  tourPoster: string | null;
+  contentWithoutPoster: string;
+} {
+  // ツアーポスター画像と出典リンクを抽出（コメントから</div>まで、改行も含む）
+  const posterRegex = /<!-- ▶️ 公式ツアー情報[^>]*>[\s\S]*?<\/div>/gi;
+  const match = content.match(posterRegex);
+
+  if (match && match.length > 0) {
+    const tourPoster = match[0];
+    const contentWithoutPoster = content.replace(tourPoster, "").trim();
+    return { tourPoster, contentWithoutPoster };
+  }
+
+  return { tourPoster: null, contentWithoutPoster: content };
+}
+
 function extractMovieImage(content: string): {
   movieImage: string | null;
   contentWithoutImage: string;
@@ -306,8 +323,11 @@ export default async function PostPage({
 
   const allPosts = getAllPosts();
 
+  // ツアーポスター画像を抽出
+  const { tourPoster, contentWithoutPoster } = extractTourPoster(post.content);
+
   // 映像作品の画像を抽出
-  const { movieImage, contentWithoutImage } = extractMovieImage(post.content);
+  const { movieImage, contentWithoutImage } = extractMovieImage(contentWithoutPoster);
 
   // YouTube埋め込みとストリーミングリンクを抽出
   const { youtubeEmbed, contentWithoutYouTube } = extractYouTubeEmbed(
@@ -535,6 +555,14 @@ export default async function PostPage({
               updatedDate={post.updatedDate}
               className="text-xs text-gray-400 mb-4 max-w-2xl"
             />
+
+            {/* ツアーポスター画像（日付の下に配置） */}
+            {tourPoster && (
+              <div
+                className="tour-poster-wrapper mb-4 max-w-2xl"
+                dangerouslySetInnerHTML={{ __html: tourPoster }}
+              />
+            )}
           </header>
 
           {/* 「この記事でわかること」を目次の上に配置 */}

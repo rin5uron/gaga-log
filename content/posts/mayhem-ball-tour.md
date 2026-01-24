@@ -15,13 +15,15 @@ highlights:
   - スタジアムではなくアリーナを選んだ理由と演劇的構成
 ---
 
-<!-- ▶️ 公式ツアー情報 -->
-<a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" title="Live Nationツアー情報" style="display: block; text-align: center; margin-bottom: 1rem;">
-  <img src="/images/mayhem-ball-tour-poster.png" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px; border-radius: 8px;">
-</a>
-<p style="text-align: center; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; margin-bottom: 1rem;">
-  出典: <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" style="color: #6b7280; text-decoration: underline;">Live Nation</a>
-</p>
+<!-- ▶️ 公式ツアー情報（日付の下に配置） -->
+<div class="tour-poster-wrapper" style="margin-top: 1rem; margin-bottom: 1rem;">
+  <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" title="Live Nationツアー情報" style="display: block; text-align: center; margin-bottom: 0.5rem;">
+    <img src="/images/mayhem-ball-tour-poster.png" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px; border-radius: 8px;">
+  </a>
+  <p style="text-align: right; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; margin-bottom: 1rem;">
+    出典: <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" style="color: #6b7280; text-decoration: underline;">Live Nation</a>
+  </p>
+</div>
 
 <!-- 🎧 セトリプレイリストで聴く -->
 <a href="https://open.spotify.com/playlist/1v0fLCJO4qNxthbzig8AJJ" target="_blank" style="display: inline-block; margin-right: 12px;" title="Spotifyでセトリプレイリストを聴く">
