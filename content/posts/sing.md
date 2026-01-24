@@ -162,4 +162,3 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 - [Sing - Spotify](https://open.spotify.com/track/6Kjq1QC1VDTv68bCw0vqJz)
 
 ---
-

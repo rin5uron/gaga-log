@@ -7,21 +7,21 @@ updatedDate: "2026-01-24"
 order: 2
 type: "live"
 description: "The MAYHEM Ball Tour 2025-2026のセトリ、日本公演情報、ツアー背景を徹底解説。5つのアクト構成、初披露曲・復活曲も網羅。"
-keywords: "レディーガガ, ガガ,ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演"
+keywords: "レディーガガ, ガガ,ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演,予習"
 relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
 highlights:
-## この記事でわかること
-
-- 日本公演情報　東京ドーム／京セラドーム
-- The MAYHEM Ballセトリ特徴(過去セトリ情報も！)
-- スタジアムではなくアリーナを選んだ理由と演劇的構成**
-
+  - 日本公演情報　東京ドーム／京セラドーム
+  - The MAYHEM Ballセトリ特徴(過去セトリ情報も！)
+  - スタジアムではなくアリーナを選んだ理由と演劇的構成
 ---
 
 <!-- ▶️ 公式ツアー情報 -->
 <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" title="Live Nationツアー情報" style="display: block; text-align: center; margin-bottom: 1rem;">
-  <img src="https://www.livenation.com/assets/img/artists/lady-gaga.jpg" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px; border-radius: 8px;" onerror="this.style.display='none';">
+  <img src="/images/mayhem-ball-tour-poster.png" alt="The MAYHEM Ball Tour" style="width: 100%; max-width: 800px; border-radius: 8px;">
 </a>
+<p style="text-align: center; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; margin-bottom: 1rem;">
+  出典: <a href="https://www.livenation.com/artist/K8vZ917Go7V/lady-gaga-events" target="_blank" style="color: #6b7280; text-decoration: underline;">Live Nation</a>
+</p>
 
 <!-- 🎧 セトリプレイリストで聴く -->
 <a href="https://open.spotify.com/playlist/1v0fLCJO4qNxthbzig8AJJ" target="_blank" style="display: inline-block; margin-right: 12px;" title="Spotifyでセトリプレイリストを聴く">
@@ -30,7 +30,6 @@ highlights:
 <a href="https://music.apple.com/jp/artist/lady-gaga/277293880" target="_blank" style="display: inline-block;" title="Apple Musicでセトリプレイリストを聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
 </a>
-
 
 ---
 
