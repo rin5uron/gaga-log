@@ -103,7 +103,10 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 この曲は、シンプルなメロディとストレートな感情表現が特徴。
 
-サビの「留まる理由を1つ教えて」という問いかけ。誰もが一度は経験したことがある葛藤を、シンプルな言葉で歌っている。
+> I've got a hundred million reasons to walk away
+> But baby, I just need one good one to stay
+
+「100万の理由で去るべきなのに、たった1つの理由があれば留まる」——この葛藤が、恋愛の本質だ。誰もが一度は経験したことがある葛藤を、シンプルな言葉で歌っている。
 
 カラオケで歌うと、自分の過去の恋愛を思い出してしまう。それくらい、この曲は普遍的な感情を歌っている。
 

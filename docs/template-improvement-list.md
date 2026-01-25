@@ -15,16 +15,16 @@
 ### セクション不足（Analysisセクションなし）
 
 1. **bad-romance.md**
-   - 問題: Analysisセクションなし、Favorite Linesの順序が違う（Music Videoの後）
-   - SEO: highlightsあり、description/keywords不明
+   - 問題: ~~Analysisセクションなし~~、~~Favorite Linesの順序が違う（Music Videoの後）~~、~~description/keywords不明~~（✅ 修正済み：Analysisセクション追加、セクション順序修正、description/keywords追加）
+   - SEO: highlightsあり、✅ description/keywords追加済み
 
 2. **judas.md**
-   - 問題: Analysisセクションなし
-   - SEO: highlightsあり、description/keywords不明
+   - 問題: ~~Analysisセクションなし~~、~~description/keywords不明~~（✅ 修正済み：Analysisセクション追加、description/keywords追加）
+   - SEO: highlightsあり、✅ description/keywords追加済み
 
 3. **poker-face.md**
-   - 問題: Analysisセクションなし
-   - SEO: highlightsあり、description/keywords不明
+   - 問題: ~~Analysisセクションなし~~、~~description/keywords不明~~（✅ 修正済み：Analysisセクション追加、description/keywords追加）
+   - SEO: highlightsあり、✅ description/keywords追加済み
 
 4. **joanne.md**
    - 問題: Analysisセクションなし
@@ -81,7 +81,7 @@
 ### セクション構造が不完全
 
 17. **rain-on-me.md**
-    - 問題: Favorite Linesセクションなし、Analysisセクションなし
+    - 問題: ~~Favorite Linesセクションなし~~、Analysisセクションなし（✅ Favorite Linesセクション追加済み、✅ 歌詞引用追加済み）
     - SEO: highlightsあり、description/keywords不明
 
 18. **all-too-well.md**
@@ -132,20 +132,23 @@
 - hey-girl.md ✅
 - lovedrug.md ✅
 - bloody-mary.md ✅（SEOメタデータ要確認）
-- shallow.md ✅（SEOメタデータ要確認）
-- paparazzi.md ✅（SEOメタデータ要確認）
+- shallow.md ✅（✅ description/keywords追加済み）
+- paparazzi.md ✅（✅ description/keywords追加済み）
 - the-a-team.md ✅
+- bad-romance.md ✅（✅ 修正済み：Analysisセクション追加、セクション順序修正、description/keywords追加）
+- judas.md ✅（✅ 修正済み：Analysisセクション追加、description/keywords追加）
+- poker-face.md ✅（✅ 修正済み：Analysisセクション追加、description/keywords追加）
 
 ---
 
 ## 改善優先度
 
 ### 高優先度（クリック数がある可能性）
-- bad-romance.md
-- judas.md
-- poker-face.md
-- shallow.md
-- paparazzi.md
+- ~~bad-romance.md~~ ✅（修正済み）
+- ~~judas.md~~ ✅（修正済み）
+- ~~poker-face.md~~ ✅（修正済み）
+- ~~shallow.md~~ ✅（修正済み）
+- ~~paparazzi.md~~ ✅（修正済み）
 - just-dance.md
 - born-this-way.md
 
@@ -167,3 +170,17 @@
 - [ ] `Analysis`セクション追加
 - [ ] セクション順序の確認（About → Lyrics → Favorite Lines → Music Video → Analysis → References）
 - [ ] `References`セクションの確認
+- [ ] `Favorite Lines`セクションに歌詞の引用（`>`ブロック）があるか確認
+
+## 歌詞引用がない記事
+
+- ✅ lovegame.md（修正済み）
+- ✅ hips-dont-lie.md（修正済み）
+- ✅ rain-on-me.md（修正済み：Favorite Linesセクション追加＋歌詞引用追加）
+- ✅ abracadabra.md（修正済み：歌詞引用追加）
+- ✅ heavy-metal-lover.md（修正済み：歌詞引用追加）
+- ✅ million-reasons.md（修正済み：歌詞引用追加）
+- ✅ applause.md（修正済み：歌詞引用追加）
+- ✅ aura.md（修正済み：歌詞引用追加）
+- ✅ speechless.md（修正済み：歌詞引用追加）
+- replay.md（引用あり、問題なし）

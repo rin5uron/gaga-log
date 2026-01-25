@@ -8,6 +8,8 @@ date: "2026-01-18"
 updatedDate: "2026-01-22"
 order: 20
 type: "song"
+description: "Lady Gaga「Paparazzi（パパラッチ）」の歌詞の意味を徹底解説。名声への渇望と執着を描く。「I'm your biggest fan, I'll follow you until you love me」——ファンかストーカーか、名声への執着か。SNS時代にも通じる普遍的なテーマ。"
+keywords: ["Paparazzi", "パパラッチ", "Lady Gaga", "レディーガガ", "ガガ", "The Fame", "ザ・フェイム", "歌詞", "意味", "解説", "名声", "執着", "MV", "殺人", "復讐"]
 relatedPosts: ["telephone", "bad-romance"]
 highlights:
   - 「I'm your biggest fan」——ファンか、ストーカーか、名声への執着か

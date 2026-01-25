@@ -111,6 +111,9 @@ highlights:
 
 この曲で最も口ずさみたくなるのは、サビの「Abracadabra」の繰り返し。
 
+> Abracadabra, amor-ooh-na-na
+> Abracadabra, morta-ooh-ga-ga
+
 シンプルだけど、一度聴いたら忘れられない。「amor-ooh-na-na」「morta-ooh-ga-ga」という韻の踏み方も、リズミカルで楽しい。
 
 カラオケで歌うと、この部分でテンションが上がる。魔法をかけるような感覚になる。

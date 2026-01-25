@@ -63,15 +63,17 @@ type: "song"
 
 ## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
 
-### <span class="section-subtitle">"I'm on tonight"の勢い</span>
+### "I'm on tonight"の勢い
 
-サビに入る瞬間の "I'm on tonight"——この一言で、曲の勢いが一気に加速する。
+サビに入る瞬間のこのフレーズ。
 
-"on"という短い単語に、「今夜は乗ってる」「調子がいい」というニュアンスが詰まっている。日本語にすると長くなるけど、英語だと一瞬で伝わる。この言葉の経済性が気持ちいい。
+> I'm on tonight
 
-### <span class="section-subtitle">"perfection"の使い方</span>
+この一言で、曲の勢いが一気に加速する。"on"という短い単語に、「今夜は乗ってる」「調子がいい」というニュアンスが詰まっている。日本語にすると長くなるけど、英語だと一瞬で伝わる。この言葉の経済性が気持ちいい。
 
-"Don't you see, baby, this is perfection?"——このフレーズが好きだ。
+### "perfection"の使い方
+
+> Don't you see, baby, this is perfection?
 
 「完璧」という言葉を、恋愛や体の動きに対して使う大胆さ。シャキーラの声で聴くと、説得力がある。
 

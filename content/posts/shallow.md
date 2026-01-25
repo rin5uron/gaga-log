@@ -8,6 +8,8 @@ date: "2025-12-28"
 updatedDate: "2026-01-21"
 order: 6
 type: "song"
+description: "Lady Gaga & Bradley Cooper「Shallow（シャロウ）」の歌詞の意味を徹底解説。映画「A Star Is Born」の劇中歌。「In the shallow」——浅瀬にいるままでいいの？深い場所へ飛び込む勇気を歌う、アカデミー賞歌曲賞受賞曲。"
+keywords: ["Shallow", "シャロウ", "Lady Gaga", "レディーガガ", "ガガ", "Bradley Cooper", "ブラッドリー・クーパー", "A Star Is Born", "アリー/スター誕生", "歌詞", "意味", "解説", "アカデミー賞", "デュエット"]
 highlights:
   - 「Shallow」が名作である理由——二人の奇跡の共演と普遍的なテーマ
   - In the shallowとI'm fallingに込められた二重の意味

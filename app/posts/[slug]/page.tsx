@@ -489,14 +489,6 @@ export default async function PostPage({
               />
             )}
 
-            {/* ストリーミングリンク */}
-            {streamingLinks && !tourPoster && (
-              <div
-                className="streaming-links mb-4 max-w-2xl flex gap-3"
-                dangerouslySetInnerHTML={{ __html: streamingLinks }}
-              />
-            )}
-
             {/* アーティスト情報 */}
             <div className="text-sm text-gray-600 mb-4 max-w-2xl">
               {post.artist && (
