@@ -5,9 +5,11 @@ artist: "Lady Gaga"
 album: "The Fame Monster"
 year: 2009
 date: "2025-12-29"
-updatedDate: "2026-01-22"
+updatedDate: "2026-01-24"
 order: 2
 type: "song"
+description: "Lady Gaga「Alejandro（アレハンドロ）」の歌詞の意味を徹底解説。ABBAの影響を受けたダークでドラマティックなポップサウンド。「愛したいけど愛せない」葛藤を描く、恋愛への恐怖と距離感を表現した曲。"
+keywords: ["Alejandro", "アレハンドロ", "Lady Gaga", "レディーガガ", "ガガ", "The Fame Monster", "ザ・フェイム・モンスター", "歌詞", "意味", "解説", "ABBA", "Fernando", "Don't call my name", "恋愛", "葛藤"]
 relatedPosts: ["bad-romance", "poker-face", "paparazzi"]
 highlights:
   - Alejandro、Fernando、Roberto——三つの名前が象徴する「男性像」
@@ -16,14 +18,15 @@ highlights:
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/niqrrmev4mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 <!-- 🎧 ストリーミングで聴く -->
-<a href="Apple Music の曲リンク" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+<a href="https://music.apple.com/jp/album/alejandro/1440812340?i=1440812341" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
 </a>
-<a href="Spotify の曲リンク" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+<a href="https://open.spotify.com/track/1aXQzYgk4Ygqj0K8jXo5vM" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
@@ -31,19 +34,23 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について アレハンドロってだレ？</span>
+## About <span class="section-subtitle">この曲について</span>
 
-「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。ABBAやAce of Baseといったポップミュージックの要素を取り入れながら、ガガ独自のダークでドラマティックな世界観を作り上げている。ABBAの[「Fernando」](/posts/fernando)からインスピレーションを受けたとも言われている。
+### アルバム『The Fame Monster』の収録曲
+
+**「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。**
+
+ABBAやAce of Baseといったポップミュージックの要素を取り入れながら、ガガ独自のダークでドラマティックな世界観を作り上げている。ABBAの[「Fernando」](/posts/fernando)からインスピレーションを受けたとも言われている。
 
 ---
 
-### <span class="section-subtitle">アレハンドロって誰？</span>
+### アレハンドロって誰？
 
-この曲が描いているのは、特定の一人の男性についての物語というより、"恋愛そのもの"に対する恐怖や距離感だ。愛することはできる。でも、深く関われば関わるほど、自分の人生やキャリアが壊れてしまうかもしれない——そんな不安や葛藤が、この曲全体に流れている。
+**この曲が描いているのは、特定の一人の男性についての物語というより、"恋愛そのもの"に対する恐怖や距離感だ。**
+
+愛することはできる。でも、深く関われば関わるほど、自分の人生やキャリアが壊れてしまうかもしれない——そんな不安や葛藤が、この曲全体に流れている。
 
 歌詞に出てくる**Alejandro / Fernando / Roberto**という名前たちは、実在の誰かというより、情熱的で、強くて、惹かれてしまう「男性像」の象徴。だからこそガガは、「愛していない」と言っているわけではなく、"あなたのそばにはいられない"と何度も繰り返している。
-
----
 
 
 
@@ -111,29 +118,41 @@ highlights:
 
 ---
 
+## Analysis <span class="section-subtitle">考察</span>
 
+### この曲が今も聞かれ続けている理由
 
-## 大人になって、この曲に近づいた
+**「Alejandro」は、恋愛への恐怖と距離感を表現した曲として、今も多くの人に共感され続けている。**
 
-この曲を初めて聞いたとき、正直あまりピンと来なかった。でも、歳を重ねて色んな人と出会い、色んな恋愛を経験してきた今、ガガが歌っていることが痛いほどわかる。
+この曲の核心は、「Don't call my name」——名前を呼ばれたら、もう引き返せなくなる、という切実な願い。愛したい気持ちと、自分の人生を守りたい気持ちの間で揺れる、多くの人が経験する葛藤を歌っている。
 
-愛することの怖さ。自分の人生を守ることの大切さ。そして、それでも誰かを求めてしまう弱さ。
-
-この曲は、恋愛経験を重ねた人なら誰もが一度は感じたことがある葛藤を歌っている。「この人を愛したら、自分の人生が変わってしまう」「でも、この気持ちは本物だ」——そんな矛盾した感情の間で揺れた経験がある人には、深く響く曲だと思う。
-
-大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
-
-「Alejandro」は、愛したい気持ちと、自分の人生を守りたい気持ちの間で揺れる、とても苦しい歌。だからこそ、この曲は強くて、美しくて、少し悲しい。
+**愛することの怖さ。自分の人生を守ることの大切さ。そして、それでも誰かを求めてしまう弱さ。**
 
 Netflixのドキュメンタリー「Gaga: Five Foot Two」では、キャリアが成功するほど恋愛がダメになっていく、と話すシーンが印象的。この映画の[リンク](/posts/gaga-five-foot-two)を付け、その話題も付け足しておく。
 
 ---
 
+### 大人になって、この曲に近づいた
+
+**この曲を初めて聞いたとき、正直あまりピンと来なかった。でも、歳を重ねて色んな人と出会い、色んな恋愛を経験してきた今、ガガが歌っていることが痛いほどわかる。**
+
+この曲は、恋愛経験を重ねた人なら誰もが一度は感じたことがある葛藤を歌っている。「この人を愛したら、自分の人生が変わってしまう」「でも、この気持ちは本物だ」——そんな矛盾した感情の間で揺れた経験がある人には、深く響く曲だと思う。
+
+大人になって聞くと、また違って聞こえる。それがこの曲の良さだ。
+
+**「Alejandro」は、愛したい気持ちと、自分の人生を守りたい気持ちの間で揺れる、とても苦しい歌。だからこそ、この曲は強くて、美しくて、少し悲しい。**
+
+---
+
 ## References <span class="section-subtitle">参考情報</span>
+
+### 公式MV
+
+- [Alejandro - Official Music Video](https://www.youtube.com/watch?v=niqrrmev4mA)
 
 ### その他
 
-- [Alejandro - Apple Music](Apple Music の曲リンク)
-- [Alejandro - Spotify](Spotify の曲リンク)
+- [Alejandro - Apple Music](https://music.apple.com/jp/album/alejandro/1440812340?i=1440812341)
+- [Alejandro - Spotify](https://open.spotify.com/track/1aXQzYgk4Ygqj0K8jXo5vM)
 
 ---
