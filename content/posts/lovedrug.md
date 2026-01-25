@@ -18,7 +18,7 @@ highlights:
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rLH59aRkyQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dq3YekeFGi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -160,7 +160,7 @@ LoveDrug は、過去の恋を責める曲でも、相手を悪者にする曲�
 
 ### 公式MV
 
-- [LoveDrug - Official Music Video](https://www.youtube.com/watch?v=rLH59aRkyQc)
+- [LoveDrug - Official Music Video](https://www.youtube.com/watch?v=dq3YekeFGi8)
 
 ### その他
 

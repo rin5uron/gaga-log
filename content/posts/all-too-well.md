@@ -15,8 +15,7 @@ highlights:
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
-<!-- YouTubeの公式動画URLが見つかり次第、VIDEO_IDを置き換えてください -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPnqx56V8-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -164,6 +163,7 @@ highlights:
 
 ### 公式MV
 
+- [All Too Well (10 Minute Version) (Taylor's Version) - Official Audio](https://www.youtube.com/watch?v=aPnqx56V8-0)
 - [All Too Well: The Short Film - YouTube](https://www.youtube.com/watch?v=tollGa3S0o8)
 
 ### インタビュー・発言

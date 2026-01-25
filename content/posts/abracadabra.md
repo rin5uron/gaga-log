@@ -16,7 +16,7 @@ highlights:
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBynw9Isr28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -174,7 +174,7 @@ highlights:
 
 ### 公式MV
 
-- [Abracadabra - Official Music Video](https://www.youtube.com/watch?v=)
+- [Abracadabra - Official Music Video](https://www.youtube.com/watch?v=vBynw9Isr28)
 
 ### インタビュー・発言
 
