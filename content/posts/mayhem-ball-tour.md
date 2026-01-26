@@ -55,7 +55,7 @@ highlights:
 
 ### 日本公演情報（2026年1月）
 
-**4年ぶりの来日公演が決定。自身初のドームツアー全6公演。**
+**4年ぶりの来日公演！！。自身初のドームツアー全6公演。**
 
 <div class="japan-tour-card">
 
@@ -125,25 +125,58 @@ highlights:
 
 **情報の出典：** [setlist.fm - Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025)](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
 
-<div class="setlist-container">
+#### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
-#### Act I: Of Velvet And Vice（ベルベットと悪徳の）<a id="act-i" href="#highlights-acts"></a>
+1. The Art of Personal Chaos
+2. Bloody Mary
+3. Abracadabra
+4. Judas
+5. Aura
+6. Scheiße
 
-**オープニングアクトの特徴：**ベルベットと悪徳をテーマにした、ダークで官能的な世界観。ツアーの基調を決定づける重要なアクト。
+#### Act II: And She Fell Into A Gothic Dream（そして彼女はゴシックな夢に堕ちた）
 
-<div class="setlist-act">
-<div class="setlist-song">
-<div class="setlist-song-header">
-<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
-<span class="setlist-song-version">（録音イントロ）</span>
-</div>
-<div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> アルバム『Mayhem』のイントロトラック。「個人的な混沌の芸術」がツアー全体のテーマを示唆。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアー全体の雰囲気を決定づける導入部分。ここから物語が始まる。
-</div>
-</div>
+7. Garden of Eden
+8. Poker Face
+9. Abracadabra
+10. Perfect Celebrity
+11. Disease
+12. Paparazzi
+
+#### Act III: The Beautiful Nightmare That Knows Her Name（彼女の名を知る美しい悪夢）
+
+13. LoveGame
+14. Alejandro
+15. The Beast
+16. Killah
+17. Zombieboy
+18. LoveDrug
+19. Applause
+20. Just Dance
+
+#### Act IV: Every Chessboard Has Two Queens（すべてのチェス盤には2人の女王がいる）
+
+21. Wake Her Up!
+22. Shadow of a Man
+23. Kill for Love
+24. Summerboy
+25. Born This Way
+
+#### Finale: Eternal Aria Of The Monster Heart（モンスターの心の永遠のアリア）
+
+26. Million Reasons
+27. Shallow
+28. Die With a Smile
+29. Vanish Into You
+30. Bad Romance
+
+#### Encore（アンコール）
+
+31. Credits
+32. How Bad Do U Want Me
+33. ARTPOP
+
+---
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>
@@ -534,17 +567,36 @@ highlights:
 
 ## Highlights <span class="section-subtitle">セトリで押さえておきたいポイント</span>
 
-### 久々の復活曲——ファンへのギフト
+### 各曲の詳細
 
-**「Summerboy」は2007年以来18年ぶりのライブ披露。**
+<div class="setlist-container">
 
-特に「Summerboy」は、ガガ初期の隠れた名曲。ギターでシンプルに歌う姿は、原点回帰を感じさせる。
+#### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
-**「Paparazzi」のフル版は2014年以来11年ぶりのライブ披露。**
+<div class="setlist-act">
 
-**「Aura」や「Applause」も2020年以来5年ぶりのライブ披露。**
-
-このツアーは、新曲だけでなく、ファンが長年待ち望んでいた曲も含まれている。
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
+</div>
+<div class="setlist-song-info">
+🎵 アルバム『MAYHEM』のイントロトラック
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
+</div>
+<div class="setlist-song-highlight">
+<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックな演出とグレゴリオ聖歌のサンプリングに注目
+</div>
+<div class="setlist-song-sing">
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
+</div>
+</div>
 
 ---
 
