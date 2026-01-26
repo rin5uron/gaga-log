@@ -894,7 +894,7 @@ body {
 .checklist-box {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
-  border-left: 4px solid #3b82f6;
+  border-left: 4px solid #64748b;
   border-radius: 0.5rem;
   padding: 1.25rem;
   margin: 1.5rem 0;
@@ -926,30 +926,30 @@ body {
   margin-bottom: 0;
 }
 
-/* ③ 公式情報・注意喚起枠 */
+/* ③ 体験談・情報枠 */
 .official-info-box {
-  background-color: #eff6ff;
-  border: 1px solid #bfdbfe;
-  border-left: 4px solid #3b82f6;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #64748b;
   border-radius: 0.5rem;
   padding: 1.25rem;
   margin: 1.5rem 0;
 }
 
 .official-info-box h4 {
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 600;
-  color: #1e40af;
+  color: #111827;
   margin-top: 0;
-  margin-bottom: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .official-info-box p {
   font-size: 0.9375rem;
   line-height: 1.7;
-  color: #1e3a8a;
+  color: #374151;
   margin: 0.5rem 0;
 }
 
@@ -962,7 +962,7 @@ body {
 .official-info-box li {
   margin-bottom: 0.5rem;
   line-height: 1.7;
-  color: #1e3a8a;
+  color: #374151;
 }
 
 .official-info-box li:last-child {
