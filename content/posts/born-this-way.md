@@ -2,11 +2,19 @@
 title: "Born This Way"
 song: "Born This Way"
 artist: "Lady Gaga"
+album: "Born This Way"
+year: 2011
 date: "2026-01-02"
-updatedDate: "2026-01-21"
+updatedDate: "2026-01-25"
 order: 20
 type: "song"
-relatedPosts: ["poker-face"]
+description: "Lady Gaga「Born This Way（ボーン・ディス・ウェイ）」の歌詞の意味を徹底解説。「それでも私は私」——自分自身を受け入れること。多様性と自己受容についてのメッセージソング。"
+keywords: ["Born This Way", "ボーン・ディス・ウェイ", "Lady Gaga", "レディーガガ", "ガガ", "歌詞", "意味", "解説", "自己受容", "多様性", "LGBTQ", "グラミー賞", "みんなスーパースター", "クイーンになりなさい"]
+relatedPosts: ["poker-face", "bad-romance", "mayhem-ball-tour"]
+highlights:
+  - "We are all born superstars"——みんなスーパースターとして生まれてきた
+  - "Don't be a drag, just be a queen"——ドラッグじゃなくてクイーンになりなさい
+  - 多様性への言及——ゲイ、ストレート、バイ、レズビアン、トランスジェンダー、すべての人への受容
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
@@ -26,23 +34,40 @@ relatedPosts: ["poker-face"]
 
 ## About <span class="section-subtitle">この曲について</span>
 
+### <span class="section-subtitle">ガガ最大のメッセージソング</span>
+
 「Born This Way」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年5月23日リリース）のタイトルトラックとして、2011年2月11日にリリースされた楽曲。ガガとFernando Garibay、Jeppe Laursen、Paul Blair（DJ White Shadow）によって書かれ、プロデュースされた。
 
 この曲は、ガガのキャリアの中で最も重要なメッセージソングの一つ。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、世界中で大ヒットした。[2012年のグラミー賞では、最優秀女性ポップ・ボーカル・パフォーマンス賞にノミネート](https://www.grammy.com/awards/54th-annual-grammy-awards)された。
 
+リリース当時、LGBTQ+コミュニティの間で圧倒的な支持を受け、今でも多様性と自己受容を象徴する曲として歌い継がれている。
+
 ---
+
+### <span class="section-subtitle">「それでも私は私」——恋愛三部作の完結編</span>
 
 この曲が描いているのは、「それでも私は私」——自分自身を受け入れること。
 
 ガガは、この曲について「多様性と自己受容についての曲」と語っている。恋に壊れ、仮面を被った後、最後にたどり着くのは、自分自身を受け入れること。
 
-「Bad Romance」で壊れ、「Poker Face」で仮面を被った後、今度は本当の自分を受け入れる。それでも私は私。この曲の出発点。
+[Bad Romance](/posts/bad-romance)で壊れ、[Poker Face](/posts/poker-face)で仮面を被った後、今度は本当の自分を受け入れる。それでも私は私。この曲の出発点。
 
 ---
 
 
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+
+### <span class="section-subtitle">イントロの力強いメッセージ</span>
+
+この曲は、母親からの愛のメッセージで始まる。
+
+> My mama told me when I was young
+> We are all born superstars
+
+「ママが若いときに教えてくれた。私たちはみんなスーパースターとして生まれてきたって」
+
+この一節が、曲全体のトーンを決定づける。誰もが特別な存在として生まれてきた——それが、この曲の出発点だ。
 
 ### <span class="section-subtitle">"Born This Way"というフレーズ</span>
 

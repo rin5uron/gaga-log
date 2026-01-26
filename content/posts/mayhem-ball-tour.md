@@ -133,56 +133,91 @@ highlights:
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>（録音イントロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
+<span class="setlist-song-version">（録音イントロ）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> アルバム『Mayhem』のイントロトラック。「個人的な混沌の芸術」がツアー全体のテーマを示唆。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアー全体の雰囲気を決定づける導入部分。ここから物語が始まる。
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>（短縮版、オペラティック）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>
+<span class="setlist-song-version">（短縮版、オペラティック）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックな演出とグレゴリオ聖歌のサンプリングに注目
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">3.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>（アカペライントロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">3.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>
+<span class="setlist-song-version">（アカペライントロ）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> アカペライントロから始まる独特の演出。ツアーではアカペラ版とGesaffelstein Remix版の2バージョンが披露される。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Abracadabra, amor-ooh-na-na / Abracadabra, morta-ooh-ga-ga"
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">4.</span> <strong>[Judas](/posts/judas)</strong>（Abracadabraの要素を含む）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">4.</span> <strong>[Judas](/posts/judas)</strong>
+<span class="setlist-song-version">（Abracadabraの要素を含む）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 聖書のユダをモチーフに、悪いとわかっているのに惹かれてしまう自己破壊的な恋愛を描く。2011年『Born This Way』収録。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Abracadabraの要素が含まれたアレンジに注目。善と悪、光と闇の対比が激しいビートとともに展開される。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I'm in love with Judas" / 盛り上がり："Ju-da-ah-as, Juda-ah-ah-as"
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">5.</span> <strong>[Aura](/posts/aura)</strong>（短縮版、2020年以来ライブ初披露）
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。元タイトルは「Burqa（ブルカ）」。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
-
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Dance, sex, art, pop, tech"（この5つの言葉がガガを構成する）
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">6.</span> <strong>Scheiße</strong>（短縮版）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">5.</span> <strong>[Aura](/posts/aura)</strong>
+<span class="setlist-song-version">（短縮版、2020年以来ライブ初披露）</span>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。元タイトルは「Burqa（ブルカ）」。
+</div>
+<div class="setlist-song-highlight">
+<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
+</div>
+<div class="setlist-song-sing">
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Dance, sex, art, pop, tech"（この5つの言葉がガガを構成する）
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">6.</span> <strong>Scheiße</strong>
+<span class="setlist-song-version">（短縮版）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「Scheiße（シャイセ）」はドイツ語で「クソ」。女性の力と自由を歌うパワフルなアンセム。2011年『Born This Way』収録。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 短縮版だが、エネルギッシュなビートとガガの力強いボーカルが際立つ。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I don't speak German, but I can if you like" / 盛り上がり："Scheiße, scheiße, be mine"
+</div>
 </div>
 </div>
 
@@ -190,52 +225,85 @@ highlights:
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">7.</span> <strong>Garden of Eden</strong>（拡張オーケストラ・イントロ、ギター）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">7.</span> <strong>Garden of Eden</strong>
+<span class="setlist-song-version">（拡張オーケストラ・イントロ、ギター）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> エデンの園をモチーフに、楽園と現実の対比を描く。2025年『Mayhem』収録。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張オーケストラ・イントロとギターの組み合わせが印象的。ゴシックな世界観を表現。
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">8.</span> <strong>[Poker Face](/posts/poker-face)</strong>（オペラティック・イントロとアウトロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">8.</span> <strong>[Poker Face](/posts/poker-face)</strong>
+<span class="setlist-song-version">（オペラティック・イントロとアウトロ）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 本当の感情を隠す仮面を歌う。2008年『The Fame』収録。Billboard Hot 100で1位を記録したガガの世界的ヒット曲。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックなイントロとアウトロが追加された特別版。ポーカー用語に隠された二重の意味に注目。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："P-p-p-poker face, p-p-poker face" / "Can't read my poker face"
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">9.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>（Gesaffelstein Remix、録音ボールルームバトル）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">9.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>
+<span class="setlist-song-version">（Gesaffelstein Remix、録音ボールルームバトル）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Act Iで披露されたAbracadabraのリミックス版。ツアーでは同じ曲が2回披露される珍しい構成。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ボールルームバトル（ダンスバトル）の演出と、Gesaffelsteinによるダークなサウンドの変化に注目。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Abracadabra, amor-ooh-na-na / Abracadabra, morta-ooh-ga-ga"（リミックス版はよりダンサブルで激しい）
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">10.</span> <strong>Perfect Celebrity</strong>（短縮版）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">10.</span> <strong>Perfect Celebrity</strong>
+<span class="setlist-song-version">（短縮版）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 完璧なセレブリティという幻想と現実の対比を描く。2025年『Mayhem』収録。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> セレブリティ文化への批判と、その中で生きる葛藤が表現されている。
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">11.</span> <strong>Disease</strong>（拡張イントロ）
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">12.</span> <strong>[Paparazzi](/posts/paparazzi)</strong>（2014年以来ライブでフル披露）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">11.</span> <strong>Disease</strong>
+<span class="setlist-song-version">（拡張イントロ）</span>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。
+</div>
+<div class="setlist-song-highlight">
+<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">12.</span> <strong>[Paparazzi](/posts/paparazzi)</strong>
+<span class="setlist-song-version">（2014年以来ライブでフル披露）</span>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 名声への渇望と執着を描く。2009年『The Fame』収録。セレブリティ文化とメディアの関係性を鋭く観察した曲。
-
+</div>
+<div class="setlist-song-highlight">
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 2014年以来11年ぶりのフル版披露。MVの殺人と復讐のシーンを思い出しながら聴くと深まる。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I'm your biggest fan, I'll follow you until you love me" / "Promise I'll be kind"
+</div>
 </div>
 </div>
 
