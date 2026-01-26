@@ -36,8 +36,15 @@ highlights:
 ---
 
 ## About <span class="section-subtitle">ツアー情報</span>
+**アルバム『Mayhem』のワールドツアー**
+he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー
 
-**The MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー・ガガ）の8番目のコンサートツアー。**
+2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕。2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。
+
+アジア、ヨーロッパ、北米、オセアニアを巡る全87公演のツアー。
+
+
+**MAYHEM の意味とは。**
 
 「メイヘム（Mayhem）」とは和訳すると「大混乱」「騒動」等の意。アルバム『Mayhem』（2025年）のコンセプトを体現したツアーです。
 
@@ -45,11 +52,7 @@ highlights:
 
 「Ball」は一般的に舞踏会や大規模なイベントを指す言葉ですが、このツアーでは公式に明確な説明はありません。ガガはこのツアーを「演劇的で電撃的な体験」と表現しており、単なるコンサートではなく、一つの芸術作品として構成されています。
 
-**このツアーは、アルバム『Mayhem』のワールドツアーとして開催されます。**
 
-2025年7月16日にアメリカ・パラダイスのT-Mobile Arenaで開幕。2026年4月13日にニューヨークのマディソン・スクエア・ガーデンで閉幕予定。
-
-アジア、ヨーロッパ、北米、オセアニアを巡る全87公演のツアー。
 
 ---
 
@@ -125,6 +128,8 @@ highlights:
 
 **情報の出典：** [setlist.fm - Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025)](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
 
+<div class="setlist-simple">
+
 #### Act I: Of Velvet And Vice（ベルベットと悪徳の）
 
 1. The Art of Personal Chaos
@@ -176,80 +181,59 @@ highlights:
 32. How Bad Do U Want Me
 33. ARTPOP
 
+</div>
+
 ---
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>
-<span class="setlist-song-version">（短縮版、オペラティック）</span>
+<span class="setlist-song-number">2.</span> <strong>Bloody Mary</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックな演出とグレゴリオ聖歌のサンプリングに注目
+🎵 マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
+🎤 サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">3.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>
-<span class="setlist-song-version">（アカペライントロ）</span>
+<span class="setlist-song-number">3.</span> <strong>Abracadabra</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> アカペライントロから始まる独特の演出。ツアーではアカペラ版とGesaffelstein Remix版の2バージョンが披露される。
-</div>
-<div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Abracadabra, amor-ooh-na-na / Abracadabra, morta-ooh-ga-ga"
+🎵 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">4.</span> <strong>[Judas](/posts/judas)</strong>
-<span class="setlist-song-version">（Abracadabraの要素を含む）</span>
+<span class="setlist-song-number">4.</span> <strong>Judas</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 聖書のユダをモチーフに、悪いとわかっているのに惹かれてしまう自己破壊的な恋愛を描く。2011年『Born This Way』収録。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Abracadabraの要素が含まれたアレンジに注目。善と悪、光と闇の対比が激しいビートとともに展開される。
+🎵 聖書のユダをモチーフに、悪いとわかっているのに惹かれてしまう自己破壊的な恋愛を描く。2011年『Born This Way』収録。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I'm in love with Judas" / 盛り上がり："Ju-da-ah-as, Juda-ah-ah-as"
+🎤 サビ："I'm in love with Judas" / 盛り上がり："Ju-da-ah-as, Juda-ah-ah-as"
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">5.</span> <strong>[Aura](/posts/aura)</strong>
-<span class="setlist-song-version">（短縮版、2020年以来ライブ初披露）</span>
+<span class="setlist-song-number">5.</span> <strong>Aura</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。元タイトルは「Burqa（ブルカ）」。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
+🎵 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Dance, sex, art, pop, tech"（この5つの言葉がガガを構成する）
+🎤 歌い出し："Enigma popstar is fun" / "I killed my former and left her in the trunk on highway 10"
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">6.</span> <strong>Scheiße</strong>
-<span class="setlist-song-version">（短縮版）</span>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「Scheiße（シャイセ）」はドイツ語で「クソ」。女性の力と自由を歌うパワフルなアンセム。2011年『Born This Way』収録。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 短縮版だが、エネルギッシュなビートとガガの力強いボーカルが際立つ。
+🎵 「Scheiße（シャイセ）」はドイツ語で「クソ」。女性の力と自由を歌うパワフルなアンセム。2011年『Born This Way』収録。エネルギッシュなビートとガガの力強いボーカルが際立つ。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I don't speak German, but I can if you like" / 盛り上がり："Scheiße, scheiße, be mine"
+🎤 難易度高めだが、盛り上がり部分だけでも参加できる
 </div>
 </div>
 </div>
@@ -260,82 +244,58 @@ highlights:
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">7.</span> <strong>Garden of Eden</strong>
-<span class="setlist-song-version">（拡張オーケストラ・イントロ、ギター）</span>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> エデンの園をモチーフに、楽園と現実の対比を描く。2025年『Mayhem』収録。
+🎵 エデンの園をモチーフに、楽園と現実の対比を描く。2025年『Mayhem』収録。拡張オーケストラ・イントロとギターの組み合わせが印象的。ゴシックな世界観を表現。
 </div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張オーケストラ・イントロとギターの組み合わせが印象的。ゴシックな世界観を表現。
+<div class="setlist-song-sing">
+🎤 サビ部分を一緒に歌える
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">8.</span> <strong>[Poker Face](/posts/poker-face)</strong>
-<span class="setlist-song-version">（オペラティック・イントロとアウトロ）</span>
+<span class="setlist-song-number">8.</span> <strong>Poker Face</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 本当の感情を隠す仮面を歌う。2008年『The Fame』収録。Billboard Hot 100で1位を記録したガガの世界的ヒット曲。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックなイントロとアウトロが追加された特別版。ポーカー用語に隠された二重の意味に注目。
+🎵 本当の感情を隠す仮面を歌う。2008年『The Fame』収録。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："P-p-p-poker face, p-p-poker face" / "Can't read my poker face"
+🎤 サビ："P-p-p-poker face, p-p-poker face" / "Can't read my poker face"
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">9.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>
-<span class="setlist-song-version">（Gesaffelstein Remix、録音ボールルームバトル）</span>
+<span class="setlist-song-number">9.</span> <strong>Abracadabra</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Act Iで披露されたAbracadabraのリミックス版。ツアーでは同じ曲が2回披露される珍しい構成。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ボールルームバトル（ダンスバトル）の演出と、Gesaffelsteinによるダークなサウンドの変化に注目。
-</div>
-<div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Abracadabra, amor-ooh-na-na / Abracadabra, morta-ooh-ga-ga"（リミックス版はよりダンサブルで激しい）
+🎵 Act Iで披露されたAbracadabraのリミックス版。ツアーでは同じ曲が2回披露される珍しい構成。ボールルームバトル（ダンスバトル）の演出と、Gesaffelsteinによるダークなサウンドの変化に注目。
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">10.</span> <strong>Perfect Celebrity</strong>
-<span class="setlist-song-version">（短縮版）</span>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 完璧なセレブリティという幻想と現実の対比を描く。2025年『Mayhem』収録。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> セレブリティ文化への批判と、その中で生きる葛藤が表現されている。
+🎵 完璧なセレブリティという幻想と現実の対比を描く。2025年『Mayhem』収録。セレブリティ文化への批判と、その中で生きる葛藤が表現されている。
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">11.</span> <strong>Disease</strong>
-<span class="setlist-song-version">（拡張イントロ）</span>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
+🎵 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
 </div>
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">12.</span> <strong>[Paparazzi](/posts/paparazzi)</strong>
-<span class="setlist-song-version">（2014年以来ライブでフル披露）</span>
+<span class="setlist-song-number">12.</span> <strong>Paparazzi</strong>
 </div>
 <div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 名声への渇望と執着を描く。2009年『The Fame』収録。セレブリティ文化とメディアの関係性を鋭く観察した曲。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 2014年以来11年ぶりのフル版披露。MVの殺人と復讐のシーンを思い出しながら聴くと深まる。
+🎵 名声への渇望と執着を描く。2009年『The Fame』収録。セレブリティ文化とメディアの関係性を鋭く観察した曲。2014年以来11年ぶりのフル版披露。
 </div>
 <div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I'm your biggest fan, I'll follow you until you love me" / "Promise I'll be kind"
+🎤 "Pa-pa-pa-paparazzi"部分 / サビ："I'm your biggest fan, I'll follow you until you love me"
 </div>
 </div>
 </div>
@@ -344,13 +304,9 @@ highlights:
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">13.</span> <strong>[LoveGame](/posts/lovegame)</strong>（短縮版）
+<span class="setlist-song-number">13.</span> <strong>LoveGame</strong>
 
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「Disco Stick」——NYU図書館で生まれた大胆なメタファー。2008年『The Fame』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ダンサブルで中毒性のあるビートが印象的。クラブでの性的魅力への衝動を表現。
-
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I wanna take a ride on your disco stick" / "Love game, love game, I wanna play"
+🎵 ダンサブルで中毒性のあるビートが印象的なクラブアンセム。2008年『The Fame』収録。テンポが良く、ノリやすい曲。
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">14.</span> <strong>[Alejandro](/posts/alejandro)</strong>（短縮版）
@@ -374,6 +330,8 @@ highlights:
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> キラー（殺し屋）をモチーフに、破壊的な力と魅力を描く。2025年『Mayhem』収録。
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロとアウトロが追加された特別版。ダークでエネルギッシュなサウンドに注目。
+
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 繰り返し："Killer, killer, killer"
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">17.</span> <strong>Zombieboy</strong>（拡張イントロ/アウトロ）
@@ -398,7 +356,7 @@ highlights:
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 2020年以来5年ぶりのライブ披露。エレクトロポップとダンスポップのサウンドが印象的。
 
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I live for the applause, applause, applause" / 盛り上がり："Put your hands up, make 'em touch, touch"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 難易度が高いため、"Just dance"部分だけ歌えればOK。もしくは"I live for the applause"ワンフレーズ集中。"完璧に歌う"ではなく"参加する"前提で楽しもう。
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">20.</span> <strong>[Just Dance](/posts/just-dance)</strong>
@@ -420,6 +378,8 @@ highlights:
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアーの転換点となる曲。2025年『Mayhem』収録。
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 録音版だが、次のアクトへの橋渡しとして重要な役割を果たす。ツアーの物語の展開を感じられる。
+
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> コーラス部分だけでOK
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">22.</span> <strong>Shadow of a Man</strong>（拡張イントロ）
@@ -427,6 +387,8 @@ highlights:
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 男性の影、過去の関係の影をテーマにした感情的なバラード。2025年『Mayhem』収録。
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
+
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> コーラス部分のみ
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">23.</span> <strong>Kill for Love</strong>（ライブ初披露、スタンドアロン）
@@ -449,7 +411,7 @@ highlights:
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロが追加された特別版。多様性を受け入れるメッセージが力強く表現される。
 
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I was born this way" / "I'm beautiful in my way / 'Cause God makes no mistakes"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> まず押さえるポイント：冒頭"This way"、サビ、"Don't be a drag, just be a queen"。"Don't be a drag, just be a queen"は繰り返し強調される。本当はフルで歌いたい曲だが、最低限この3点は絶対に押さえる。
 </div>
 </div>
 
@@ -481,7 +443,7 @@ highlights:
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアーではガガがソロで歌う。原曲とは違う、よりシンプルで親密な演出に注目。
 
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："If the world was ending / I'd wanna be next to you" / "I'd wanna hold you just for a while / And die with a smile"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> "I'm falling" / "I'm falling for change"（上記2フレーズだけ歌えるようにする）
 </div>
 <div class="setlist-song">
 <span class="setlist-song-number">29.</span> <strong>Vanish Into You</strong>
@@ -497,7 +459,7 @@ highlights:
 
 <img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> フィナーレのクライマックス。ガガの代表曲の一つ。MVの棺桶シーンを思い出しながら聴くと深まる。
 
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Ra-ra-ah-ah-ah / Roma-roma-ma / Gaga, ooh-la-la / Want your bad romance" / "Caught in a bad romance"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> "La-la-la"部分はそのまま。冒頭の"I want your love" / "I want your disease"が歌えるように明示。
 </div>
 </div>
 
@@ -535,22 +497,13 @@ highlights:
 
 <div class="setlist-features">
 
-**このセットリストは、アルバム『Mayhem』の新曲と、過去の名曲をバランスよくブレンドしています。**
+**このセットリストは、アルバム『Mayhem』の新曲と、過去の名曲がバランスよく入った神セットリスト！。**
 
 **セットリストは公演ごとに変わる可能性があります。**以下は、ラスベガス公演での傾向です。
 
-#### 初披露曲
-
-- **LoveDrug** - ライブ初披露
-- **Kill for Love** - ライブ初披露
-- **The Beast** - ライブ初披露
-
-#### 久々の復活曲
-
-- **Summerboy** - 2007年以来18年ぶりのライブ披露
-- **Paparazzi** - 2014年以来11年ぶりのライブでフル披露
-- **Aura** - 2020年以来5年ぶりのライブ披露
-- **Applause** - 2020年以来5年ぶりのライブ披露
+- **初披露曲を含む** - Abracadabra、Kill For Love、The Beast
+- **久々に披露される楽曲が含まれる**
+- **日替わり要素を導入している印象あり**
 
 #### 構成の流れ
 
@@ -558,10 +511,6 @@ highlights:
 - **オペラティック要素** - Bloody Mary、Poker Faceなど、オペラティックな演出が随所に
 
 </div>
-
-**ガガは、2025年9月にアルバム『Mayhem』のデジタル再リリースに追加された「The Dead Dance」をセットリストに加え、全30曲に拡張した（Act III終盤に追加）。**
-
-**また、2025年8月22日のマディソン・スクエア・ガーデン公演から、日替わり要素を導入している。**
 
 ---
 
@@ -600,17 +549,7 @@ highlights:
 
 ---
 
-## After Watching <span class="section-subtitle">ライブを見た後に語りたくなるポイント</span>
 
-**スタジアムではなくアリーナを選んだガガの判断は、このツアーの本質を物語っている。**
-
-より多くのチケットを売ることよりも、質の高い体験を届けること。それが、ガガの優先順位だ。
-
-**アルバム『Mayhem』——混沌。**
-
-このツアーは、その混沌を視覚的、音楽的、演劇的に表現している。美しさと狂気、光と闇、過去と現在——すべてが混ざり合い、一つの芸術体験になる。それが、The MAYHEM Ballだ。
-
----
 
 ## Resonance <span class="section-subtitle">ガガだからこそ実現——短期間でのハイクオリティツアー</span>
 
@@ -634,9 +573,7 @@ highlights:
 
 過去のガガの来日公演では、日本のファンへの特別なメッセージや、日本語での挨拶が話題になりました。The MAYHEM Ball日本公演でも、同様の演出が期待できます。
 
-**また、ガガは2025年8月のマディソン・スクエア・ガーデン公演から日替わり要素を導入しています。**
 
-日本公演でも、毎公演異なるサプライズ曲が披露される可能性があります。行く前に公式情報とファンレポートを確認しておくと安心です。
 
 ---
 
@@ -644,6 +581,22 @@ highlights:
 **会場導線、持ち物、物販、当日の流れは、公式案内に加えて、ファンブログ・レポまとめを事前にチェックしておくと安心です。**
 
 公式サイトで最新情報を確認し、当日の準備を整えましょう。
+
+---
+
+## まとめ <span class="section-subtitle">この公演で歌う楽しさ</span>
+
+**この公演は「みんなで歌う」楽しさが大きい。**
+
+歌詞はフル暗記より、ワンフレーズ覚えるのがおすすめ。
+
+**特に歌いやすい曲**
+- Shallow
+
+**絶対に歌いたい2曲（Born This Way系）**
+- この2曲はフルで覚える勢いでも◎
+
+---
 
 ## References <span class="section-subtitle">参考情報</span>
 
