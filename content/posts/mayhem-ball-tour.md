@@ -388,45 +388,53 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">21.</span> <strong>Wake Her Up!</strong>（録音セグメント）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">21.</span> <strong>Wake Her Up!</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアーの転換点となる曲。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 録音版だが、次のアクトへの橋渡しとして重要な役割を果たす。ツアーの物語の展開を感じられる。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> コーラス部分だけでOK
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">22.</span> <strong>Shadow of a Man</strong>（拡張イントロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">22.</span> <strong>Shadow of a Man</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 男性の影、過去の関係の影をテーマにした感情的なバラード。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> コーラス部分のみ
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">23.</span> <strong>Kill for Love</strong>（ライブ初披露、スタンドアロン）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">23.</span> <strong>Kill for Love</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 愛のために殺す——極端な愛の表現をテーマにしたダークなバラード。2025年『Mayhem』収録。ライブ初披露。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> スタンドアロン（単独）で披露される感情的な演出。ガガの感情表現に注目。
+</div>
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">24.</span> <strong>Summerboy</strong>（短縮版、2007年以来ライブ初披露、ギター）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">24.</span> <strong>Summerboy</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ガガ初期の隠れた名曲。2008年『The Fame』収録。2007年以来18年ぶりのライブ披露。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ギターでシンプルに歌う姿に注目。ガガの原点、デビュー前の姿を感じられる貴重な瞬間。
+</div>
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">25.</span> <strong>[Born This Way](/posts/born-this-way)</strong>（拡張イントロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">25.</span> <strong>Born This Way</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「それでも私は私」——自分自身を受け入れること。多様性と自己受容についてのメッセージソング。2011年『Born This Way』収録。Billboard Hot 100で1位を記録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロが追加された特別版。多様性を受け入れるメッセージが力強く表現される。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> まず押さえるポイント：冒頭"This way"、サビ、"Don't be a drag, just be a queen"。"Don't be a drag, just be a queen"は繰り返し強調される。本当はフルで歌いたい曲だが、最低限この3点は絶対に押さえる。
+</div>
 </div>
 </div>
 
@@ -434,47 +442,56 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">26.</span> <strong>[Million Reasons](/posts/million-reasons)</strong>（拡張イントロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">26.</span> <strong>Million Reasons</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 去るべき100万の理由があっても、1つの理由で留まってしまう葛藤。2016年『Joanne』収録。元婚約者との別れ、父親との関係、信仰への疑問が背景にある。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロから始まる感情的な演出。カントリーとポップの融合バラード。ガガのボーカルの表現力が際立つ。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I've got a hundred million reasons to walk away / But baby, I just need one good one to stay"
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">27.</span> <strong>[Shallow](/posts/shallow)</strong>
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">27.</span> <strong>Shallow</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 浅瀬にいるままでいいの？深い場所へ飛び込む勇気を歌う。映画「A Star Is Born」の劇中歌。アカデミー賞歌曲賞受賞。Billboard Hot 100で1位を記録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 映画ではBradley Cooperとのデュエットだったが、ツアーではガガがソロで歌う。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："In the shallow, shallow" / 盛り上がり："I'm falling"
 </div>
+</div>
 <div class="setlist-song">
-<span class="setlist-song-number">28.</span> <strong>[Die With a Smile](/posts/die-with-a-smile)</strong>（ソロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">28.</span> <strong>Die With a Smile</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「もし世界が終わるなら、君の隣にいたい」——ガガとBruno Marsが一晩で完成させた奇跡のコラボ。2024年リリース。グラミー賞最優秀ポップ・デュオ/グループ・パフォーマンス賞を受賞。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアーではガガがソロで歌う。原曲とは違う、よりシンプルで親密な演出に注目。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> "I'm falling" / "I'm falling for change"（上記2フレーズだけ歌えるようにする）
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">29.</span> <strong>Vanish Into You</strong>
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> あなたの中に消える——愛する人と一体化する瞬間を描く感情的なバラード。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> フィナーレの重要な曲。ガガのボーカルの表現力と感情的なメロディに注目。
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">30.</span> <strong>[Bad Romance](/posts/bad-romance)</strong>
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">29.</span> <strong>Vanish Into You</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> あなたの中に消える——愛する人と一体化する瞬間を描く感情的なバラード。2025年『Mayhem』収録。
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">30.</span> <strong>Bad Romance</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 破壊的でありながら逃れられない恋愛。完璧な愛ではなく、欠点まで受け入れる強烈な渇望。2009年『The Fame Monster』収録。グラミー賞最優秀女性ポップ・ボーカル・パフォーマンス賞を受賞。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> フィナーレのクライマックス。ガガの代表曲の一つ。MVの棺桶シーンを思い出しながら聴くと深まる。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> "La-la-la"部分はそのまま。冒頭の"I want your love" / "I want your disease"が歌えるように明示。
+</div>
 </div>
 </div>
 
@@ -482,25 +499,28 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 <div class="setlist-act">
 <div class="setlist-song">
-<span class="setlist-song-number">31.</span> <strong>Credits</strong>（録音）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">31.</span> <strong>Credits</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ツアーのエンディングクレジット。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 録音版だが、ツアーの締めくくりとして重要な役割。ツアーの物語の完結を感じられる。
+</div>
 </div>
 <div class="setlist-song">
+<div class="setlist-song-header">
 <span class="setlist-song-number">32.</span> <strong>How Bad Do U Want Me</strong>
-
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> どれだけ私が欲しいのか——誘惑と欲望をテーマにしたダンサブルな曲。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> アンコールの盛り上がり曲。ダンサブルなビートとガガの力強いボーカルに注目。
+</div>
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">33.</span> <strong>ARTPOP</strong>（録音アウトロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">33.</span> <strong>ARTPOP</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 2013年アルバム『ARTPOP』のタイトルトラック。アートとポップの融合をテーマにした曲。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 録音版だが、ツアーの最終的な締めくくりとして重要な役割。ツアーの最終的なメッセージを感じられる。
+</div>
 </div>
 </div>
 
