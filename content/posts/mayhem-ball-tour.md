@@ -189,10 +189,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">2.</span> <strong>Bloody Mary</strong>
 </div>
 <div class="setlist-song-info">
-🎵 マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
 </div>
 <div class="setlist-song-sing">
-🎤 サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
 </div>
 </div>
 <div class="setlist-song">
@@ -200,7 +200,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">3.</span> <strong>Abracadabra</strong>
 </div>
 <div class="setlist-song-info">
-🎵 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
 </div>
 </div>
 <div class="setlist-song">
@@ -208,10 +208,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">4.</span> <strong>Judas</strong>
 </div>
 <div class="setlist-song-info">
-🎵 聖書のユダをモチーフに、悪いとわかっているのに惹かれてしまう自己破壊的な恋愛を描く。2011年『Born This Way』収録。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 聖書のユダをモチーフに、悪いとわかっているのに惹かれてしまう自己破壊的な恋愛を描く。2011年『Born This Way』収録。
 </div>
 <div class="setlist-song-sing">
-🎤 サビ："I'm in love with Judas" / 盛り上がり："Ju-da-ah-as, Juda-ah-ah-as"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I'm in love with Judas" / 盛り上がり："Ju-da-ah-as, Juda-ah-ah-as"
 </div>
 </div>
 <div class="setlist-song">
@@ -219,10 +219,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">5.</span> <strong>Aura</strong>
 </div>
 <div class="setlist-song-info">
-🎵 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 有名人としての仮面と本当の自分を歌う。2013年『ARTPOP』収録。マリアッチとEDM、ウエスタンギターが融合した独特のサウンド。2020年以来5年ぶりのライブ披露。
 </div>
 <div class="setlist-song-sing">
-🎤 歌い出し："Enigma popstar is fun" / "I killed my former and left her in the trunk on highway 10"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 歌い出し："Enigma popstar is fun" / "I killed my former and left her in the trunk on highway 10"
 </div>
 </div>
 <div class="setlist-song">
@@ -230,10 +230,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">6.</span> <strong>Scheiße</strong>
 </div>
 <div class="setlist-song-info">
-🎵 「Scheiße（シャイセ）」はドイツ語で「クソ」。女性の力と自由を歌うパワフルなアンセム。2011年『Born This Way』収録。エネルギッシュなビートとガガの力強いボーカルが際立つ。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「Scheiße（シャイセ）」はドイツ語で「クソ」。女性の力と自由を歌うパワフルなアンセム。2011年『Born This Way』収録。エネルギッシュなビートとガガの力強いボーカルが際立つ。
 </div>
 <div class="setlist-song-sing">
-🎤 難易度高めだが、盛り上がり部分だけでも参加できる
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 難易度高めだが、盛り上がり部分だけでも参加できる
 </div>
 </div>
 </div>
@@ -246,10 +246,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">7.</span> <strong>Garden of Eden</strong>
 </div>
 <div class="setlist-song-info">
-🎵 エデンの園をモチーフに、楽園と現実の対比を描く。2025年『Mayhem』収録。拡張オーケストラ・イントロとギターの組み合わせが印象的。ゴシックな世界観を表現。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> エデンの園をモチーフに、楽園と現実の対比を描く。2025年『Mayhem』収録。拡張オーケストラ・イントロとギターの組み合わせが印象的。ゴシックな世界観を表現。
 </div>
 <div class="setlist-song-sing">
-🎤 サビ部分を一緒に歌える
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ部分を一緒に歌える
 </div>
 </div>
 <div class="setlist-song">
@@ -257,10 +257,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">8.</span> <strong>Poker Face</strong>
 </div>
 <div class="setlist-song-info">
-🎵 本当の感情を隠す仮面を歌う。2008年『The Fame』収録。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 本当の感情を隠す仮面を歌う。2008年『The Fame』収録。
 </div>
 <div class="setlist-song-sing">
-🎤 サビ："P-p-p-poker face, p-p-poker face" / "Can't read my poker face"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："P-p-p-poker face, p-p-poker face" / "Can't read my poker face"
 </div>
 </div>
 <div class="setlist-song">
@@ -268,7 +268,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">9.</span> <strong>Abracadabra</strong>
 </div>
 <div class="setlist-song-info">
-🎵 Act Iで披露されたAbracadabraのリミックス版。ツアーでは同じ曲が2回披露される珍しい構成。ボールルームバトル（ダンスバトル）の演出と、Gesaffelsteinによるダークなサウンドの変化に注目。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Act Iで披露されたAbracadabraのリミックス版。ツアーでは同じ曲が2回披露される珍しい構成。ボールルームバトル（ダンスバトル）の演出と、Gesaffelsteinによるダークなサウンドの変化に注目。
 </div>
 </div>
 <div class="setlist-song">
@@ -276,7 +276,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">10.</span> <strong>Perfect Celebrity</strong>
 </div>
 <div class="setlist-song-info">
-🎵 完璧なセレブリティという幻想と現実の対比を描く。2025年『Mayhem』収録。セレブリティ文化への批判と、その中で生きる葛藤が表現されている。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 完璧なセレブリティという幻想と現実の対比を描く。2025年『Mayhem』収録。セレブリティ文化への批判と、その中で生きる葛藤が表現されている。
 </div>
 </div>
 <div class="setlist-song">
@@ -284,7 +284,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">11.</span> <strong>Disease</strong>
 </div>
 <div class="setlist-song-info">
-🎵 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 病気や依存、心の病をテーマにしたダークなバラード。2025年『Mayhem』収録。拡張イントロから始まる感情的な演出。ガガのボーカルの表現力が際立つ。
 </div>
 </div>
 <div class="setlist-song">
@@ -292,10 +292,10 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <span class="setlist-song-number">12.</span> <strong>Paparazzi</strong>
 </div>
 <div class="setlist-song-info">
-🎵 名声への渇望と執着を描く。2009年『The Fame』収録。セレブリティ文化とメディアの関係性を鋭く観察した曲。2014年以来11年ぶりのフル版披露。
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 名声への渇望と執着を描く。2009年『The Fame』収録。セレブリティ文化とメディアの関係性を鋭く観察した曲。2014年以来11年ぶりのフル版披露。
 </div>
 <div class="setlist-song-sing">
-🎤 "Pa-pa-pa-paparazzi"部分 / サビ："I'm your biggest fan, I'll follow you until you love me"
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> "Pa-pa-pa-paparazzi"部分 / サビ："I'm your biggest fan, I'll follow you until you love me"
 </div>
 </div>
 </div>
@@ -304,68 +304,83 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 <div class="setlist-act">
 <div class="setlist-song">
+<div class="setlist-song-header">
 <span class="setlist-song-number">13.</span> <strong>LoveGame</strong>
-
-🎵 ダンサブルで中毒性のあるビートが印象的なクラブアンセム。2008年『The Fame』収録。テンポが良く、ノリやすい曲。
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ダンサブルで中毒性のあるビートが印象的なクラブアンセム。2008年『The Fame』収録。テンポが良く、ノリやすい曲。
+</div>
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">14.</span> <strong>[Alejandro](/posts/alejandro)</strong>（短縮版）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">14.</span> <strong>Alejandro</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 愛したいけど愛せない葛藤。ABBAの「Fernando」からインスピレーションを受けた曲。2009年『The Fame Monster』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> Alejandro、Fernando、Robertoという三つの名前のリズミカルな繰り返しが印象的。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Don't call my name, don't call my name" / 盛り上がり："Alejandro, Fernando, Roberto"
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">15.</span> <strong>The Beast</strong>（ライブ初披露、ギター）
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 内なる獣、自分の中の闇をテーマにしたダークなバラード。2025年『Mayhem』収録。ツアーでライブ初披露。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ギターでシンプルに歌う姿が印象的。ガガのボーカルの表現力と、内なる闇への対峙に注目。
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">16.</span> <strong>Killah</strong>（拡張イントロ/アウトロ）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">15.</span> <strong>The Beast</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 内なる獣、自分の中の闇をテーマにしたダークなバラード。2025年『Mayhem』収録。ツアーでライブ初披露。
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">16.</span> <strong>Killah</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> キラー（殺し屋）をモチーフに、破壊的な力と魅力を描く。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロとアウトロが追加された特別版。ダークでエネルギッシュなサウンドに注目。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 繰り返し："Killer, killer, killer"
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">17.</span> <strong>Zombieboy</strong>（拡張イントロ/アウトロ）
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ゾンビボーイをモチーフに、死と再生を描く。2025年『Mayhem』収録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拡張イントロとアウトロが追加された特別版。ダークで幻想的な世界観に注目。
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">18.</span> <strong>[LoveDrug](/posts/lovedrug)</strong>（ライブ初披露）
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">17.</span> <strong>Zombieboy</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ゾンビボーイをモチーフに、死と再生を描く。2025年『Mayhem』収録。
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">18.</span> <strong>LoveDrug</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 愛を中毒として描く。80年代アリーナロックとエレクトロポップの融合サウンド。2025年『Mayhem』収録。ライブ初披露。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 離れられない愛の苦しさを静かに受け入れる、感情的なバラード。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I need your love, your love drug"
 </div>
-<div class="setlist-song">
-<span class="setlist-song-number">19.</span> <strong>[Applause](/posts/applause)</strong>（短縮版、2020年以来ライブ初披露）
-
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拍手のために生きる、アーティストとしての覚悟。2013年『ARTPOP』収録。股関節の怪我に苦しんだツアーでファンの拍手に支えられた経験から生まれた曲。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 2020年以来5年ぶりのライブ披露。エレクトロポップとダンスポップのサウンドが印象的。
-
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 難易度が高いため、"Just dance"部分だけ歌えればOK。もしくは"I live for the applause"ワンフレーズ集中。"完璧に歌う"ではなく"参加する"前提で楽しもう。
 </div>
 <div class="setlist-song">
-<span class="setlist-song-number">20.</span> <strong>[Just Dance](/posts/just-dance)</strong>
-
+<div class="setlist-song-header">
+<span class="setlist-song-number">19.</span> <strong>Applause</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 拍手のために生きる、アーティストとしての覚悟。2013年『ARTPOP』収録。股関節の怪我に苦しんだツアーでファンの拍手に支えられた経験から生まれた曲。
+</div>
+<div class="setlist-song-sing">
+<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 難易度が高いため、"Just dance"部分だけ歌えればOK。もしくは"I live for the applause"ワンフレーズ集中。"完璧に歌う"ではなく"参加する"前提で楽しもう。
+</div>
+</div>
+<div class="setlist-song">
+<div class="setlist-song-header">
+<span class="setlist-song-number">20.</span> <strong>Just Dance</strong>
+</div>
+<div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ガガのデビューシングル。考えずに、ただ楽しむこと——悩みを忘れて、ただ踊る。2008年『The Fame』収録。Billboard Hot 100で1位を記録。
-
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> デビュー曲として、ガガの世界観を表現。ポップでキャッチーで、何より楽しい曲。
-
+</div>
+<div class="setlist-song-sing">
 <img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："Just dance, gonna be okay" / 歌い出し："I've had a little bit too much, much"
+</div>
 </div>
 </div>
 
