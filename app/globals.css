@@ -279,36 +279,45 @@ body {
   margin-top: 3rem;
 }
 
+/* まとめセクションのスタイル無効化（.no-heading-styleクラス使用時） */
+.post-content h2.no-heading-style {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 2rem !important;
+  padding-top: 0 !important;
+  border-top: none !important;
+}
+
 /* Referencesセクションを控えめに */
 .post-content h2:has(.section-subtitle) {
   position: relative;
 }
 
-/* 参考文献セクション：フォント・サイズ・明るさを抑え存在感を消す */
+/* 参考文献セクション：フォント・サイズ・明るさを抑え存在感を消す（より控えめに） */
 .post-content h2.references-section {
-  font-size: 1.125rem !important;
-  font-weight: 500 !important;
-  color: #9ca3af !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  color: #d1d5db !important;
   margin-top: 4rem !important;
-  margin-bottom: 0.75rem !important;
-  padding-top: 1.5rem !important;
-  border-top: 1px solid #e5e7eb !important;
-  border-left: 3px solid #d1d5db !important;
-}
-
-.post-content h2.references-section ~ h3 {
-  font-size: 0.875rem !important;
-  font-weight: 500 !important;
-  color: #9ca3af !important;
-  margin-top: 1rem !important;
   margin-bottom: 0.5rem !important;
+  padding-top: 1.5rem !important;
+  border-top: 1px solid #f3f4f6 !important;
   border-left: 2px solid #e5e7eb !important;
 }
 
-.post-content h2.references-section ~ ul {
+.post-content h2.references-section ~ h3 {
   font-size: 0.8125rem !important;
-  color: #9ca3af !important;
-  margin-bottom: 0.75rem !important;
+  font-weight: 400 !important;
+  color: #d1d5db !important;
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.375rem !important;
+  border-left: 1px solid #f3f4f6 !important;
+}
+
+.post-content h2.references-section ~ ul {
+  font-size: 0.75rem !important;
+  color: #d1d5db !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .post-content h2.references-section ~ ul li:last-child {
@@ -316,8 +325,14 @@ body {
 }
 
 .post-content h2.references-section ~ ul a {
+  color: #d1d5db !important;
+  font-weight: 300 !important;
+  text-decoration: none !important;
+}
+
+.post-content h2.references-section ~ ul a:hover {
   color: #9ca3af !important;
-  font-weight: 400 !important;
+  text-decoration: underline !important;
 }
 
 /* セクションサブタイトルのスタイリング */

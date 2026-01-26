@@ -360,6 +360,18 @@ export default async function PostPage({
       '<h2$1 class="references-section">$2</h2>'
     );
 
+    // 参考リンクセクションにもクラスを追加
+    contentHtml = contentHtml.replace(
+      /<h2([^>]*)>参考リンク<\/h2>/gi,
+      '<h2$1 class="references-section">参考リンク</h2>'
+    );
+
+    // まとめセクションのスタイル無効化
+    contentHtml = contentHtml.replace(
+      /<h2([^>]*)>まとめ<\/h2>/gi,
+      '<h2$1 class="no-heading-style">まとめ</h2>'
+    );
+
     console.log("HTML generated, length:", contentHtml.length);
   } catch (error) {
     console.error("Error processing markdown:", error);
@@ -581,7 +593,9 @@ export default async function PostPage({
           )}
 
           {/* 目次 */}
-          <TableOfContents html={contentHtml} />
+          {slug !== "mayhem-ball-tour-tokyo-report" && (
+            <TableOfContents html={contentHtml} />
+          )}
 
           {/* 記事中間の広告（目次の後・横長） */}
           <div className="my-0">
