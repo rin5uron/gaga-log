@@ -598,13 +598,15 @@ export default async function PostPage({
           )}
 
           {/* 記事中間の広告（目次の後・横長） */}
-          <div className="my-0">
-            <AdSenseUnit 
-              adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
-              adFormat="auto"
-              adStyle={{ width: "100%", minHeight: "100px" }}
-            />
-          </div>
+          {slug !== "mayhem-ball-tour-tokyo-report" && (
+            <div className="my-0">
+              <AdSenseUnit 
+                adSlot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE_MIDDLE || "6660134815"}
+                adFormat="auto"
+                adStyle={{ width: "100%", minHeight: "100px" }}
+              />
+            </div>
+          )}
 
           <div
             className="prose prose-lg max-w-none post-content mb-0"
