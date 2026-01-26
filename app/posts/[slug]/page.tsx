@@ -366,11 +366,8 @@ export default async function PostPage({
       '<h2$1 class="references-section">参考リンク</h2>'
     );
 
-    // まとめセクションのスタイル無効化
-    contentHtml = contentHtml.replace(
-      /<h2([^>]*)>まとめ<\/h2>/gi,
-      '<h2$1 class="no-heading-style">まとめ</h2>'
-    );
+    // まとめセクションのスタイル無効化（divで囲まれている場合は処理不要）
+    // Markdownで既にdivで囲まれているため、ここでは処理しない
 
     console.log("HTML generated, length:", contentHtml.length);
   } catch (error) {
