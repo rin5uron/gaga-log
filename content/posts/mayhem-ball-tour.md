@@ -8,7 +8,7 @@ order: 2
 type: "live"
 description: "The MAYHEM Ball Tour 2025-2026のセトリ、日本公演情報、ツアー背景を徹底解説。5つのアクト構成、初披露曲・復活曲も網羅。"
 keywords: "レディーガガ, ガガ,ツアー, セットリスト, セトリ, 2025, 2026, 東京ドーム, 京セラドーム, MAYHEM Ball, 来日公演, Lady Gaga, 日本公演,予習"
-relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow"]
+relatedPosts: ["bloody-mary", "judas", "poker-face", "bad-romance", "shallow", "abracadabra", "lovegame"]
 highlights:
   - 東京ドーム／京セラドームを含む日本公演情報
   - セットリストの特徴（初披露曲・久々の復活曲・構成の流れ）
@@ -186,6 +186,12 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 ---
 <div class="setlist-song">
 <div class="setlist-song-header">
+<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
+</div>
+<div class="setlist-song-info">
+<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;">アルバム『MAYHEM』のイントロトラック
+</div>
+</div>
 <span class="setlist-song-number">2.</span> <strong>Bloody Mary</strong>
 </div>
 <div class="setlist-song-info">
@@ -197,7 +203,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 </div>
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">3.</span> <strong>Abracadabra</strong>
+<span class="setlist-song-number">3.</span> <strong>[Abracadabra](/posts/abracadabra)</strong>
 </div>
 <div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> 「愛（amor）」と「死（morta）」を歌うアルバム『Mayhem』のリードシングル。2025年2月リリース。
@@ -305,7 +311,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 <div class="setlist-act">
 <div class="setlist-song">
 <div class="setlist-song-header">
-<span class="setlist-song-number">13.</span> <strong>LoveGame</strong>
+<span class="setlist-song-number">13.</span> <strong>[LoveGame](/posts/lovegame)</strong>
 </div>
 <div class="setlist-song-info">
 <img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> ダンサブルで中毒性のあるビートが印象的なクラブアンセム。2008年『The Fame』収録。テンポが良く、ノリやすい曲。

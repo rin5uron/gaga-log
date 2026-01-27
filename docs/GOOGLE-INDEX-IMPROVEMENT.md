@@ -131,6 +131,28 @@ https://sound-feels.com/robots.txt
 2. インデックスされているか確認
 3. まだインデックスされていない場合は、再度リクエスト
 
+## LoveGame・Abracadabra を Google に登録する
+
+この2ページは `content/posts/` に存在するため、sitemap（`getAllPosts()`）には含まれており、理論上はクロール対象です。Google にまだインデックスされていない場合は、**URL検査で「インデックス登録をリクエスト」**を行う必要があります。
+
+### 登録手順
+
+1. [Google Search Console](https://search.google.com/search-console) にログインする
+2. 上部の **「URL検査」** を開く
+3. 次のURLを**1件ずつ**入力し、 **「インデックス登録をリクエスト」** をクリックする  
+   - `https://sound-feels.com/posts/lovegame`  
+   - `https://sound-feels.com/posts/abracadabra`
+4. リクエスト後、数時間〜数日でインデックスされることが多い
+
+### 事前確認（任意）
+
+- ブラウザで `https://sound-feels.com/sitemap.xml` を開き、  
+  `<loc>https://sound-feels.com/posts/lovegame</loc>` と  
+  `<loc>https://sound-feels.com/posts/abracadabra</loc>` が含まれているか確認する
+- mayhem-ball-tour 記事からこれらのページへ内部リンクが張られていれば、クロールの契機になる
+
+---
+
 ## 確認チェックリスト
 
 - [ ] Google Search Consoleにログイン
