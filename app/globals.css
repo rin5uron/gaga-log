@@ -655,22 +655,22 @@ body {
   color: #1e40af;
 }
 
-/* 日本公演情報カード */
+/* 日本公演情報カード（コンパクト） */
 .japan-tour-card {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
-  border-radius: 0.75rem;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
 }
 
 .japan-tour-card h4 {
-  font-size: 1.125rem;
+  font-size: 0.9375rem;
   font-weight: 700;
   color: #111827;
-  margin-top: 1rem;
-  margin-bottom: 0.75rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.375rem;
 }
 
 .japan-tour-card h4:first-child {
@@ -678,135 +678,85 @@ body {
 }
 
 .japan-tour-card ul {
-  margin: 0.75rem 0;
-  padding-left: 1.5rem;
+  margin: 0.375rem 0;
+  padding-left: 1.25rem;
 }
 
 .japan-tour-card li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
   color: #374151;
+  font-size: 0.875rem;
+  line-height: 1.4;
 }
 
 .news-update {
   background-color: #fef3c7;
-  border-left: 4px solid #f59e0b;
-  padding: 0.75rem;
-  border-radius: 0.5rem;
-  margin: 0.75rem 0;
-  font-size: 0.875rem;
-  line-height: 1.5;
+  border-left: 3px solid #f59e0b;
+  padding: 0.5rem 0.625rem;
+  border-radius: 0.375rem;
+  margin: 0.5rem 0;
+  font-size: 0.8125rem;
+  line-height: 1.4;
 }
 
 .news-update strong {
   color: #92400e;
   display: block;
-  margin-bottom: 0.375rem;
-  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+  font-size: 0.8125rem;
 }
 
 .news-update ul {
-  margin: 0.375rem 0 0 0;
-  padding-left: 1.25rem;
+  margin: 0.25rem 0 0 0;
+  padding-left: 1rem;
 }
 
 .news-update li {
-  margin-bottom: 0.125rem;
+  margin-bottom: 0;
+  color: #374151;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+}
+
+/* ベスト3ランキング用の枠 */
+.ranking-box {
+  background-color: #fafafa;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+
+.ranking-box h3 {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.ranking-box h3:first-child {
+  margin-top: 0;
+}
+
+.ranking-box ol,
+.ranking-box ul {
+  margin: 0.25rem 0 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.ranking-box li {
+  margin-bottom: 0.25rem;
   color: #374151;
   font-size: 0.875rem;
   line-height: 1.5;
 }
 
-/* 5つのアクトハイライト */
-.act-highlights {
-  margin: 1.5rem 0;
-}
-
-.act-highlights h4 {
-  font-size: 1.125rem;
-  font-weight: 700;
-  color: #111827;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.act-highlights h4:first-child {
-  margin-top: 0;
-}
-
-.act-highlights h4 strong {
-  color: #3b82f6;
-  font-size: 0.875rem;
-  font-weight: 600;
-  margin-right: 0.5rem;
-}
-
-.act-highlights p {
+.ranking-box p {
   margin: 0.5rem 0 0 0;
-  color: #374151;
+  font-size: 0.875rem;
   line-height: 1.6;
-}
-
-/* 日本公演情報カード */
-.japan-tour-card {
-  background-color: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 0.75rem;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-}
-
-.japan-tour-card h4 {
-  font-size: 1.125rem;
-  font-weight: 700;
-  color: #111827;
-  margin-top: 1rem;
-  margin-bottom: 0.75rem;
-}
-
-.japan-tour-card h4:first-child {
-  margin-top: 0;
-}
-
-.japan-tour-card ul {
-  margin: 0.75rem 0;
-  padding-left: 1.5rem;
-}
-
-.japan-tour-card li {
-  margin-bottom: 0.5rem;
   color: #374151;
-}
-
-.news-update {
-  background-color: #fef3c7;
-  border-left: 4px solid #f59e0b;
-  padding: 0.75rem;
-  border-radius: 0.5rem;
-  margin: 0.75rem 0;
-  font-size: 0.875rem;
-  line-height: 1.5;
-}
-
-.news-update strong {
-  color: #92400e;
-  display: block;
-  margin-bottom: 0.375rem;
-  font-size: 0.875rem;
-}
-
-.news-update ul {
-  margin: 0.375rem 0 0 0;
-  padding-left: 1.25rem;
-}
-
-.news-update li {
-  margin-bottom: 0.125rem;
-  color: #374151;
-  font-size: 0.875rem;
-  line-height: 1.5;
 }
 
 /* 5つのアクトハイライト */
