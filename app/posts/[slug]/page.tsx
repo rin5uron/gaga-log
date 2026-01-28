@@ -591,7 +591,10 @@ export default async function PostPage({
 
           {/* 目次 */}
           {slug !== "mayhem-ball-tour-tokyo-report" && (
-            <TableOfContents html={contentHtml} />
+            <TableOfContents
+              html={contentHtml}
+              includeH2Links={slug === "mayhem-ball-tour"}
+            />
           )}
 
           {/* 記事中間の広告（目次の後・横長） */}

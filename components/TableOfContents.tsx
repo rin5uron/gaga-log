@@ -8,7 +8,13 @@ interface Heading {
   level: number;
 }
 
-export default function TableOfContents({ html }: { html: string }) {
+export default function TableOfContents({
+  html,
+  includeH2Links = false,
+}: {
+  html: string;
+  includeH2Links?: boolean;
+}) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
   const [isOpen, setIsOpen] = useState<boolean>(true);
@@ -135,14 +141,16 @@ export default function TableOfContents({ html }: { html: string }) {
               key={heading.id}
               className={heading.level === 3 ? "ml-4" : ""}
             >
-              {heading.level === 2 ? (
+              {heading.level === 2 && !includeH2Links ? (
                 <div className="toc-heading-h2 py-1.5 mt-2 first:mt-0">
                   {heading.text}
                 </div>
               ) : (
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pr-2 transition-all toc-heading-h3 ${
+                  className={`block py-1 pr-2 transition-all ${
+                    heading.level === 2 ? "toc-heading-h2 py-1.5 mt-2 first:mt-0 " : "toc-heading-h3 "
+                  }${
                     activeId === heading.id
                       ? "font-medium text-gray-900"
                       : "text-gray-600 hover:text-gray-900"
