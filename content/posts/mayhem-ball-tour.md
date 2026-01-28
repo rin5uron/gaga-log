@@ -116,17 +116,8 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 ## Setlist <span class="section-subtitle">セットリスト</span>
 
-### オープニングナイト（2025年7月16日、ラスベガス）セトリ
 
-**全33曲、約2時間15分のパフォーマンス。**
-
-5つのアクトとアンコールで構成された演劇的なショー。
-
-**このセットリストは、ツアー開幕日のラスベガス公演（2025年7月16日、T-Mobile Arena）で披露されたものです。**
-
-**セットリストは公演ごとに変わる可能性があります。**日本公演でも同様の構成が予想されますが、日替わり要素が追加される可能性があります。
-
-**情報の出典：** [setlist.fm - Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025)](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
+（オープニングナイト・ラスベガス 2025年7月16日）出典：[setlist.fm - Lady Gaga Concert Setlist at T-Mobile Arena, Las Vegas (July 16, 2025)](https://www.setlist.fm/setlist/lady-gaga/2025/t-mobile-arena-las-vegas-nv-b58756e.html)
 
 <div class="setlist-simple">
 
@@ -184,6 +175,38 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 </div>
 
 ---
+
+## 歌えると、何倍も楽しい！！！
+
+ガガのライブは、正直なところ、
+曲を全部知らなくても、
+この MAYHEM のライブは「ちょっと聞いたことがある」くらいでも
+ちゃんと楽しめる構造になっています。
+
+でも、いざ会場に行くと——
+やっぱり、歌いたくなる。
+
+周りの空気、ガガの煽り、音の圧。
+気づいたら「ここ、声出したいな」って思う瞬間が必ず来ます。
+
+本当は、全曲フルで完コピできたら一番楽しい。
+でも、現実的には難しいですよね。
+英語だし、テンポが速い曲もあるし、
+今から全部覚えるのは正直ハードルが高い。
+
+そこで今回は、
+**「ここだけは歌えたら楽しい」ポイント**に絞ってまとめてみました。
+
+最低限知っておきたい曲の背景と、
+ライブで声を出しやすいフレーズだけをピックアップしています。
+
+曲を聴きながら、
+このポイントだけでも重点的に予習してみてください。
+ワンフレーズ参加するだけで、
+ライブの楽しさは本当に変わります。
+
+---
+
 <div class="setlist-song">
 <div class="setlist-song-header">
 <span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
@@ -557,38 +580,7 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 ## Highlights <span class="section-subtitle">セトリで押さえておきたいポイント</span>
 
-### 各曲の詳細
 
-<div class="setlist-container">
-
-#### Act I: Of Velvet And Vice（ベルベットと悪徳の）
-
-<div class="setlist-act">
-
-<div class="setlist-song">
-<div class="setlist-song-header">
-<span class="setlist-song-number">1.</span> <strong>The Art of Personal Chaos</strong>
-</div>
-<div class="setlist-song-info">
-🎵 アルバム『MAYHEM』のイントロトラック
-</div>
-</div>
-<div class="setlist-song">
-<div class="setlist-song-header">
-<span class="setlist-song-number">2.</span> <strong>[Bloody Mary](/posts/bloody-mary)</strong>
-</div>
-<div class="setlist-song-info">
-<img src="/icons/music-note.svg" alt="この曲は" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> マグダラのマリアの強さと孤独を歌うダークなバラード。2011年『Born This Way』収録、2022年Netflix『Wednesday』で再ブレイク。
-</div>
-<div class="setlist-song-highlight">
-<img src="/icons/eye.svg" alt="聞くポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> オペラティックな演出とグレゴリオ聖歌のサンプリングに注目
-</div>
-<div class="setlist-song-sing">
-<img src="/icons/microphone.svg" alt="歌えるポイント" width="16" height="16" style="display: inline; vertical-align: middle; margin-right: 4px;"> サビ："I won't cry for you" / 盛り上がり："I'll dance dance dance with my hands hands hands"
-</div>
-</div>
-
----
 
 
 
@@ -625,17 +617,39 @@ he MAYHEM Ball（ザ・メイヘム・ボール）は、Lady Gaga（レディー
 
 ---
 
-## まとめ <span class="section-subtitle">この公演で歌う楽しさ</span>
+## さいごに
 
-**この公演は「みんなで歌う」楽しさが大きい。**
+私はこれまで、ガガのライブに何度か参加してきました。
 
-歌詞はフル暗記より、ワンフレーズ覚えるのがおすすめ。
+その中で強く感じるのは、
+**ワンフレーズでも歌えると、曲との親近感が一気に増す**ということです。
 
-**特に歌いやすい曲**
-- Shallow
+完璧じゃなくていい。
+発音が多少あやふやでもいい。
+「ここは参加したい」と思える場所があるだけで、
+ライブの記憶はかなり濃くなります。
 
-**絶対に歌いたい2曲（Born This Way系）**
-- この2曲はフルで覚える勢いでも◎
+この中でも、もしまだ余裕がある人がいたら——
+次に挑戦してほしいのが、この3曲です。
+
+### ライブで歌えたら気持ちいい曲 ベスト3
+1. Judas
+2. Shallow
+3. Bad Romance
+
+この3曲は比較的歌いやすく、
+英語も聞き取りやすい。
+「私でも完コピできるかも」と思って
+ちょっと頑張ってみたくなる曲たちです。
+
+そして何より、
+ライブで歌えたときの盛り上がりが大きい。
+
+全部覚えなくても大丈夫。
+まずは、ワンフレーズから。
+
+それだけで、
+ガガのライブは、きっともっと楽しくなります。
 
 ---
 
