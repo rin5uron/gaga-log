@@ -11,9 +11,11 @@ interface Heading {
 export default function TableOfContents({
   html,
   includeH2Links = false,
+  variant = "default",
 }: {
   html: string;
   includeH2Links?: boolean;
+  variant?: "default" | "card";
 }) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
@@ -41,6 +43,8 @@ export default function TableOfContents({
       }
       // h3やspanがないh2は本文の見出し全文を使う（"I'm your biggest fan"——ファンか、ストーカーか 等の歌詞入りもそのまま表示）
 
+      // 「目次」見出しは目次リストに含めない
+      if (displayText === "目次") return;
       // 参考情報セクション以降は目次に含めない（h2 とその下の h3 すべて）
       if (displayText === "参考情報" || text.includes("参考情報") || text.includes("References")) {
         referencesReached = true;
@@ -104,11 +108,15 @@ export default function TableOfContents({
     return null;
   }
 
-  return (
-    <nav className="mb-4 overflow-hidden">
+  const content = (
+    <nav className={variant === "card" ? "toc-card-nav" : "mb-4 overflow-hidden"}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-fit px-2 py-2 flex items-center justify-between gap-2 hover:bg-gray-100 transition-colors"
+        className={`w-fit flex items-center justify-between gap-2 transition-colors ${
+          variant === "card"
+            ? "px-0 py-1 hover:opacity-80"
+            : "px-2 py-2 hover:bg-gray-100"
+        }`}
       >
         <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
           目次
@@ -135,7 +143,9 @@ export default function TableOfContents({
           isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className="px-2 pt-2 pb-0 space-y-0.5 pl-0 list-none mb-0">
+        <ul className={`pt-2 pb-0 space-y-0.5 list-none mb-0 ${
+          variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
+        }`}>
           {headings.map((heading) => (
             <li
               key={heading.id}
@@ -172,4 +182,9 @@ export default function TableOfContents({
       </div>
     </nav>
   );
+
+  if (variant === "card") {
+    return <div className="toc-card">{content}</div>;
+  }
+  return content;
 }

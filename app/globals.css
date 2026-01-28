@@ -361,6 +361,18 @@ body {
   color: var(--heading-h3-color);
 }
 
+/* 目次カード（東京レポートなどページのインライン目次デザインに合わせる） */
+.toc-card {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 30px 0;
+}
+
+.toc-card .toc-card-nav {
+  overflow: hidden;
+}
+
 @media (max-width: 768px) {
   .prose h2 .section-subtitle {
     margin-left: 0.5rem;
