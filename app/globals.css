@@ -897,11 +897,16 @@ body {
 }
 
 .post-content .info-card hr {
+  display: none;
+}
+
+/* info-card内で太字の前に区切り線を表示 */
+.info-card strong:not(:first-of-type)::before {
+  content: "";
   display: block;
   height: 1px;
-  border: none;
   background: #e5e7eb;
-  margin: 1rem 0;
+  margin: 1rem 0 1.5rem 0;
 }
 
 /* ② 実用チェックリスト */
