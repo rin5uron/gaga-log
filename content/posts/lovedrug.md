@@ -34,31 +34,40 @@ highlights:
 
 ### MAYHEMに刻まれた一曲
 
-「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム　**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
+「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
 
 Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
 
-
-Andrew Watt は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。  
-Cirkut（Henry Walter）は The Weeknd や Rihanna などのヒットを生むプロデューサー。  
+Andrew Watt は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
+Cirkut（Henry Walter）は The Weeknd や Rihanna などのヒットを生むプロデューサー。
 Michael Polansky はガガの婚約者で、本作の全体制作をまとめる役も担っている。
+
+---
+
+### 沼りたいのに、沼れない
+
+MAYHEMを聴いていて、この曲で手が止まった。
+
+「Love Drug」— サビの歌詞を見たとき、ああ、ガガも女子だなって思った。
+**ガガもみんなと同じ女の子なんだ。**
+
+> I don't wanna feel / I don't wanna cry
+> So I'm gonna dance until I feel alright
+> I just need a dose of the right stuff
+> I just need a hit of your love drug
+
+**あなたに沼りたい。でも、もう一緒にいる運命はない。**
+
+本当に好きで、人生の中で大切な人なのに、どうにもならない。
+そのやるせなさ、行き場のない想いを、ガガは"drug"という言葉で歌ってる。
+
+「Love Drug」は、恋の始まりや、愛される幸せを歌った曲じゃない。
+**好きという気持ちが、もう救いじゃなくて、中毒になってしまったときの曲だ。**
 
 ---
 
 
 ## Lyrics <span class="section-subtitle">歌詞のポイント</span>
-
-### Your Love Drug
-
-**サビの締めくくりが印象的な**
-
-> your love drug
-
-**"drug" という言葉が、依存・中毒・やめられないもの——そういう強い響きで立ち上がる。**
-
-愛が癒しではなく、抜け出せない快楽として描かれている。それを一番よく表しているのが、この一節だ。
-
----
 
 ### Need Your Love
 
@@ -69,6 +78,40 @@ Michael Polansky はガガの婚約者で、本作の全体制作をまとめる
 **この"need" は、「欲しい」じゃなくて「それがないといられない」というニュアンスに近い**
 
 愛が救いじゃなく、痛みから逃れるための麻酔のように歌われる。テンションは上がるのに、どこか壊れていく——やめられない思い、相手への依存が、曲全体を通して流れているように思える。
+
+---
+
+### The Right Stuff
+
+**サビは歌いやすいけど、このフレーズの意味が分からなかった。**
+
+> I just need a dose of the right stuff
+
+**"dose"は薬の「一服分」、"the right stuff"は「私を楽にしてくれるもの」。**
+
+薬物中毒者が「効く薬をくれ」と言うときの表現に近い。
+ダメだって分かってる。でも、あなたのことを考えると、少しだけ楽になる。
+
+次の行で、その「正しいもの」が何なのか明かされる。
+
+> I just need a hit of your love drug
+
+**"the right stuff" = "your love drug"**
+
+"hit"も薬物用語で、「一回分摂取すること」を意味する。
+愛が救いではなく、痛みを一瞬だけ忘れさせてくれる麻酔のようなものとして歌われている。
+
+---
+
+### Your Love Drug
+
+**サビの締めくくりが印象的な**
+
+> your love drug
+
+**"drug" という言葉が、依存・中毒・やめられないもの——そういう強い響きで立ち上がる。**
+
+愛が癒しではなく、抜け出せない快楽として描かれている。それを一番よく表しているのが、この一節だ。
 
 ---
 
