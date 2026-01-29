@@ -10,7 +10,7 @@ description: "The MAYHEM Ball東京ドーム公演（1/25）のライブレポ�
 keywords: "レディーガガ, ガガ, ライブレポート, 東京ドーム, 客席, 座席, SS席, エキサイトシート,  座席の見え方, 雰囲気, 空気感, 服装, 持ち物, 会場, 2026, MAYHEM Ball, 来日公演, Lady Gaga, 会場情報, ライブ当日, ネタバレなし, メイヘム, 感想, レポート"
 relatedPosts: ["mayhem-ball-tour", "bloody-mary", "bad-romance", "poker-face", "shallow"]
 highlights:
-  - 会場の空気感・観客のファッション
+  - 会場の空気感・ファッション・客層・客席
   - 誰でも楽しめる｜ガガの優しさが滲み出るライブ
   - ライブ前に知っておきたいこと
   
@@ -75,7 +75,6 @@ highlights:
 
 
 以下ではLady Gaga The MAYHEM Ball**東京ドーム公演**の感想レポ、**会場の雰囲気、持ち物、服装**から**客席・座席の様子**までご紹介していきます。
----
 
 ### 1-2. 会場の雰囲気・客層・ファッション
 
@@ -83,7 +82,7 @@ highlights:
 
 <div class="info-card">
 
-#### **【会場の空気感】**
+<strong>【会場の空気感】</strong>
 
 ガガのライブって、みんなすごいコスチューム着てガチファンばっかで「にわかファン大丈夫かな」とか思ってたけど、全然そんなことありませんでした。
 ---
@@ -93,23 +92,11 @@ highlights:
 
 </div>
 
-<div class="info-card">
 
-#### **【客層】**
-
-観客の年代は**20代後半から30代が半分以上**という印象でした。
-
-やっぱ学生時代にファッションモンスターガガ様を追っていた世代、The Fame（2008年）やBorn This Way（2011年）時代に学生だったであろう方達が多かったです。高校生以下ぽい子はあんま見かけませんでした。
----
-でも性別、年齢、国籍、ファッション、ほんとさまざま。
-
-**海外から参戦されている方も多かった**です。
-
-</div>
 
 <div class="info-card">
 
-#### **【ファッション】**
+<strong>【ファッション】</strong>
 
 **タンクトップ率、高い**
 
@@ -137,12 +124,27 @@ highlights:
 ガガのMVや過去のツアー衣装を再現してる人とか、オリジナルのデザインとか。
 
 **みんな、ガガへの愛が溢れていました。**
-
+<div style="margin: 1.5rem 0;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-penlight-ribbon.jpg" alt="東京ドーム MAYHEM Ball ペンライト リボン お土産" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られたペンライトについていたリボン。お土産に持ち帰れました！</p>
 </div>
-
+</div>
 <div class="info-card">
 
-#### **【客席・座席】**
+<strong>【客層】</strong>
+
+観客の年代は**20代後半から30代が半分以上**という印象でした。
+
+やっぱ学生時代にファッションモンスターガガ様を追っていた世代、The Fame（2008年）やBorn This Way（2011年）時代に学生だったであろう方達が多かったです。高校生以下ぽい子はあんま見かけませんでした。
+---
+でも性別、年齢、国籍、ファッション、ほんとさまざま。
+
+**海外から参戦されている方も多かった**です。
+
+</div>
+<div class="info-card">
+
+<strong>【客席・座席】</strong>
 
 今回の私の席は**SS席エキサイトシート**でした。アリーナ内の前方エリアの芝生席で、席の間隔がゆったりしていて動きやすかったです。途中で足が痛くなったので靴を脱いたら、芝生で暖かくて助かりました。
 
@@ -156,12 +158,8 @@ highlights:
 
 </div>
 
-ガチファンじゃなくても大丈夫。みんな自分の思い思いに楽しんでいたのが印象的でした。
 
-<div style="margin: 1.5rem 0;">
-  <img src="/images/live20260125/mayhem-ball-tokyo-penlight-ribbon.jpg" alt="東京ドーム MAYHEM Ball ペンライト リボン お土産" style="width: 100%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られたペンライトについていたリボン。お土産に持ち帰れました！</p>
-</div>
+
 
 ### 1-3. 誰でもどうにでも楽しめる
 

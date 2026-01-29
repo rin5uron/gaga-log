@@ -305,6 +305,10 @@ body {
   border-left: 2px solid #e5e7eb !important;
 }
 
+.post-content h2.references-section .section-subtitle {
+  color: #d1d5db !important;
+}
+
 .post-content h2.references-section ~ h3 {
   font-size: 0.8125rem !important;
   font-weight: 400 !important;
@@ -870,14 +874,14 @@ body {
   padding: 1.25rem;
 }
 
-.info-card h4 {
+.info-card h4,
+.info-card > strong {
   font-size: 0.875rem;
   font-weight: 600;
   color: #374151;
   margin-top: 0;
   margin-bottom: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  display: block;
 }
 
 .info-card p {

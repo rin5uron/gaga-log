@@ -356,7 +356,7 @@ export default async function PostPage({
 
     // Referencesセクションにクラスを追加
     contentHtml = contentHtml.replace(
-      /<h2([^>]*)>([^<]*<span[^>]*class="section-subtitle"[^>]*>参考情報<\/span>[^<]*)<\/h2>/gi,
+      /<h2([^>]*)>([^<]*<span[^>]*class=["']section-subtitle["'][^>]*>参考情報<\/span>[^<]*)<\/h2>/gi,
       '<h2$1 class="references-section">$2</h2>'
     );
 
