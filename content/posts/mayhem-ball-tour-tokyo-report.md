@@ -18,7 +18,7 @@ highlights:
 
 <!-- ▶️ ヒーロー画像（タイトルの下に配置） -->
 <div class="tour-poster-wrapper" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="/images/live20260125/IMG_3104.jpg" alt="Lady Gaga MAYHEM Ball 東京ドーム ライブ 会場 客席の様子" style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-audience.jpg" alt="Lady Gaga MAYHEM Ball 東京ドーム ライブ 会場 客席の様子" style="width: 100%; max-width: 800px; border-radius: 8px;">
 </div>
 
 
@@ -140,13 +140,27 @@ highlights:
 
 </div>
 
+<div class="info-card">
+
+#### **【客席・座席】**
+
+今回の私の席は**SS席エキサイトシート**でした。アリーナ内の前方エリアの芝生席で、席の間隔がゆったりしていて動きやすかったです。途中で足が痛くなったので靴を脱いたら、芝生で暖かくて助かりました。
+
+アリーナだと場所によってはステージ全体が見えないこともあるけど、やっぱり近さは格別。一度東京ドームの天井席（上の方の席）で行ったライブがあったけど、遠すぎて実感が湧かなかった。良い席を知ってしまったら戻れない私。
+<div style="margin: 1rem 0;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-ss-seat.jpg" alt="東京ドーム SS席エキサイトシート 芝生席 ライブ客席の見え方" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">SS席エキサイトシートからの眺め。芝生席なので足が痛くなったら靴を脱いでも暖かかった</p>
+</div>
+
+</div>
+
 </div>
 
 ガチファンじゃなくても大丈夫。みんな自分の思い思いに楽しんでいたのが印象的でした。
 
 <div style="margin: 1.5rem 0;">
-  <img src="/images/live20260125/IMG_3121.jpg" alt="東京ドーム MAYHEM Ball ペンライト リボン お土産" style="width: 100%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られるペンライトについていたリボン。お土産に持ち帰れました！</p>
+  <img src="/images/live20260125/mayhem-ball-tokyo-penlight-ribbon.jpg" alt="東京ドーム MAYHEM Ball ペンライト リボン お土産" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られたペンライトについていたリボン。お土産に持ち帰れました！</p>
 </div>
 
 ### 1-3. 誰でもどうにでも楽しめる
@@ -180,7 +194,10 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 **でも、、歌えると100倍楽しい。**
 
 これだけは声を大にして言いたいです。
-
+<div style="margin: 1.5rem 0;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-venue.jpg" alt="東京ドーム MAYHEM Ball 会場の様子" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;"></p>
+</div>
 
 ---
 
@@ -189,7 +206,7 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 事前に聴いておくと、当日めちゃくちゃ楽しめる曲をピックアップ：
 
 - **Bad Romance**
-  ガガの代表曲。サビの「Ra-ra-ah-ah-ah」は絶対覚えておきたい
+  ガガの代表曲。サビの「Ra-ra-ah-ah-ah」は絶対歌おう
 - **Poker Face**
   「P-p-p-poker face」のところ
 - **Just Dance**
@@ -269,7 +286,7 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 
 - **ペットボトルは蓋回収あり** - 入り口ゲートで飲み物はチェックされました。ペットボトルの蓋は回収されます。
 - **荷物検査はほぼなし** - 金属探知機なし。通常の手荷物検査もほぼなく、スムーズに入場できた。（1月25日公演時点）
-- **コインロッカーは早めに** - 17:00頃に東京ドーム周辺に到着。コインロッカー、ほぼ満杯でした。荷物がある人は、もっと早めに来た方がいいかも。
+- **コインロッカーは早めに** - 17:00頃に東京ドーム周辺に到着。コインロッカー、ほぼ満杯でした。荷物がある人は、事前にロッカー予約等準備しておいた方が良いかも。
 
 </div>
 
@@ -278,32 +295,11 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 #### 実際にゲートはこんなリュックも通過してました
 
 <div style="margin: 1.5rem 0;">
-  <img src="/images/live20260125/bag.jpg" alt="東京ドーム ライブ 持ち込み リュック 荷物検査" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-bag-entry.jpg" alt="東京ドーム ライブ 持ち込み リュック 荷物検査" style="width: 100%; max-width: 600px; border-radius: 8px;">
   <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">リュックも余裕で通過していました</p>
 </div>
 
-#### 東京ドームの客席・座席の様子｜SS席エキサイトシートの感想
-
-私の席は**東京ドームのSS席エキサイトシート**でした。ステージに近く、席もゆったり。東京ドームライブの客席選びで迷っている方の参考になれば。
-
-**SS席エキサイトシートの見え方・感想**
-- 芝生エリアでステージが近い
-- 席の間隔がゆったりで動きやすい
-- 立ちっぱなし・踊ることも想定して履き慣れた靴がおすすめ（途中で足が痛くなったので靴を脱いで参戦しました）
-
-東京ドームの座席はアリーナ席・スタンド席・天井席など種類があります。SS席はアリーナ内の前方エリアで、ガガの表情や動きがよく見える位置でした。
-
-<div style="margin: 1.5rem 0;">
-  <img src="/images/live20260125/sheat.jpg" alt="東京ドーム SS席エキサイトシート 芝生席 ライブ客席の見え方" style="width: 100%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">東京ドーム SS席エキサイトシート（芝生席）からの眺め。ステージが近く、席もゆったりでした</p>
-</div>
-
 ---
-
-<div style="margin: 1.5rem 0;">
-  <img src="/images/live20260125/IMG_3051.jpg" alt="東京ドーム MAYHEM Ball 会場前 開演前の様子" style="width: 100%; max-width: 600px; border-radius: 8px;">
-  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">会場前の様子。MAYHEMのLEDスクリーンと開演を待つ観客</p>
-</div>
 
 ### 3-3. 会場入り〜開演前の過ごし方
 
@@ -317,7 +313,10 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 - **15分前**: ギリギリでも入れる（けど余裕持った方がいい）
 
 </div>
-
+<div style="margin: 1.5rem 0;">
+  <img src="/images/live20260125/mayhem-ball-tokyo-venue-before.jpg" alt="東京ドーム MAYHEM Ball 会場前 開演前の様子" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">会場前の様子。MAYHEMのLEDスクリーンと開演を待つ観客</p>
+</div>
 **開演直前でもスムーズに入場！**
 
 到着がギリギリになってしまったので焦りましたが、**案外スムーズに入れました。**
@@ -329,7 +328,8 @@ Apple MusicやSpotifyで**公式プレイリスト**が公開されているの�
 さすがイベント慣れしてるスタッフさんたち。オペレーションが本当にスムーズでした。ありがとうございました。
 
 
-#### 写真撮影・物販のタイミング
+
+**写真撮影・物販のタイミング**
 
 開演前は、会場内で記念撮影している人が多かったです。
 
