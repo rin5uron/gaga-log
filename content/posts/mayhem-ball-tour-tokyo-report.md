@@ -112,20 +112,24 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
 
 こんな寒いのに、、、
 ガガのスタイルとか、ダンサーの人のイメージなのかな？
+
 <hr class="card-separator">
+
 **赤髪・赤アイテムの人が多かった**
 
 アルバム『Mayhem』のアートワークが赤基調だからか、赤を意識してる人が多かったです。赤いヘアの人もちらほら。私も赤いのを身につけて行けばよかった-!
 <hr class="card-separator">
+
 **スパンコール、グリッター、ラメ。**
 
 キラキラしたアイテムを身につけてる人が本当に多い。ガガらしい、華やかなファッション。
 <hr class="card-separator">
-**手作り衣装で来てる男性も結構いた。**
+
+**手作り衣装で来てる男性も多かったです。**
 
 ガガのMVや過去のツアー衣装を再現してる人とか、オリジナルのデザインとか。
 
-**みんな、ガガへの愛が溢れていました。**
+**みんなそれぞれ、ガガへの愛が溢れていました。**
 <div style="margin: 1.5rem 0;">
   <img src="/images/live20260125/mayhem-ball-tokyo-penlight-ribbon.jpg" alt="東京ドーム MAYHEM Ball ペンライト リボン お土産" style="width: 100%; max-width: 600px; border-radius: 8px;">
   <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られたペンライトについていたリボン。お土産に持ち帰れました！</p>

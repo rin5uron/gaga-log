@@ -1053,8 +1053,13 @@ body {
   background: none;
 }
 
-/* 枠内の strong（太字）：CSS で大きさと太さを指定。** が HTML ブロック内で効かないときは <strong> を直接書く */
+/* 枠内の strong（太字）：サイズは段落と同じ。太さだけ指定 */
 .info-card p strong {
+  font-weight: 700;
+}
+
+/* 枠内で 1.2 倍にしたいとき用。class="card-emphasis" を付ける */
+.info-card .card-emphasis {
   font-size: 1.2em;
   font-weight: 700;
 }
