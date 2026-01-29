@@ -599,7 +599,7 @@ export default async function PostPage({
           <TableOfContents
             html={contentHtml}
             includeH2Links={slug === "mayhem-ball-tour" || slug === "mayhem-ball-tour-tokyo-report"}
-            variant={slug === "mayhem-ball-tour-tokyo-report" ? "card" : "default"}
+            variant="card"
           />
 
           {/* 記事中間の広告（目次の後・横長） */}
