@@ -268,13 +268,6 @@ body {
   }
 }
 
-/* 目次の直後＝記事本文の始まりをはっきりさせる（本文が目次に混ざって見えないように） */
-.post-content {
-  margin-top: 0;
-  padding-top: 2rem;
-  border-top: 2px solid #e5e7eb;
-}
-
 /* hr（---）を CSS で指定：記事内では薄い線＋余白で意図どおり表示 */
 .post-content hr {
   display: block;
@@ -385,7 +378,7 @@ body {
   color: var(--heading-h3-color);
 }
 
-/* 目次カード（東京レポートなどページのインライン目次デザインに合わせる） */
+/* 目次カード：見出しリンクだけを表示。本文が目次内に入って見えないよう高さを区切る */
 .toc-card {
   box-sizing: border-box;
   width: 100%;
@@ -393,21 +386,25 @@ body {
   background-color: #f5f5f5;
   padding: 20px;
   border-radius: 8px;
-  margin: 30px 0 2rem 0;
+  margin: 30px 0;
   border: 1px solid #e5e7eb;
-  /* 目次は見出しリンクだけ。本文が入らないよう、高さを区切って中身だけに収める */
   overflow: hidden;
-  contain: layout;
 }
 
 .toc-card .toc-card-nav {
   overflow: hidden;
 }
 
-/* 目次リスト部分だけに最大高さを設け、本文が混ざって見えないようにする */
-.toc-card .toc-card-list-wrapper {
-  max-height: min(60vh, 420px);
+/* 目次リスト部分の最大高さ（見出しだけが入り、その下は記事本文になるようにする） */
+.toc-card .toc-list-inner {
+  max-height: min(50vh, 380px);
   overflow-y: auto;
+}
+
+/* 目次の下＝記事本文の始まりを線で区切る */
+.post-content {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.5rem;
 }
 
 /* 目次リストが長い見出しで崩れないように */
