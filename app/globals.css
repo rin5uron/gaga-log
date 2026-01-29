@@ -874,6 +874,11 @@ body {
   padding: 1.25rem;
 }
 
+/* info-card内はproseの本文デザインをリセット */
+.post-content .info-card p {
+  max-width: none;
+}
+
 .info-card h4,
 .info-card > strong {
   font-size: 0.875rem;
