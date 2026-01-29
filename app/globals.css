@@ -343,7 +343,7 @@ body {
 .prose h2 .section-subtitle {
   font-size: 0.95rem;
   font-weight: 400;
-  color: #4b5563;
+  color: #9ca3af;
   margin-left: 0.75rem;
   letter-spacing: 0.025em;
   vertical-align: middle;
@@ -859,10 +859,10 @@ body {
 
 /* ライブレポート用デザインコンポーネント */
 
-/* ① 情報カード（3カード横並び） */
+/* ① 情報カード（縦並び） */
 .info-cards-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 1rem;
   margin: 2rem 0;
 }
@@ -1124,7 +1124,6 @@ body {
 /* レスポンシブ対応 */
 @media (max-width: 768px) {
   .info-cards-container {
-    grid-template-columns: 1fr;
     gap: 1rem;
   }
   
