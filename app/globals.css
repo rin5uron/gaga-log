@@ -113,7 +113,7 @@ body {
   @apply text-gray-800 underline decoration-gray-300 hover:decoration-gray-800;
 }
 
-/* hr（---）はセクション区切りとして薄い線で表示。.post-content で上書き */
+/* hr（---）は CSS で指定：薄い線＋余白でセクション区切りとして表示 */
 .prose hr {
   display: block;
   border: none;
@@ -268,12 +268,18 @@ body {
   }
 }
 
-/* セクション区切り：hr（---）を薄い線＋余白で正しく表示 */
+/* hr（---）を CSS で指定：記事内では薄い線＋余白で意図どおり表示 */
 .post-content hr {
   display: block;
   border: none;
   border-top: 1px solid #e5e7eb;
   margin: 2.5rem 0;
+}
+
+/* 記事本文の見出し：左の青・グレー帯は使わない（意図したデザインではないため） */
+.post-content h2,
+.post-content h3 {
+  border-left: none !important;
 }
 
 .post-content h2 {
@@ -381,6 +387,8 @@ body {
   padding: 20px;
   border-radius: 8px;
   margin: 30px 0;
+  /* 目次の下に本文が続いて見えないよう、カード内だけに収める */
+  overflow: hidden;
 }
 
 .toc-card .toc-card-nav {
