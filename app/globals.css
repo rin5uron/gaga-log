@@ -113,8 +113,12 @@ body {
   @apply text-gray-800 underline decoration-gray-300 hover:decoration-gray-800;
 }
 
+/* hr（---）はセクション区切りとして薄い線で表示。.post-content で上書き */
 .prose hr {
-  display: none;
+  display: block;
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 2rem 0;
 }
 
 .prose code {
@@ -264,9 +268,12 @@ body {
   }
 }
 
-/* セクション区切りのスタイル */
+/* セクション区切り：hr（---）を薄い線＋余白で正しく表示 */
 .post-content hr {
-  display: none;
+  display: block;
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 2.5rem 0;
 }
 
 .post-content h2 {
@@ -367,6 +374,9 @@ body {
 
 /* 目次カード（東京レポートなどページのインライン目次デザインに合わせる） */
 .toc-card {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
   background-color: #f5f5f5;
   padding: 20px;
   border-radius: 8px;
@@ -375,6 +385,18 @@ body {
 
 .toc-card .toc-card-nav {
   overflow: hidden;
+}
+
+/* 目次リストが長い見出しで崩れないように */
+.toc-card ul {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.toc-card .toc-heading-h2,
+.toc-card .toc-heading-h3 {
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 @media (max-width: 768px) {
@@ -896,6 +918,7 @@ body {
   margin: 0;
 }
 
+/* info-card 内の hr は非表示（strong::before で区切り線を出しているため） */
 .post-content .info-card hr {
   display: none;
 }
