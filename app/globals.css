@@ -268,6 +268,13 @@ body {
   }
 }
 
+/* 目次の直後＝記事本文の始まりをはっきりさせる（本文が目次に混ざって見えないように） */
+.post-content {
+  margin-top: 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+
 /* hr（---）を CSS で指定：記事内では薄い線＋余白で意図どおり表示 */
 .post-content hr {
   display: block;
@@ -386,8 +393,9 @@ body {
   background-color: #f5f5f5;
   padding: 20px;
   border-radius: 8px;
-  margin: 30px 0;
-  /* 目次の下に本文が続いて見えないよう、カード内だけに収める */
+  margin: 30px 0 2rem 0;
+  border: 1px solid #e5e7eb;
+  /* 目次の下に本文が続いて見えないよう、カード内だけに収め、枠で区切る */
   overflow: hidden;
 }
 

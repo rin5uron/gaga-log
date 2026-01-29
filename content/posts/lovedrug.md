@@ -34,35 +34,41 @@ highlights:
 
 ### MAYHEMに刻まれた一曲
 
-「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
+「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム
+**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
 
 Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
 
-Andrew Watt は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
-Cirkut（Henry Walter）は The Weeknd や Rihanna などのヒットを生むプロデューサー。
-Michael Polansky はガガの婚約者で、本作の全体制作をまとめる役も担っている。
+**Andrew Watt** は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
+**Cirkut（Henry Walter）**は The Weeknd や Rihanna などのヒットを生むプロデューサー。
+**Michael Polansky** はガガの婚約者で、本作の全体制作をまとめる役も担っている。
 
 ---
 
 ### 沼りたいのに、沼れない
 
-MAYHEMを聴いていて、この曲で手が止まった。
+このサビの歌詞を見たとき、**ガガも私と同じ女子なんだな**って思った。
 
-「Love Drug」— サビの歌詞を見たとき、ああ、ガガも女子だなって思った。
-**ガガもみんなと同じ女の子なんだ。**
 
 > I don't wanna feel / I don't wanna cry
 > So I'm gonna dance until I feel alright
 > I just need a dose of the right stuff
 > I just need a hit of your love drug
 
-**あなたに沼りたい。でも、もう一緒にいる運命はない。**
+I don't wanna feel / I don't wanna cry
+だからI'm gonna dance until I feel alright
 
-本当に好きで、人生の中で大切な人なのに、どうにもならない。
-そのやるせなさ、行き場のない想いを、ガガは"drug"という言葉で歌ってる。
+
+この歌詞はは
+**あなたに沼りたい。でも、もう一緒にいる運命はない。**
+本当に好きで、人生の中で大切な人なのに、もうこの関係はどうにもならない。
+**そのやるせなさ、行き場のない想い**を、ガガは"drug"という言葉で歌ってるのではないでしょうか。
+
+
+
 
 「Love Drug」は、恋の始まりや、愛される幸せを歌った曲じゃない。
-**好きという気持ちが、もう救いじゃなくて、中毒になってしまったときの曲だ。**
+**好きという気持ちが、もう救いじゃなくて、中毒になってしまったときの曲なのです**
 
 ---
 
