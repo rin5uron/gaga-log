@@ -409,11 +409,15 @@ body {
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--heading-h2-color);
+  border-left: none !important;
+  padding-left: 0 !important;
 }
 /* 目次内の h3 相当：字の大きさ・色 */
 .toc-heading-h3 {
   font-size: 0.875rem;
   color: var(--heading-h3-color);
+  border-left: none !important;
+  padding-left: 0 !important;
 }
 
 /* 目次カード全体：薄いグレー背景・枠線・角丸・余白。見出しリンクだけが入る箱 */
@@ -427,6 +431,15 @@ body {
   margin: 30px 0 2.5rem 0;
   border: 1px solid #e5e7eb;
   overflow: hidden;
+}
+
+/* 目次カード内の全要素：記事本文のスタイル（帯・上線など）を無効化 */
+.toc-card * {
+  border-left: none !important;
+  border-top: none !important;
+  padding-left: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 /* 目次カード内のナビ部分：はみ出しを隠す */
@@ -457,6 +470,11 @@ body {
 .toc-card .toc-heading-h3 {
   overflow-wrap: break-word;
   word-break: break-word;
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: none !important;
 }
 
 @media (max-width: 768px) {
