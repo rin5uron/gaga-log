@@ -33,6 +33,13 @@ export function getPostSlugs(): string[] {
     .map((file) => file.replace(/\.md$/, ""));
 }
 
+// type を正規化（song / live / movie は小文字で統一）
+function normalizeType(value: unknown): string | undefined {
+  const s = value != null ? String(value).trim().toLowerCase() : "";
+  if (s === "song" || s === "live" || s === "movie") return s;
+  return undefined;
+}
+
 export function getPostBySlug(slug: string): Post | null {
   try {
     const fullPath = path.join(postsDirectory, `${slug}.md`);
@@ -52,7 +59,7 @@ export function getPostBySlug(slug: string): Post | null {
       year: data.year,
       date: data.date || "",
       updatedDate: data.updatedDate || data.date || "",
-      type: data.type,
+      type: normalizeType(data.type),
       description: data.description,
       relatedPosts: data.relatedPosts,
       keywords: data.keywords,

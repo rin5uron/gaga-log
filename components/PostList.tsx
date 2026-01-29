@@ -69,6 +69,13 @@ function splitArtists(artistString: string): string[] {
 
 type ContentType = "song" | "live" | "movie" | "other";
 
+// type を正規化（大文字小文字・前後空白を無視し、song/live/movie 以外は other）
+function getNormalizedPostType(post: Post): ContentType {
+  const raw = (post.type && String(post.type).trim().toLowerCase()) || "";
+  if (raw === "song" || raw === "live" || raw === "movie") return raw;
+  return "other";
+}
+
 export default function PostList({ posts, artists }: PostListProps) {
   const [selectedArtist, setSelectedArtist] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState<string>("");
@@ -78,8 +85,8 @@ export default function PostList({ posts, artists }: PostListProps) {
   // 検索機能：タイトル、アーティスト名、曲名で検索 + タブフィルタ
   const filteredPosts = useMemo(() => {
     return posts.filter((post) => {
-      // タブフィルタ（type フィールドで絞り込み）
-      const postType = post.type || "other";
+      // タブフィルタ（type フィールドで絞り込み、正規化して比較）
+      const postType = getNormalizedPostType(post);
       if (postType !== selectedTab) {
         return false;
       }
@@ -123,7 +130,7 @@ export default function PostList({ posts, artists }: PostListProps) {
     return filteredPosts.slice(0, 5);
   }, [filteredPosts, searchQuery, showSuggestions]);
 
-  // タブごとの記事数を計算
+  // タブごとの記事数を計算（type を正規化して集計）
   const tabCounts = useMemo(() => {
     const counts: Record<ContentType, number> = {
       song: 0,
@@ -133,7 +140,7 @@ export default function PostList({ posts, artists }: PostListProps) {
     };
 
     posts.forEach((post) => {
-      const type = (post.type as ContentType) || "other";
+      const type = getNormalizedPostType(post);
       counts[type] = (counts[type] || 0) + 1;
     });
 
