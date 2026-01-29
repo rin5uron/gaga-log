@@ -18,6 +18,7 @@
 5. [「干渉」って何？ なぜ起きる？](#5-干渉って何-なぜ起きる)
 6. [このエラーの概要（コードブロック）](#6-このエラーの概要コードブロック)
 7. [困ったときのチェックリスト](#7-困ったときのチェックリスト)
+8. [実例：目次に本文が入って見える問題](#8-実例目次に本文が入って見える問題)
 
 ---
 
@@ -168,6 +169,10 @@ content/posts/mayhem-ball-tour-tokyo-report.md
 3. 目次の「1-2」の下に本文が続いて見える・境界がわかりにくい
    → 原因: 目次カードと記事本文の境界が弱い、または見出しの帯で「目次の続き」のように見えていた
 
+4. 目次ボックスの中に本文（段落）が入って見える
+   → 原因: 目次は見出しリンクだけを表示しているが、目次リストに高さの上限がなく、
+           記事本文（.post-content）が直下に続くため、境目がなく「目次に本文が入っている」ように見える
+
 【対応内容（app/globals.css）】
 ※記事の見出しから左の帯を外す
 .post-content h2,
@@ -194,10 +199,25 @@ content/posts/mayhem-ball-tour-tokyo-report.md
   display: none;
 }
 
-※目次カードが本文と混ざって見えないようにする
+※目次は見出しリンクだけ。本文が目次内に入って見えないよう、リストに最大高さを設ける
 .toc-card {
+  border: 1px solid #e5e7eb;
   overflow: hidden;
 }
+.toc-card .toc-list-inner {
+  max-height: min(50vh, 380px);
+  overflow-y: auto;
+}
+
+※目次の下＝記事本文の始まりを線で区切る
+.post-content {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.5rem;
+}
+
+【対応内容（components/TableOfContents.tsx）】
+※目次リストを包む div にクラス toc-list-inner を付与（上記 CSS の .toc-list-inner 用）
+<div className={`toc-list-inner transition-all ...`}>
 ```
 
 ---
@@ -233,5 +253,101 @@ content/posts/mayhem-ball-tour-tokyo-report.md
 
 ---
 
-この教材は、**The MAYHEM Ball 東京公演レポ**（`mayhem-ball-tour-tokyo-report.md`）などの記事ページのデザインを理解するためのものです。  
+## 8. 実例：目次に本文が入って見える問題
+
+### 何が起きたか
+
+目次のカード（`.toc-card`）の中に、本来表示されるべきではない**本文の段落テキスト**が入り込んで表示されていました。
+
+例：「1-2. 会場の雰囲気・客層・ファッション」の下に、「ガガのライブって、みんなすごいコスチューム着てガガファンばっかで...」という本文が表示されていた。
+
+### なぜ起きたか
+
+**原因①：目次カードの高さが制限されていなかった**
+
+`components/TableOfContents.tsx`の143行目で、目次が開いているときに次のように指定されていました：
+
+```tsx
+className={`toc-list-inner transition-all duration-300 ease-in-out ${
+  isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+} overflow-hidden`}
+```
+
+- `max-h-[2000px]` = 最大の高さが**2000ピクセル**（とても大きい）
+- これだと、目次リストの下に続く**本文まで**、目次カード内に表示されてしまいます
+
+**原因②：HTMLの構造を誤解していた**
+
+最初、私（AI）は「CSSの余白や境界線の問題」だと思い込んでいました。でも実際は：
+
+- 目次カード（`.toc-card`）の中に、**本文の段落（`<p>`タグ）**が入り込んでレンダリングされていた
+- これは**HTMLの構造上の問題**ではなく、**CSSの高さ制限が効いていない**ことが原因でした
+
+### どう直したか
+
+**修正①：巨大な高さ指定を削除**
+
+`components/TableOfContents.tsx`の143行目を次のように修正：
+
+```tsx
+// 修正前
+className={`toc-list-inner transition-all duration-300 ease-in-out ${
+  isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+} overflow-hidden`}
+
+// 修正後
+className={`toc-list-inner transition-all duration-300 ease-in-out ${
+  isOpen ? "opacity-100" : "max-h-0 opacity-0"
+} overflow-hidden`}
+```
+
+- `max-h-[2000px]` を削除しました
+- これで、`app/globals.css`の`.toc-card .toc-list-inner`で設定した`max-height: min(50vh, 380px)`が効くようになります
+
+**修正②：CSSで高さを制限**
+
+`app/globals.css`の399-402行目：
+
+```css
+.toc-card .toc-list-inner {
+  max-height: min(50vh, 380px);
+  overflow-y: auto;
+}
+```
+
+- `max-height: min(50vh, 380px)` = 画面の高さの50%、または380ピクセルのどちらか小さい方
+- これで目次カードの高さが制限され、本文が入り込まなくなります
+
+### ブラウザ開発者ツールで確認する方法
+
+**問題を見つけるには**：
+
+1. **ブラウザで記事ページを開く**（例：The MAYHEM Ball東京公演レポ）
+2. **F12キーを押す**（または右クリック→「検証」）
+3. **Elements（要素）タブ**で、目次カードのHTMLを探す：
+   ```html
+   <div class="toc-card">
+     <nav class="toc-card-nav">
+       <div class="toc-list-inner ...">
+         <ul>
+           <!-- 目次リスト -->
+         </ul>
+       </div>
+     </nav>
+   </div>
+   ```
+4. **右側のStyles（スタイル）タブ**で、`.toc-list-inner`に適用されているCSSを確認：
+   - `max-height` が設定されているか？
+   - `overflow-y: auto` が設定されているか？
+
+### 学んだこと
+
+1. **「目次に本文が入って見える」**という説明は、**HTMLの構造の問題**である可能性がある
+2. CSSで**高さを制限**しないと、その下に続くコンテンツまで表示されることがある
+3. **開発者ツールのElements（要素）タブ**を見れば、HTMLの構造が分かる
+4. **Styles（スタイル）タブ**を見れば、どのCSSが適用されているか分かる
+
+---
+
+この教材は、**The MAYHEM Ball 東京公演レポ**（`mayhem-ball-tour-tokyo-report.md`）などの記事ページのデザインを理解するためのものです。
 ほかの記事ページも、同じ仕組み（Markdown ＋ CSS）でデザインが決まっています。

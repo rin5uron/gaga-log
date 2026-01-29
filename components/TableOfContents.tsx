@@ -140,7 +140,7 @@ export default function TableOfContents({
 
       <div
         className={`toc-list-inner transition-all duration-300 ease-in-out ${
-          isOpen ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+          isOpen ? "opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
         <ul className={`pt-2 pb-0 space-y-0.5 list-none mb-0 ${

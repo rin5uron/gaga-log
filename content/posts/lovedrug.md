@@ -5,7 +5,7 @@ artist: "Lady Gaga"
 album: "MAYHEM"
 year: 2025
 date: "2025-12-30"
-updatedDate: "2026-01-22"
+updatedDate: "2026-01-29"
 order: 9
 type: "song"
 description: "Lady Gaga「Love Drug」の考察と歌いたくなるポイント。愛を中毒として描く曲のテーマと、サビを中心とした読みどころ。"

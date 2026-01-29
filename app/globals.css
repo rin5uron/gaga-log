@@ -1,18 +1,27 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* ========================================
+   globals.css の役割
+   サイト全体の「見た目」を決めるファイル。
+   記事の見出し・本文・目次・ボックス類など、
+   どこにどんなスタイルを当てるかを書いています。
+   ======================================== */
 
+@tailwind base;   /* Tailwindの「土台」スタイルを読み込む */
+@tailwind components;   /* Tailwindのコンポーネント用クラスを読み込む */
+@tailwind utilities;   /* Tailwindのユーティリティクラスを読み込む */
+
+/* --- サイト全体で使う「変数」の定義 --- */
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 255, 255, 255;
-  --background-end-rgb: 255, 255, 255;
-  /* 見出しデザイン共通（記事h2/h3・目次で統一） */
-  --heading-h2-border: 4px solid #3b82f6;
-  --heading-h3-border: 3px solid #94a3b8;
-  --heading-h2-color: #111827;
-  --heading-h3-color: #374151;
+  --foreground-rgb: 0, 0, 0;   /* 文字色（黒系） */
+  --background-start-rgb: 255, 255, 255;   /* 背景の始まり（白） */
+  --background-end-rgb: 255, 255, 255;   /* 背景の終わり（白） */
+  /* 見出しの線・色を共通で使うための変数（記事h2/h3・目次で統一） */
+  --heading-h2-border: 4px solid #3b82f6;   /* h2の左の線（青） */
+  --heading-h3-border: 3px solid #94a3b8;   /* h3の左の線（グレー） */
+  --heading-h2-color: #111827;   /* h2の文字色 */
+  --heading-h3-color: #374151;   /* h3の文字色 */
 }
 
+/* ページ全体の body：文字色と背景のグラデーション */
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -23,17 +32,22 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-/* Markdown スタイリング */
+/* ========================================
+   記事本文エリア（.prose）のスタイル
+   Markdown で書いた見出し・段落・リスト・引用などをどう見せるか
+   ======================================== */
 .prose {
-  @apply text-gray-800;
-  line-height: 1.8;
+  @apply text-gray-800;   /* 本文の文字色 */
+  line-height: 1.8;   /* 行の高さ（読みやすさ） */
   font-size: 1.0625rem; /* 17px：Wikipedia等に近づける */
 }
 
+/* 見出し1（h1）：記事タイトル用。大きめ・太字・上下の余白 */
 .prose h1 {
   @apply text-5xl font-bold mt-8 mb-4;
 }
 
+/* 見出し2（h2）：セクションの大見出し。左に青い線・余白 */
 .prose h2 {
   @apply text-2xl font-bold;
   letter-spacing: -0.01em;
@@ -45,6 +59,7 @@ body {
   color: var(--heading-h2-color);
 }
 
+/* 見出し3（h3）：セクション内の小見出し。左にグレーの線・余白 */
 .prose h3 {
   @apply text-xl font-semibold;
   color: var(--heading-h3-color);
@@ -56,21 +71,23 @@ body {
   letter-spacing: -0.01em;
 }
 
-/* h2直後のh3は余白1.5rem */
+/* h2の直後に来る h3 だけ、上の余白を少し狭くする */
 .prose h2 + h3 {
   margin-top: 1.5rem;
 }
 
+/* 段落（p）：下に余白。幅は読みやすい幅に制限 */
 .prose p {
   @apply mb-4;
   max-width: 45em;
 }
 
+/* 最後の段落は下余白なし */
 .prose p:last-child {
   @apply mb-0;
 }
 
-/* 引用：帯なし。シンプルなインデントのみ。薄い背景色を追加 */
+/* 引用（blockquote）：歌詞や引用文。左の線は使わず、薄い背景で区切り */
 .prose blockquote {
   padding: 0.5rem 0 0.5rem 1.25rem;
   color: #374151;
@@ -87,7 +104,7 @@ body {
   border-radius: 0.25rem;
 }
 
-/* まとめ・セクション要約の枠（.summary-box, .section-summary で使用） */
+/* まとめ・要約用の枠（.summary-box, .section-summary クラスを付けた要素用） */
 .prose .summary-box,
 .prose .section-summary {
   background-color: #f1f5f9;
@@ -100,6 +117,7 @@ body {
   color: #334155;
 }
 
+/* リスト（ul=黒丸、ol=番号）：左にインデント・下に余白 */
 .prose ul,
 .prose ol {
   @apply mb-4 pl-6;
@@ -109,11 +127,12 @@ body {
   @apply mb-2;
 }
 
+/* リンク（a）：下線・ホバーで色が濃く */
 .prose a {
   @apply text-gray-800 underline decoration-gray-300 hover:decoration-gray-800;
 }
 
-/* hr（---）は CSS で指定：薄い線＋余白でセクション区切りとして表示 */
+/* 水平線（hr）：Markdown の --- がこれになる。薄い線＋上下の余白でセクション区切り */
 .prose hr {
   display: block;
   border: none;
@@ -121,15 +140,17 @@ body {
   margin: 2rem 0;
 }
 
+/* インラインコード（`コード`）：薄い背景・角丸・小さめの字 */
 .prose code {
   @apply bg-gray-100 px-1 py-0.5 rounded text-sm;
 }
 
+/* コードブロック（```で囲んだ部分）：薄い背景・パディング・横スクロール可 */
 .prose pre {
   @apply bg-gray-100 p-4 rounded mb-4 overflow-x-auto;
 }
 
-/* Markdown テーブルスタイリング */
+/* テーブル（表）：枠線・セルの余白・ヘッダー背景 */
 .prose table {
   @apply w-full border-collapse mb-6;
   border: 1px solid #e5e7eb;
@@ -168,23 +189,24 @@ body {
   border-bottom: none;
 }
 
-/* YouTube iframe レスポンシブ対応 */
+/* 記事内の iframe（YouTube など）：幅いっぱい・16:9 の比率を保つ・下に余白 */
 .prose iframe {
   @apply w-full max-w-full mb-10;
   aspect-ratio: 16 / 9;
   height: auto;
 }
 
-/* YouTube直後のhrは上マージンなし（間に空行やコメントがあっても対応） */
+/* 見出し（h2）の直前に来る hr：下の余白を多めに */
 .prose hr:has(+ h2) {
   @apply mb-8;
 }
 
+/* iframe の直後に来る最初の hr：上の余白なし・下は多め */
 .prose iframe ~ hr:first-of-type {
   @apply mt-0 mb-8;
 }
 
-/* YouTube埋め込み */
+/* YouTube 埋め込み用ラッパー：最大幅を決めてはみ出さないように */
 .youtube-embed-wrapper {
   max-width: 42rem;
 }
@@ -196,7 +218,7 @@ body {
   border-radius: 0.5rem;
 }
 
-/* 映像作品の画像 */
+/* 映像作品の画像用ラッパー：最大幅・角丸 */
 .movie-image-wrapper {
   max-width: 31.25rem;
 }
@@ -207,7 +229,10 @@ body {
   border-radius: 0.5rem;
 }
 
-/* レスポンシブ対応 */
+/* ========================================
+   スマホ・タブレット用（画面幅 768px 以下）
+   フォントサイズや余白を少し調整
+   ======================================== */
 @media (max-width: 768px) {
   .youtube-embed-wrapper {
     max-width: 100%;
@@ -268,7 +293,13 @@ body {
   }
 }
 
-/* hr（---）を CSS で指定：記事内では薄い線＋余白で意図どおり表示 */
+/* ========================================
+   記事本文エリア（.post-content）専用の上書き
+   記事ページの「本文」部分だけに当たるスタイル。
+   .prose のあとで読まれるので、ここで指定した方が優先される。
+   ======================================== */
+
+/* 記事内の hr（---）：薄い線＋余白でセクション区切りとして表示 */
 .post-content hr {
   display: block;
   border: none;
@@ -276,23 +307,25 @@ body {
   margin: 2.5rem 0;
 }
 
-/* 記事本文の見出し：左の青・グレー帯は使わない（意図したデザインではないため） */
+/* 記事の見出し（h2/h3）から左の青・グレー帯を外す（意図したデザインではないため） */
 .post-content h2,
 .post-content h3 {
   border-left: none !important;
 }
 
+/* 記事の h2：上に余白・上に薄い線でセクション区切り */
 .post-content h2 {
   margin-top: 5rem;
   padding-top: 2rem;
   border-top: 0.125rem solid #e5e7eb;
 }
 
+/* 記事内で最初の h2 だけ、上の余白を少し狭く */
 .post-content h2:first-of-type {
   margin-top: 3rem;
 }
 
-/* まとめセクションのスタイル無効化（.no-heading-styleクラス使用時） */
+/* .no-heading-style を付けた h2：見出しらしい装飾を全部外す（まとめセクション用など） */
 .post-content h2.no-heading-style {
   border-left: none !important;
   padding-left: 0 !important;
@@ -301,12 +334,12 @@ body {
   border-top: none !important;
 }
 
-/* Referencesセクションを控えめに */
+/* 「参考情報」など .section-subtitle を持つ h2 用の土台 */
 .post-content h2:has(.section-subtitle) {
   position: relative;
 }
 
-/* 参考文献セクション：フォント・サイズ・明るさを抑え存在感を消す（より控えめに） */
+/* 参考文献セクション（.references-section）：小さめの字・薄い色で控えめに */
 .post-content h2.references-section {
   font-size: 1rem !important;
   font-weight: 400 !important;
@@ -352,7 +385,7 @@ body {
   text-decoration: underline !important;
 }
 
-/* セクションサブタイトルのスタイリング */
+/* 見出しの横に付くサブタイトル（例：「この曲について」）：小さめ・グレー・左に余白 */
 .prose h2 .section-subtitle {
   font-size: 0.95rem;
   font-weight: 400;
@@ -362,23 +395,28 @@ body {
   vertical-align: middle;
 }
 
-/* 記事タイトル（h1）：h2と同じ色トークンで統一 */
+/* 記事タイトル用クラス：h2 と同じ色変数で統一 */
 .article-title {
   color: var(--heading-h2-color);
 }
 
-/* 目次：H2は見出し、H3はリンク。帯（左边框・背景）なし */
+/* ========================================
+   目次（Table of Contents）のスタイル
+   記事上部の「目次」ボックス内の見出しリンクの見た目
+   ======================================== */
+/* 目次内の h2 相当：字の大きさ・太さ・色（左の帯は使わない） */
 .toc-heading-h2 {
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--heading-h2-color);
 }
+/* 目次内の h3 相当：字の大きさ・色 */
 .toc-heading-h3 {
   font-size: 0.875rem;
   color: var(--heading-h3-color);
 }
 
-/* 目次カード：見出しリンクだけを表示。本文が目次内に入って見えないよう高さを区切る */
+/* 目次カード全体：薄いグレー背景・枠線・角丸・余白。見出しリンクだけが入る箱 */
 .toc-card {
   box-sizing: border-box;
   width: 100%;
@@ -386,28 +424,30 @@ body {
   background-color: #f5f5f5;
   padding: 20px;
   border-radius: 8px;
-  margin: 30px 0;
+  margin: 30px 0 2.5rem 0;
   border: 1px solid #e5e7eb;
   overflow: hidden;
 }
 
+/* 目次カード内のナビ部分：はみ出しを隠す */
 .toc-card .toc-card-nav {
   overflow: hidden;
 }
 
-/* 目次リスト部分の最大高さ（見出しだけが入り、その下は記事本文になるようにする） */
+/* 目次リスト部分：高さに上限を設け、本文が目次内に入って見えないように。長いときはスクロール */
 .toc-card .toc-list-inner {
   max-height: min(50vh, 380px);
   overflow-y: auto;
 }
 
-/* 目次の下＝記事本文の始まりを線で区切る */
+/* 記事本文の始まり：目次の直下に線と余白を付けて「ここから本文」と分かるようにする */
 .post-content {
   border-top: 1px solid #e5e7eb;
   padding-top: 1.5rem;
+  margin-top: 2.5rem;
 }
 
-/* 目次リストが長い見出しで崩れないように */
+/* 目次内のリスト：長い見出しが折り返して崩れないように */
 .toc-card ul {
   overflow-wrap: break-word;
   word-break: break-word;
@@ -425,10 +465,13 @@ body {
   }
 }
 
-/* 前作と今作の比較ボックス */
+/* ========================================
+   曲記事用：前作と今作の比較ボックス
+   .comparison-box で2列に並べ、.comparison-item で各カードの見た目
+   ======================================== */
 .comparison-box {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;   /* 2列均等 */
   gap: 1.5rem;
   margin: 2rem 0;
 }
@@ -440,13 +483,17 @@ body {
   background-color: #ffffff;
 }
 
+/* 「前作」用：グレー系の枠・背景 */
 .comparison-item.previous {
   border-color: #9ca3af;
   background-color: #f9fafb;
-}.comparison-item.current {
+}
+/* 「今作」用：青系の枠・背景 */
+.comparison-item.current {
   border-color: #3b82f6;
   background-color: #eff6ff;
-}.comparison-item h4 {
+}
+.comparison-item h4 {
   font-size: 1.125rem;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -477,7 +524,10 @@ body {
   color: #374151;
 }
 
-/* 楽しいポイントセクション */
+/* ========================================
+   曲記事用：「楽しいポイント」セクション
+   黄色系グラデーションの枠で強調
+   ======================================== */
 .fun-points {
   margin: 2.5rem 0;
   padding: 2rem;
@@ -520,7 +570,11 @@ body {
   line-height: 1.7;
 }
 
-/* セットリスト用スタイル */
+/* ========================================
+   ツアー記事用：セットリスト（セトリ）のスタイル
+   .setlist-container：セトリ全体の枠
+   .setlist-act / .setlist-song：アクト・曲ごとの見た目
+   ======================================== */
 .setlist-container {
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
@@ -529,7 +583,7 @@ body {
   margin: 2rem 0;
 }
 
-/* シンプルなセトリリスト（番号付きリスト部分） */
+/* シンプルなセトリリスト（番号付きリスト用の枠） */
 .setlist-simple {
   border: 1px solid #e5e7eb;
   border-radius: 0.5rem;
@@ -713,7 +767,7 @@ body {
   color: #1e40af;
 }
 
-/* 日本公演情報カード（コンパクト） */
+/* 日本公演情報用のコンパクトなカード（.japan-tour-card） */
 .japan-tour-card {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
@@ -776,7 +830,7 @@ body {
   line-height: 1.4;
 }
 
-/* ベスト3ランキング用の枠 */
+/* ランキング用の枠（ベスト3など。.ranking-box） */
 .ranking-box {
   background-color: #fafafa;
   border: 1px solid #e5e7eb;
@@ -817,7 +871,7 @@ body {
   color: #374151;
 }
 
-/* 5つのアクトハイライト */
+/* ツアー記事用：アクトごとのハイライト（.act-highlights） */
 .act-highlights {
   margin: 1.5rem 0;
 }
@@ -899,9 +953,12 @@ body {
   }
 }
 
-/* ライブレポート用デザインコンポーネント */
+/* ========================================
+   ライブレポート用デザインコンポーネント
+   東京公演レポなどで使う「情報カード」「チェックリスト」などの枠
+   ======================================== */
 
-/* ① 情報カード（縦並び） */
+/* ① 情報カード（.info-cards-container で縦並び、.info-card で1枚1枚の枠） */
 .info-cards-container {
   display: flex;
   flex-direction: column;
@@ -916,7 +973,7 @@ body {
   padding: 1.25rem;
 }
 
-/* info-card内はproseの本文デザインをリセット */
+/* 情報カード内の段落：幅制限を外してカード内で自然に折り返す */
 .post-content .info-card p {
   max-width: none;
 }
@@ -938,12 +995,12 @@ body {
   margin: 0;
 }
 
-/* info-card 内の hr は非表示（strong::before で区切り線を出しているため） */
+/* 情報カード内の ---（hr）は表示しない。区切りは下の strong::before で線を出す */
 .post-content .info-card hr {
   display: none;
 }
 
-/* info-card内で太字の前に区切り線を表示 */
+/* 情報カード内で、2つ目以降の strong の前に薄い線を表示（区切り線として） */
 .info-card strong:not(:first-of-type)::before {
   content: "";
   display: block;
@@ -952,7 +1009,7 @@ body {
   margin: 1rem 0 1.5rem 0;
 }
 
-/* ② 実用チェックリスト */
+/* ② 実用チェックリスト（持ち物・服装などリストを入れる枠） */
 .checklist-box {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
@@ -986,7 +1043,7 @@ body {
   margin-bottom: 0;
 }
 
-/* ③ 体験談・情報枠 */
+/* ③ 公式情報・体験談用の枠（.official-info-box） */
 .official-info-box {
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
@@ -1029,7 +1086,7 @@ body {
   margin-bottom: 0;
 }
 
-/* ④ 時間配分タイムライン */
+/* ④ 時間配分タイムライン（「2時間前」「1時間前」などのリスト用枠） */
 .timeline-box {
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
@@ -1078,7 +1135,7 @@ body {
   font-weight: 600;
 }
 
-/* ⑤ まとめセクション（装飾なし） */
+/* ⑤ まとめセクション（.summary-plain）：見出しの装飾を外してシンプルに */
 .summary-plain {
   margin: 3rem 0;
   padding-top: 2rem;
@@ -1102,7 +1159,7 @@ body {
   color: #374151;
 }
 
-/* ⑥ 参考リンク補足情報枠 */
+/* ⑥ 参考リンク・補足情報用の枠（.reference-box）：控えめな色・小さめの字 */
 .reference-box {
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
