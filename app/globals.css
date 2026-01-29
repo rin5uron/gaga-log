@@ -15,7 +15,7 @@
   --background-start-rgb: 255, 255, 255;   /* 背景の始まり（白） */
   --background-end-rgb: 255, 255, 255;   /* 背景の終わり（白） */
   /* 見出しの線・色を共通で使うための変数（記事h2/h3・目次で統一） */
-  --heading-h2-border: 4px solid #3b82f6;   /* h2の左の線（青） */
+  --heading-h2-border: 4px solid #5c5c5c;   /* h2の左の線（グレー）。青に戻す場合は #3b82f6 */
   --heading-h3-border: 3px solid #94a3b8;   /* h3の左の線（グレー） */
   --heading-h2-color: #111827;   /* h2の文字色 */
   --heading-h3-color: #374151;   /* h3の文字色 */
@@ -307,10 +307,10 @@ body {
   margin: 2.5rem 0;
 }
 
-/* 記事の見出し（h2/h3）から左の青・グレー帯を外す（意図したデザインではないため） */
+/* 記事の見出し（h2/h3）：左の帯の色。文字サイズは .prose h2/h3 の text-2xl・text-xl を継承（スマホでは下の @media で小さく） */
 .post-content h2,
 .post-content h3 {
-  border-left: none !important;
+  border-left: 4px solid #5c5c5c;
 }
 
 /* 記事の h2：上に余白・上に薄い線でセクション区切り */
@@ -343,7 +343,7 @@ body {
 .post-content h2.references-section {
   font-size: 1rem !important;
   font-weight: 400 !important;
-  color: #d1d5db !important;
+  color: #8c929c !important;
   margin-top: 4rem !important;
   margin-bottom: 0.5rem !important;
   padding-top: 1.5rem !important;
@@ -409,21 +409,21 @@ body {
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--heading-h2-color);
-  border-left: none !important;
+  border-left: 4px solid #5c5c5c;
   padding-left: 0 !important;
 }
 /* 目次内の h3 相当：字の大きさ・色 */
 .toc-heading-h3 {
   font-size: 0.875rem;
   color: var(--heading-h3-color);
-  border-left: none !important;
+  border-left: 3px solid #94a3b8;
   padding-left: 0 !important;
 }
 
 /* 目次カード全体：薄いグレー背景・枠線・角丸・余白。見出しリンクだけが入る箱 */
 .toc-card {
   box-sizing: border-box;
-  width: 100%;
+  width: 80%;
   max-width: 100%;
   background-color: #f5f5f5;
   padding: 20px;
@@ -442,23 +442,9 @@ body {
   margin-top: 0 !important;
 }
 
-/* 目次カード内のナビ部分：はみ出しを隠す */
-.toc-card .toc-card-nav {
-  overflow: hidden;
-}
 
-/* 目次リスト部分：高さに上限を設け、本文が目次内に入って見えないように。長いときはスクロール */
-.toc-card .toc-list-inner {
-  max-height: min(50vh, 380px);
-  overflow-y: auto;
-}
 
-/* 記事本文の始まり：目次の直下に線と余白を付けて「ここから本文」と分かるようにする */
-.post-content {
-  border-top: 1px solid #e5e7eb;
-  padding-top: 1.5rem;
-  margin-top: 2.5rem;
-}
+
 
 /* 目次内のリスト：長い見出しが折り返して崩れないように */
 .toc-card ul {
@@ -480,6 +466,22 @@ body {
 @media (max-width: 768px) {
   .prose h2 .section-subtitle {
     margin-left: 0.5rem;
+  }
+  /* スマホ：記事の見出しを少し小さく */
+  .post-content h2 {
+    font-size: 1.25rem;
+  }
+  .post-content h3 {
+    font-size: 1.125rem;
+  }
+  .toc-card {
+    width: 100%;
+  }
+  .toc-heading-h2 {
+    font-size: 0.65rem;
+  }
+  .toc-heading-h3 {
+    font-size: 0.65rem;
   }
 }
 
@@ -984,21 +986,24 @@ body {
   margin: 2rem 0;
 }
 
+/* 枠内のフォントを統一：基準を 0.9375rem にして、.prose の 1.0625rem が入り込まないようにする */
 .info-card {
+  font-size: 0.9375rem;
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
   border-radius: 0.5rem;
   padding: 1.25rem;
 }
 
-/* 情報カード内の段落：幅制限を外してカード内で自然に折り返す */
+/* 情報カード内の段落：幅制限を外してカード内で自然に折り返す。サイズは .info-card を継承 */
 .post-content .info-card p {
   max-width: none;
+  font-size: 1em;
 }
 
 .info-card h4,
 .info-card > strong {
-  font-size: 0.875rem;
+  font-size: 0.875rem;   /* カード見出し（【会場の空気感】など）だけ少し小さく */
   font-weight: 600;
   color: #374151;
   margin-top: 0;
@@ -1007,10 +1012,14 @@ body {
 }
 
 .info-card p {
-  font-size: 0.9375rem;
   line-height: 1.7;
   color: #4b5563;
   margin: 0;
+}
+
+/* 画像キャプション風の小さい文（div 直下の p）も枠内で揃える */
+.post-content .info-card div > p {
+  font-size: 0.875rem;
 }
 
 /* 情報カード内の ---（hr）は表示しない。区切りは下の strong::before で線を出す */
@@ -1018,13 +1027,36 @@ body {
   display: none;
 }
 
-/* 情報カード内で、2つ目以降の strong の前に薄い線を表示（区切り線として） */
+/* カード内の区切り線：hr に class="card-separator" を付けたときだけ表示 */
+.post-content .info-card hr.card-separator {
+  display: block;
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 1.25rem 0;
+}
+
+/* 情報カード内で、2つ目以降の strong の前に薄い線を表示（区切り線として）。※段落（p）内の strong には出さない */
 .info-card strong:not(:first-of-type)::before {
   content: "";
   display: block;
   height: 1px;
   background: #e5e7eb;
   margin: 1rem 0 1.5rem 0;
+}
+
+/* 段落内の strong（例：**キラキラした**）の前には線を出さない（上のルールで出てしまうのを打ち消す） */
+.info-card p strong::before {
+  content: none;
+  display: none;
+  height: 0;
+  margin: 0;
+  background: none;
+}
+
+/* 枠内の strong（太字）：CSS で大きさと太さを指定。** が HTML ブロック内で効かないときは <strong> を直接書く */
+.info-card p strong {
+  font-size: 1.2em;
+  font-weight: 700;
 }
 
 /* ② 実用チェックリスト（持ち物・服装などリストを入れる枠） */

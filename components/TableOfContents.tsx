@@ -19,6 +19,7 @@ export default function TableOfContents({
 }) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
+  /** 目次の開閉。true=開いている / false=閉じている。スライダーの表示・非表示に使う */
   const [isOpen, setIsOpen] = useState<boolean>(true);
 
   useEffect(() => {
@@ -110,17 +111,19 @@ export default function TableOfContents({
 
   const content = (
     <nav className={variant === "card" ? "toc-card-nav" : "mb-4 overflow-hidden"}>
+      {/* スライダー用：開閉トグルボタン。クリックで isOpen を反転 → 下の toc-list-inner が開く/閉じる */}
+      {/* justify-start：左寄せ　justify-end：右寄せ */}
       <button
         onClick={() => setIsOpen(!isOpen)}
         className={`flex items-center transition-colors ${
           variant === "card"
-            ? "w-full justify-between px-0 py-1 hover:opacity-80"
-            : "w-fit justify-between gap-2 px-2 py-2 hover:bg-gray-100"
+            ? "w-full justify-end px-0 py-1 hover:opacity-80"
+            : "w-fit justify-end gap-2 px-2 py-2 hover:bg-gray-100"
         }`}
       >
-        <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
+        {/* <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
           目次
-        </h2>
+        </h2> */}
         <svg
           className={`w-4 h-4 text-gray-600 transition-transform ${
             isOpen ? "rotate-180" : ""
@@ -138,6 +141,8 @@ export default function TableOfContents({
         </svg>
       </button>
 
+      {/* スライダー本体：開いているときは表示（opacity-100）、閉じているときは高さ0＋透明（max-h-0 opacity-0）。
+          transition-all duration-300 で約300msかけて開閉アニメーションする。globals.css の .toc-list-inner で max-height も指定されている場合あり。 */}
       <div
         className={`toc-list-inner transition-all duration-300 ease-in-out ${
           isOpen ? "opacity-100" : "max-h-0 opacity-0"

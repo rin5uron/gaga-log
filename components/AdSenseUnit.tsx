@@ -1,7 +1,6 @@
 "use client";
 
 import Script from "next/script";
-import { useEffect } from "react";
 
 interface AdSenseUnitProps {
   /**
@@ -41,16 +40,8 @@ export default function AdSenseUnit({
   responsive = true,
   adStyle,
 }: AdSenseUnitProps) {
-  useEffect(() => {
-    try {
-      // 広告を初期化
-      if (typeof window !== "undefined" && (window as any).adsbygoogle) {
-        ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
-      }
-    } catch (err) {
-      console.error("AdSense initialization error:", err);
-    }
-  }, []);
+  // 広告の初期化（push）は下の Script の1回だけにする。
+  // useEffect でも push すると同じ ins に2回入れて「already have ads」エラーになる。
 
   return (
     <div className="adsense-wrapper">
