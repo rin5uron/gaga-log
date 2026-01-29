@@ -334,8 +334,8 @@ export default async function PostPage({
     contentWithoutImage
   );
 
-  // ストリーミングリンクを抽出
-  const streamingLinksRegex = /<!-- 🎧 ストリーミングで聴く -->[\s\S]*?(?=\n\n|##|$)/;
+  // ストリーミングリンクを抽出（ストリーミングで聴く／公式プレイリスト／セトリプレイリスト）
+  const streamingLinksRegex = /<!-- 🎧 (?:ストリーミングで聴く|公式プレイリストで聴く|セトリプレイリストで聴く) -->[\s\S]*?(?=\n\n|##|$)/;
   const streamingMatch = contentWithoutYouTube.match(streamingLinksRegex);
   const streamingLinks = streamingMatch ? streamingMatch[0] : null;
   const contentWithoutStreaming = streamingLinks
@@ -474,6 +474,12 @@ export default async function PostPage({
                   {post.title.replace(/\s*2025[–-]2026\s*/, "")}
                   <br />
                   <span className="text-2xl sm:text-3xl">2025–2026</span>
+                </>
+              ) : slug === "mayhem-ball-tour-tokyo-report" && post.title.includes("東京ドーム公演") ? (
+                <>
+                  {post.title.split("東京ドーム公演")[0]}東京ドーム公演
+                  <br className="sm:hidden" />
+                  {post.title.split("東京ドーム公演")[1] || ""}
                 </>
               ) : (
                 post.title

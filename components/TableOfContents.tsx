@@ -112,15 +112,17 @@ export default function TableOfContents({
     <nav className={variant === "card" ? "toc-card-nav" : "mb-4 overflow-hidden"}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className={`w-fit flex items-center justify-between gap-2 transition-colors ${
+        className={`flex items-center transition-colors ${
           variant === "card"
-            ? "px-0 py-1 hover:opacity-80"
-            : "px-2 py-2 hover:bg-gray-100"
+            ? "w-full justify-end px-0 py-1 hover:opacity-80"
+            : "w-fit justify-between gap-2 px-2 py-2 hover:bg-gray-100"
         }`}
       >
-        <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
-          目次
-        </h2>
+        {variant !== "card" && (
+          <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
+            目次
+          </h2>
+        )}
         <svg
           className={`w-4 h-4 text-gray-600 transition-transform ${
             isOpen ? "rotate-180" : ""
