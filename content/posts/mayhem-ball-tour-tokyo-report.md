@@ -86,7 +86,7 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
 <div class="info-card">
 
 
-<strong>【会場の空気感】</strong>
+<div class=card-emphasis>【会場の空気感】</div>
 
 ガガのライブって、みんなすごいコスチューム着てガチファンばっかで「にわかファン大丈夫かな」とか思ってたけど、全然そんなことありませんでした。
 
@@ -103,7 +103,7 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
 
 <div class="info-card">
 
-<strong>【ファッション】</strong>
+<div class="card-emphasis">【ファッション】</div>
 
 **タンクトップ率、高い**
 
@@ -135,9 +135,11 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
   <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">ライブ会場で配られたペンライトについていたリボン。お土産に持ち帰れました！</p>
 </div>
 </div>
+
+
 <div class="info-card">
 
-<strong>【客層】</strong>
+<div class="card-emphasis">【客層】</div>
 
 観客の年代は**20代後半から30代が半分以上**という印象でした。
 
@@ -150,7 +152,7 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
 </div>
 <div class="info-card">
 
-<strong>【客席・座席】</strong>
+<div class="card-emphasis">【客席・座席】</div>
 
 今回の私の席は**SS席エキサイトシート**でした。アリーナ内の前方エリアの芝生席で、席の間隔がゆったりしていて動きやすかったです。途中で足が痛くなったので靴を脱いたら、芝生で暖かくて助かりました。
 
@@ -164,7 +166,7 @@ Lady Gagaのワールドツアー『The MAYHEM Ball』が<br>
 </div>
 
 </div>
-
+<div>
 
 
 
