@@ -193,15 +193,15 @@ body {
   height: auto;
 }
 
-/* 見出し（h2）の直前に来る hr：下の余白を多めに */
-.prose hr:has(+ h2) {
+/* 見出し（h2）の直前に来る hr：非表示なので不要 */
+/* .prose hr:has(+ h2) {
   @apply mb-8;
-}
+} */
 
-/* iframe の直後に来る最初の hr：上の余白なし・下は多め */
-.prose iframe ~ hr:first-of-type {
+/* iframe の直後に来る最初の hr：非表示なので不要 */
+/* .prose iframe ~ hr:first-of-type {
   @apply mt-0 mb-8;
-}
+} */
 
 /* YouTube 埋め込み用ラッパー：最大幅を決めてはみ出さないように */
 .youtube-embed-wrapper {
@@ -419,26 +419,23 @@ body {
   padding-left: 0 !important;
 }
 
-/* 目次カード全体：2重枠デザイン（note風・丁寧な印象） */
+/* 目次カード全体：薄いグレー背景 + 線の内枠 */
 .toc-card {
   box-sizing: border-box;
   width: 80%;
   max-width: 100%;
-  /* 外枠：薄いグレー背景 */
   background-color: #f5f5f5;
-  padding: 16px; /* 外側の余白 */
+  padding: 20px; /* 外側の余白 */
   border-radius: 10px;
   margin: 30px 0 2.5rem 0;
-  border: 1px solid #e0e0e0; /* 外枠線（少し濃いめ） */
   overflow: hidden;
 }
 
-/* 目次カード内側：白背景の内枠 */
+/* 目次カード内側：線だけの内枠 + 内側に余白 */
 .toc-card nav {
-  background-color: white;
-  padding: 16px; /* 内側の余白 */
+  border: 1px solid #d1d5db; /* 線のみ */
+  padding: 20px; /* 線の内側に余白を取って目次配置 */
   border-radius: 6px;
-  border: 1px solid #e5e7eb; /* 内枠線（薄め） */
 }
 
 /* 目次カード内の全要素：記事本文のスタイル（帯・上線など）を無効化 */
@@ -482,11 +479,19 @@ body {
   .post-content h3 {
     font-size: 1.125rem;
   }
+  /* スマホ：目次の幅とフォントサイズ */
   .toc-card {
     width: 100%;
+    padding: 16px; /* スマホは外側余白を少し小さく */
+  }
+  .toc-card nav {
+    padding: 16px; /* スマホは内側余白も少し小さく */
   }
   .toc-heading-h2 {
-    font-size: 0.65rem;
+    font-size: 0.875rem; /* 0.65rem → 0.875rem（14px）に拡大 */
+  }
+  .toc-heading-h3 {
+    font-size: 0.8125rem; /* 13px */
   }
   .toc-heading-h3 {
     font-size: 0.65rem;
