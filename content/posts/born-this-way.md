@@ -12,9 +12,9 @@ description: "Lady Gaga「Born This Way（ボーン・ディス・ウェイ）�
 keywords: ["Born This Way", "ボーン・ディス・ウェイ", "Lady Gaga", "レディーガガ", "ガガ", "歌詞", "意味", "解説", "自己受容", "多様性", "LGBTQ", "グラミー賞", "みんなスーパースター", "クイーンになりなさい"]
 relatedPosts: ["poker-face", "bad-romance", "mayhem-ball-tour"]
 highlights:
-  - "We are all born superstars"——みんなスーパースターとして生まれてきた
-  - "Don't be a drag, just be a queen"——ドラッグじゃなくてクイーンになりなさい
-  - 多様性への言及——ゲイ、ストレート、バイ、レズビアン、トランスジェンダー、すべての人への受容
+  - "We are all born superstars——みんなスーパースターとして生まれてきた"
+  - "Don't be a drag, just be a queen——ドラッグじゃなくてクイーンになりなさい"
+  - "多様性への言及——ゲイ、ストレート、バイ、レズビアン、トランスジェンダー、すべての人への受容"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
