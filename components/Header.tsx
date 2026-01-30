@@ -16,7 +16,7 @@ export default function Header() {
               曲を探す
             </Link>
             <Link
-              href="/#about"
+              href="/about"
               className="text-xs sm:text-sm text-gray-700 hover:text-black transition-colors font-medium whitespace-nowrap"
             >
               このサイトについて

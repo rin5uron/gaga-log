@@ -15,10 +15,10 @@
   --background-start-rgb: 255, 255, 255;   /* 背景の始まり（白） */
   --background-end-rgb: 255, 255, 255;   /* 背景の終わり（白） */
   /* 見出しの線・色を共通で使うための変数（記事h2/h3・目次で統一） */
-  --heading-h2-border: 4px solid #5c5c5c;   /* h2の左の線（グレー）。青に戻す場合は #3b82f6 */
-  --heading-h3-border: 3px solid #94a3b8;   /* h3の左の線（グレー） */
+  --heading-h2-border: 4px solid #5c5c5c;   /* h2の左の線（太い・濃い） */
+  --heading-h3-border: 2px solid #cbd5e1;   /* h3の左の線（細い・薄い） */
   --heading-h2-color: #111827;   /* h2の文字色 */
-  --heading-h3-color: #374151;   /* h3の文字色 */
+  --heading-h3-color: #4b5563;   /* h3の文字色（少し薄く） */
 }
 
 /* ページ全体の body：文字色と背景のグラデーション */
