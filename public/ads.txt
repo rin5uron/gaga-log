@@ -1,0 +1,4 @@
+# ads.txt - 広告在庫の販売者を宣言するファイル
+# https://iabtechlab.com/ads-txt/
+
+google.com, pub-6439411211038936, DIRECT, f08c47fec0942fa0
