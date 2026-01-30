@@ -108,13 +108,33 @@ body {
 .prose .summary-box,
 .prose .section-summary {
   background-color: #f1f5f9;
-  padding: 1rem 1.25rem;
-  border-radius: 0.5rem;
+  padding: 20px 24px;
+  border-radius: 8px;
   border-left: 4px solid #64748b;
-  margin: 1.5rem 0;
+  margin: 24px 0;
   font-size: 1rem;
   line-height: 1.7;
-  color: #334155;
+  color: #1e293b;
+}
+
+.prose .summary-box strong,
+.prose .section-summary strong {
+  display: block;
+  margin-bottom: 12px;
+  color: #0f172a;
+  font-size: 1.0625rem;
+  font-weight: 600;
+}
+
+.prose .summary-box ul,
+.prose .section-summary ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.prose .summary-box li,
+.prose .section-summary li {
+  margin-bottom: 8px;
 }
 
 /* リスト（ul=黒丸、ol=番号）：左にインデント・下に余白 */
@@ -132,9 +152,12 @@ body {
   @apply text-gray-800 no-underline hover:underline hover:decoration-gray-800;
 }
 
-/* 水平線（hr）：非表示（余白だけで区切る） */
+/* 水平線（hr）：完全に削除（余白だけで区切る） */
 .prose hr {
-  display: none;
+  display: none !important;
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* インラインコード（`コード`）：薄い背景・角丸・小さめの字 */
@@ -419,23 +442,25 @@ body {
   padding-left: 0 !important;
 }
 
-/* 目次カード全体：薄いグレー背景 + 線の内枠 */
+/* 目次カード全体：薄いグレー背景 */
 .toc-card {
   box-sizing: border-box;
   width: 80%;
   max-width: 100%;
-  background-color: #f5f5f5;
-  padding: 20px; /* 外側の余白 */
-  border-radius: 10px;
+  background-color: #f9fafb; /* 少し明るいグレー */
+  padding: 24px; /* 外側の余白 */
+  border-radius: 8px;
   margin: 30px 0 2.5rem 0;
+  border: 1px solid #e5e7eb; /* 外枠線 */
   overflow: hidden;
 }
 
-/* 目次カード内側：線だけの内枠 + 内側に余白 */
+/* 目次カード内側：線の内枠 + 内側に余白 */
 .toc-card nav {
-  border: 1px solid #d1d5db; /* 線のみ */
-  padding: 20px; /* 線の内側に余白を取って目次配置 */
-  border-radius: 6px;
+  border: 1.5px solid #9ca3af; /* 線を少し太く・濃く */
+  padding: 20px; /* 線の内側に余白 */
+  border-radius: 4px;
+  background-color: white; /* 内側を白に */
 }
 
 /* 目次カード内の全要素：記事本文のスタイル（帯・上線など）を無効化 */

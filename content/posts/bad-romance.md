@@ -117,11 +117,13 @@ highlights:
 
 海外の音楽分析サイト[The Vigilant Citizen](https://vigilantcitizen.com/musicbusiness/lady-gagas-bad-romance-the-occult-meaning/)は、このMVを「音楽業界による搾取のメタファー」として分析している。
 
-**彼らの解釈によると**：
+<div class="summary-box">
+<strong>MVの象徴的なシーン</strong>
 
 - **棺桶から出てくるシーン** → アーティストが「商品」として生み出される過程
 - **ロシアンマフィアに売られる** → レコード会社との契約、商品化
 - **最後に男を燃やす** → システムへの反逆、復讐
+</div>
 
 ガガ自身も「MVの人身売買は、音楽業界が女性を商品として扱うことのメタファー」と語っている。
 
