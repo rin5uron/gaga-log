@@ -98,7 +98,7 @@ export default function About() {
                 className="block"
               >
                 <Image
-                  src="/images/logo-studdio-jinsei.png"
+                  src="/images/logo-studdiojinsei.png"
                   alt="STUDIO Jinsei"
                   width={200}
                   height={200}

@@ -47,14 +47,14 @@ body {
   @apply text-5xl font-bold mt-8 mb-4;
 }
 
-/* 見出し2（h2）：セクションの大見出し。左に青い線・余白 */
+/* 見出し2（h2）：セクションの大見出し。左に青い線・余白（区切り線に頼らず余白で区切り感を出す） */
 .prose h2 {
   @apply text-2xl font-bold;
   letter-spacing: -0.01em;
   border-left: var(--heading-h2-border);
   padding-left: 1rem;
-  margin-top: 4rem; /* 3rem → 4rem（hrを削除した分、余白で区切り感を出す） */
-  margin-bottom: 1rem;
+  margin-top: 4.5rem; /* 余白を広めに（塊の区切りをはっきり） */
+  margin-bottom: 1.75rem;
   line-height: 1.3;
   color: var(--heading-h2-color);
 }
@@ -65,8 +65,8 @@ body {
   color: var(--heading-h3-color);
   border-left: var(--heading-h3-border);
   padding-left: 0.75rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+  margin-top: 2.75rem;
+  margin-bottom: 1.25rem;
   line-height: 1.5;
   letter-spacing: -0.01em;
 }
@@ -76,9 +76,9 @@ body {
   margin-top: 1.5rem;
 }
 
-/* 段落（p）：下に余白。幅は読みやすい幅に制限 */
+/* 段落（p）：下に余白を広めに。幅は読みやすい幅に制限（区切り線に頼らず余白で塊を出す） */
 .prose p {
-  @apply mb-4;
+  margin-bottom: 1.5rem; /* 1rem → 1.5rem（余白を広めに） */
   max-width: 45em;
 }
 
@@ -231,6 +231,7 @@ body {
   max-width: 42rem;
 }
 
+
 .youtube-embed-wrapper iframe {
   width: 100%;
   height: auto;
@@ -304,6 +305,17 @@ body {
 
   .prose p {
     font-size: 1rem;
+    margin-bottom: 1.25rem; /* スマホでは段落余白を少し詰める */
+  }
+
+  .prose h2 {
+    margin-top: 4rem; /* PCより詰める */
+    margin-bottom: 1.5rem;
+  }
+
+  .prose h3 {
+    margin-top: 2.5rem; /* PCより詰める */
+    margin-bottom: 1.25rem;
   }
 
   /* 記事ページのタイトルを1行に収める（読みやすさを保つ） */
@@ -335,10 +347,10 @@ body {
   border-left: var(--heading-h3-border);
 }
 
-/* 記事の h2：上に余白・上に薄い線でセクション区切り */
+/* 記事の h2：上に余白を広めに・上に薄い線でセクション区切り（余白で塊の区切りを出す） */
 .post-content h2 {
-  margin-top: 5rem;
-  padding-top: 2rem;
+  margin-top: 5.5rem;
+  padding-top: 2.25rem;
   border-top: 0.125rem solid #e5e7eb;
 }
 
