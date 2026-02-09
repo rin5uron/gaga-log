@@ -20,8 +20,6 @@ export default function TableOfContents({
 }) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
-  /** 目次の開閉。true=開いている / false=閉じている。スライダーの表示・非表示に使う */
-  const [isOpen, setIsOpen] = useState<boolean>(false);
 
   useEffect(() => {
     // HTMLから見出しとラベルを抽出
@@ -142,47 +140,10 @@ export default function TableOfContents({
   }
 
   const content = (
-    <nav className={variant === "card" ? "toc-card-nav" : "mb-4 overflow-hidden"}>
-      {/* スライダー用：開閉トグルボタン。クリックで isOpen を反転 → 下の toc-list-inner が開く/閉じる */}
-      {/* justify-start：左寄せ　justify-end：右寄せ */}
-      <button
-        onClick={() => setIsOpen(!isOpen)}
-        className={`flex items-center transition-colors ${
-          variant === "card"
-            ? "w-full justify-end px-0 py-1 hover:opacity-80"
-            : "w-fit justify-end gap-2 px-2 py-2 hover:bg-gray-100"
-        }`}
-      >
-        {/* <h2 className="text-sm font-semibold text-gray-800 uppercase tracking-wide">
-          目次
-        </h2> */}
-        <svg
-          className={`w-4 h-4 text-gray-600 transition-transform ${
-            isOpen ? "rotate-180" : ""
-          }`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth={2}
-            d="M19 9l-7 7-7-7"
-          />
-        </svg>
-      </button>
-
-      {/* スライダー本体：開いているときは表示（opacity-100）、閉じているときは高さ0＋透明（max-h-0 opacity-0）。
-          transition-all duration-300 で約300msかけて開閉アニメーションする。globals.css の .toc-list-inner で max-height も指定されている場合あり。 */}
-      <div
-        className={`toc-list-inner transition-all duration-300 ease-in-out ${
-          isOpen ? "opacity-100" : "max-h-0 opacity-0"
-        } overflow-hidden`}
-      >
-        <ul className={`pt-1 pb-0 space-y-0 list-none mb-0 ${
-          variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
-        }`}>
+    <nav className={variant === "card" ? "toc-card-nav" : "mb-4"}>
+      <ul className={`pt-1 pb-0 space-y-0 list-none mb-0 ${
+        variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
+      }`}>
           {headings.map((heading) => {
             // ラベル（level 0）の場合
             if (heading.isLabel) {
@@ -198,7 +159,7 @@ export default function TableOfContents({
             // H2の場合（以前のH3のようにインデント表示）
             if (heading.level === 2) {
               return (
-                <li key={heading.id} className="ml-4">
+                <li key={heading.id} className="ml-3 sm:ml-4">
                   <a
                     href={`#${heading.id}`}
                     className="block py-0.5 pr-2 toc-heading-h3"
@@ -218,7 +179,7 @@ export default function TableOfContents({
             
             // H3の場合（さらにインデント）
             return (
-              <li key={heading.id} className="ml-8">
+              <li key={heading.id} className="ml-6 sm:ml-8">
                 <a
                   href={`#${heading.id}`}
                   className="block py-0.5 pr-2 toc-heading-h3"
@@ -235,8 +196,7 @@ export default function TableOfContents({
               </li>
             );
           })}
-        </ul>
-      </div>
+      </ul>
     </nav>
   );
 
