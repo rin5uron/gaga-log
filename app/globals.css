@@ -368,6 +368,16 @@ body {
   border-top: none !important;
 }
 
+/* セクションラベル（H2にしない、見出しではない）：小さめ・グレー・区切り用 */
+.section-label {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #9ca3af;
+  margin-top: 4rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.025em;
+}
+
 /* 「参考情報」など .section-subtitle を持つ h2 用の土台 */
 .post-content h2:has(.section-subtitle) {
   position: relative;
@@ -405,6 +415,32 @@ body {
 }
 
 .post-content h2.references-section ~ ul li:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* 参考情報セクション（ラベル+div構造）：.references-section 内の h2 を控えめに */
+.post-content .references-section {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #f3f4f6;
+}
+.post-content .references-section h2 {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  color: #8c929c !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+  border-left: 2px solid #e5e7eb !important;
+}
+.post-content .references-section h2:first-child {
+  margin-top: 0 !important;
+}
+.post-content .references-section ul {
+  font-size: 0.75rem !important;
+  color: #d1d5db !important;
+  margin-bottom: 0.5rem !important;
+}
+.post-content .references-section ul li:last-child {
   margin-bottom: 0 !important;
 }
 

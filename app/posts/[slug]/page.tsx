@@ -120,9 +120,12 @@ export async function generateMetadata({
     title = `${post.title} - 映画・ドキュメンタリー解説 | How Sound Feels`;
     description = `${post.artist ? post.artist + "の" : ""}「${post.title}」の魅力を深掘り。音楽を通して感じる世界を解説。`;
   } else if (isSong) {
-    // 楽曲の場合
-    title = `${post.title} - ${post.artist} | 歌詞の意味と解説 | How Sound Feels`;
-    description = `${post.artist}の「${post.title}」の歌詞の意味を解説。音を慈しみ、声を愛する。その言葉、音、雰囲気を記録する。`;
+    // 楽曲の場合（themeがあればSEO用に採用）
+    const songSubtitle = post.theme || `${post.artist} | 歌詞の意味と解説`;
+    title = `${post.title} - ${songSubtitle} | How Sound Feels`;
+    description = post.theme
+      ? `${post.artist}の「${post.title}」。${post.theme}`
+      : `${post.artist}の「${post.title}」の歌詞の意味を解説。音を慈しみ、声を愛する。その言葉、音、雰囲気を記録する。`;
   } else {
     // その他
     title = `${post.title} | How Sound Feels`;
@@ -469,7 +472,14 @@ export default async function PostPage({
         <article className="prose prose-lg max-w-none">
           <header className="mb-4 not-prose">
             <h1 className="article-title text-3xl sm:text-4xl font-bold mb-3 leading-tight">
-              {post.title.includes("2025-2026") || post.title.includes("2025–2026") ? (
+              {post.theme ? (
+                <>
+                  <span className="block">{post.title}</span>
+                  <span className="article-theme block text-xl sm:text-2xl font-normal text-gray-600 mt-2">
+                    {post.theme}
+                  </span>
+                </>
+              ) : post.title.includes("2025-2026") || post.title.includes("2025–2026") ? (
                 <>
                   {post.title.replace(/\s*2025[–-]2026\s*/, "")}
                   <br />

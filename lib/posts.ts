@@ -8,6 +8,7 @@ const postsDirectory = path.join(process.cwd(), "content/posts");
 export interface Post {
   slug: string;
   title: string;
+  theme?: string;
   song?: string;
   work?: string;
   artist?: string;
@@ -52,6 +53,7 @@ export function getPostBySlug(slug: string): Post | null {
     return {
       slug,
       title: data.title || slug,
+      theme: data.theme,
       song: data.song,
       work: data.work,
       artist: data.artist,

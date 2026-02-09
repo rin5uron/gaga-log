@@ -1,5 +1,6 @@
 ---
 title: "Zoo"
+theme: "Try Everythingとの違い——歌い方のコツと、みんなで歌う楽しさ"
 song: "Zoo"
 artist: "Shakira"
 album: "Zoo (From Zootopia 2) - Single"
@@ -29,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<p class="section-label">この曲について</p>
 
-### ズートピア2の劇中歌——Zootennial Galaを盛り上げる一曲
+## ズートピア2の劇中歌——Zootennial Galaを盛り上げる一曲
 
 **「Zoo」は、2025年12月5日公開のディズニー・アニメーション映画『ズートピア2』の劇中歌。**シャキーラが、ガゼル役として歌っている。
 
@@ -41,7 +42,7 @@ highlights:
 
 ---
 
-### エド・シーランがディズニー映画を作曲した理由
+## エド・シーランがディズニー映画を作曲した理由
 
 **この曲の作曲を担当した[エド・シーラン](/artists/ed-sheeran)は、「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」「[The A Team](/posts/the-a-team)」など、メロディアスなポップソングで知られるアーティスト。**
 
@@ -51,9 +52,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<p class="section-label">歌詞のポイント</p>
 
-### Try Everythingとの違い——個人から共同体へ
+## Try Everythingとの違い——個人からみんなへ
 
 **前作『ズートピア』の主題歌「[Try Everything](/posts/try-everything)」も、シャキーラが演じるガゼルが歌った。**では、2つの曲の違いは何か？
 
@@ -71,7 +72,7 @@ highlights:
 
 ---
 
-### 「Zoo」というタイトルの意味
+## 「Zoo」というタイトルの意味
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -85,9 +86,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<p class="section-label">口ずさみたいフレーズ</p>
 
-### 「Ah-a-a-a a zoo ooh-ooh-oooh」——自由に遊べるフレーズ
+## 「Ah-a-a-a a zoo ooh-ooh-oooh」——自由に遊べるフレーズ
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -99,9 +100,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<p class="section-label">MV見どころ</p>
 
-### 実写とアニメの融合——ハイブリッド映像
+## 実写とアニメの融合——ハイブリッド映像
 
 **この曲のミュージックビデオは、2025年11月12日にDisney VEVOチャンネルでリリースされた。**監督は[Hannah Lux Davis](https://www.imdb.com/name/nm0205500/)が担当している。
 
@@ -111,7 +112,7 @@ highlights:
 
 ---
 
-### 日本版の特別性——世界で唯一のローカライズ版
+## 日本版の特別性——世界で唯一のローカライズ版
 
 **ズートピア2では、日本版だけが「ローカライズ版」の制作を許可された。**Dream Amiが歌う「Zoo ～君がいるから～」は、世界で唯一のローカライズ版だ。
 
@@ -128,9 +129,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<p class="section-label">考察</p>
 
-### この曲を歌うコツ——「うまく歌う」より「踏んでノる」
+## この曲を歌うコツ——「うまく歌う」より「踏んでノる」
 
 **① 韻を踏むところを意識する**: fade away / celebrate / anything——音の「-ay」「伸び」をリズムで揃えると気持ちいい
 
@@ -142,7 +143,7 @@ highlights:
 
 ---
 
-### 完璧に歌えなくていい理由——ノリと楽しさが優先
+## 完璧に歌えなくていい理由——ノリと楽しさが優先
 
 **考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分だ。**
 
@@ -154,13 +155,17 @@ highlights:
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<p class="section-label">参考情報</p>
 
-### 公式MV
+<div class="references-section">
+
+## 公式MV
 - [Shakira - Zoo (From "Zootopia 2") Official Video](https://www.youtube.com/watch?v=Xry6B0I3pT8)
 
-### その他
+## その他
 - [Zoo (From Zootopia 2) - Single - Apple Music](https://music.apple.com/jp/album/zoo-from-zootopia-2-single/1783759649)
 - [Zoo - Spotify](https://open.spotify.com/intl-ja/track/7o9qVPLe7MI7XhdAS1PkrN)
+
+</div>
 
 ---

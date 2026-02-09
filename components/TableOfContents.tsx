@@ -51,6 +51,8 @@ export default function TableOfContents({
         referencesReached = true;
         return;
       }
+      // .references-section 内の見出し（公式MV、その他 等）は目次に含めない
+      if (heading.closest(".references-section")) return;
       if (referencesReached) return;
 
       // H3の除外リスト（目次に出さないH3）

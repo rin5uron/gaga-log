@@ -135,12 +135,12 @@
 
 ### 3. AdSense対応
 1. AdSense審査結果を確認
-2. Issue作成（タイトル: `[AdSense] XX回目不承認対応`、ラベル: `adsense,seo`）
+2. Issue作成（タイトル: `AdSense不承認 - XX回目対応`、ラベル: `adsense,seo`）
 3. 改善内容を本文に記載
 4. 実装完了後、Issueコメントに完了日を記録してクローズ
 
 ### 4. 学習タスク
-1. Issue作成（タイトル: `[学習] Next.js - XX機能の実装`、ラベル: `learning,infrastructure`）
+1. Issue作成（タイトル: `Next.js - XX機能の実装`、ラベル: `learning,infrastructure`）
 2. 学習内容を実装
 3. `docs/learning/nextjs-progress.md` を更新
 4. Issueをクローズ
