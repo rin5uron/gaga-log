@@ -490,20 +490,46 @@ body {
    目次（Table of Contents）のスタイル
    記事上部の「目次」ボックス内の見出しリンクの見た目
    ======================================== */
-/* 目次内の h2 相当：字の大きさ・太さ・色（左の帯は使わない） */
+/* 目次内の h2 相当（ラベル）：字の大きさ・太さ・色 + 背景色 */
 .toc-heading-h2 {
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--heading-h2-color);
-  border-left: var(--heading-h2-border);
-  padding-left: 0 !important;
+  border-left: none !important;
+  padding: 0.5rem 0.75rem !important;
+  background-color: #f3f4f6; /* 薄いグレー背景 */
+  border-radius: 6px;
+  transition: all 0.2s ease;
 }
-/* 目次内の h3 相当：字の大きさ・色（記事の h3 と同じ変数で統一） */
+
+.toc-heading-h2:hover {
+  background-color: #e5e7eb; /* ホバー時：少し濃いグレー */
+  transform: translateX(2px); /* 右に少し移動 */
+}
+
+/* 目次内の h3 相当（記事見出しリンク）：字の大きさ・色 + ホバーエフェクト */
 .toc-heading-h3 {
   font-size: 0.875rem;
   color: var(--heading-h3-color);
-  border-left: var(--heading-h3-border);
-  padding-left: 0 !important;
+  border-left: 2px solid transparent;
+  padding-left: 0.5rem !important;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+}
+
+.toc-heading-h3:hover {
+  background-color: #f9fafb; /* ホバー時：薄い背景 */
+  border-left-color: #d1d5db; /* 左にグレーのバー */
+  padding-left: 0.75rem !important; /* 少し右に移動 */
+  color: #111827; /* 文字色を濃く */
+}
+
+/* アクティブな見出し：目立つ色で強調 */
+.toc-heading-h3.font-medium {
+  background-color: #dbeafe; /* 青系の薄い背景 */
+  border-left-color: #3b82f6; /* 青いバー */
+  color: #1e40af; /* 濃い青文字 */
+  font-weight: 600;
 }
 
 /* 目次カード全体：薄いグレー背景 */
@@ -528,13 +554,7 @@ body {
 }
 
 /* 目次カード内の全要素：記事本文のスタイル（帯・上線など）を無効化 */
-.toc-card * {
-  border-left: none !important;
-  border-top: none !important;
-  padding-left: 0 !important;
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
+/* 注：.toc-heading-h2とh3の個別スタイルが優先されるように調整 */
 
 
 
@@ -550,11 +570,8 @@ body {
 .toc-card .toc-heading-h3 {
   overflow-wrap: break-word;
   word-break: break-word;
-  border-left: none !important;
-  padding-left: 0 !important;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
   border-top: none !important;
+  /* padding と border-left は .toc-heading-h2/h3 の個別スタイルを使用 */
 }
 
 @media (max-width: 768px) {
