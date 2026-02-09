@@ -490,46 +490,25 @@ body {
    目次（Table of Contents）のスタイル
    記事上部の「目次」ボックス内の見出しリンクの見た目
    ======================================== */
-/* 目次内の h2 相当（ラベル）：字の大きさ・太さ・色 + 背景色 */
+/* 目次内の h2 相当（ラベル）：リンクじゃないのでホバーなし、太字のみ */
 .toc-heading-h2 {
   font-size: 0.875rem;
   font-weight: 600;
-  color: var(--heading-h2-color);
-  border-left: none !important;
-  padding: 0.5rem 0.75rem !important;
-  background-color: #f3f4f6; /* 薄いグレー背景 */
-  border-radius: 6px;
-  transition: all 0.2s ease;
+  color: #374151;
+  padding: 0.25rem 0 !important;
+  cursor: default; /* ポインターにならない */
 }
 
-.toc-heading-h2:hover {
-  background-color: #e5e7eb; /* ホバー時：少し濃いグレー */
-  transform: translateX(2px); /* 右に少し移動 */
-}
-
-/* 目次内の h3 相当（記事見出しリンク）：字の大きさ・色 + ホバーエフェクト */
+/* 目次内の h3 相当（記事見出しリンク）：シンプル、ホバー時に色が変わるだけ */
 .toc-heading-h3 {
   font-size: 0.875rem;
-  color: var(--heading-h3-color);
-  border-left: 2px solid transparent;
-  padding-left: 0.5rem !important;
-  transition: all 0.2s ease;
-  border-radius: 4px;
+  color: #6b7280;
+  padding-left: 0 !important;
+  transition: color 0.15s ease;
 }
 
 .toc-heading-h3:hover {
-  background-color: #f9fafb; /* ホバー時：薄い背景 */
-  border-left-color: #d1d5db; /* 左にグレーのバー */
-  padding-left: 0.75rem !important; /* 少し右に移動 */
-  color: #111827; /* 文字色を濃く */
-}
-
-/* アクティブな見出し：目立つ色で強調 */
-.toc-heading-h3.font-medium {
-  background-color: #dbeafe; /* 青系の薄い背景 */
-  border-left-color: #3b82f6; /* 青いバー */
-  color: #1e40af; /* 濃い青文字 */
-  font-weight: 600;
+  color: #111827;
 }
 
 /* 目次カード全体：薄いグレー背景 */
@@ -538,9 +517,9 @@ body {
   width: 80%;
   max-width: 100%;
   background-color: #f9fafb; /* 少し明るいグレー */
-  padding: 24px; /* 外側の余白 */
+  padding: 16px; /* 外側の余白：コンパクト化 */
   border-radius: 8px;
-  margin: 30px 0 2.5rem 0;
+  margin: 20px 0 2rem 0; /* マージンもコンパクト化 */
   border: 1px solid #e5e7eb; /* 外枠線 */
   overflow: hidden;
 }
@@ -548,7 +527,7 @@ body {
 /* 目次カード内側：線の内枠 + 内側に余白 */
 .toc-card nav {
   border: 1.5px solid #9ca3af; /* 線を少し太く・濃く */
-  padding: 20px; /* 線の内側に余白 */
+  padding: 12px; /* 線の内側に余白：コンパクト化 */
   border-radius: 4px;
   background-color: white; /* 内側を白に */
 }
@@ -588,10 +567,10 @@ body {
   /* スマホ：目次の幅とフォントサイズ */
   .toc-card {
     width: 100%;
-    padding: 16px; /* スマホは外側余白を少し小さく */
+    padding: 12px; /* スマホは外側余白をコンパクトに */
   }
   .toc-card nav {
-    padding: 16px; /* スマホは内側余白も少し小さく */
+    padding: 10px; /* スマホは内側余白もコンパクトに */
   }
   .toc-heading-h2 {
     font-size: 0.875rem; /* 0.65rem → 0.875rem（14px）に拡大 */

@@ -21,7 +21,7 @@ export default function TableOfContents({
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
   /** 目次の開閉。true=開いている / false=閉じている。スライダーの表示・非表示に使う */
-  const [isOpen, setIsOpen] = useState<boolean>(true);
+  const [isOpen, setIsOpen] = useState<boolean>(false);
 
   useEffect(() => {
     // HTMLから見出しとラベルを抽出
@@ -180,15 +180,15 @@ export default function TableOfContents({
           isOpen ? "opacity-100" : "max-h-0 opacity-0"
         } overflow-hidden`}
       >
-        <ul className={`pt-2 pb-0 space-y-0.5 list-none mb-0 ${
+        <ul className={`pt-1 pb-0 space-y-0 list-none mb-0 ${
           variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
         }`}>
           {headings.map((heading) => {
             // ラベル（level 0）の場合
             if (heading.isLabel) {
               return (
-                <li key={heading.id} className="mt-2 first:mt-0">
-                  <div className="toc-heading-h2 py-1.5">
+                <li key={heading.id} className="mt-1.5 first:mt-0">
+                  <div className="toc-heading-h2 py-0.5">
                     {heading.text}
                   </div>
                 </li>
@@ -201,11 +201,7 @@ export default function TableOfContents({
                 <li key={heading.id} className="ml-4">
                   <a
                     href={`#${heading.id}`}
-                    className={`block py-1 pr-2 transition-all toc-heading-h3 ${
-                      activeId === heading.id
-                        ? "font-medium text-gray-900"
-                        : "text-gray-600 hover:text-gray-900"
-                    }`}
+                    className="block py-0.5 pr-2 toc-heading-h3"
                     onClick={(e) => {
                       e.preventDefault();
                       document.getElementById(heading.id)?.scrollIntoView({
@@ -225,11 +221,7 @@ export default function TableOfContents({
               <li key={heading.id} className="ml-8">
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pr-2 transition-all toc-heading-h3 ${
-                    activeId === heading.id
-                      ? "font-medium text-gray-900"
-                      : "text-gray-600 hover:text-gray-900"
-                  }`}
+                  className="block py-0.5 pr-2 toc-heading-h3"
                   onClick={(e) => {
                     e.preventDefault();
                     document.getElementById(heading.id)?.scrollIntoView({
