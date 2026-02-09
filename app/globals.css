@@ -490,13 +490,11 @@ body {
    目次（Table of Contents）のスタイル
    記事上部の「目次」ボックス内の見出しリンクの見た目
    ======================================== */
-/* 目次内の h2 相当（ラベル）：元のH2と同じ左の太い線 */
+/* 目次内の h2 相当（ラベル）：シンプルに太字のみ */
 .toc-heading-h2 {
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 600;
   color: #374151;
-  border-left: 4px solid #5c5c5c; /* 元のH2と同じ太い線 */
-  padding-left: 0.5rem !important;
   padding-top: 0.25rem !important;
   padding-bottom: 0.25rem !important;
   cursor: default; /* ポインターにならない */
@@ -576,9 +574,7 @@ body {
     padding: 10px; /* スマホは内側余白もコンパクトに */
   }
   .toc-heading-h2 {
-    font-size: 0.8125rem; /* スマホでは少し小さく */
-    padding-left: 0.4rem !important; /* 左パディングも少し小さく */
-    border-left-width: 3px; /* 線も少し細く */
+    font-size: 0.9375rem; /* スマホでは少し小さく */
   }
   .toc-heading-h3 {
     font-size: 0.75rem; /* スマホでは小さく */

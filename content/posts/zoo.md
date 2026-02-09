@@ -6,7 +6,7 @@ artist: "Shakira"
 album: "Zoo (From Zootopia 2) - Single"
 year: 2024
 date: "2025-12-29"
-updatedDate: "2026-01-20"
+updatedDate: "2026-02-09"
 order: 7
 type: "song"
 relatedPosts: ["try-everything", "perfect", "thinking-out-loud", "hips-dont-lie"]
