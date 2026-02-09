@@ -5,7 +5,8 @@ import { useEffect, useState } from "react";
 interface Heading {
   id: string;
   text: string;
-  level: number;
+  level: number; // 0 = ラベル, 2 = H2, 3 = H3
+  isLabel?: boolean;
 }
 
 export default function TableOfContents({
@@ -23,63 +24,92 @@ export default function TableOfContents({
   const [isOpen, setIsOpen] = useState<boolean>(true);
 
   useEffect(() => {
-    // HTMLから見出しを抽出
+    // HTMLから見出しとラベルを抽出
     const tempDiv = document.createElement("div");
     tempDiv.innerHTML = html;
 
-    const headingElements = tempDiv.querySelectorAll("h2, h3");
+    // .section-label と h2, h3 を順番通りに取得
+    const allElements = tempDiv.querySelectorAll(".section-label, h2, h3");
     const extractedHeadings: Heading[] = [];
     let referencesReached = false;
+    let headingIndex = 0; // h2, h3のみに使うインデックス
+    let labelIndex = 0; // ラベル用のインデックス
 
-    headingElements.forEach((heading, index) => {
-      const text = heading.textContent || "";
+    allElements.forEach((element) => {
+      const text = element.textContent || "";
 
+      // .section-label の場合
+      if (element.classList.contains("section-label")) {
+        // label-subtitle のspanがあればその内容を取得
+        const spanElement = element.querySelector(".label-subtitle");
+        const displayText = spanElement?.textContent?.trim() || text.trim();
+        
+        // 参考情報ラベルに到達したら終了
+        if (displayText === "参考情報" || text.includes("参考情報") || text.includes("References")) {
+          referencesReached = true;
+          return;
+        }
+        if (referencesReached) return;
+
+        extractedHeadings.push({
+          id: `label-${labelIndex}`,
+          text: displayText,
+          level: 0, // ラベル
+          isLabel: true,
+        });
+        labelIndex++;
+        return;
+      }
+
+      // h2, h3 の場合
+      const heading = element as HTMLElement;
+      
       // section-subtitleのspan要素があれば、その内容だけを抽出
       const spanElement = heading.querySelector(".section-subtitle");
       let displayText = text.trim();
 
       if (spanElement && spanElement.textContent) {
-        // h2のサブタイトル（例：この曲について）はspanの文言だけ使う
         displayText = spanElement.textContent.trim();
       }
-      // h3やspanがないh2は本文の見出し全文を使う（"I'm your biggest fan"——ファンか、ストーカーか 等の歌詞入りもそのまま表示）
 
       // 「目次」見出しは目次リストに含めない
       if (displayText === "目次") return;
-      // 参考情報セクション以降は目次に含めない（h2 とその下の h3 すべて）
+      // 参考情報セクション以降は目次に含めない
       if (displayText === "参考情報" || text.includes("参考情報") || text.includes("References")) {
         referencesReached = true;
         return;
       }
-      // .references-section 内の見出し（公式MV、その他 等）は目次に含めない
-      if (heading.closest(".references-section")) return;
       if (referencesReached) return;
 
-      // H3の除外リスト（目次に出さないH3）
+      // H3の除外リスト
       const excludedH3Texts = [
-        "MAYHEMを体現した世界ツアー",
         "MAYHEMを体現した世界ツアー",
       ];
       if (parseInt(heading.tagName[1]) === 3 && excludedH3Texts.some(excluded => text.includes(excluded))) {
         return;
       }
 
-      const id = `heading-${index}`;
-      heading.id = id;
+      const id = `heading-${headingIndex}`;
 
       extractedHeadings.push({
         id,
         text: displayText,
         level: parseInt(heading.tagName[1]),
+        isLabel: false,
       });
+      headingIndex++;
     });
 
     setHeadings(extractedHeadings);
 
-    // 実際のDOMに見出しIDを適用
+    // 実際のDOMに見出しIDを適用（ラベルは除く、h2とh3のみ）
     const actualHeadings = document.querySelectorAll(".post-content h2, .post-content h3");
-    actualHeadings.forEach((heading, index) => {
-      heading.id = `heading-${index}`;
+    let actualIndex = 0;
+    actualHeadings.forEach((heading) => {
+      // .references-section 内の見出しはスキップ
+      if (heading.closest(".references-section")) return;
+      heading.id = `heading-${actualIndex}`;
+      actualIndex++;
     });
 
     // スクロール時のアクティブな見出しを追跡
@@ -153,21 +183,49 @@ export default function TableOfContents({
         <ul className={`pt-2 pb-0 space-y-0.5 list-none mb-0 ${
           variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
         }`}>
-          {headings.map((heading) => (
-            <li
-              key={heading.id}
-              className={heading.level === 3 ? "ml-4" : ""}
-            >
-              {heading.level === 2 && !includeH2Links ? (
-                <div className="toc-heading-h2 py-1.5 mt-2 first:mt-0">
-                  {heading.text}
-                </div>
-              ) : (
+          {headings.map((heading) => {
+            // ラベル（level 0）の場合
+            if (heading.isLabel) {
+              return (
+                <li key={heading.id} className="mt-2 first:mt-0">
+                  <div className="toc-heading-h2 py-1.5">
+                    {heading.text}
+                  </div>
+                </li>
+              );
+            }
+            
+            // H2の場合（以前のH3のようにインデント表示）
+            if (heading.level === 2) {
+              return (
+                <li key={heading.id} className="ml-4">
+                  <a
+                    href={`#${heading.id}`}
+                    className={`block py-1 pr-2 transition-all toc-heading-h3 ${
+                      activeId === heading.id
+                        ? "font-medium text-gray-900"
+                        : "text-gray-600 hover:text-gray-900"
+                    }`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      document.getElementById(heading.id)?.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start",
+                      });
+                    }}
+                  >
+                    {heading.text}
+                  </a>
+                </li>
+              );
+            }
+            
+            // H3の場合（さらにインデント）
+            return (
+              <li key={heading.id} className="ml-8">
                 <a
                   href={`#${heading.id}`}
-                  className={`block py-1 pr-2 transition-all ${
-                    heading.level === 2 ? "toc-heading-h2 py-1.5 mt-2 first:mt-0 " : "toc-heading-h3 "
-                  }${
+                  className={`block py-1 pr-2 transition-all toc-heading-h3 ${
                     activeId === heading.id
                       ? "font-medium text-gray-900"
                       : "text-gray-600 hover:text-gray-900"
@@ -182,9 +240,9 @@ export default function TableOfContents({
                 >
                   {heading.text}
                 </a>
-              )}
-            </li>
-          ))}
+              </li>
+            );
+          })}
         </ul>
       </div>
     </nav>
