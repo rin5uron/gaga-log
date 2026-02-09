@@ -368,20 +368,30 @@ body {
   border-top: none !important;
 }
 
-/* セクションラベル（H2にしない、見出しではない）：元のsection-subtitleに近いスタイル */
+/* セクションラベル（H2にしない、見出しではない）：h2と同じ見た目で表示 */
 .post-content .section-label {
-  font-size: 0.95rem;
-  font-weight: 500;
-  color: #9ca3af;
-  margin-top: 4rem;
-  margin-bottom: 0.5rem;
-  letter-spacing: 0.025em;
-  border-left: 2px solid #e5e7eb;
-  padding-left: 0.75rem;
+  font-size: 1.5rem; /* h2と同じ */
+  font-weight: 700; /* h2と同じ */
+  letter-spacing: -0.01em;
+  border-left: var(--heading-h2-border); /* h2と同じ太い線 */
+  padding-left: 1rem;
+  margin-top: 4.5rem; /* h2と同じ */
+  margin-bottom: 1.75rem;
+  line-height: 1.3;
+  color: var(--heading-h2-color);
   max-width: none;
 }
 .post-content .section-label:first-of-type {
   margin-top: 0;
+}
+/* ラベル内のspan（サブタイトル）：小さめ・グレー */
+.post-content .section-label .label-subtitle {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #9ca3af;
+  margin-left: 0.75rem;
+  letter-spacing: 0.025em;
+  vertical-align: middle;
 }
 
 /* 「参考情報」など .section-subtitle を持つ h2 用の土台 */

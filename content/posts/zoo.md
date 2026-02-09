@@ -30,7 +30,7 @@ highlights:
 
 
 
-<p class="section-label">この曲について</p>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 ## ズートピア2の劇中歌——Zootennial Galaを盛り上げる一曲
 
@@ -52,7 +52,7 @@ highlights:
 
 
 
-<p class="section-label">歌詞のポイント</p>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 ## Try Everythingとの違い——個人からみんなへ
 
@@ -86,7 +86,7 @@ highlights:
 
 
 
-<p class="section-label">口ずさみたいフレーズ</p>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 ## 「Ah-a-a-a a zoo ooh-ooh-oooh」——自由に遊べるフレーズ
 
@@ -100,7 +100,7 @@ highlights:
 
 
 
-<p class="section-label">MV見どころ</p>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
 ## 実写とアニメの融合——ハイブリッド映像
 
@@ -129,7 +129,7 @@ highlights:
 
 
 
-<p class="section-label">考察</p>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
 ## この曲を歌うコツ——「うまく歌う」より「踏んでノる」
 
@@ -155,7 +155,7 @@ highlights:
 
 
 
-<p class="section-label">参考情報</p>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 <div class="references-section">
 
