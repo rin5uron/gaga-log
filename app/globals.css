@@ -368,14 +368,20 @@ body {
   border-top: none !important;
 }
 
-/* セクションラベル（H2にしない、見出しではない）：小さめ・グレー・区切り用 */
-.section-label {
+/* セクションラベル（H2にしない、見出しではない）：元のsection-subtitleに近いスタイル */
+.post-content .section-label {
   font-size: 0.95rem;
   font-weight: 500;
   color: #9ca3af;
   margin-top: 4rem;
   margin-bottom: 0.5rem;
   letter-spacing: 0.025em;
+  border-left: 2px solid #e5e7eb;
+  padding-left: 0.75rem;
+  max-width: none;
+}
+.post-content .section-label:first-of-type {
+  margin-top: 0;
 }
 
 /* 「参考情報」など .section-subtitle を持つ h2 用の土台 */
