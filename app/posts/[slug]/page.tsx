@@ -607,33 +607,11 @@ export default async function PostPage({
 
           {/* 目次 */}
           {slug === "zoo" ? (
-            <>
-              {/* テスト用：2つのバリアントを表示 */}
-              <div className="mb-8">
-                <p className="text-sm font-semibold text-gray-500 mb-2">パターンA: 横帯デザイン（ミニマル）</p>
-                <TableOfContents
-                  html={contentHtml}
-                  includeH2Links={false}
-                  variant="minimal"
-                />
-              </div>
-              <div className="mb-8">
-                <p className="text-sm font-semibold text-gray-500 mb-2">パターンB: 掛け軸風（2層構造）</p>
-                <TableOfContents
-                  html={contentHtml}
-                  includeH2Links={false}
-                  variant="kakejiku"
-                />
-              </div>
-              <div className="mb-8">
-                <p className="text-sm font-semibold text-gray-500 mb-2">現在のデザイン（参考）</p>
-                <TableOfContents
-                  html={contentHtml}
-                  includeH2Links={false}
-                  variant="card"
-                />
-              </div>
-            </>
+            <TableOfContents
+              html={contentHtml}
+              includeH2Links={false}
+              variant="kakejiku"
+            />
           ) : (
             <TableOfContents
               html={contentHtml}

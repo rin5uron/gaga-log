@@ -636,8 +636,8 @@ body {
   width: 80%;
   max-width: 100%;
   margin: 20px 0 2rem 0;
-  border: none; /* 枠線削除 */
-  border-radius: 0; /* 角丸削除 */
+  border: 1px solid #e5e7eb; /* 枠線を追加 */
+  border-radius: 8px; /* 角丸を追加 */
   overflow: hidden;
 }
 
@@ -660,13 +660,13 @@ body {
   margin: 0;
 }
 
-/* ラベル（道標）：H2の上に置く、控えめに */
+/* ラベル（主役）：目次で一番目立つ */
 .toc-kakejiku .toc-label {
-  font-size: 0.875rem; /* H2より小さく */
-  font-weight: 400; /* Regular */
-  color: #6b7280; /* H2より薄いグレー */
-  margin-top: 1rem; /* セクション間の余白 */
-  margin-bottom: 0.25rem; /* H2との距離は近く */
+  font-size: 1rem; /* 現在のデザインのラベル → H2サイズ */
+  font-weight: 700; /* Bold（主役なので太く） */
+  color: #374151; /* 現在のデザインと同じ濃いめのグレー */
+  margin-top: 2rem; /* セクション間の余白をさらに大きく */
+  margin-bottom: 0.125rem; /* H2との距離を極小に */
   padding-left: 0; /* 左揃え */
 }
 
@@ -674,14 +674,15 @@ body {
   margin-top: 0; /* 最初のラベルだけ余白なし */
 }
 
-/* H2（大項目）：目次の主役 */
+/* H2（道標）：ラベルの下に置く、控えめに */
 .toc-kakejiku .toc-heading-h2 {
-  font-size: 1.125rem; /* +2px（1.0625rem → 1.125rem） */
-  font-weight: 700; /* Bold */
-  color: #111827; /* 一番濃い黒 */
-  margin-top: 0.25rem; /* ラベルの直後なので余白は小さく */
-  margin-bottom: 0.5rem; /* 下の余白を少し広く */
+  font-size: 0.875rem; /* 現在のH2 → ラベルサイズ（小さく） */
+  font-weight: 400; /* Regular（控えめに） */
+  color: #374151; /* 現在のデザインと同じ色 */
+  margin-top: 0.25rem; /* H2同士の間隔を小さく（グループ内で密着） */
+  margin-bottom: 0; /* 下の余白なし */
   padding-left: 0; /* 左揃え */
+  display: block;
 }
 
 .toc-kakejiku .toc-heading-h2:first-child {
@@ -737,13 +738,13 @@ body {
   }
   
   .toc-kakejiku .toc-label {
-    font-size: 0.8125rem; /* スマホでラベルを調整 */
+    font-size: 0.9375rem; /* スマホでは少し小さく */
     margin-top: 0.875rem;
   }
   
   .toc-minimal .toc-heading-h2,
   .toc-kakejiku .toc-heading-h2 {
-    font-size: 1rem; /* スマホではH2を少し小さく */
+    font-size: 0.8125rem; /* スマホでは小さく */
     margin-top: 0.25rem; /* ラベルの直後 */
   }
   

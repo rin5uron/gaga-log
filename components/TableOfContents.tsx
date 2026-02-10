@@ -174,7 +174,7 @@ export default function TableOfContents({
                 }>
                   <a
                     href={`#${heading.id}`}
-                    className="block py-0.5 pr-2 toc-heading-h3"
+                    className={`block py-0.5 pr-2 ${variant === "kakejiku" ? "toc-heading-h2" : "toc-heading-h3"}`}
                     onClick={(e) => {
                       e.preventDefault();
                       document.getElementById(heading.id)?.scrollIntoView({
