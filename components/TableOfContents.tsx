@@ -16,7 +16,7 @@ export default function TableOfContents({
 }: {
   html: string;
   includeH2Links?: boolean;
-  variant?: "default" | "card";
+  variant?: "default" | "card" | "minimal" | "kakejiku";
 }) {
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [activeId, setActiveId] = useState<string>("");
@@ -140,16 +140,26 @@ export default function TableOfContents({
   }
 
   const content = (
-    <nav className={variant === "card" ? "toc-card-nav" : "mb-4"}>
-      <ul className={`pt-1 pb-0 space-y-0 list-none mb-0 ${
-        variant === "card" ? "pl-0 px-0" : "px-2 pl-0"
+    <nav className={
+      variant === "card" ? "toc-card-nav" : 
+      variant === "minimal" ? "toc-minimal-nav" :
+      variant === "kakejiku" ? "toc-kakejiku-nav" :
+      "mb-4"
+    }>
+      <ul className={`pt-0.5 sm:pt-1 pb-0 space-y-0 list-none mb-0 ${
+        variant === "card" ? "pl-0 px-0" : 
+        variant === "minimal" ? "pl-0 px-0" :
+        variant === "kakejiku" ? "pl-0 px-0" :
+        "px-2 pl-0"
       }`}>
           {headings.map((heading) => {
             // ラベル（level 0）の場合
             if (heading.isLabel) {
               return (
-                <li key={heading.id} className="mt-1.5 first:mt-0">
-                  <div className="toc-heading-h2 py-0.5">
+                <li key={heading.id} className={
+                  variant === "kakejiku" ? "" : "mt-1 first:mt-0 sm:mt-1.5"
+                }>
+                  <div className={variant === "kakejiku" ? "toc-label py-0.5" : "toc-heading-h2 py-0.5"}>
                     {heading.text}
                   </div>
                 </li>
@@ -159,7 +169,9 @@ export default function TableOfContents({
             // H2の場合（以前のH3のようにインデント表示）
             if (heading.level === 2) {
               return (
-                <li key={heading.id} className="ml-3 sm:ml-4">
+                <li key={heading.id} className={
+                  variant === "kakejiku" ? "" : "ml-2 sm:ml-4"
+                }>
                   <a
                     href={`#${heading.id}`}
                     className="block py-0.5 pr-2 toc-heading-h3"
@@ -179,7 +191,9 @@ export default function TableOfContents({
             
             // H3の場合（さらにインデント）
             return (
-              <li key={heading.id} className="ml-6 sm:ml-8">
+              <li key={heading.id} className={
+                variant === "kakejiku" ? "" : "ml-4 sm:ml-8"
+              }>
                 <a
                   href={`#${heading.id}`}
                   className="block py-0.5 pr-2 toc-heading-h3"
@@ -203,5 +217,26 @@ export default function TableOfContents({
   if (variant === "card") {
     return <div className="toc-card">{content}</div>;
   }
+  
+  if (variant === "minimal") {
+    return (
+      <div className="toc-minimal">
+        <div className="toc-title">目次</div>
+        {content}
+      </div>
+    );
+  }
+  
+  if (variant === "kakejiku") {
+    return (
+      <div className="toc-kakejiku">
+        <div className="toc-kakejiku-header">目次</div>
+        <div className="toc-kakejiku-body">
+          {content}
+        </div>
+      </div>
+    );
+  }
+  
   return content;
 }

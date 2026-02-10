@@ -568,16 +568,196 @@ body {
   /* スマホ：目次の幅とフォントサイズ */
   .toc-card {
     width: 100%;
-    padding: 12px; /* スマホは外側余白をコンパクトに */
+    padding: 8px; /* スマホはさらにコンパクトに */
+    margin: 16px 0 1.5rem 0; /* マージンも小さく */
   }
   .toc-card nav {
-    padding: 10px; /* スマホは内側余白もコンパクトに */
+    padding: 8px; /* スマホは内側余白をさらに小さく */
   }
   .toc-heading-h2 {
-    font-size: 0.9375rem; /* スマホでは少し小さく */
+    font-size: 0.875rem; /* スマホでは小さく */
+    padding-top: 0.125rem !important;
+    padding-bottom: 0.125rem !important;
   }
   .toc-heading-h3 {
     font-size: 0.75rem; /* スマホでは小さく */
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+  }
+}
+
+/* ========================================
+   目次バリアント: ミニマル（横帯デザイン）
+   ======================================== */
+.toc-minimal {
+  width: 80%;
+  max-width: 100%;
+  margin: 20px 0 2rem 0;
+  border-top: 2px solid #d1d5db;
+  border-bottom: 2px solid #d1d5db;
+  padding: 1rem 0;
+}
+
+.toc-minimal .toc-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+  padding-left: 0;
+}
+
+.toc-minimal-nav {
+  margin: 0;
+}
+
+.toc-minimal .toc-heading-h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.toc-minimal .toc-heading-h3 {
+  font-size: 0.875rem;
+  color: #9ca3af;
+  padding-left: 0;
+  margin-left: 1rem;
+}
+
+.toc-minimal .toc-heading-h3:hover {
+  color: #6b7280;
+}
+
+/* ========================================
+   目次バリアント: 掛け軸風（2層構造）改善版
+   ======================================== */
+.toc-kakejiku {
+  width: 80%;
+  max-width: 100%;
+  margin: 20px 0 2rem 0;
+  border: none; /* 枠線削除 */
+  border-radius: 0; /* 角丸削除 */
+  overflow: hidden;
+}
+
+.toc-kakejiku-header {
+  background: #f3f4f6; /* 薄いグレー単色 */
+  color: #6b7280; /* 控えめなグレー文字 */
+  font-size: 0.75rem; /* さらに小さく */
+  font-weight: 500; /* 少し軽く */
+  padding: 0.375rem 1rem; /* 高さをさらに抑える */
+  text-align: left; /* 左揃えに変更 */
+  letter-spacing: 0.05em;
+}
+
+.toc-kakejiku-body {
+  background-color: #ffffff; /* 白背景に変更（枠感を消す） */
+  padding: 1rem 1rem; /* 左右のパディング調整 */
+}
+
+.toc-kakejiku-nav {
+  margin: 0;
+}
+
+/* ラベル（道標）：H2の上に置く、控えめに */
+.toc-kakejiku .toc-label {
+  font-size: 0.875rem; /* H2より小さく */
+  font-weight: 400; /* Regular */
+  color: #6b7280; /* H2より薄いグレー */
+  margin-top: 1rem; /* セクション間の余白 */
+  margin-bottom: 0.25rem; /* H2との距離は近く */
+  padding-left: 0; /* 左揃え */
+}
+
+.toc-kakejiku .toc-label:first-child {
+  margin-top: 0; /* 最初のラベルだけ余白なし */
+}
+
+/* H2（大項目）：目次の主役 */
+.toc-kakejiku .toc-heading-h2 {
+  font-size: 1.125rem; /* +2px（1.0625rem → 1.125rem） */
+  font-weight: 700; /* Bold */
+  color: #111827; /* 一番濃い黒 */
+  margin-top: 0.25rem; /* ラベルの直後なので余白は小さく */
+  margin-bottom: 0.5rem; /* 下の余白を少し広く */
+  padding-left: 0; /* 左揃え */
+}
+
+.toc-kakejiku .toc-heading-h2:first-child {
+  margin-top: 0; /* 最初の項目だけ余白なし */
+}
+
+/* H3（小項目）：インデント＋控えめな記号 */
+.toc-kakejiku .toc-heading-h3 {
+  font-size: 0.875rem;
+  color: #9ca3af;
+  line-height: 1.7;
+}
+
+/* リンク（<a>タグ）の小項目にのみ記号とインデントを追加 */
+.toc-kakejiku a.toc-heading-h3 {
+  padding-left: 1.25rem; /* インデント */
+  position: relative;
+  display: block;
+}
+
+/* 控えめな記号（›）を追加（リンクのみ） */
+.toc-kakejiku a.toc-heading-h3::before {
+  content: "›";
+  position: absolute;
+  left: 0.25rem;
+  color: #d1d5db; /* 薄いグレー */
+  font-weight: 400;
+}
+
+.toc-kakejiku a.toc-heading-h3:hover {
+  color: #6b7280; /* ホバー時も控えめに */
+}
+
+/* スマホ対応 */
+@media (max-width: 768px) {
+  .toc-minimal,
+  .toc-kakejiku {
+    width: 100%;
+    margin: 16px 0 1.5rem 0;
+  }
+  
+  .toc-minimal .toc-title {
+    font-size: 0.9375rem;
+  }
+  
+  .toc-kakejiku-header {
+    font-size: 0.6875rem; /* スマホでさらに控えめに */
+    padding: 0.375rem 0.875rem; /* 高さを抑える */
+  }
+  
+  .toc-kakejiku-body {
+    padding: 0.75rem 0.875rem;
+  }
+  
+  .toc-kakejiku .toc-label {
+    font-size: 0.8125rem; /* スマホでラベルを調整 */
+    margin-top: 0.875rem;
+  }
+  
+  .toc-minimal .toc-heading-h2,
+  .toc-kakejiku .toc-heading-h2 {
+    font-size: 1rem; /* スマホではH2を少し小さく */
+    margin-top: 0.25rem; /* ラベルの直後 */
+  }
+  
+  .toc-minimal .toc-heading-h3,
+  .toc-kakejiku a.toc-heading-h3 {
+    font-size: 0.8125rem;
+  }
+  
+  .toc-kakejiku a.toc-heading-h3 {
+    padding-left: 1rem; /* スマホでもインデント */
+  }
+  
+  .toc-kakejiku a.toc-heading-h3::before {
+    left: 0.125rem; /* スマホでは記号を少し近づける */
   }
 }
 
