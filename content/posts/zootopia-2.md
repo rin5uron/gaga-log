@@ -12,14 +12,14 @@ relatedPosts: []
 ---
 
 <!-- 🎬 ディズニー公式サイト -->
-<a href="https://www.disney.co.jp/movie/zootopia2" target="_blank" title="公式サイトを見る">
-  <img src="/images/zootopia-2-poster.png" alt="Zootopia 2">
-</a>
+[🎬 『ズートピア２』公式サイト](https://www.disney.co.jp/movie/zootopia2)
 
-<!-- 🎥 予告編 -->
-<div style="margin: 2rem 0;">
-  <a href="https://www.youtube.com/watch?v=5vTR2-d4k_s" target="_blank" title="予告編を見る">📺 予告編を見る（YouTube）</a>
-</div>
+---
+
+<!-- ▶️ YouTube公式予告編の埋め込み -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vTR2-d4k_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 
 
