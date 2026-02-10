@@ -1,0 +1,124 @@
+---
+title: "Zootopia 2"
+work: "Zootopia 2"
+artist: "Jared Bush / Byron Howard"
+date: "2026-02-10"
+order: 1
+type: "movie"
+relatedPosts: []
+# ↓ SEO用メタデータは自動生成されます（手動設定不要）
+# 生成内容: title, description, keywords, OGP, Twitter Card, canonical URL
+# 詳細: /docs/SEO-METADATA-IMPLEMENTATION.md を参照
+---
+
+<!-- 🎬 ディズニー公式サイト -->
+<a href="https://www.disney.co.jp/movie/zootopia2" target="_blank" title="公式サイトを見る">
+  <img src="/images/zootopia-2-poster.png" alt="Zootopia 2">
+</a>
+
+<!-- 🎥 予告編 -->
+<div style="margin: 2rem 0;">
+  <a href="https://www.youtube.com/watch?v=5vTR2-d4k_s" target="_blank" title="予告編を見る">📺 予告編を見る（YouTube）</a>
+</div>
+
+
+
+## About <span class="section-subtitle">作品情報</span>
+
+### <span class="section-subtitle">前作から続く、ジュディとニックの新たな冒険</span>
+
+『Zootopia 2』は、2025年11月にアメリカで公開されたディズニー・アニメーション作品。監督はJared BushとByron Howard。前作『Zootopia』の続編として、新米警官ジュディ・ホップスと相棒ニック・ワイルドの新たな冒険を描いている。
+
+前作を観ていたので内容は理解しやすかった。観ていなくても、子どもも楽しめる笑いポイントが多い作品。背景やテーマは意外と深く、「強制」というテーマが描かれていた。大人でも十分楽しめる内容。
+
+---
+
+### <span class="section-subtitle">シャキラが歌う「Zoo」</span>
+
+前作の「Try Everything」に続き、今作ではシャキラが歌う「Zoo」が登場。シャキラは作中でズートピアのポップスター「Gazelle（ガゼル）」の声を担当している。
+
+吹き替え版だったが、歌は英語で安心した。Gazelleのキャラクターがシャキラ歌唱だと知っているとより楽しい。
+
+---
+
+### <span class="section-subtitle">観に行ったきっかけ</span>
+
+残業や忙しさが続いていて、日常に少し疲れていた。非日常を味わいたい気分だった。
+
+ちょうど知り合いから「すごく良かった」「前向きになれた」と聞いた。自分も、頑張ろうと思える気持ちになりたくて映画を観に行った。
+
+初めて一人で映画館に行った。平日のお昼で空いていて、落ち着いた空間だった。
+
+---
+
+
+
+## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
+
+### <span class="section-subtitle">「相棒とは何か」を問う物語</span>
+
+「相棒とは何か」を強く問われる作品だった。
+
+ジュディとニックが葛藤する場面が印象的。「誰かと一緒でいることの良さ」を改めて感じた。
+
+身の回りの人を大切にしたいと自然に思えた。
+
+---
+
+### <span class="section-subtitle">登場人物たちのスーパーポジティブさ</span>
+
+登場人物たちがスーパーポジティブ。
+
+曇らず、明るく生きていきたいと思った。
+
+---
+
+### <span class="section-subtitle">エンドロールの楽しさ</span>
+
+エンドロールが楽しい。下の名前がたくさん出てきて、見ていると発見がある。
+
+エンドロール後の演出に思わずニコっとした。
+
+---
+
+
+
+## After Watching <span class="section-subtitle">見終わった後に語りたくなるポイント</span>
+
+### <span class="section-subtitle">何も考えず「感じる」時間の大切さ</span>
+
+シャキラやZOOを聴きに行ったあとだったので、映画後はテンションが上がっていた。
+
+仕事やいろんなことに追われて、キャパがいっぱいだった。何も考えずに「感じる」「笑う」という時間が久しぶりだった。
+
+---
+
+### <span class="section-subtitle">素直に好きって言うこと</span>
+
+「素直に好きって言われること」の嬉しさを感じた。
+
+自分からも素直に伝えることが大切だと思った。
+
+---
+
+
+
+## Resonance <span class="section-subtitle">この作品が残したもの</span>
+
+### <span class="section-subtitle">心が元気になる時間</span>
+
+心が元気になって、明るくなれた。こうやって生きていこうと思えた。
+
+家で観るのもいいけど、映画館で没頭する時間は大事。休日にちゃんとリセットする時間の価値に気づいた。
+
+---
+
+## References <span class="section-subtitle">参考情報</span>
+
+### 公式サイト・動画
+
+- [『ズートピア２』公式サイト - ディズニー日本](https://www.disney.co.jp/movie/zootopia2)
+- [予告編 - YouTube](https://www.youtube.com/watch?v=5vTR2-d4k_s)
+- [ズートピア　ニック&ジュディ｜キャラクターの描き方｜上手に描く秘訣をアニメーターが直伝！ - YouTube](https://www.youtube.com/watch?v=PFL9Lo6W_74)
+
+---

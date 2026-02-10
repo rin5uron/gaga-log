@@ -665,8 +665,8 @@ body {
   font-size: 1rem; /* 現在のデザインのラベル → H2サイズ */
   font-weight: 700; /* Bold（主役なので太く） */
   color: #374151; /* 現在のデザインと同じ濃いめのグレー */
-  margin-top: 2rem; /* セクション間の余白をさらに大きく */
-  margin-bottom: 0.125rem; /* H2との距離を極小に */
+  margin-top: 2.5rem; /* セクション間の余白をかなり大きく */
+  margin-bottom: 0.25rem; /* H2との距離を小さく */
   padding-left: 0; /* 左揃え */
 }
 
@@ -679,7 +679,7 @@ body {
   font-size: 0.875rem; /* 現在のH2 → ラベルサイズ（小さく） */
   font-weight: 400; /* Regular（控えめに） */
   color: #374151; /* 現在のデザインと同じ色 */
-  margin-top: 0.25rem; /* H2同士の間隔を小さく（グループ内で密着） */
+  margin-top: 0.125rem; /* H2同士の間隔を極小に（グループ内で密着） */
   margin-bottom: 0; /* 下の余白なし */
   padding-left: 0; /* 左揃え */
   display: block;
