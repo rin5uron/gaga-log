@@ -146,7 +146,9 @@ export default function TableOfContents({
       variant === "kakejiku" ? "toc-kakejiku-nav" :
       "mb-4"
     }>
-      <ul className={`pt-0.5 sm:pt-1 pb-0 space-y-0 list-none mb-0 ${
+      <ul className={`pt-0.5 sm:pt-1 pb-0 list-none mb-0 ${
+        variant === "kakejiku" ? "" : "space-y-0"
+      } ${
         variant === "card" ? "pl-0 px-0" : 
         variant === "minimal" ? "pl-0 px-0" :
         variant === "kakejiku" ? "pl-0 px-0" :
