@@ -154,6 +154,62 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
+## おすすめグッズ <span class="section-subtitle">関連商品</span>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0;">
+
+<div style="background: #fff; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="text-align: center; margin-bottom: 1rem;">
+    <img src="https://m.media-amazon.com/images/I/41CKG0Ao6DL.jpg" alt="スケーター 弁当箱セット" style="max-width: 200px; height: auto;" />
+  </div>
+  <div style="min-height: 80px;">
+    <p style="font-weight: bold; margin-bottom: 0.5rem;">スケーター(Skater) 弁当箱 ランチボックス シール容器 保存容器 3個セット ジョイント式 食洗機対応 レンジ対応 日本製 ディズニー ズートピア2 SIJ3-A</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://amzn.to/4rJ96l0" target="_blank" style="color: #26A69A; text-decoration: none; margin-right: 1rem;">Amazonで見る</a>
+  </div>
+</div>
+
+<div style="background: #fff; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="text-align: center; margin-bottom: 1rem;">
+    <img src="https://m.media-amazon.com/images/I/71z+8JBnBzL._AC_SL1500_.jpg" alt="ズートピア ブルーレイDVD" style="max-width: 200px; height: auto;" />
+  </div>
+  <div style="min-height: 80px;">
+    <p style="font-weight: bold; margin-bottom: 0.5rem;">ズートピア ブルーレイ ＋ ＤＶＤ セット [Blu-ray]</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://amzn.to/4rdZ4bQ" target="_blank" style="color: #26A69A; text-decoration: none; margin-right: 1rem;">Amazonで見る</a>
+  </div>
+</div>
+
+<div style="background: #fff; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="text-align: center; margin-bottom: 1rem;">
+    <img src="https://m.media-amazon.com/images/I/61JTsHKMyQL._AC_SL1500_.jpg" alt="ズートピア シール帳" style="max-width: 200px; height: auto;" />
+  </div>
+  <div style="min-height: 80px;">
+    <p style="font-weight: bold; margin-bottom: 0.5rem;">ズートピア 4枚入 ぷにぷに おしり シール帳 可愛い 立体 ごほうびシール</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://amzn.to/3MD6JBj" target="_blank" style="color: #26A69A; text-decoration: none; margin-right: 1rem;">Amazonで見る</a>
+  </div>
+</div>
+
+<div style="background: #fff; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="text-align: center; margin-bottom: 1rem;">
+    <img src="https://m.media-amazon.com/images/I/51tU15Xe8EL._AC_SL1000_.jpg" alt="スケーター タオルキャップ" style="max-width: 200px; height: auto;" />
+  </div>
+  <div style="min-height: 80px;">
+    <p style="font-weight: bold; margin-bottom: 0.5rem;">スケーター(Skater) 吸水速乾 タオルキャップ ヘアドライ タオル ディズニー ズートピア ジュディ TOC11-A</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://amzn.to/4aEZged" target="_blank" style="color: #26A69A; text-decoration: none; margin-right: 1rem;">Amazonで見る</a>
+  </div>
+</div>
+
+</div>
+
+---
+
 ## References <span class="section-subtitle">参考情報</span>
 
 ### 公式サイト・動画
