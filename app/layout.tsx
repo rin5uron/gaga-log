@@ -57,12 +57,12 @@ export default function RootLayout({
           >
             <img
               src="http://hbb.afl.rakuten.co.jp/hsb/0eb4bbbd.6b1108be.0eb4bbaa.95151395/"
-              border={0}
+              style={{ border: 0 }}
               alt="楽天"
             />
           </a>
           <img
-            border={0}
+            style={{ border: 0 }}
             width={1}
             height={1}
             src="https://www12.a8.net/0.gif?a8mat=4AX6CG+BUAEOQ+2HOM+67JU9"
