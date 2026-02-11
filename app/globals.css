@@ -472,6 +472,64 @@ body {
   text-decoration: underline !important;
 }
 
+/* おすすめグッズ（Amazonリンク）グリッド：はみ出し防止・折り返し */
+.post-content .goods-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+  width: 100%;
+  min-width: 0;   /* 親幅を超えて広がらない */
+}
+.post-content .goods-grid > .goods-card {
+  min-width: 0;   /* グリッド項目が縮めるように（長文ではみ出し防止） */
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+.post-content .goods-card-image {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.post-content .goods-card-image img {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.post-content .goods-card-body {
+  min-height: 80px;
+  min-width: 0;
+}
+.post-content .goods-card-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  word-break: break-word;   /* 長い商品名を折り返す */
+  overflow-wrap: break-word;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.post-content .goods-card-link {
+  text-align: center;
+  margin-top: auto;
+}
+.post-content .goods-card-link a {
+  color: #26a69a;
+  text-decoration: none;
+}
+.post-content .goods-card-link a:hover {
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .post-content .goods-grid {
+    grid-template-columns: 1fr;   /* スマホは1列 */
+  }
+}
+
 /* 見出しの横に付くサブタイトル（例：「この曲について」）：小さめ・グレー・左に余白 */
 .prose h2 .section-subtitle {
   font-size: 0.95rem;
