@@ -11,9 +11,6 @@ export default function Footer() {
           <Link href="/about" className="hover:text-gray-900">
             運営者情報
           </Link>
-          <Link href="/learn/markdown" className="hover:text-gray-900">
-            マークダウンを学ぶ
-          </Link>
           <Link href="/contact" className="hover:text-gray-900">
             お問い合わせ
           </Link>

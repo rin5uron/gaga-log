@@ -564,6 +564,115 @@ body {
   }
 }
 
+/* 楽天デザイン＋Amazonリンク用グリッド（レスポンシブ：SP1列 / タブレット2列 / PC3列、サムネ128px統一・カード高さ統一） */
+.post-content .goods-grid-2x2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow: hidden;
+}
+@media (min-width: 768px) {
+  .post-content .goods-grid-2x2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1024px) {
+  .post-content .goods-grid-2x2 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.post-content .goods-grid-2x2 > .goods-cell {
+  min-width: 0;
+  max-width: 100%;
+  background: #f9fafb;
+  border-radius: 8px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  overflow: hidden;
+}
+/* スマホでテーブルのインライン width:300px を上書き（はみ出し防止） */
+.post-content .goods-grid-2x2 .goods-cell table {
+  width: 100% !important;
+  max-width: 100% !important;
+  border: none !important;
+  flex: 1 1 auto;
+  min-height: 0;
+  table-layout: fixed;
+}
+/* サムネ列を128pxに統一（楽天128x128に合わせる・インライン指定を上書き） */
+.post-content .goods-grid-2x2 .goods-cell table td:first-child {
+  width: 128px !important;
+  min-width: 128px !important;
+  vertical-align: top;
+  padding: 10px;
+}
+.post-content .goods-grid-2x2 .goods-cell table td:first-child img {
+  width: 128px !important;
+  height: 128px !important;
+  object-fit: cover;
+  display: block;
+}
+.post-content .goods-grid-2x2 .goods-cell table tbody tr {
+  vertical-align: top;
+}
+.post-content .goods-grid-2x2 .goods-cell table td:last-child {
+  vertical-align: top;
+  padding: 10px;
+  padding-top: 10px;
+  text-align: left;
+}
+/* 写真の上端に商品名1行目を合わせる（段落の余計な余白を消す） */
+.post-content .goods-grid-2x2 .goods-cell table td:last-child p:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+/* 商品名を最大5行で省略・左揃え・写真の上端に1行目を合わせる（PC・タブレット） */
+.post-content .goods-grid-2x2 .goods-cell table td:last-child p:first-child a {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+}
+/* スマホだけ商品名は4行までに制限（画面が小さいため） */
+@media (max-width: 767px) {
+  .post-content .goods-grid-2x2 .goods-cell table td:last-child p:first-child a {
+    -webkit-line-clamp: 4;
+  }
+}
+/* 価格・楽天で価格を見るの行を非表示（縦幅を抑える） */
+.post-content .goods-grid-2x2 .goods-cell table td p[style*="color:#666"] {
+  display: none;
+}
+/* 楽天で探す｜Amazonで探す のリンク行（右寄せ・カード内で下に固定） */
+.post-content .goods-grid-2x2 .goods-cell .goods-links {
+  margin: 8px 0 0 0;
+  margin-top: auto;
+  flex-shrink: 0;
+  font-size: 0.875rem;
+  text-align: right;
+}
+.post-content .goods-grid-2x2 .goods-cell .goods-links a {
+  color: #26a69a;
+  text-decoration: none;
+}
+.post-content .goods-grid-2x2 .goods-cell .goods-links a:hover {
+  text-decoration: underline;
+}
+.post-content .goods-grid-2x2 .goods-cell .goods-links-sep {
+  color: #9ca3af;
+  margin: 0 0.35em;
+  font-weight: 300;
+}
+
 /* 見出しの横に付くサブタイトル（例：「この曲について」）：小さめ・グレー・左に余白 */
 .prose h2 .section-subtitle {
   font-size: 0.95rem;
