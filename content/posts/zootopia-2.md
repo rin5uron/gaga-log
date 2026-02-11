@@ -157,7 +157,6 @@ relatedPosts: ["try-everything", "zoo"]
 ## おすすめグッズ <span class="section-subtitle">関連商品</span>
 
 <div class="goods-grid">
-
 <div class="goods-card">
   <div class="goods-card-image">
     <img src="https://m.media-amazon.com/images/I/41CKG0Ao6DL.jpg" alt="スケーター 弁当箱セット" />
@@ -169,7 +168,6 @@ relatedPosts: ["try-everything", "zoo"]
     <a href="https://amzn.to/4rJ96l0" target="_blank" rel="noopener noreferrer">Amazonで見る</a>
   </div>
 </div>
-
 <div class="goods-card">
   <div class="goods-card-image">
     <img src="https://m.media-amazon.com/images/I/71z+8JBnBzL._AC_SL1500_.jpg" alt="ズートピア ブルーレイDVD" />
@@ -181,7 +179,6 @@ relatedPosts: ["try-everything", "zoo"]
     <a href="https://amzn.to/4rdZ4bQ" target="_blank" rel="noopener noreferrer">Amazonで見る</a>
   </div>
 </div>
-
 <div class="goods-card">
   <div class="goods-card-image">
     <img src="https://m.media-amazon.com/images/I/61JTsHKMyQL._AC_SL1500_.jpg" alt="ズートピア シール帳" />
@@ -193,7 +190,6 @@ relatedPosts: ["try-everything", "zoo"]
     <a href="https://amzn.to/3MD6JBj" target="_blank" rel="noopener noreferrer">Amazonで見る</a>
   </div>
 </div>
-
 <div class="goods-card">
   <div class="goods-card-image">
     <img src="https://m.media-amazon.com/images/I/51tU15Xe8EL._AC_SL1000_.jpg" alt="スケーター タオルキャップ" />
@@ -205,7 +201,6 @@ relatedPosts: ["try-everything", "zoo"]
     <a href="https://amzn.to/4aEZged" target="_blank" rel="noopener noreferrer">Amazonで見る</a>
   </div>
 </div>
-
 </div>
 
 ---
