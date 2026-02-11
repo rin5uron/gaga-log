@@ -49,7 +49,31 @@ export default function RootLayout({
         <GoogleAnalytics />
         <Header />
         {children}
-        {/* 楽天A8ウィジェット - フッター直上・全ページ共通 */}
+        {/* 楽天A8バナー（常に表示・スクリプトと別なので消えない） */}
+        <div className="max-w-4xl mx-auto px-4 py-6 flex flex-col items-center">
+          <a
+            href="https://rpx.a8.net/svt/ejp?a8mat=4AX6CG+BUAEOQ+2HOM+BS629&rakuten=y&a8ejpredirect="
+            rel="nofollow"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="https://hbb.afl.rakuten.co.jp/hsb/0eb4bbbd.6b1108be.0eb4bbaa.95151395/"
+              alt="楽天市場"
+              width={728}
+              height={90}
+              style={{ border: 0 }}
+            />
+          </a>
+          <img
+            width={1}
+            height={1}
+            src="https://www10.a8.net/0.gif?a8mat=4AX6CG+BUAEOQ+2HOM+BS629"
+            alt=""
+            style={{ border: 0 }}
+          />
+        </div>
+        {/* 楽天ウィジェット用スクリプト（バナーとは別要素） */}
         <RakutenWidget />
         <Footer />
       </body>

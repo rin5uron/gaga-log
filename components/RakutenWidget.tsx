@@ -3,8 +3,8 @@
 import { useEffect, useRef } from "react";
 
 /**
- * 楽天アフィリエイト（フッター直上・全ページ共通）
- * ウィジェット用スクリプトは別の小さな要素にだけ差し込み、フォールバックはスクリプトの外で常に表示。
+ * 楽天ウィジェット用スクリプトのみ。
+ * バナーは layout.tsx に直接書いているので、スクリプトが何をしても消えない。
  */
 export default function RakutenWidget() {
   const scriptContainerRef = useRef<HTMLDivElement>(null);
@@ -23,8 +23,8 @@ export default function RakutenWidget() {
     (window as unknown as Record<string, string>).rakuten_design = "slide";
     (window as unknown as Record<string, string>).rakuten_size = "728x90";
     (window as unknown as Record<string, string>).rakuten_target = "_blank";
-    (window as unknown as Record<string, string>).rakuten_border = "on";
-    (window as unknown as Record<string, string>).rakuten_auto_mode = "on";
+    (window as unknown as Record<string, string>).rakuten_border = "off";
+    (window as unknown as Record<string, string>).rakuten_auto_mode = "off";
     (window as unknown as Record<string, string>).rakuten_adNetworkId = "a8Net";
     (window as unknown as Record<string, string>).rakuten_adNetworkUrl = "https%3A%2F%2Frpx.a8.net%2Fsvt%2Fejp%3Fa8mat%3D4AX6CG%2BBUAEOQ%2B2HOM%2BBS629%26rakuten%3Dy%26a8ejpredirect%3D";
     (window as unknown as Record<string, string>).rakuten_pointbackId = "a26020876785_4AX6CG_BUAEOQ_2HOM_BS629";
@@ -40,33 +40,6 @@ export default function RakutenWidget() {
   }, []);
 
   return (
-    <>
-      {/* フォールバックだけの div（スクリプトの親にしない＝上書きされない） */}
-      <div className="max-w-4xl mx-auto px-4 py-6 flex flex-col items-center">
-        <a
-          href="https://rpx.a8.net/svt/ejp?a8mat=4AX6CG+BUAEOQ+2HOM+BS629&rakuten=y&a8ejpredirect="
-          rel="nofollow"
-          target="_blank"
-          className="block"
-        >
-          <img
-            src="https://hbb.afl.rakuten.co.jp/hsb/0eb4bbbd.6b1108be.0eb4bbaa.95151395/"
-            alt="楽天市場"
-            width={728}
-            height={90}
-            style={{ border: 0 }}
-          />
-        </a>
-        <img
-          width={1}
-          height={1}
-          src="https://www19.a8.net/0.gif?a8mat=4AX6CG+BUAEOQ+2HOM+BS629"
-          alt=""
-          style={{ border: 0 }}
-        />
-      </div>
-      {/* ウィジェット用スクリプトだけの div（ここが上書きされてもフォールバックは別要素なので残る） */}
-      <div ref={scriptContainerRef} id="rakuten-widget-container" className="max-w-4xl mx-auto px-4 w-full flex justify-center" />
-    </>
+    <div ref={scriptContainerRef} id="rakuten-widget-container" className="max-w-4xl mx-auto px-4 w-full flex justify-center" />
   );
 }
