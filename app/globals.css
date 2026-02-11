@@ -201,9 +201,10 @@ body {
   display: table-cell;
 }
 
-.prose tbody tr:hover {
+/* テーブル行のホバーは無効（記事内のキャスト表などで不要なため） */
+/* .prose tbody tr:hover {
   @apply bg-gray-50;
-}
+} */
 
 .prose tbody tr:last-child td {
   border-bottom: none;

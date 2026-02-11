@@ -108,21 +108,21 @@ relatedPosts: ["try-everything", "zoo"]
 
 | キャラクター | 声優 | 備考 |
 |------------|------|------|
-| ジュディ・ホップス | 上戸彩 | 前作から続投 |
-| ニック・ワイルド | 森川智之 | 前作から続投 |
-| パウバート | 山田涼介 | Hey! Say! JUMPのメンバー |
-| ニブルズ | 江口のりこ | 俳優として活躍 |
-| ゲイリー | 下野紘 | 人気声優 |
-| Dr.ファズビー | 水樹奈々 | 声優・歌手 |
-| ガゼル | Dream Ami | シャキーラの日本語版歌唱も担当 |
+| ジュディ・ホップス | [上戸彩](https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%88%B8%E5%BD%A9) | 前作から続投 |
+| ニック・ワイルド | [森川智之](https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B) | 前作から続投 |
+| パウバート | [山田涼介](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B6%BC%E4%BB%8B) | Hey! Say! JUMPのメンバー |
+| ニブルズ | [江口のりこ](https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8F%A3%E3%81%AE%E3%82%8A%E3%81%93) | 俳優として活躍 |
+| ゲイリー | [下野紘](https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98) | 人気声優 |
+| Dr.ファズビー | [水樹奈々](https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A8%B9%E5%A5%88%E3%80%85) | 声優・歌手 |
+| ガゼル | [Dream Ami](https://ja.wikipedia.org/wiki/Dream_Ami) | シャキーラの日本語版歌唱も担当 |
 
 **製作陣にも注目**
 
 | 役職 | 名前 | 代表作・受賞歴 |
 |------|------|--------------|
-| 音楽担当 | Michael Giacchino（マイケル・ジャッキーノ） | 『カールじいさんの空飛ぶ家』『インサイド・ヘッド』などでアカデミー賞受賞 |
-| 作曲・作詞 | Ed Sheeran（エド・シーラン） | 世界的なシンガーソングライター |
-| 監督 | Jared Bush & Byron Howard | 前作『ズートピア』でアカデミー賞受賞 |
+| 音楽担当 | [Michael Giacchino（マイケル・ジャッキーノ）](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8E) | 『カールじいさんの空飛ぶ家』『インサイド・ヘッド』などでアカデミー賞受賞 |
+| 作曲・作詞 | [Ed Sheeran（エド・シーラン）](/artists/ed-sheeran) | 世界的なシンガーソングライター |
+| 監督 | [Jared Bush](https://en.wikipedia.org/wiki/Jared_Bush_(filmmaker)) & [Byron Howard](https://en.wikipedia.org/wiki/Byron_Howard) | 前作『ズートピア』でアカデミー賞受賞 |
 
 この作品が多くの人の手によって作られていることが分かります。エンドロール後の演出も含めて、作品の余韻を楽しめる時間になっています。
 
