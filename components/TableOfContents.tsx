@@ -156,12 +156,16 @@ export default function TableOfContents({
       }`}>
           {headings.map((heading) => {
             // ラベル（level 0）の場合
+            // ラベル（「この曲について」「歌詞のポイント」など）を1つ描画する
             if (heading.isLabel) {
               return (
                 <li key={heading.id} className={
-                  variant === "kakejiku" ? "" : "mt-1 first:mt-0 sm:mt-1.5"
+                  // kakejiku のときは余白は globals.css の .toc-kakejiku .toc-label で指定しているのでここでは何も付けない
+                  // それ以外（card / minimal）のときは、ラベルの「上」に余白を付ける（mt-3 = 0.75rem、sm以上で mt-4 = 1rem）
+                  // first:mt-0 = 一番上のラベルだけは上余白を 0 にして、目次トップが詰かないようにする
+                  variant === "kakejiku" ? "" : "mt-3 first:mt-0 sm:mt-4"
                 }>
-                  <div className={variant === "kakejiku" ? "toc-label py-0.5" : "toc-heading-h2 py-0.5"}>
+                  <div className="toc-label py-0.5">
                     {heading.text}
                   </div>
                 </li>

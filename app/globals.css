@@ -490,12 +490,13 @@ body {
    目次（Table of Contents）のスタイル
    記事上部の「目次」ボックス内の見出しリンクの見た目
    ======================================== */
-/* 目次内の h2 相当（ラベル）：シンプルに太字のみ */
-.toc-heading-h2 {
+/* 目次内のラベル（「この曲について」など）：シンプルに太字のみ */
+.toc-label {
   font-size: 1rem;
   font-weight: 600;
   color: #374151;
-  padding-top: 0.5rem !important;
+  margin-top: 0rem !important;
+  padding-top: 0rem !important;
   padding-bottom: 0.1rem !important;
   cursor: default; /* ポインターにならない */
 }
@@ -534,7 +535,7 @@ body {
 }
 
 /* 目次カード内の全要素：記事本文のスタイル（帯・上線など）を無効化 */
-/* 注：.toc-heading-h2とh3の個別スタイルが優先されるように調整 */
+/* 注：.toc-label と .toc-heading-h3 の個別スタイルが優先されるように調整 */
 
 
 
@@ -546,12 +547,12 @@ body {
   word-break: break-word;
 }
 
-.toc-card .toc-heading-h2,
+.toc-card .toc-label,
 .toc-card .toc-heading-h3 {
   overflow-wrap: break-word;
   word-break: break-word;
   border-top: none !important;
-  /* padding と border-left は .toc-heading-h2/h3 の個別スタイルを使用 */
+  /* padding と border-left は .toc-label / .toc-heading-h3 の個別スタイルを使用 */
 }
 
 @media (max-width: 768px) {
@@ -574,7 +575,7 @@ body {
   .toc-card nav {
     padding: 8px; /* スマホは内側余白をさらに小さく */
   }
-  .toc-heading-h2 {
+  .toc-label {
     font-size: 0.875rem; /* スマホでは小さく */
     padding-top: 0.125rem !important;
     padding-bottom: 0.125rem !important;
@@ -610,7 +611,7 @@ body {
   margin: 0;
 }
 
-.toc-minimal .toc-heading-h2 {
+.toc-minimal .toc-label {
   font-size: 1rem;
   font-weight: 700;
   color: #111827;
@@ -665,13 +666,19 @@ body {
   font-size: 1rem; /* 現在のデザインのラベル → H2サイズ */
   font-weight: 700; /* Bold（主役なので太く） */
   color: #374151; /* 現在のデザインと同じ濃いめのグレー */
-  margin-top: 2.5rem; /* セクション間の余白をかなり大きく */
-  margin-bottom: 0.25rem; /* H2との距離を小さく */
+  margin-top: 3rem; /* セクション間の余白（一番上以外で効く） */
+  margin-bottom: 0.125rem; /* ラベルとH2を密着させてグルーピング */
   padding-left: 0; /* 左揃え */
 }
 
-.toc-kakejiku .toc-label:first-child {
-  margin-top: 0; /* 最初のラベルだけ余白なし */
+/* リスト全体の上余白：帯「目次」の直下と、最初の項目（ラベル）の間を開ける。各ラベルの上余白とは別（そちらは .toc-kakejiku .toc-label の margin-top） */
+.toc-kakejiku-nav ul {
+  margin-top: 0.5rem !important;
+}
+
+/* 一番上のラベルだけ上余白なし（先頭の li 内の .toc-label のみ） */
+.toc-kakejiku-nav ul > li:first-child .toc-label {
+  margin-top: 0;
 }
 
 /* H2（道標）：ラベルの下に置く、控えめに */
@@ -679,7 +686,7 @@ body {
   font-size: 0.875rem; /* 現在のH2 → ラベルサイズ（小さく） */
   font-weight: 400; /* Regular（控えめに） */
   color: #374151; /* 現在のデザインと同じ色 */
-  margin-top: 0.125rem; /* H2同士の間隔を極小に（グループ内で密着） */
+  margin-top: 0.0625rem; /* H2同士の間隔をさらに狭く（グループ内で密着） */
   margin-bottom: 0; /* 下の余白なし */
   padding-left: 0; /* 左揃え */
   display: block;
@@ -742,7 +749,9 @@ body {
     margin-top: 0.875rem;
   }
   
-  .toc-minimal .toc-heading-h2,
+  .toc-minimal .toc-label {
+    font-size: 0.8125rem; /* スマホでは小さく */
+  }
   .toc-kakejiku .toc-heading-h2 {
     font-size: 0.8125rem; /* スマホでは小さく */
     margin-top: 0.25rem; /* ラベルの直後 */
