@@ -40,31 +40,33 @@ export default function RakutenWidget() {
   }, []);
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-6 flex flex-col items-center">
-      {/* ウィジェット用スクリプトはこの中だけ。中身を上書きされてもフォールバックは消えない */}
-      <div ref={scriptContainerRef} id="rakuten-widget-container" className="min-h-0 w-full flex justify-center" />
-      {/* 常に表示するフォールバック（楽天バナー画像＋リンク） */}
-      <a
-        href="https://rpx.a8.net/svt/ejp?a8mat=4AX6CG+BUAEOQ+2HOM+BS629&rakuten=y&a8ejpredirect="
-        rel="nofollow"
-        target="_blank"
-        className="block mt-2"
-      >
+    <>
+      {/* フォールバックだけの div（スクリプトの親にしない＝上書きされない） */}
+      <div className="max-w-4xl mx-auto px-4 py-6 flex flex-col items-center">
+        <a
+          href="https://rpx.a8.net/svt/ejp?a8mat=4AX6CG+BUAEOQ+2HOM+BS629&rakuten=y&a8ejpredirect="
+          rel="nofollow"
+          target="_blank"
+          className="block"
+        >
+          <img
+            src="https://hbb.afl.rakuten.co.jp/hsb/0eb4bbbd.6b1108be.0eb4bbaa.95151395/"
+            alt="楽天市場"
+            width={728}
+            height={90}
+            style={{ border: 0 }}
+          />
+        </a>
         <img
-          src="https://hbb.afl.rakuten.co.jp/hsb/0eb4bbbd.6b1108be.0eb4bbaa.95151395/"
-          alt="楽天市場"
-          width={728}
-          height={90}
+          width={1}
+          height={1}
+          src="https://www19.a8.net/0.gif?a8mat=4AX6CG+BUAEOQ+2HOM+BS629"
+          alt=""
           style={{ border: 0 }}
         />
-      </a>
-      <img
-        border={0}
-        width={1}
-        height={1}
-        src="https://www19.a8.net/0.gif?a8mat=4AX6CG+BUAEOQ+2HOM+BS629"
-        alt=""
-      />
-    </div>
+      </div>
+      {/* ウィジェット用スクリプトだけの div（ここが上書きされてもフォールバックは別要素なので残る） */}
+      <div ref={scriptContainerRef} id="rakuten-widget-container" className="max-w-4xl mx-auto px-4 w-full flex justify-center" />
+    </>
   );
 }
