@@ -26,7 +26,7 @@ relatedPosts: ["gaga-five-foot-two"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Joanne」は、Lady Gagaの5枚目のスタジオアルバム『Joanne』（2016年10月21日リリース）のタイトルトラックとして収録された楽曲。Mark Ronsonと共同プロデュースされ、アルバムの「真の心と魂」と呼ばれる、深く個人的な一曲。
 
@@ -62,11 +62,11 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-### シンプルに呼びかける、その重み
+## シンプルに呼びかける、その重み
 
 この曲の歌詞は、驚くほどシンプルだ。
 
@@ -79,7 +79,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 亡くなった人に、まだ話しかけている。会ったこともない叔母に、語りかけている。この距離感が、この曲の核心だ。
 
-### 父親の痛みと、娘の祈り
+## 父親の痛みと、娘の祈り
 
 この曲は、ガガ自身が語っているように、父親のために書いた曲でもある。
 
@@ -96,7 +96,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Joanne」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -122,7 +122,7 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2017年12月19日に公開された。監督はAndrea Gelardin、振付はRichy Jacksonが担当している。
 
@@ -184,7 +184,7 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

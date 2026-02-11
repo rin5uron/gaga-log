@@ -33,9 +33,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### [具体的な状況・疑問]（例：映画のどこで歌われている？）
+## [具体的な状況・疑問]（例：映画のどこで歌われている？）
 
 [事実＋あなたの視点]
 - リリース情報
@@ -44,7 +44,7 @@ highlights:
 
 ---
 
-### [アーティスト・背景の切り口]（例：ガガとクーパー、二人の奇跡の共演）
+## [アーティスト・背景の切り口]（例：ガガとクーパー、二人の奇跡の共演）
 
 [事実＋意味づけ]
 - アーティストの挑戦
@@ -54,16 +54,16 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### [キーワード・テーマの意味]（例："Shallow"という言葉の二重の意味）
+## [キーワード・テーマの意味]（例："Shallow"という言葉の二重の意味）
 
 [言葉の意味＋曲での使われ方]
 ※歌詞の直接引用は最小限に
 
 ---
 
-### [繰り返されるフレーズ＋歌詞の構造]（例："In the shallow" と "I'm falling"——繰り返される2つのフレーズ）
+## [繰り返されるフレーズ＋歌詞の構造]（例："In the shallow" と "I'm falling"——繰り返される2つのフレーズ）
 
 [2つのフレーズの意味＋対比・構造＋あなたの印象]
 - デュエット曲なら二人のパート比較
@@ -73,9 +73,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### [印象的なフレーズとその意味]
+## [印象的なフレーズとその意味]
 
 > 引用したいフレーズ
 
@@ -85,9 +85,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### [MVの特徴的なシーン]（例：スター誕生の瞬間を切り取った名シーン）
+## [MVの特徴的なシーン]（例：スター誕生の瞬間を切り取った名シーン）
 
 [シーンの描写＋意味]
 - 撮影場所・演出
@@ -95,7 +95,7 @@ highlights:
 
 ---
 
-### [ライブパフォーマンス]（例：アカデミー賞でのライブパフォーマンス）
+## [ライブパフォーマンス]（例：アカデミー賞でのライブパフォーマンス）
 
 [パフォーマンスの描写]
 
@@ -103,9 +103,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### [曲ごとに変える]（例：この曲が今も聞かれ続けている理由 / この曲がヒットした理由 / この曲の本質）
+## [曲ごとに変える]（例：この曲が今も聞かれ続けている理由 / この曲がヒットした理由 / この曲の本質）
 
 **⚠️ 注意：このタイトルは固定テンプレートではありません。曲に合わせて変えてください。**
 
@@ -116,23 +116,25 @@ highlights:
 
 ---
 
-### [曲の構造・化学反応]（例：二人だからこそ生まれた化学反応）
+## [曲の構造・化学反応]（例：二人だからこそ生まれた化学反応）
 
 [対比・構造の分析＋あなたの体験]
 
 ---
 
-### [文化的背景・他曲とのつながり]（あれば）
+## [文化的背景・他曲とのつながり]（あれば）
 
 [他曲との比較、文化的背景、時代性など]
 
-※**考察の締め**：上記の最後の h3 のあと、または適宜、**私の感想を2〜4行**で入れる。解釈・考察の延長として短く。
+※**考察の締め**：上記の最後の ## のあと、または適宜、**私の感想を2〜4行**で入れる。解釈・考察の延長として短く。
 
 ---
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+
+<div class="references-section">
 
 ### 公式MV
 
@@ -146,5 +148,7 @@ highlights:
 ### その他
 
 - [参考資料](URL)
+
+</div>
 
 ---

@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### ARTPOPアルバムのリードシングル
+## ARTPOPアルバムのリードシングル
 
 **「Applause」は、Lady Gagaの3枚目のスタジオアルバム『ARTPOP』（2013年）からのリードシングルとして、2013年8月12日にリリースされた楽曲。**
 
@@ -42,7 +42,7 @@ highlights:
 
 ---
 
-### 痛みと戦いながらのツアー、拍手だけが支えだった
+## 痛みと戦いながらのツアー、拍手だけが支えだった
 
 **この曲が生まれた背景には、ガガ自身の深刻な怪我と、それでもステージに立ち続けた経験がある。**
 
@@ -56,7 +56,7 @@ highlights:
 
 ---
 
-### アーティストとセレブリティの違い
+## アーティストとセレブリティの違い
 
 **この曲の歌詞は、アーティストとセレブリティの違いを強調している。**
 
@@ -70,9 +70,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "I live for the applause"——拍手のために生きる
+## "I live for the applause"——拍手のために生きる
 
 **この曲の核心となるフレーズ。**
 
@@ -84,7 +84,7 @@ highlights:
 
 ---
 
-### アーティストとしての依存——健全な依存
+## アーティストとしての依存——健全な依存
 
 **この曲は、ファンの拍手への「依存」を歌っている。**
 
@@ -96,9 +96,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### リズミカルで印象的なサビ
+## リズミカルで印象的なサビ
 
 この曲で最も印象的なのは、サビの繰り返し。
 
@@ -114,9 +114,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### アートとポップの融合を視覚化
+## アートとポップの融合を視覚化
 
 2013年8月19日に公開されたミュージックビデオは、『ARTPOP』というアルバムコンセプトを視覚的に表現した作品。
 
@@ -130,9 +130,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### パフォーマーにとっての拍手の意味
+## パフォーマーにとっての拍手の意味
 
 **この曲が特別なのは、「拍手」という行為の深い意味を歌っているから。**
 
@@ -144,7 +144,7 @@ highlights:
 
 ---
 
-### アーティストとセレブリティ——ガガが選んだ道
+## アーティストとセレブリティ——ガガが選んだ道
 
 **この曲は、ガガが「アーティスト」であることを改めて宣言した曲でもある。**
 
@@ -160,7 +160,7 @@ highlights:
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

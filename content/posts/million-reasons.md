@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### Joanneアルバムの核心バラード
+## Joanneアルバムの核心バラード
 
 **「Million Reasons」は、Lady Gagaの5枚目のスタジオアルバム『Joanne』（2016年）からの2枚目のシングルとして、2016年10月29日にリリースされた楽曲。**
 
@@ -44,7 +44,7 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 ---
 
-### 元婚約者との別れ、父親、そして信仰
+## 元婚約者との別れ、父親、そして信仰
 
 **この曲が描いているのは、「留まるべきか、去るべきか」という葛藤。**
 
@@ -56,7 +56,7 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 ---
 
-### 100万の理由で去るべきなのに、1つの理由で留まってしまう
+## 100万の理由で去るべきなのに、1つの理由で留まってしまう
 
 **この曲のタイトル「Million Reasons」——100万の理由。**
 
@@ -70,9 +70,9 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### 去るべき理由と留まる理由の葛藤
+## 去るべき理由と留まる理由の葛藤
 
 この曲は、「留まる理由を1つ教えて」という問いかけから始まる。
 
@@ -85,7 +85,7 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 ---
 
-### 神への祈り——信仰が試される瞬間
+## 神への祈り——信仰が試される瞬間
 
 この曲の後半では、神への祈りが登場する。
 
@@ -97,9 +97,9 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### シンプルで心に響くメロディ
+## シンプルで心に響くメロディ
 
 この曲は、シンプルなメロディとストレートな感情表現が特徴。
 
@@ -114,9 +114,9 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### シンプルで感情的なパフォーマンス
+## シンプルで感情的なパフォーマンス
 
 2016年12月に公開されたミュージックビデオは、シンプルで感情的な作品。
 
@@ -128,9 +128,9 @@ Lady Gaga、Hillary Lindsey、Mark Ronsonによって書かれ、Ronson、Gaga�
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### Joanneアルバム——ガガの原点回帰
+## Joanneアルバム——ガガの原点回帰
 
 **「Million Reasons」は、Joanneアルバム全体のテーマを象徴している。**
 
@@ -140,7 +140,7 @@ Joanneアルバムは、ガガの亡くなった叔母Joanneに捧げられた�
 
 ---
 
-### 誰もが持っている「留まる理由」
+## 誰もが持っている「留まる理由」
 
 **この曲が特別なのは、誰もが共感できる普遍的なテーマを持っているから。**
 
@@ -156,7 +156,7 @@ Joanneアルバムは、ガガの亡くなった叔母Joanneに捧げられた�
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

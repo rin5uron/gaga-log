@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### この曲が生まれた背景
+## この曲が生まれた背景
 
 **「Telephone」は、2009年11月にリリースされた[Lady Gaga](/artists/lady-gaga)の2ndアルバム「The Fame Monster」からのシングル。[Beyoncé](/artists/beyonce)をフィーチャリングに迎えた、ガガの代表曲の一つだ。**
 
@@ -48,9 +48,9 @@ highlights:
 
 ---
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Stop callin'"——電話に出ない自由
+## "Stop callin'"——電話に出ない自由
 
 「Telephone」の歌詞は、シンプルながら深い意味が込められている。タイトルの「Telephone」は、単なる通信手段ではなく、**自由を侵害する存在のメタファー**だ。
 
@@ -60,7 +60,7 @@ highlights:
 
 これは、恋愛における支配的なパートナーシップや、社会的な期待に対する一つの反抗だ。**「電話に出る」という単純な行為が、自由を失うことの象徴**となっている。
 
-### "I have no time for you right now"と"My boy's a little hardheaded"——2つのメッセージ
+## "I have no time for you right now"と"My boy's a little hardheaded"——2つのメッセージ
 
 **"I have no time for you right now"**（今、あなたのために時間を割く余裕がない）——この歌詞は、優先順位を明確にしている。相手との関係よりも、**自分の人生、自分の楽しみが大切だ**ということを宣言している。
 
@@ -72,9 +72,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### "Stop callin', stop callin', I don't wanna think anymore"
+## "Stop callin', stop callin', I don't wanna think anymore"
 
 > Stop callin', stop callin', I don't wanna think anymore
 
@@ -88,9 +88,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### 刑務所からの脱獄——[Paparazzi](/posts/paparazzi)の続編
+## 刑務所からの脱獄——[Paparazzi](/posts/paparazzi)の続編
 
 **「Telephone」のミュージックビデオは、約9分30秒にも及ぶ映画的な作品だ。**この映像作品は、単なる音楽プロモーションではなく、一つの芸術作品として評価されている。[Jonas Åkerlund](https://www.imdb.com/name/nm0015382/)が監督を務め、ガガと共にコンセプトを手掛けた（[IMDb](https://www.imdb.com/title/tt1675756/)）。
 
@@ -100,7 +100,7 @@ highlights:
 
 このプロット展開は、**Thelma & Louise（テルマ&ルイーズ）のオマージュ**となっており、社会的な抑圧から逃れる女性たちの物語として解釈できる。
 
-### ポップアートの傑作——ファッションとビジュアル
+## ポップアートの傑作——ファッションとビジュアル
 
 印象的なのは、圧倒的なビジュアル表現だ。コカ・コーラの缶で作ったヘアカーラー、アメリカ国旗を使った衣装、タバコサングラス、カラフルなプラスチック衣装——これらは、ポップカルチャーの消費文化をアイロニカルに表現している。
 
@@ -114,9 +114,9 @@ MVの最後に、2人が黄色いコンバーチブルで砂漠を走り去る�
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 「Telephone」が特別なのは、自由を選ぶ勇気を歌っている点だ。
 
@@ -126,7 +126,7 @@ MVの最後に、2人が黄色いコンバーチブルで砂漠を走り去る�
 
 これは、単なる「電話に出ない」という話ではなく、**自分の人生をコントロールする力**についての歌だ。社会的な期待、恋愛関係における支配、そして相手からの一方的な要求——これらから自分を守るための、最も基本的で重要な行為が「電話に出ない」ということなのだ。
 
-### デジタル時代における自由のメッセージ——2009年と現代の比較
+## デジタル時代における自由のメッセージ——2009年と現代の比較
 
 **「Telephone」がリリースされた2009年と、約15年経った今（現代）を比較してみると、このメッセージの重要性がより一層明確になる。**
 
@@ -159,7 +159,7 @@ MVの最後に、2人が黄色いコンバーチブルで砂漠を走り去る�
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

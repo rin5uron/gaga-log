@@ -29,9 +29,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### Red (Taylor's Version) に収録された10分バージョン
+## Red (Taylor's Version) に収録された10分バージョン
 
 **2021年、テイラースウィフトは「Red (Taylor's Version)」をリリースし、オリジナルアルバム「Red」(2012年)の再録音版に加えて、「All Too Well」の10分バージョンを初めて公式にリリースした。**
 
@@ -41,7 +41,7 @@ highlights:
 
 ---
 
-### テイラースウィフトの再録音プロジェクトと「From The Vault」
+## テイラースウィフトの再録音プロジェクトと「From The Vault」
 
 **「Taylor's Version」シリーズは、テイラースウィフトが自分の音楽の所有権を取り戻すための取り組みだ。**
 
@@ -53,9 +53,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### 「All Too Well」というタイトルが示す意味
+## 「All Too Well」というタイトルが示す意味
 
 **「All Too Well」というタイトルは、「すべてをよく覚えている」という意味で、失恋の痛みと記憶の鮮明さを表している。**
 
@@ -65,7 +65,7 @@ highlights:
 
 ---
 
-### 赤いスカーフと冷蔵庫の光——具体的な情景の描写
+## 赤いスカーフと冷蔵庫の光——具体的な情景の描写
 
 **テイラースウィフトの歌詞の特徴は、抽象的な感情を具体的な情景に落とし込む力だ。**
 
@@ -77,9 +77,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### 曲の核心を表すフレーズ
+## 曲の核心を表すフレーズ
 
 > I remember it all too well
 
@@ -89,7 +89,7 @@ highlights:
 
 ---
 
-### 赤いスカーフのシンボル
+## 赤いスカーフのシンボル
 
 > You left your scarf at my sister's house / And I still got it in my drawer even now
 
@@ -99,9 +99,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### 「All Too Well: The Short Film」——10分バージョンの短編映画
+## 「All Too Well: The Short Film」——10分バージョンの短編映画
 
 **2021年、テイラースウィフトは「All Too Well」の10分バージョンに合わせて、短編映画「All Too Well: The Short Film」を制作した。**
 
@@ -111,7 +111,7 @@ highlights:
 
 ---
 
-### 短編映画が描く関係の始まりと終わり
+## 短編映画が描く関係の始まりと終わり
 
 **「All Too Well: The Short Film」は、恋愛関係の始まりから終わりまでを、曲の歌詞に基づいて描いている。**
 
@@ -123,9 +123,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### 10分バージョンが持つ意味——完全版としての価値
+## 10分バージョンが持つ意味——完全版としての価値
 
 **「All Too Well」の10分バージョンは、2012年のオリジナルには含まれていなかった歌詞が追加され、失恋の痛みと記憶がより詳細に描かれている。**
 
@@ -135,7 +135,7 @@ highlights:
 
 ---
 
-### テイラースウィフトのストーリーテリング——具体的な情景の力
+## テイラースウィフトのストーリーテリング——具体的な情景の力
 
 **「All Too Well」は、テイラースウィフトのストーリーテリングの力が最も発揮された作品の一つだ。**
 
@@ -145,7 +145,7 @@ highlights:
 
 ---
 
-### リスナーとのつながり——失恋の痛みを共有する力
+## リスナーとのつながり——失恋の痛みを共有する力
 
 **テイラースウィフトの音楽の最大の魅力は、リスナーの経験と共鳴する力だ。**
 
@@ -159,7 +159,7 @@ highlights:
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

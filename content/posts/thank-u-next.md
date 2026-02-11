@@ -23,7 +23,7 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Thank U, Next」は、Ariana Grandeの5枚目のスタジオアルバム『Thank U, Next』（2019年2月8日リリース）のタイトルトラックとして、2018年11月3日にリリースされた楽曲。アリアナ・グランデ、Victoria Monét、Tayla Parx、Charles Anderson、Michael Fosterによって書かれ、プロデュースされた。
 
@@ -43,7 +43,7 @@ type: "song"
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -82,7 +82,7 @@ type: "song"
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Thank U, Next」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -108,7 +108,7 @@ type: "song"
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 2018年11月30日に公開されたミュージックビデオは、アリアナの過去の恋愛経験をパロディ化した作品。監督は[Hannah Lux Davis](https://www.imdb.com/name/nm0205500/)が担当している（[IMDb](https://www.imdb.com/title/tt9364124/)）。
 
@@ -142,7 +142,7 @@ MVの冒頭では、アリアナが過去の恋愛経験を振り返るシーン
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

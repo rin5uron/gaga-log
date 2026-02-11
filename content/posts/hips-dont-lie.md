@@ -23,7 +23,7 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Hips Don't Lie」は、Shakiraの6枚目のスタジオアルバム『Oral Fixation, Vol. 2』（2005年11月28日リリース）からの2枚目のシングルとして、2006年2月28日にリリースされた楽曲。シャキーラ、Wyclef Jean、LaTavia Parker、Jerry Duplessisによって書かれ、プロデュースされた。
 
@@ -43,15 +43,15 @@ type: "song"
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">タイトルフレーズの響き</span>
+## タイトルフレーズの響き
 
 "Hips don't lie"——このフレーズが曲中で何度も繰り返される。
 
 シンプルで、覚えやすく、リズムに乗りやすい。言葉として面白いのは、「腰」という体の部位を主語にしている点。人間ではなく、体の一部が「嘘をつかない」と言い切っている。
 
-### <span class="section-subtitle">ラテンのリズムと英語の融合</span>
+## ラテンのリズムと英語の融合
 
 この曲の魅力は、ラテン音楽のリズムに英語の歌詞が乗っている点。
 
@@ -61,9 +61,9 @@ type: "song"
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### "I'm on tonight"の勢い
+## "I'm on tonight"の勢い
 
 サビに入る瞬間のこのフレーズ。
 
@@ -71,7 +71,7 @@ type: "song"
 
 この一言で、曲の勢いが一気に加速する。"on"という短い単語に、「今夜は乗ってる」「調子がいい」というニュアンスが詰まっている。日本語にすると長くなるけど、英語だと一瞬で伝わる。この言葉の経済性が気持ちいい。
 
-### "perfection"の使い方
+## "perfection"の使い方
 
 > Don't you see, baby, this is perfection?
 
@@ -81,15 +81,15 @@ type: "song"
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">シャキーラのベリーダンス</span>
+## シャキーラのベリーダンス
 
 2006年3月3日に公開されたMV（監督：[Sophie Muller](https://www.imdb.com/name/nm0612003/)）は、シャキーラのダンスパフォーマンスが全面に出た作品（[IMDb](https://www.imdb.com/title/tt6715652/)）。
 
 特にベリーダンスを取り入れた腰の動きが印象的。カメラがその動きを追いかけるように撮影されている。
 
-### <span class="section-subtitle">金色の衣装と赤い背景</span>
+## 金色の衣装と赤い背景
 
 MVの中で印象的なのは、金色の衣装と赤い背景の組み合わせ。
 
@@ -99,15 +99,15 @@ MVの中で印象的なのは、金色の衣装と赤い背景の組み合わせ
 
 
 
-## Thoughts <span class="section-subtitle">この曲の魅力</span>
+<div class="section-label">Thoughts <span class="label-subtitle">この曲の魅力</span></div>
 
-### <span class="section-subtitle">理屈じゃない音楽</span>
+## 理屈じゃない音楽
 
 この曲を聴くと、考えるより先に体が動く。
 
 それが、この曲の持つ力だと思う。言葉で説明する前に、リズムが体に入ってくる。ラテン音楽特有のビートと、シャキーラの声の相性が抜群だ。
 
-### <span class="section-subtitle">2006年から変わらない魅力</span>
+## 2006年から変わらない魅力
 
 この曲は2006年にリリースされた。でも、今聴いても古く感じない。
 
@@ -117,7 +117,7 @@ MVの中で印象的なのは、金色の衣装と赤い背景の組み合わせ
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

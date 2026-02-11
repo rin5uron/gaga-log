@@ -30,7 +30,7 @@ highlights:
 </a>
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
 
@@ -43,9 +43,9 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 ---
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### Need Your Love
+## Need Your Love
 
 **冒頭や曲のあちこちで何度も出てくるフレーズ。サビじゃないけど、曲のテーマを一番よく表している繰り返し。**
 
@@ -57,7 +57,7 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 
 ---
 
-### The Right Stuff
+## The Right Stuff
 
 **サビは歌いやすいけど、このフレーズの意味が分からなかった。**
 
@@ -79,7 +79,7 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 
 ---
 
-### Your Love Drug
+## Your Love Drug
 
 **サビの締めくくりが印象的な**
 
@@ -91,7 +91,7 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 
 ---
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 **サビのフレーズ**
 
@@ -115,8 +115,8 @@ I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲�
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
-### 沼りたいのに、沼れない
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
+## 沼りたいのに、沼れない
 
 
 このサビの歌詞を見たとき、**ガガもみんなと同じ女子**なんだって思いました。
@@ -142,7 +142,7 @@ I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲�
 
 ---
 
-### Love Drug が指すもの
+## Love Drug が指すもの
 
 「Love Drug」が指すもの——それは、愛が救いではなく、依存であり、快楽であり、抜け出せないものだということ。
 
@@ -150,7 +150,7 @@ I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

@@ -34,7 +34,7 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Judas」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）からの2枚目のシングルとして、2011年4月15日にリリースされた楽曲。Lady GagaとRedOneによって書かれ、プロデュースされた。2010年にパリのStudio Gangで録音された。
 
@@ -50,7 +50,7 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -78,7 +78,7 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Judas」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -105,7 +105,7 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 2011年5月5日に公開されたミュージックビデオは、公開当時から大きな論争を呼んだ。
 
@@ -125,15 +125,15 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 この曲を初めて聞いたとき、その激しさと宗教的なモチーフに圧倒された。でも、何度も聞いているうちに、これは宗教についての曲ではなく、「自分自身」についての曲だと気づいた。
 
 誰にでも、「これは自分にとって良くない」とわかっているのに、それでも惹かれてしまうものがある。人、場所、習慣、思考パターン——何度も同じ失敗を繰り返してしまう経験をした人なら、ガガが歌っていることが痛いほどわかるはずだ。
 
-### 自分の闇を受け入れること
+## 自分の闇を受け入れること
 
 この曲の凄いところは、そうした自己破壊的なパターンを否定するのではなく、「これも自分の一部だ」と受け入れようとしているところ。ガガ自身が言っているように、「内なる闇を尊重することで、より大きな光へと導かれる」。
 
@@ -145,7 +145,7 @@ highlights:
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

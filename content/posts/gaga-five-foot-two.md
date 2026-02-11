@@ -16,9 +16,9 @@ relatedPosts: ["joanne"]
 
 
 
-## About <span class="section-subtitle">作品情報</span>
+<div class="section-label">About <span class="label-subtitle">作品情報</span></div>
 
-### <span class="section-subtitle">Joanneからスーパーボウルへ、8ヶ月の記録</span>
+## Joanneからスーパーボウルへ、8ヶ月の記録
 
 『Gaga: Five Foot Two』は、2017年にNetflixで配信されたドキュメンタリー。監督は[クリス・モーカーベル](/artists/chris-moukarbel)。レディー・ガガがアルバム『Joanne』の制作期から2017年2月のスーパーボウル・ハーフタイムショー本番までの約8ヶ月間を追った作品。
 
@@ -26,7 +26,7 @@ relatedPosts: ["joanne"]
 
 ---
 
-### <span class="section-subtitle">スーパーボウル・ハーフタイムショーとは</span>
+## スーパーボウル・ハーフタイムショーとは
 
 スーパーボウルは、アメリカンフットボールのNFL（ナショナル・フットボール・リーグ）の年間チャンピオンシップゲーム。毎年2月に開催され、アメリカ最大のスポーツイベントの一つとして知られている。
 
@@ -36,7 +36,7 @@ relatedPosts: ["joanne"]
 
 ---
 
-### <span class="section-subtitle">完成されたスターではなく、一人の人間として</span>
+## 完成されたスターではなく、一人の人間として
 
 東京ドーム公演を控えた今、「今のガガ」を知りたいと思い、この作品を見た。
 
@@ -46,9 +46,9 @@ relatedPosts: ["joanne"]
 
 
 
-## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
+<div class="section-label">Highlights <span class="label-subtitle">ここだけは見てほしい！</span></div>
 
-### <span class="section-subtitle">アーティストとしての姿勢</span>
+## アーティストとしての姿勢
 
 ガガは、周囲にとても感謝していて、深く信頼している。誰かを支配するのではなく、共に作る人。
 
@@ -58,7 +58,7 @@ relatedPosts: ["joanne"]
 
 ---
 
-### <span class="section-subtitle">リハーサルと舞台の場面</span>
+## リハーサルと舞台の場面
 
 スーパーボウルのリハーサルで見た振付を知ってから、ミュージックビデオを見ると、一つ一つの動きの意味がまったく違って見えてくる。
 
@@ -70,7 +70,7 @@ relatedPosts: ["joanne"]
 
 ---
 
-### <span class="section-subtitle">「Joanne」を家族に聴かせる場面</span>
+## 「Joanne」を家族に聴かせる場面
 
 アルバム『Joanne』を、祖母や父親に聴かせる場面がある。
 
@@ -89,9 +89,9 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 
 
 
-## After Watching <span class="section-subtitle">見終わった後に語りたくなるポイント</span>
+<div class="section-label">After Watching <span class="label-subtitle">見終わった後に語りたくなるポイント</span></div>
 
-### <span class="section-subtitle">本気で向き合うということ</span>
+## 本気で向き合うということ
 
 こんな大舞台を前にしても、全力で、楽しそうにしているガガを見ていたら、仕事でちょっとしたことでへこんだりイライラする自分に情けなくなる。
 
@@ -101,9 +101,9 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 
 
 
-## Resonance <span class="section-subtitle">この作品が残したもの</span>
+<div class="section-label">Resonance <span class="label-subtitle">この作品が残したもの</span></div>
 
-### <span class="section-subtitle">軽やかに向き合うこと</span>
+## 軽やかに向き合うこと
 
 ガガは、自分を責めろとは言っていない。「もっと軽やかに向き合っていい」と教えてくれているように感じた。
 
@@ -111,7 +111,7 @@ Joanneは、ガガの父の姉、つまり叔母の名前。病気で手を切�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### その他
 

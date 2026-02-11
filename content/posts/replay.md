@@ -25,27 +25,27 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">Chromaticaアルバムの核心</span>
+## Chromaticaアルバムの核心
 
 「Replay」は、2020年5月29日リリースのLady Gagaの6枚目のスタジオアルバム『Chromatica』に収録された楽曲。このアルバムは、ガガがPTSD（心的外傷後ストレス障害）と向き合いながら制作した作品で、「Replay」はその中でも特にトラウマと向き合うテーマを描いた重要な楽曲となっている。
 
 アルバム全体のコンセプトは、ガガが「Chromatica」と名付けた架空の惑星を旅する物語。この惑星では、痛みや苦しみも含めて、すべての感情が色として表現される。「Replay」は、その旅の中で避けては通れない、過去のトラウマと向き合う場面を描いている。
 
-### <span class="section-subtitle">Diana Rossのサンプリング</span>
+## Diana Rossのサンプリング
 
 この曲の特徴的なサウンドは、Diana Rossの1979年の楽曲「It's My House」をサンプリングしている点にある。フレンチハウス調のビートに、ガガのゴースト的なボーカルが重なることで、過去の傷が何度も蘇る感覚を音楽的に表現している。
 
 プロデューサーはBloodPopとTchamiが担当。特にTchamiのディープハウス調のアレンジが、この曲の独特な雰囲気を作り出している。Diana Rossの楽曲のサンプリングは、70年代ディスコへのオマージュでもあり、ガガが常に音楽の歴史を尊重しながら新しいものを作り出す姿勢の表れでもある。
 
-### <span class="section-subtitle">ライブでの重要性</span>
+## ライブでの重要性
 
 「Replay」は、ガガのライブツアー「The Chromatica Ball」（2022年）で重要な位置を占めている。ライブでは、この曲がガガのパフォーマンスの核心を表現する場面として機能し、観客との一体感を生み出す楽曲となっている。
 
 ライブでは、イントロのビートが流れると、会場全体が一気にダンスフロアに変わる。ガガ自身もこの曲について、「自分の一部を解放する曲」と語っており、ライブでのパフォーマンスは特に感情的なものになっている。
 
-### <span class="section-subtitle">現在のガガを象徴する楽曲</span>
+## 現在のガガを象徴する楽曲
 
 この曲を聴いた時、ガガのありのままがそこにあると感じた。素のガガが滲み出ている。強烈にそんな雰囲気を感じた。重みがあった。
 
@@ -55,15 +55,15 @@ type: "song"
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">"replay"という言葉の重み</span>
+## "replay"という言葉の重み
 
 タイトルにもなっている「replay」という言葉は、曲の中で何度も繰り返し再生される。これは、PTSDの症状の一つである「フラッシュバック」を表現している。
 
 ガガは公に自身のPTSDについて語っており、この曲は、PTSDのトリガーがどのようなものかを抽象的に説明した曲だとも言われている。ガガのトラウマが何度も繰り返し蘇る感覚——それが「replay」という言葉に込められている。
 
-### <span class="section-subtitle">"The scars on my mind are on replay"</span>
+## "The scars on my mind are on replay"
 
 この曲の核心となる歌詞。
 
@@ -73,13 +73,13 @@ type: "song"
 
 "on replay"という表現は、止められない繰り返しを表す。自分の意思とは関係なく、何度も何度も勝手に再生されてしまう感覚。それが、PTSDの症状そのものなのだ。
 
-### <span class="section-subtitle">トラウマと向き合う勇気</span>
+## トラウマと向き合う勇気
 
 ガガがこの曲で歌っているのは、単なる「過去の痛み」ではなく、「現在も続いている痛み」だ。PTSDは、過去の出来事が現在も影響を与え続ける症状。ガガは、その痛みから逃げずに、音楽という形で表現している。
 
 この曲を聴くと、トラウマと向き合うことの難しさと、それでも前に進むことの大切さを感じる。ガガは、この曲を通して、トラウマを抱える人々に「あなたは一人じゃない」というメッセージを送っている。
 
-### <span class="section-subtitle">英語学習者向けの解説</span>
+## 英語学習者向けの解説
 
 この曲は、英語学習者にとっても興味深い表現が多い。
 
@@ -92,9 +92,9 @@ type: "song"
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">シンプルで力強い"On replay"</span>
+## シンプルで力強い"On replay"
 
 "on replay"——リプレイモードになっている状態。一般的には、自分の意思とは関係なく、何度も何度も勝手に再生されてしまう感覚を表す。"on repeat" と似ていて、止められない繰り返しなのだろう。
 
@@ -102,7 +102,7 @@ type: "song"
 
 カラオケで歌う場合、このフレーズは力強く、はっきりと発音するのがポイント。ガガのライブでは、この部分で観客が一斉に歌い、会場全体が一体となる瞬間が生まれる。
 
-### <span class="section-subtitle">共感を呼ぶ"I don't know what to do"</span>
+## 共感を呼ぶ"I don't know what to do"
 
 コーラスの最初の部分。
 
@@ -114,7 +114,7 @@ type: "song"
 
 カラオケで歌う場合、この部分はゆっくりと、一語一語を大切に歌うと良い。急いで歌うのではなく、歌詞の意味を噛みしめるように歌うことで、聴いている人にも感情が伝わる。
 
-### <span class="section-subtitle">カラオケでのコツ</span>
+## カラオケでのコツ
 
 「Replay」をカラオケで歌う場合、以下のポイントを意識すると良い：
 
@@ -127,27 +127,27 @@ type: "song"
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">公式MVはないが、ビジュアルは存在する</span>
+## 公式MVはないが、ビジュアルは存在する
 
 「Replay」には公式のスタンドアロンミュージックビデオは制作されなかったが、この曲のテーマは他のChromaticaの楽曲のビジュアルに影響を与えている。
 
 ガガは、Chromaticaアルバム全体を一つの物語として構成しており、「Replay」もその物語の重要な一部として機能している。公式MVがない代わりに、ライブパフォーマンスやアルバムのビジュアルアートワークでこの曲の世界観が表現されている。
 
-### <span class="section-subtitle">「911」MVとの関連性</span>
+## 「911」MVとの関連性
 
 特に[「911」のミュージックビデオ](https://www.youtube.com/watch?v=A2zKRAkgx3o)には、ガガが経験してきたことを表すシンボルや傷跡が登場し、「The scars on my mind are on replay」という歌詞と繋がっている。
 
 「911」のMVでは、ガガが幻覚を見るシーンが描かれている。これも、PTSDの症状の一つである「フラッシュバック」を視覚的に表現している。MVの中で、ガガは過去のトラウマと現在の自分が混ざり合う世界を彷徨う。この表現は、「Replay」の歌詞と強く共鳴する。
 
-### <span class="section-subtitle">Chromaticaアルバム全体のビジュアル</span>
+## Chromaticaアルバム全体のビジュアル
 
 Chromaticaアルバム全体が、ガガの精神的な旅路を視覚的に表現しており、「Replay」はその中で感情的虐待とトラウマの繰り返しを音楽的に描いた重要な楽曲となっている。
 
 アルバムのアートワークでは、ガガが様々な色の世界を旅する様子が描かれている。これは、トラウマから回復する過程を表現しているのかもしれない。ピンク色の惑星「Chromatica」は、痛みや苦しみも含めて、すべての感情を受け入れる場所として描かれている。
 
-### <span class="section-subtitle">ライブパフォーマンスの映像美</span>
+## ライブパフォーマンスの映像美
 
 「The Chromatica Ball」ツアーでは、この曲のパフォーマンスが特に印象的だった。ステージ全体がディスコボールの光で満たされ、ガガは巨大なスクリーンに映し出された自分の姿と対峙する演出が行われた。
 
@@ -159,21 +159,21 @@ Diana Rossの「It's My House」のサンプリングを使ったフレンチハ
 
 
 
-## Thoughts <span class="section-subtitle">この曲が残したもの</span>
+<div class="section-label">Thoughts <span class="label-subtitle">この曲が残したもの</span></div>
 
-### <span class="section-subtitle">ガガの勇気と誠実さ</span>
+## ガガの勇気と誠実さ
 
 ガガがここまで人間的に表現できるのは、ガガが自分と向き合い、全力でいるからだと思う。ガガの人生経験と、自分と向き合うまっすぐさが強いから。
 
 PTSDという重いテーマを、ポップミュージックという形で表現する——それは、多くの人に勇気を与える行為だと思う。ガガは、自分の弱さや痛みを隠さずに見せることで、同じように苦しんでいる人たちに「あなたは一人じゃない」というメッセージを送っている。
 
-### <span class="section-subtitle">音楽の力</span>
+## 音楽の力
 
 この曲を聴くと、音楽には言葉では表現できない感情を表現する力があると感じる。PTSDのフラッシュバックという、説明するのが難しい感覚を、ディープハウスのビートと繰り返される「replay」という言葉で見事に表現している。
 
 音楽は、痛みを共有するための言語になる。ガガがこの曲を通して伝えているのは、「痛みを感じることは恥ずかしいことではない」「トラウマと向き合うことは勇気がいることだけど、その先に光がある」というメッセージなのかもしれない。
 
-### <span class="section-subtitle">私自身の気づき</span>
+## 私自身の気づき
 
 私はそこまで行けていない。しょうがないし、悔しいわけでもない。でも、ここまでの深い想いになれていないのに、日々にぐちぐち言ったり気力を無くしたりしている。そんな自分が情けない。
 
@@ -181,7 +181,7 @@ PTSDという重いテーマを、ポップミュージックという形で表�
 
 ガガと人生の中で繋がれていること。ガガを通して、私の人生や価値観が積み上げられていること。この曲を聴いて、そんな気持ちになっている。
 
-### <span class="section-subtitle">この曲が教えてくれること</span>
+## この曲が教えてくれること
 
 「Replay」が教えてくれるのは、トラウマと向き合うことの難しさと、それでも前に進むことの大切さだ。
 
@@ -191,7 +191,7 @@ PTSDという重いテーマを、ポップミュージックという形で表�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

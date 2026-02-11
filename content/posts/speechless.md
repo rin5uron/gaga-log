@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### 父親の命を救うために書かれた曲
+## 父親の命を救うために書かれた曲
 
 **「Speechless」は、Lady Gagaが父親のために書いた、最も個人的な曲の一つ。**2009年11月18日にリリースされたEP『The Fame Monster』に収録されている。
 
@@ -50,7 +50,7 @@ highlights:
 
 ---
 
-### ダンスポップの女王が歌う、生のロックバラード
+## ダンスポップの女王が歌う、生のロックバラード
 
 **この曲は、ガガのキャリアの中でも異色の存在だ。**
 
@@ -66,9 +66,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Speechless"——言葉にならないほどの感情
+## "Speechless"——言葉にならないほどの感情
 
 **この曲のタイトルは「Speechless」——言葉にならない。**
 
@@ -82,7 +82,7 @@ highlights:
 
 ---
 
-### お酒と壊れたものたち——逃避と絶望
+## お酒と壊れたものたち——逃避と絶望
 
 歌詞の中には、お酒やパーティーのモチーフが登場する。でも、これは楽しいパーティーソングではない。
 
@@ -96,9 +96,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### ピアノが奏でる、シンプルで力強いメロディ
+## ピアノが奏でる、シンプルで力強いメロディ
 
 この曲で最も印象的なのは、ピアノの音色。
 
@@ -117,9 +117,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### ライブパフォーマンスで輝く曲
+## ライブパフォーマンスで輝く曲
 
 この曲には、完全な公式ミュージックビデオは制作されていない。でも、ライブパフォーマンスの映像が、この曲の魅力を最大限に引き出している。
 
@@ -133,9 +133,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### なぜガガは、この曲をアルバムに入れたのか
+## なぜガガは、この曲をアルバムに入れたのか
 
 **『The Fame Monster』は、ダンスポップアルバムだ。**[Bad Romance](/posts/bad-romance)、[Telephone](/posts/telephone)、[Alejandro](/posts/alejandro)——どれも、クラブで踊れる曲。
 
@@ -151,7 +151,7 @@ highlights:
 
 ---
 
-### 誰もが持っている「言葉にならない感情」
+## 誰もが持っている「言葉にならない感情」
 
 この曲が特別なのは、**誰もが共感できる普遍的なテーマ**を持っているからだ。
 
@@ -171,7 +171,7 @@ highlights:
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式音源
 

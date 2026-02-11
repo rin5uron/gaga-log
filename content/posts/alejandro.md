@@ -34,9 +34,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### アルバム『The Fame Monster』の収録曲
+## アルバム『The Fame Monster』の収録曲
 
 **「Alejandro」は、Lady Gagaのアルバム『The Fame Monster』（2009年）に収録され、2010年4月20日にシングルとしてリリースされた楽曲。**
 
@@ -44,7 +44,7 @@ ABBAやAce of Baseといったポップミュージックの要素を取り入�
 
 ---
 
-### アレハンドロって誰？
+## アレハンドロって誰？
 
 **この曲が描いているのは、特定の一人の男性についての物語というより、"恋愛そのもの"に対する恐怖や距離感だ。**
 
@@ -54,7 +54,7 @@ ABBAやAce of Baseといったポップミュージックの要素を取り入�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -78,7 +78,7 @@ ABBAやAce of Baseといったポップミュージックの要素を取り入�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Alejandro」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -104,7 +104,7 @@ ABBAやAce of Baseといったポップミュージックの要素を取り入�
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、2010年6月に公開された。公開当時から大きな話題を呼んだ。
 
@@ -118,9 +118,9 @@ ABBAやAce of Baseといったポップミュージックの要素を取り入�
 
 ---
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 **「Alejandro」は、恋愛への恐怖と距離感を表現した曲として、今も多くの人に共感され続けている。**
 
@@ -132,7 +132,7 @@ Netflixのドキュメンタリー「Gaga: Five Foot Two」では、キャリア
 
 ---
 
-### 大人になって、この曲に近づいた
+## 大人になって、この曲に近づいた
 
 **この曲を初めて聞いたとき、正直あまりピンと来なかった。でも、歳を重ねて色んな人と出会い、色んな恋愛を経験してきた今、ガガが歌っていることが痛いほどわかる。**
 
@@ -144,7 +144,7 @@ Netflixのドキュメンタリー「Gaga: Five Foot Two」では、キャリア
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

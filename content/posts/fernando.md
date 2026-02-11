@@ -25,7 +25,7 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Fernando」は、ABBAが1976年3月にシングルとしてリリースした楽曲。元々はメンバーの一人、アグネタ・フォルツコグのソロアルバム『Elva Kvinnor I Ett Hus』（1975年）にスウェーデン語版が収録されていたが、英語版として再レコーディングされ、ABBAの代表曲の一つとなった。
 
@@ -43,7 +43,7 @@ ABBAのベニー・アンダーソンは、この曲についてインタビュ�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -84,7 +84,7 @@ ABBAのベニー・アンダーソンは、この曲についてインタビュ�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Fernando」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -112,7 +112,7 @@ ABBAのベニー・アンダーソンは、この曲についてインタビュ�
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 1976年に公開されたオリジナルのミュージックビデオは、当時のABBAらしいカラフルで華やかな映像だ。メンバー4人がスタジオでパフォーマンスする様子が映されている。
 
@@ -144,7 +144,7 @@ Lady Gagaの[「Alejandro」](/posts/alejandro)は、この「Fernando」から�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

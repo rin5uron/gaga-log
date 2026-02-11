@@ -33,9 +33,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">キャリアを決定づけた代表曲</span>
+## キャリアを決定づけた代表曲
 
 「Bad Romance」は、**Lady Gagaの2枚目のEP『The Fame Monster』からの1枚目のシングル**として、2009年10月26日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
@@ -47,9 +47,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">"Bad"という言葉の多層性</span>
+## "Bad"という言葉の多層性
 
 多くの人が「なぜBadなのか？」と疑問に思う。
 
@@ -63,7 +63,7 @@ highlights:
 
 ---
 
-### <span class="section-subtitle">破壊的な愛を歌う歌詞</span>
+## 破壊的な愛を歌う歌詞
 
 この曲の核心となるフレーズ。
 
@@ -88,9 +88,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">言葉にならない狂気を音にした瞬間</span>
+## 言葉にならない狂気を音にした瞬間
 
 > Ra-ra-ah-ah-ah
 > Roma-roma-ma
@@ -107,9 +107,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">海外はこう読み解く：MVの深層</span>
+## 海外はこう読み解く：MVの深層
 
 日本語サイトのほとんどが歌詞の和訳に留まっているのに対し、**海外の音楽分析サイトでは、このMVをより深く読み解いて**いる。
 
@@ -135,7 +135,7 @@ highlights:
 
 ---
 
-### <span class="section-subtitle">なぜ棺桶から始まる？「Monster」ラベルの意味</span>
+## なぜ棺桶から始まる？「Monster」ラベルの意味
 
 2009年11月23日に公開されたミュージックビデオは、公開当時から大きな話題を呼んだ。監督は[Francis Lawrence](https://www.imdb.com/name/nm0491402/)が担当している（[IMDb](https://www.imdb.com/title/tt3529144/)）。
 
@@ -153,7 +153,7 @@ highlights:
 
 ---
 
-### <span class="section-subtitle">白から赤への色の変化</span>
+## 白から赤への色の変化
 
 このMVは、**ガガのファッションセンスが際立つ作品**でもある。白いレースの衣装、巨大な肩パッド、赤い衣装、そして独特なメイク。
 
@@ -171,9 +171,9 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 「Bad Romance」が特別なのは、**破壊的でありながら、逃れられない恋愛**を歌っている点だ。
 
@@ -181,7 +181,7 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 
 **棺桶から蘇るように、恋愛は自分を生まれ変わらせる**。壊して、再生する。その繰り返し。MVの**「死と再生」のモチーフは、恋愛による自己の変容を視覚化**している。
 
-### 破壊的でありながら美しい理由
+## 破壊的でありながら美しい理由
 
 この曲が描いているのは、**破壊的でありながら、逃れられない恋愛**だ。
 
@@ -191,7 +191,7 @@ Lady Gagaのアイコニックなファッションとパフォーマンスに�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

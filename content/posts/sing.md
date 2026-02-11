@@ -26,9 +26,9 @@ relatedPosts: ["one-shot", "perfect"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">ファレル・ウィリアムスとの共同制作</span>
+## ファレル・ウィリアムスとの共同制作
 
 「Sing」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）の2枚目のスタジオアルバム『X（マルティプライ）』（2014年6月20日リリース）からの1枚目のシングルとして、2014年4月7日にリリースされた楽曲。エド・シーランとファレル・ウィリアムス（Pharrell Williams）によって書かれ、プロデュースされた。
 
@@ -36,7 +36,7 @@ relatedPosts: ["one-shot", "perfect"]
 
 ---
 
-### <span class="section-subtitle">パーティーで楽しむことについての曲</span>
+## パーティーで楽しむことについての曲
 
 この曲が描いているのは、考えずに、ただ歌うこと。
 
@@ -44,9 +44,9 @@ relatedPosts: ["one-shot", "perfect"]
 
 ---
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">一緒に歌ってほしい、という願い</span>
+## 一緒に歌ってほしい、という願い
 
 この曲の核心となるフレーズ。
 
@@ -66,9 +66,9 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 
 ---
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">うまく歌うより、みんなで歌う</span>
+## うまく歌うより、みんなで歌う
 
 「Sing」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -104,9 +104,9 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 
 ---
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">バスの上でみんなと歌う一体感</span>
+## バスの上でみんなと歌う一体感
 
 2014年4月7日に公開されたミュージックビデオは、エドが様々な場所で歌っているシンプルな構成。監督は[Emil Nava](https://www.imdb.com/name/nm3807784/)が担当している。
 
@@ -134,7 +134,7 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 
 ---
 
-## Thoughts <span class="section-subtitle">みんなで歌う勇気を与えてくれる曲</span>
+<div class="section-label">Thoughts <span class="label-subtitle">みんなで歌う勇気を与えてくれる曲</span></div>
 
 この曲を初めて聞いたとき、そのシンプルさに驚いた。でも、何度も聞いているうちに、これは「みんなで歌おう」を歌っている曲だと気づいた。
 
@@ -150,7 +150,7 @@ Netflixで配信されている『[エド・シーラン: ONE SHOT](/posts/one-s
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

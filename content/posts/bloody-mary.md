@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### 11年の時を経て、TikTokで再ブレイク
+## 11年の時を経て、TikTokで再ブレイク
 
 **「Bloody Mary」は、[Lady Gaga](/artists/lady-gaga)の2枚目のスタジオアルバム『Born This Way』（[2011年5月23日リリース](https://www.billboard.com/music/lady-gaga/chart-history/)）に収録された楽曲。**当初はアルバム曲として発表されたが、2022年12月、Netflix『Wednesday（ウェンズデー）』でのダンスシーンとTikTokでのバズを受けて、アルバムから11年を経て6枚目のシングルとして正式リリースされた。
 
@@ -40,7 +40,7 @@ highlights:
 
 ---
 
-### 「Bloody Mary × Wednesday」の奇跡の融合
+## 「Bloody Mary × Wednesday」の奇跡の融合
 
 **2022年のTikTokバズ以降、再び注目を浴び、ライブのオープニングセットリストにも組み込まれるようになった。**元々は知る人ぞ知るアルバム曲だったが、今では「Bloody Mary × Wednesday」の組み合わせで新たな命を吹き込まれた楽曲として語られることが多い。
 
@@ -58,9 +58,9 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### Maryとは誰か——マグダラのマリアの視点
+## Maryとは誰か——マグダラのマリアの視点
 
 **まず、「Bloody Mary」という名前について。**タイトルは「血まみれのメアリー」を意味し、一般的にはイングランド女王メアリー1世を指すが、**ガガはマグダラのマリア（Mary Magdalene）の視点から歌っている。**マグダラのマリアは聖書に登場する人物で、イエスの最も重要な弟子の一人とされている。
 
@@ -68,7 +68,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 ---
 
-### 「あなたのために泣かない」——強さと孤独の宣言
+## 「あなたのために泣かない」——強さと孤独の宣言
 
 サビで繰り返される核心的なフレーズがこれだ。
 
@@ -88,7 +88,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Bloody Mary」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -114,7 +114,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかった。しかし、ガガは過去のライブやパフォーマンスで、この曲を披露する際に独特な振り付けを披露してきた。
 
@@ -130,9 +130,9 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### TikTokバズを経て、再び光を浴びた曲
+## TikTokバズを経て、再び光を浴びた曲
 
 **この曲を初めて聞いたのは2011年だった人も多いだろう。**当時はアルバム曲の一つとして、ファンの間で愛されていた。
 
@@ -140,7 +140,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 ---
 
-### 音楽は時代を超えて蘇る
+## 音楽は時代を超えて蘇る
 
 **音楽は時代を超えて、新しい形で蘇ることがある。**ガガが2011年に込めたマグダラのマリアの物語が、2022年のWednesdayというキャラクターと結びついたとき、それは偶然ではなく、何か必然的なものを感じさせる。
 
@@ -152,7 +152,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式音源
 - [Lady Gaga - Bloody Mary (Audio)](https://www.youtube.com/watch?v=j3BSPim2CSU)

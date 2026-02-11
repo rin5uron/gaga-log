@@ -33,9 +33,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### この曲が生まれた背景
+## この曲が生まれた背景
 
 「Paparazzi」は、2009年にリリースされたLady Gagaのデビューアルバム「The Fame」に収録された楽曲。2009年7月にシングルカットされ、世界中で大ヒットを記録した。
 
@@ -48,7 +48,7 @@ highlights:
 
 [Billboard Hot 100では最高6位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/6)。特に日本では、カラオケで根強い人気を持つガガの代表曲の一つとなった。
 
-### ガガが体現した「名声」というテーマ
+## ガガが体現した「名声」というテーマ
 
 Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」。彼女のキャリア全体を通して、名声は最も重要なテーマの一つだ。
 
@@ -63,9 +63,9 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "I'm your biggest fan"——ファンか、ストーカーか
+## "I'm your biggest fan"——ファンか、ストーカーか
 
 サビの冒頭、"I'm your biggest fan, I'll follow you until you love me"（私はあなたの一番のファン、あなたが私を愛するまで追いかける）というフレーズが繰り返される。
 
@@ -73,7 +73,7 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 これは、セレブリティとファンの関係だけでなく、**名声そのものとの関係**を描いている。ガガは、名声を「愛するまで追いかける」存在として表現した。
 
-### "Promise I'll be kind"と"Baby, you'll be famous"——囁かれる2つの言葉
+## "Promise I'll be kind"と"Baby, you'll be famous"——囁かれる2つの言葉
 
 サビの後半で囁かれる2つの言葉。
 
@@ -89,9 +89,9 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### "I'm your biggest fan, I'll follow you until you love me"
+## "I'm your biggest fan, I'll follow you until you love me"
 
 > I'm your biggest fan, I'll follow you until you love me
 
@@ -105,9 +105,9 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### 殺人と名声——衝撃的なストーリー
+## 殺人と名声——衝撃的なストーリー
 
 このMVは、ガガのMVの中でもストーリ性が強い大作だ。[Jonas Åkerlund](https://www.imdb.com/name/nm0015382/)が監督を務め、[ガガと共にコンセプトを手掛けた](https://www.imdb.com/title/tt1676684/)。
 
@@ -122,7 +122,7 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 **MVの制作背景：**
 このMVは、ガガとJonas Åkerlundが共同でコンセプトを手掛けた。約7分30秒の長編作品で、単なる音楽プロモーションではなく、**一つの短編映画**として評価されている。制作費も高額で、ガガのデビュー当時としては異例の規模だった。
 
-### 2009年MTVビデオ・ミュージック・アワードでのパフォーマンス
+## 2009年MTVビデオ・ミュージック・アワードでのパフォーマンス
 
 このMVが世界的に話題になったのは、2009年のMTV VMAsでのパフォーマンスだ。
 
@@ -134,9 +134,9 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 「Paparazzi」が特別なのは、**ポップソングの形をした、名声への批評**だという点だ。
 
@@ -151,7 +151,7 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 **2009年と2025年の比較：**
 2009年当時は、パパラッチの写真が高額で取引されていた時代。でも今、2025年では、誰もが自分で写真を撮り、SNSに投稿できる時代になった。**「パパラッチ」は、もはや職業ではなく、私たち全員が持つ欲望の象徴**となっている。
 
-### 有名になりたい、認められたい——誰もが持っている感情
+## 有名になりたい、認められたい——誰もが持っている感情
 
 この曲が巧妙なのは、**誰もが持っている感情**を歌にしている点だ。
 
@@ -171,7 +171,7 @@ Lady Gagaのデビューアルバムのタイトルは「The Fame（名声）」
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

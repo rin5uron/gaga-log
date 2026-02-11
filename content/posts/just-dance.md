@@ -23,7 +23,7 @@ type: "song"
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Just Dance」は、Lady Gagaのデビューアルバム『The Fame』（2008年8月19日リリース）からの1枚目のシングルとして、2008年4月8日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
@@ -41,7 +41,7 @@ type: "song"
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -75,7 +75,7 @@ type: "song"
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Just Dance」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -101,7 +101,7 @@ type: "song"
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 2008年4月8日に公開されたミュージックビデオは、ガガのデビューMV。監督は[Melina Matsoukas](https://www.imdb.com/name/nm2192268/)が担当している（[IMDb](https://www.imdb.com/title/tt6743950/)）。
 
@@ -119,9 +119,9 @@ MVの冒頭では、ガガがパーティー会場に到着するシーンから
 
 
 
-## Thoughts <span class="section-subtitle">この曲の魅力</span>
+<div class="section-label">Thoughts <span class="label-subtitle">この曲の魅力</span></div>
 
-### <span class="section-subtitle">考えすぎない勇気</span>
+## 考えすぎない勇気
 
 この曲を初めて聞いたとき、そのシンプルさに驚いた。
 
@@ -133,7 +133,7 @@ MVの冒頭では、ガガがパーティー会場に到着するシーンから
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

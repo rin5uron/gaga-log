@@ -28,9 +28,9 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">偶然の再会から生まれた失恋バラード</span>
+## 偶然の再会から生まれた失恋バラード
 
 「Happier」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）の3枚目のスタジオアルバム『÷（Divide）』（2017年3月3日リリース）に収録された楽曲。アルバムの中でも特に感情的な一曲として、多くのリスナーの心に深く刺さっている。
 
@@ -38,7 +38,7 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 ---
 
-### <span class="section-subtitle">「より幸せ」というタイトルの残酷さ</span>
+## 「より幸せ」というタイトルの残酷さ
 
 「Happier」——この曲名がまず残酷だ。
 
@@ -52,11 +52,11 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-### 静かに比較してしまう痛み
+## 静かに比較してしまう痛み
 
 この曲の視点が、とにかくしんどい。
 
@@ -69,7 +69,7 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 この矛盾した感情。愛していたからこそ傷つけた。傷つけたからこそ別れた。でも、その愛は本物だった——そう言いたいのに、もう届かない。
 
-### "Happier"という言葉の残酷さ
+## "Happier"という言葉の残酷さ
 
 サビで繰り返されるこのフレーズ。
 
@@ -84,7 +84,7 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 これは祝福ではない。諦めだ。幸せになってほしいと思えるほど、まだ好きだった。でも、その幸せの中に自分はいない。そのことを受け入れようとしている——この静かな痛みが、曲全体に流れている。
 
-### 会わなければよかった、という後悔
+## 会わなければよかった、という後悔
 
 > Then only for a minute
 > I want to change my mind
@@ -98,7 +98,7 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Happier」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -119,9 +119,9 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">4年ぶりに帰ってきたパペット</span>
+## 4年ぶりに帰ってきたパペット
 
 「Happier」のミュージックビデオは、Ed Sheeran自身が登場せず、パペット（人形）によって物語が描かれている。
 
@@ -139,7 +139,7 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 ## Thinking Out Loud との対比で見えるもの
 
-### <span class="section-subtitle">愛の始まりと終わり</span>
+## 愛の始まりと終わり
 
 Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲がある。そして、この「Happier」は、その真逆にある曲だ。
 
@@ -156,7 +156,7 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 
 
-## Thoughts <span class="section-subtitle">別れの後に一番聴いてはいけない曲</span>
+<div class="section-label">Thoughts <span class="label-subtitle">別れの後に一番聴いてはいけない曲</span></div>
 
 この曲は、夜に聴くと特に刺さる。
 
@@ -174,7 +174,7 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

@@ -28,9 +28,9 @@ relatedPosts: ["perfect", "happier", "one-shot"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">20分で書かれた永遠のラブソング</span>
+## 20分で書かれた永遠のラブソング
 
 「Thinking Out Loud」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）の2枚目のスタジオアルバム『×（Multiply）』（2014年6月23日リリース）からの3枚目のシングルとして、2014年8月8日（米国）にリリースされた楽曲。2014年2月4日の深夜2時に、わずか20分で書き上げられたという。
 
@@ -38,7 +38,7 @@ relatedPosts: ["perfect", "happier", "one-shot"]
 
 ---
 
-### <span class="section-subtitle">結婚式で最も人気の曲</span>
+## 結婚式で最も人気の曲
 
 Ed Sheeran自身が「バージンロードを歩くための曲」と語ったように、この曲は時を超えて続く愛を歌った、永遠のラブソング。23歳の頃と同じように70歳になっても愛し続けることを約束する——そんな深い献身の物語が描かれている。
 
@@ -48,11 +48,11 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-### 印象に残ったこと：honey now と horny now の聞き違い
+## 印象に残ったこと：honey now と horny now の聞き違い
 
 この曲（Thinking Out Loud）で、いちばん印象に残っているのが「honey now」というフレーズ。
 
@@ -71,7 +71,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 エロさって、露骨な言葉がなくても、
 こういう"聞き間違いの余白"に宿るものなんだな、って思った。
 
-### いやらしさじゃない「感動的なエロス」
+## いやらしさじゃない「感動的なエロス」
 
 この曲の色気は、
 刺激的でも、派手でもない。
@@ -88,7 +88,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 それは汚いじゃないエロさ。
 時間を重ねた人だけが持つ、静かな体温みたいなもの。
 
-### エド・シーランが"近くにいる"と感じる曲
+## エド・シーランが"近くにいる"と感じる曲
 
 この曲を聴くと、
 
@@ -110,9 +110,9 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">70歳になっても愛し続ける約束</span>
+## 70歳になっても愛し続ける約束
 
 「Thinking Out Loud」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -138,9 +138,9 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">エド・シーランが挑戦したダンス</span>
+## エド・シーランが挑戦したダンス
 
 2014年10月7日に公開されたミュージックビデオは、公開から24時間で270万回再生を記録し、2025年9月時点で39億回再生という驚異的な数字を達成している（YouTube史上28番目に再生されている動画）。
 
@@ -150,7 +150,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 振付はNappytabsが担当し、Paul Karmiryanのトレーニングサポートも受けている。Ed Sheeranは、コンサートツアー中に1日5時間、3週間にわたってBrittany Cherryと練習を重ねたという。
 
-### <span class="section-subtitle">39億回再生の理由</span>
+## 39億回再生の理由
 
 映像は、シンプルな背景の中で二人が踊るだけ。でも、そのシンプルさが、曲のメッセージ——純粋で時を超えた愛——を際立たせている。
 
@@ -160,9 +160,9 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 
 
-## Thoughts <span class="section-subtitle">大学生の頃、夜中に聴いたエド・シーラン</span>
+<div class="section-label">Thoughts <span class="label-subtitle">大学生の頃、夜中に聴いたエド・シーラン</span></div>
 
-### <span class="section-subtitle">ギター1本、そばにいる感覚</span>
+## ギター1本、そばにいる感覚
 
 あなたが話してくれた。
 
@@ -197,7 +197,7 @@ Ed Sheeran自身が「バージンロードを歩くための曲」と語った�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

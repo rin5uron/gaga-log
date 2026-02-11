@@ -32,7 +32,7 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Poker Face」は、Lady Gagaのデビューアルバム『The Fame』（2008年8月19日リリース）からの2枚目のシングルとして、2008年9月26日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
@@ -50,15 +50,15 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">"P-p-p-poker face"の繰り返し</span>
+## "P-p-p-poker face"の繰り返し
 
 > P-p-p-poker face, p-p-poker face
 
 この繰り返しが、この曲の最大の特徴。言葉を噛むように繰り返す。本当の気持ちを言えない状態を、音で表現している。
 
-### <span class="section-subtitle">ポーカー用語の二重の意味</span>
+## ポーカー用語の二重の意味
 
 > I wanna hold 'em like they do in Texas, please
 > Fold 'em, let 'em hit me, raise it, baby, stay with me
@@ -71,7 +71,7 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Poker Face」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -97,7 +97,7 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 2008年10月25日に公開されたミュージックビデオは、ガガの初期のビジュアルアイデンティティを確立した作品。監督は[Ray Kay](https://www.imdb.com/name/nm0443392/)が担当している。
 
@@ -115,15 +115,15 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 この曲を初めて聞いたとき、そのキャッチーさに引き込まれた。でも、何度も聞いているうちに、これは「自分を守る方法」を歌っている曲だと気づいた。
 
 「Poker Face」は、仮面を被る瞬間を歌っている。恋に壊れた後、今度は自分を守る。本当の感情を隠す。無表情でいる。それが、この曲が歌っていることだ。
 
-### 仮面を被る、ということ
+## 仮面を被る、ということ
 
 仮面を被る。でも、その仮面の下には、本当の自分がいる。
 
@@ -135,7 +135,7 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

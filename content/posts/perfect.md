@@ -26,9 +26,9 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">結婚式の定番になった理由</span>
+## 結婚式の定番になった理由
 
 「Perfect（パーフェクト）」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）の3枚目のスタジオアルバム『÷（Divide）』（2017年3月3日リリース）からの4枚目のシングルとして、2017年9月26日にリリースされた楽曲。エド・シーラン自身によって書かれ、プロデュースされた。
 
@@ -36,7 +36,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 ---
 
-### <span class="section-subtitle">過去の別れと復縁の物語</span>
+## 過去の別れと復縁の物語
 
 この曲が描いているのは、完璧じゃなくても、完璧な愛があるということ。
 
@@ -46,7 +46,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 若い頃は「愛」のなんたるかを理解できていなかったが、紆余曲折を経て再び出会い、今度こそゴールインしようという——そんな復縁の愛の歌だ。
 
-### <span class="section-subtitle">イビサ島での思い出</span>
+## イビサ島での思い出
 
 この曲は、エドがチェリーとスペインのイビサ島で過ごした時間からインスピレーションを得て書かれた。
 
@@ -58,9 +58,9 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">歌い出し「I found a love」</span>
+## 歌い出し「I found a love」
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
@@ -73,7 +73,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 シンプルで覚えやすく、メロディも印象的。カラオケで歌う場合は、この部分を優しく、愛情深く歌うと、曲全体に温かさが満ちてくる。
 
-### <span class="section-subtitle">暗闇で踊る、ロマンティックな情景</span>
+## 暗闇で踊る、ロマンティックな情景
 
 そして、この曲の最も象徴的な部分。
 
@@ -86,7 +86,7 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 ロマンティックで、美しい情景を描いている。英語学習者にとっても、"dancing in the dark"（暗闇で踊る）という表現を覚えるのに役立つフレーズだ。
 
-### <span class="section-subtitle">まだ子供だけど、愛し合っている</span>
+## まだ子供だけど、愛し合っている
 
 もう一つ重要なのが、この繰り返し。
 
@@ -102,9 +102,9 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">優しく歌いたい冒頭フレーズ</span>
+## 優しく歌いたい冒頭フレーズ
 
 「Perfect」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -131,9 +131,9 @@ relatedPosts: ["thinking-out-loud", "one-shot", "sing"]
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">本物の結婚式映像</span>
+## 本物の結婚式映像
 
 2017年11月9日に公開されたミュージックビデオは、エドの妻チェリー・シーボーンとの実際の結婚式の映像を使用した作品。監督は[Jason Koenig](https://www.imdb.com/name/nm6202741/)が担当している（[IMDb](https://www.imdb.com/title/tt7649820/)）。
 
@@ -143,7 +143,7 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 
 印象的なのは、エドとチェリーが「踊る」シーン。二人が一緒に踊り、歌い、この曲を楽しんでいる——それが、このMVの核心だ。
 
-### <span class="section-subtitle">アコギ1本のシンプルさ</span>
+## アコギ1本のシンプルさ
 
 また、このMVは、エドのシンプルなスタイルが際立つ作品でもある。アコースティックギター1本で、シンプルに歌う——すべてが、この曲の「完璧じゃなくても、完璧な愛がある」というメッセージを完璧に表現している。
 
@@ -153,9 +153,9 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 
 
 
-## Thoughts <span class="section-subtitle">完璧じゃなくても、完璧な愛がある</span>
+<div class="section-label">Thoughts <span class="label-subtitle">完璧じゃなくても、完璧な愛がある</span></div>
 
-### <span class="section-subtitle">シンプルさが教えてくれること</span>
+## シンプルさが教えてくれること
 
 この曲を初めて聞いたとき、そのシンプルさに驚いた。でも、何度も聞いているうちに、これは「完璧じゃなくても、完璧な愛がある」を歌っている曲だと気づいた。
 
@@ -171,7 +171,7 @@ MVの冒頭では、エドとチェリーが結婚式の準備をしているシ
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

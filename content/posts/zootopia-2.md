@@ -37,9 +37,9 @@ relatedPosts: ["try-everything", "zoo"]
 
 
 
-## About <span class="section-subtitle">作品情報</span>
+<div class="section-label">About <span class="label-subtitle">作品情報</span></div>
 
-### <span class="section-subtitle">前作から続く、ジュディとニックの新たな冒険</span>
+## 前作から続く、ジュディとニックの新たな冒険
 
 前作から続く、ウサギのジュディとキツネのニックの新たな冒険が描かれています。
 
@@ -48,7 +48,7 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
-### <span class="section-subtitle">大人も子どもも楽しめる作品</span>
+## 大人も子どもも楽しめる作品
 
 背景やテーマは意外と深く、大人でも考えさせられる内容です。子どもには少し難しい部分もあるかなと思いましたが、コメディ要素や分かりやすい笑いも多く、年齢を問わず楽しめる作品だと思います。
 
@@ -56,9 +56,9 @@ relatedPosts: ["try-everything", "zoo"]
 
 
 
-## Highlights <span class="section-subtitle">ここだけは見てほしいポイント</span>
+<div class="section-label">Highlights <span class="label-subtitle">ここだけは見てほしいポイント</span></div>
 
-### <span class="section-subtitle">スーパーポジティブなキャラクターたち</span>
+## スーパーポジティブなキャラクターたち
 
 ズートピアの見どころといえば、ジュディとニックのスーパーポジティブさ。何を言われても簡単には折れない姿や、自己肯定感の強さが印象的です。
 
@@ -66,7 +66,7 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
-### <span class="section-subtitle">ジュディとニックのコンビ愛</span>
+## ジュディとニックのコンビ愛
 
 この映画では、「相棒」「コンビ愛」といったテーマも大きな軸になっています。
 
@@ -78,10 +78,9 @@ relatedPosts: ["try-everything", "zoo"]
 
 
 
-## Plus <span class="section-subtitle">知っていたらもっと楽しくなるポイント</span>
+<div class="section-label">Plus <span class="label-subtitle">知っていたらもっと楽しくなるポイント</span></div>
 
-
-### <span class="section-subtitle">音楽・吹き替えについて</span>
+## 音楽・吹き替えについて
 
 吹き替え版でも、歌は映画オリジナルのまま英語で流れています。音楽の雰囲気がそのまま保たれているので、安心して楽しめました。
 
@@ -100,7 +99,7 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
-### <span class="section-subtitle">エンドロールが豪華！！</span>
+## エンドロールが豪華！！
 
 エンドロールにも注目！！有名な声優さんや製作陣の名前が多く並び、誰かは知っている人がいるはず。エンドロールもワクワクラインナップです。またエンドロール後のおまけも見逃さないで！
 
@@ -130,9 +129,9 @@ relatedPosts: ["try-everything", "zoo"]
 
 
 
-## After Watching <span class="section-subtitle">鑑賞レポート</span>
+<div class="section-label">After Watching <span class="label-subtitle">鑑賞レポート</span></div>
 
-### <span class="section-subtitle">とりあえずスーパーポジティブになれた</span>
+## とりあえずスーパーポジティブになれた
 
 忙しさや疲れで余裕がなかった中で観た映画でしたが、観終わった後、気持ちがかなり軽くなりました。
 
@@ -142,7 +141,7 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
-### <span class="section-subtitle">前作を裏切らない続編</span>
+## 前作を裏切らない続編
 
 音楽、キャラクター、ストーリー、声優陣など、エンタメ要素が本当に多い作品だと感じました。
 
@@ -154,7 +153,9 @@ relatedPosts: ["try-everything", "zoo"]
 
 ---
 
-## おすすめグッズ <span class="section-subtitle">関連商品</span>
+
+
+<div class="section-label">Goods <span class="label-subtitle">関連商品</span></div>
 
 <div class="goods-grid">
 <div class="goods-card">

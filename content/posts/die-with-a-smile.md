@@ -27,9 +27,9 @@ relatedPosts: ["shallow", "bad-romance"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">2024年を代表する奇跡のコラボレーション</span>
+## 2024年を代表する奇跡のコラボレーション
 
 「Die With a Smile」は、2024年8月16日にリリースされた、Lady Gaga と Bruno Mars による初のデュエット曲。
 
@@ -39,7 +39,7 @@ relatedPosts: ["shallow", "bad-romance"]
 
 ---
 
-### <span class="section-subtitle">なぜこのコラボが実現したのか</span>
+## なぜこのコラボが実現したのか
 
 この曲が生まれた背景には、偶然と必然が交差した美しいストーリーがある。
 
@@ -55,7 +55,7 @@ relatedPosts: ["shallow", "bad-romance"]
 
 ---
 
-### <span class="section-subtitle">捨てられかけた名曲</span>
+## 捨てられかけた名曲
 
 実は、この曲は約3年前に書かれ、一度お蔵入りになっていた。
 
@@ -67,9 +67,9 @@ Bruno MarsはソングライターのJames Fauntleroyとプロデューサーの
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">もし世界が終わるなら</span>
+## もし世界が終わるなら
 
 この曲の核心は、シンプルだけど普遍的な問いかけにある。
 
@@ -87,7 +87,7 @@ Bruno MarsはソングライターのJames Fauntleroyとプロデューサーの
 
 ---
 
-### <span class="section-subtitle">笑顔で死ぬということ</span>
+## 笑顔で死ぬということ
 
 「Die With a Smile（笑顔で死ぬ）」というタイトルには、深い意味が込められている。
 
@@ -99,9 +99,9 @@ Bruno MarsはソングライターのJames Fauntleroyとプロデューサーの
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-### <span class="section-subtitle">1970年代テレビ番組へのオマージュ</span>
+## 1970年代テレビ番組へのオマージュ
 
 「Die With a Smile」のミュージックビデオは、2024年8月16日に楽曲と同時リリースされた。Bruno Mars と Daniel Ramos が監督を務めている。
 
@@ -111,7 +111,7 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 ---
 
-### <span class="section-subtitle">なぜレトロなのか</span>
+## なぜレトロなのか
 
 多くの人が「なぜ1970年代風なのか？」と疑問に思うこのMV。
 
@@ -123,7 +123,7 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 ---
 
-### <span class="section-subtitle">9ヶ月で10億回再生</span>
+## 9ヶ月で10億回再生
 
 このMVは、2024年8月の公開からわずか9ヶ月足らずで、YouTubeで10億回再生を突破した。2025年のVevo最多視聴MVとなり、9.32億回のグローバル視聴を記録している。
 
@@ -133,9 +133,9 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### <span class="section-subtitle">笑顔で死にたい</span>
+## 笑顔で死にたい
 
 この曲で最も印象的なのが、このフレーズ。
 
@@ -154,9 +154,9 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 
 
-## Performance <span class="section-subtitle">ライブでの魅力</span>
+<div class="section-label">Performance <span class="label-subtitle">ライブでの魅力</span></div>
 
-### <span class="section-subtitle">グラミー賞でのアコースティック・パフォーマンス</span>
+## グラミー賞でのアコースティック・パフォーマンス
 
 第67回グラミー賞授賞式では、2人がこの曲のアコースティック・ヴァージョンを披露した。
 
@@ -164,7 +164,7 @@ MVの最大の特徴は、1970年代のテレビ番組にインスパイアさ�
 
 ---
 
-### <span class="section-subtitle">Mayhem Ball Tourでの演出</span>
+## Mayhem Ball Tourでの演出
 
 Lady GagaのMayhem Ball Tour 2025では、この曲がセットリストに組み込まれている。
 
@@ -176,9 +176,9 @@ Lady GagaのMayhem Ball Tour 2025では、この曲がセットリストに組�
 
 
 
-## Thoughts <span class="section-subtitle">この曲が残したもの</span>
+<div class="section-label">Thoughts <span class="label-subtitle">この曲が残したもの</span></div>
 
-### <span class="section-subtitle">純粋さが、人を動かす</span>
+## 純粋さが、人を動かす
 
 この曲には、計算された戦略やマーケティングの匂いがしない。
 
@@ -188,7 +188,7 @@ Lady GagaのMayhem Ball Tour 2025では、この曲がセットリストに組�
 
 ---
 
-### <span class="section-subtitle">今この瞬間を、大切に</span>
+## 今この瞬間を、大切に
 
 この曲を聴いていると、「もし世界が終わるなら」って考えてしまう。
 
@@ -206,22 +206,22 @@ Lady Gagaの他の作品では、[Shallow](/posts/shallow)で深い場所への�
 
 この曲やコラボレーションについて、より深く知りたい方は以下の記事も参考になります：
 
-### 楽曲情報・制作背景
+## 楽曲情報・制作背景
 - [Die with a Smile - Wikipedia](https://en.wikipedia.org/wiki/Die_with_a_Smile) - 楽曲の詳細情報、チャート成績、制作背景
 - [How Lady Gaga and Bruno Mars' 'Die With a Smile' Became a Massive Hit - Variety](https://variety.com/2025/music/news/lady-gaga-bruno-mars-die-with-a-smile-making-of-song-1236599489/) - 制作過程とヒットの理由
 - [Why Bruno Mars Almost Scrapped Hit Lady Gaga Duet 'Die With A Smile' - K103](https://k103.iheart.com/content/2025-12-05-why-bruno-mars-almost-scrapped-hit-lady-gaga-duet-die-with-a-smile/) - 捨てられかけた名曲の裏話
 
-### チャート成績・記録
+## チャート成績・記録
 - [Lady Gaga & Bruno Mars' 'Die With a Smile' No. 1 Global 200 18th Week - Billboard](https://www.billboard.com/music/chart-beat/lady-gaga-bruno-mars-die-with-a-smile-number-1-global-200-18-1235956965/) - Billboard Global 200で18週1位の記録
 - [Lady Gaga and Bruno Mars' Die With a Smile is Vevo's most watched music video in 2025 - Music Business Worldwide](https://www.musicbusinessworldwide.com/lady-gaga-and-bruno-mars-die-with-a-smile-is-vevos-most-watched-music-video-in-2025-with-932m-global-views-jennie-records-biggest-premiere-with-33-4m-views-in-first-14-days/) - 2025年最多視聴MV
 
-### グラミー賞・評価
+## グラミー賞・評価
 - [レディー・ガガ＆ブルーノ・マーズ「Die With A Smile」が＜最優秀ポップ・パフォーマンス（デュオ/グループ）＞受賞 - Billboard JAPAN](https://www.billboard-japan.com/d_news/detail/145996) - 第67回グラミー賞受賞
 - [レディー・ガガ & ブルーノ・マーズのコラボ楽曲「Die With A Smile」がリリース - Universal Music](https://www.universal-music.co.jp/lady-gaga/news/2024-08-16/) - 公式リリース情報
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

@@ -8,8 +8,9 @@ import {
 } from "@/lib/posts";
 import { getArtistSlug } from "@/lib/utils";
 import { remark } from "remark";
-import remarkHtml from "remark-html";
+import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
+import rehypeStringify from "rehype-stringify";
 import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
 import ArticleHighlights from "@/components/ArticleHighlights";
@@ -230,7 +231,8 @@ function extractMovieImage(content: string): {
   contentWithoutImage: string;
 } {
   // 映像作品用の画像リンクを抽出（Netflixやその他のリンク付き画像）
-  const imageRegex = /<!-- 🎬[^>]*>[\s\S]*?<a[^>]*>[\s\S]*?<img[^>]*>[\s\S]*?<\/a>/gi;
+  // コメントの直後（2行以内）に<a>タグが来る構造のみマッチ。[\s\S]*?が本文全体を跨がないよう制限
+  const imageRegex = /<!-- 🎬[^\n]*-->\s*\n\s*<a[^>]*>\s*\n?\s*<img[^>]*\/?\s*>\s*\n?\s*<\/a>/gi;
   const match = content.match(imageRegex);
 
   if (match && match.length > 0) {
@@ -350,7 +352,8 @@ export default async function PostPage({
     console.log("Processing markdown, content length:", contentWithoutStreaming.length);
     const processedContent = await remark()
       .use(remarkGfm)
-      .use(remarkHtml, { sanitize: false })
+      .use(remarkRehype, { allowDangerousHtml: true })
+      .use(rehypeStringify, { allowDangerousHtml: true })
       .process(contentWithoutStreaming);
     contentHtml = processedContent.toString();
 
@@ -369,8 +372,22 @@ export default async function PostPage({
       '<h2$1 class="references-section">参考リンク</h2>'
     );
 
-    // まとめセクションのスタイル無効化（divで囲まれている場合は処理不要）
-    // Markdownで既にdivで囲まれているため、ここでは処理しない
+    // section-label 配下の h2 に section-child-h2 クラスを付与
+    // （section-label div と次の section-label div の間にある h2 が対象）
+    // references-section クラス付きの h2 はスキップ
+    contentHtml = contentHtml.replace(
+      /(<div[^>]*class="section-label"[^>]*>[\s\S]*?<\/div>)([\s\S]*?)(?=<div[^>]*class="section-label"|$)/gi,
+      (match, label, rest) => {
+        const taggedRest = rest.replace(
+          /<h2([^>]*)>/gi,
+          (h2match: string, attrs: string) => {
+            if (/references-section/.test(attrs)) return h2match;
+            return `<h2${attrs} class="section-child-h2">`;
+          }
+        );
+        return label + taggedRest;
+      }
+    );
 
     console.log("HTML generated, length:", contentHtml.length);
   } catch (error) {

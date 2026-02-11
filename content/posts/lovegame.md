@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### The Fameアルバムの3rdシングル
+## The Fameアルバムの3rdシングル
 
 **「LoveGame」は、Lady Gagaのデビューアルバム『The Fame』（2008年）からの3rdシングルとして、北米とヨーロッパでリリースされた楽曲。**
 
@@ -42,7 +42,7 @@ Lady Gaga自身とプロデューサーのRedOneによって書かれたこの�
 
 ---
 
-### NYU図書館で生まれた曲——性的魅力への衝動
+## NYU図書館で生まれた曲——性的魅力への衝動
 
 **この曲の誕生秘話は、ガガらしい率直さと創造性に満ちている。**
 
@@ -56,7 +56,7 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 ---
 
-### 愛と名声——The Fameの核心的テーマ
+## 愛と名声——The Fameの核心的テーマ
 
 **この曲のもう一つの重要なテーマは、アルバム『The Fame』全体を貫く問い。**
 
@@ -70,9 +70,9 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Disco Stick"——大胆なメタファー
+## "Disco Stick"——大胆なメタファー
 
 この曲で歌詞で繰り返し歌われるフレーズが「disco stick」。
 
@@ -84,7 +84,7 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 ---
 
-### 愛をゲームとして——戦略的な誘惑
+## 愛をゲームとして——戦略的な誘惑
 
 **「LoveGame」というタイトル自体が、この曲のテーマを表している。**
 
@@ -98,9 +98,9 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### ダンサブルで中毒性のあるビート
+## ダンサブルで中毒性のあるビート
 
 この曲で口ずさみたくなるのは、サビの繰り返し。
 
@@ -122,9 +122,9 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### 地下鉄とダンスフロア——NYのアンダーグラウンド文化
+## 地下鉄とダンスフロア——NYのアンダーグラウンド文化
 
 **このMVは、ニューヨークの地下鉄とクラブを舞台にしている。**
 
@@ -136,9 +136,9 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### 女性の性的欲望を隠さない——2008年の革命
+## 女性の性的欲望を隠さない——2008年の革命
 
 **この曲が2008年にリリースされた時、これは革命的だった。**
 
@@ -152,7 +152,7 @@ Lady Gagaは、ニューヨーク大学（NYU）の1年生だった時、図書�
 
 ---
 
-### The Fameアルバムの核心——愛と名声の交差点
+## The Fameアルバムの核心——愛と名声の交差点
 
 **この曲は、『The Fame』アルバム全体のテーマを最も明確に表現している。**
 
@@ -170,7 +170,7 @@ The MAYHEM Ball Tourでこの曲を聴く時、2008年のガガと2025年のガ�
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

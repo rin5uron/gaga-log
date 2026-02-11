@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### Mayhemアルバムのリードシングル
+## Mayhemアルバムのリードシングル
 
 **「Abracadabra」は、Lady Gagaの7枚目のスタジオアルバム『Mayhem』（2025年）からのリードシングルとして、2025年2月3日にリリースされた楽曲。**
 
@@ -42,7 +42,7 @@ highlights:
 
 ---
 
-### 「愛」と「死」——人生の2つの力
+## 「愛」と「死」——人生の2つの力
 
 **この曲の核心は、タイトルの魔法の言葉「Abracadabra」に込められた二つのテーマ。**
 
@@ -56,7 +56,7 @@ highlights:
 
 ---
 
-### ダンスフロアでの自己との対峙
+## ダンスフロアでの自己との対峙
 
 **この曲のもう一つの重要なテーマは、内なる対話。**
 
@@ -74,9 +74,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Abracadabra, amor / morta"——魔法の言葉に込められた意味
+## "Abracadabra, amor / morta"——魔法の言葉に込められた意味
 
 この曲の最も印象的なフレーズは、サビの繰り返し。
 
@@ -91,7 +91,7 @@ highlights:
 
 ---
 
-### 内なる試練——ダンスフロアでの自己対話
+## 内なる試練——ダンスフロアでの自己対話
 
 **この曲は、ダンスフロアでの内なる対話を歌っている。**
 
@@ -105,9 +105,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### 中毒性のある"Abracadabra"の繰り返し
+## 中毒性のある"Abracadabra"の繰り返し
 
 この曲で最も口ずさみたくなるのは、サビの「Abracadabra」の繰り返し。
 
@@ -122,9 +122,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### ダークで魅惑的なビジュアル
+## ダークで魅惑的なビジュアル
 
 **このMVは、ガガのダークポップの本質を表現している。**
 
@@ -136,9 +136,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### ダンスフロアという聖域——ガガにとっての成長の場
+## ダンスフロアという聖域——ガガにとっての成長の場
 
 **この曲が特別なのは、ガガにとってのダンスフロアの意味が込められているから。**
 
@@ -152,7 +152,7 @@ highlights:
 
 ---
 
-### 「愛」と「死」——対立ではなく、共存
+## 「愛」と「死」——対立ではなく、共存
 
 **この曲のもう一つの深いテーマは、「愛」と「死」の関係。**
 
@@ -170,7 +170,7 @@ highlights:
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

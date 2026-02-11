@@ -24,7 +24,7 @@ relatedPosts: ["telephone", "hey-girl"]
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
 「Rain on Me」は、2020年リリースのアルバム「Chromatica」からのシングル。アリアナ・グランデをフィーチャリングに迎えた、ダンスポップアンセム。
 
@@ -40,7 +40,7 @@ relatedPosts: ["telephone", "hey-girl"]
 
 ---
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 「Rain on Me」というタイトル自体が、この曲の核心を表している。
 
@@ -64,7 +64,7 @@ relatedPosts: ["telephone", "hey-girl"]
 
 ---
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 「Rain on Me」のミュージックビデオは、カラフルで未来的な世界観。
 
@@ -114,9 +114,9 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 
 ---
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### "I'd rather be dry, but at least I'm alive"
+## "I'd rather be dry, but at least I'm alive"
 
 この曲で最も印象的なフレーズ。
 
@@ -126,7 +126,7 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 
 カラオケで歌うと、この部分で力が湧いてくる。痛みを受け入れながら、それでも前に進む——その強さが伝わってくる。
 
-### "Rain on me"
+## "Rain on me"
 
 > Rain on me
 
@@ -146,7 +146,7 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

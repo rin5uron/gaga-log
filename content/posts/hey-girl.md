@@ -34,9 +34,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### アルバム「Joanne」の収録曲
+## アルバム「Joanne」の収録曲
 
 **「Hey Girl」は、2016年10月21日にリリースされたアルバム「Joanne」の収録曲。**
 
@@ -46,7 +46,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 ---
 
-### ガガとフローレンス・ウェルチ、二人の共演
+## ガガとフローレンス・ウェルチ、二人の共演
 
 **ガガは、フローレンス・ウェルチを「世界最高のボーカリストの一人」と評価している。**
 
@@ -56,7 +56,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 サビの「Hey girl」が印象的な曲。何度も呼びかけるように繰り返される「Hey girl」——
 
@@ -74,7 +74,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。
 
@@ -100,7 +100,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>では、ガガとフローレンス・ウェルチが登場する。
 
@@ -110,9 +110,9 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 ---
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 **「Hey Girl」は、女性のエンパワーメントを歌う曲として、今も多くの人に愛され続けている。**
 
@@ -124,7 +124,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 ---
 
-### ガガとフローレンスの化学反応
+## ガガとフローレンスの化学反応
 
 **二人のボーカルのハーモニーが、この曲の最大の魅力。**
 
@@ -141,7 +141,7 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 ---
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

@@ -16,9 +16,9 @@ relatedPosts: ["perfect", "sing"]
 
 
 
-## About <span class="section-subtitle">作品情報</span>
+<div class="section-label">About <span class="label-subtitle">作品情報</span></div>
 
-### <span class="section-subtitle">ワンカット撮影で捉えた、ニューヨークでの音楽体験</span>
+## ワンカット撮影で捉えた、ニューヨークでの音楽体験
 
 『エド・シーラン: ONE SHOT』は、2025年にNetflixで配信された音楽作品。1人のアーティストを、1つの都市で、ワンカット撮影で——ニューヨークの街中で数々のヒット曲を歌い上げるエド・シーランの姿をリアルタイムで捉えた、画期的な作品だ。
 
@@ -26,7 +26,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">この作品との出会い・きっかけ</span>
+## この作品との出会い・きっかけ
 
 エド・シーランのライブに行きたかった。そのために、エド・シーランのことをもっと知りたくて、この作品を見た。
 
@@ -34,7 +34,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">エド・シーランの日常そのものが音楽</span>
+## エド・シーランの日常そのものが音楽
 
 この作品全体を通して感じたのは、エド・シーランの日常そのものが音楽だということ。
 
@@ -42,9 +42,9 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
+<div class="section-label">Highlights <span class="label-subtitle">ここだけは見てほしい！</span></div>
 
-### <span class="section-subtitle">「Perfect」の歌い出し</span>
+## 「Perfect」の歌い出し
 
 最初に印象に残ったシーンは、「[Perfect](/posts/perfect)」の歌い出しだった。
 
@@ -56,7 +56,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">とにかく楽しそうだったこと</span>
+## とにかく楽しそうだったこと
 
 全体を通して、エド・シーランがとにかく楽しそうだったこと。それ自体が一番印象に残った。
 
@@ -66,7 +66,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">「Sing」のサビでみんなと一緒に歌うシーン</span>
+## 「Sing」のサビでみんなと一緒に歌うシーン
 
 バスの上で「[Sing](/posts/sing)」を演奏し、観客と一緒にサビを歌うシーンが印象的だった。
 
@@ -78,7 +78,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">街行く人たちの中で歌う姿</span>
+## 街行く人たちの中で歌う姿
 
 街行く人たちの中で、自然に歌っているエド・シーランの姿が印象的だった。
 
@@ -90,9 +90,9 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-## After Watching <span class="section-subtitle">見終わった後に語りたくなるポイント</span>
+<div class="section-label">After Watching <span class="label-subtitle">見終わった後に語りたくなるポイント</span></div>
 
-### <span class="section-subtitle">10年以上の関係性</span>
+## 10年以上の関係性
 
 エド・シーランの音楽は10年以上、身近な生活の中にあった。人生のいろんな場面で、自然と耳にしてきた存在だった。
 
@@ -102,7 +102,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">想像通りの人だった</span>
+## 想像通りの人だった
 
 気さくな人柄が自然に出ていて、「ああ、想像通りの人だな」と思えた。
 
@@ -112,9 +112,9 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-## Resonance <span class="section-subtitle">この作品が残したもの</span>
+<div class="section-label">Resonance <span class="label-subtitle">この作品が残したもの</span></div>
 
-### <span class="section-subtitle">日常そのものが音楽</span>
+## 日常そのものが音楽
 
 エド・シーランの日常そのものが音楽。人柄・生活・想い、すべてがここに詰まっている。
 
@@ -122,7 +122,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-### <span class="section-subtitle">より身近な存在になった</span>
+## より身近な存在になった
 
 この作品を通して、エド・シーランはより身近な存在になった。
 
@@ -134,7 +134,7 @@ relatedPosts: ["perfect", "sing"]
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### その他
 

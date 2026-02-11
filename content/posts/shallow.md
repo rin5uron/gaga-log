@@ -32,9 +32,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### 映画のどこで歌われている？
+## 映画のどこで歌われている？
 
 「Shallow」は、2018年公開の映画「A Star Is Born（アリー/ スター誕生）」で、二人が初めてステージで共演するシーンで歌われる。
 
@@ -44,7 +44,7 @@ highlights:
 
 この曲は、[Billboard Hot 100で1位を獲得](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、[2019年のアカデミー賞歌曲賞を受賞](https://www.oscars.org/oscars/ceremonies/2019)した。
 
-### ガガとクーパー、二人とも「初めて」の挑戦
+## ガガとクーパー、二人とも「初めて」の挑戦
 
 「A Star Is Born」は1937年から数えて4度目の映画化だが、今作が特別なのは、**ブラッドリー・クーパーの監督デビュー作であり、ガガの初主演作**だったこと。
 
@@ -58,9 +58,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Shallow"という言葉の二重の意味
+## "Shallow"という言葉の二重の意味
 
 タイトルにもなっている"shallow"（シャロウ）には、二つの意味がある。
 
@@ -72,7 +72,7 @@ highlights:
 
 この一言が、映画の中でアリーがステージに立つ決意を後押しする。そして、観ている私たちにも問いかけてくる——あなたは今、どこにいる？
 
-### "In the shallow" と "I'm falling"——繰り返される2つのフレーズ
+## "In the shallow" と "I'm falling"——繰り返される2つのフレーズ
 
 この曲で何度も繰り返される"I'm falling"——直訳すれば「落ちている」。
 
@@ -88,9 +88,9 @@ highlights:
 
 ---
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### "In the shallow, shallow"——問いかけるフレーズ
+## "In the shallow, shallow"——問いかけるフレーズ
 
 > In the shallow, shallow
 
@@ -98,9 +98,9 @@ highlights:
 
 ---
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### スター誕生の瞬間を切り取った名シーン
+## スター誕生の瞬間を切り取った名シーン
 
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>は、映画「A Star Is Born（アリー/ スター誕生）」のワンシーンそのもの。
 
@@ -114,7 +114,7 @@ highlights:
 
 映画「A Star Is Born」は、[Netflix](https://www.netflix.com/jp/title/80993098)、[Amazon Prime Video](https://www.amazon.co.jp/dp/B07J5XKQZQ)などで視聴可能。
 
-### アカデミー賞でのライブパフォーマンス
+## アカデミー賞でのライブパフォーマンス
 
 2019年のアカデミー賞授賞式では、ガガとブラッドリー・クーパーがこの曲をライブパフォーマンスした。
 
@@ -126,9 +126,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### なぜこの曲は名作なのか
+## なぜこの曲は名作なのか
 
 この曲が特別なのは、**二人とも「初めて」の挑戦**だったこと。
 
@@ -140,7 +140,7 @@ highlights:
 
 アリーは、安定した仕事を捨てて、歌手としての夢を追いかける。ジャクソンは、彼女にその勇気を与える。この普遍的なテーマが、多くの人の心を打った。それが、この曲を名作にした最大の理由だと思う。
 
-### 二人だからこそ生まれた化学反応
+## 二人だからこそ生まれた化学反応
 
 デュエット曲だからこそ、この曲は特別な力を持つ。
 
@@ -154,7 +154,7 @@ highlights:
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

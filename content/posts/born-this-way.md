@@ -32,9 +32,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">ガガ最大のメッセージソング</span>
+## ガガ最大のメッセージソング
 
 「Born This Way」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年5月23日リリース）のタイトルトラックとして、2011年2月11日にリリースされた楽曲。ガガとFernando Garibay、Jeppe Laursen、Paul Blair（DJ White Shadow）によって書かれ、プロデュースされた。
 
@@ -44,7 +44,7 @@ highlights:
 
 ---
 
-### <span class="section-subtitle">「それでも私は私」——恋愛三部作の完結編</span>
+## 「それでも私は私」——恋愛三部作の完結編
 
 この曲が描いているのは、「それでも私は私」——自分自身を受け入れること。
 
@@ -56,9 +56,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### <span class="section-subtitle">イントロの力強いメッセージ</span>
+## イントロの力強いメッセージ
 
 この曲は、母親からの愛のメッセージで始まる。
 
@@ -69,7 +69,7 @@ highlights:
 
 この一節が、曲全体のトーンを決定づける。誰もが特別な存在として生まれてきた——それが、この曲の出発点だ。
 
-### <span class="section-subtitle">"Born This Way"というフレーズ</span>
+## "Born This Way"というフレーズ
 
 サビで繰り返される "I was born this way"。
 
@@ -98,7 +98,7 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「Born This Way」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -125,7 +125,7 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 2011年2月28日に公開されたミュージックビデオは、ガガのメッセージを視覚的に表現した作品。監督は[Nick Knight](https://www.imdb.com/name/nm0460800/)が担当している（[IMDb](https://www.imdb.com/title/tt3559502/)）。
 
@@ -163,7 +163,7 @@ MVの冒頭では、ガガが「新しい種族」の創造を宣言するシー
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 

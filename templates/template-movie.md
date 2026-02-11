@@ -18,21 +18,21 @@ relatedPosts: ["関連する記事のslug"]
 
 
 
-## About <span class="section-subtitle">作品情報</span>
+<div class="section-label">About <span class="label-subtitle">作品情報</span></div>
 
-### <span class="section-subtitle">作品の概要や背景</span>
+## 作品の概要や背景
 
 作品の基本情報を記載します（公開年、配信サービス、監督、主要な出演者など）。
 
 ---
 
-### <span class="section-subtitle">補足情報（必要に応じて）</span>
+## 補足情報（必要に応じて）
 
 作品に関連する重要な背景情報や文脈があれば記載します。
 
 ---
 
-### <span class="section-subtitle">第一印象や視聴のきっかけ</span>
+## 第一印象や視聴のきっかけ
 
 なぜこの作品を観たのか、最初の印象について書きます。
 
@@ -40,21 +40,21 @@ relatedPosts: ["関連する記事のslug"]
 
 
 
-## Highlights <span class="section-subtitle">ここだけは見てほしい！</span>
+<div class="section-label">Highlights <span class="label-subtitle">ここだけは見てほしい！</span></div>
 
-### <span class="section-subtitle">ポイント1のタイトル</span>
+## ポイント1のタイトル
 
 印象に残ったシーンや要素について説明します。
 
 ---
 
-### <span class="section-subtitle">ポイント2のタイトル</span>
+## ポイント2のタイトル
 
 もう一つの重要なポイントについて説明します。
 
 ---
 
-### <span class="section-subtitle">ポイント3のタイトル（必要に応じて追加）</span>
+## ポイント3のタイトル（必要に応じて追加）
 
 さらに印象的だったポイントがあれば追加します。
 
@@ -62,9 +62,9 @@ relatedPosts: ["関連する記事のslug"]
 
 
 
-## After Watching <span class="section-subtitle">見終わった後に語りたくなるポイント</span>
+<div class="section-label">After Watching <span class="label-subtitle">見終わった後に語りたくなるポイント</span></div>
 
-### <span class="section-subtitle">共感したこと・考えさせられたこと</span>
+## 共感したこと・考えさせられたこと
 
 見終わった後に誰かと語りたくなるような気づきや感想を書きます。
 
@@ -72,9 +72,9 @@ relatedPosts: ["関連する記事のslug"]
 
 
 
-## Resonance <span class="section-subtitle">この作品が残したもの</span>
+<div class="section-label">Resonance <span class="label-subtitle">この作品が残したもの</span></div>
 
-### <span class="section-subtitle">心に残ったメッセージや影響</span>
+## 心に残ったメッセージや影響
 
 この作品から受け取ったメッセージや、自分に与えた影響について書きます。
 

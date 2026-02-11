@@ -32,9 +32,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### ARTPOPアルバムのオープニングトラック
+## ARTPOPアルバムのオープニングトラック
 
 **「Aura」は、[Lady Gaga](/artists/lady-gaga)の3枚目のスタジオアルバム『ARTPOP』（[2013年11月6日リリース](https://www.billboard.com/music/lady-gaga/chart-history/)）のオープニングトラック。**元々は「Burqa」というタイトルで、リリース前にガガ自身がオンラインコミュニティ「littlemonster.com」にユーザー名「BorisIsHere」で流出させたことでも話題になった。
 
@@ -42,7 +42,7 @@ highlights:
 
 ---
 
-### 「私のオーラは、私の狂気に対処する方法」
+## 「私のオーラは、私の狂気に対処する方法」
 
 **この曲のタイトルは「Aura（オーラ）」——つまり、人を取り巻く雰囲気や、見えない何か。**
 
@@ -52,9 +52,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### "Do you wanna see me naked, lover?"——仮面の下を見たいのか？
+## "Do you wanna see me naked, lover?"——仮面の下を見たいのか？
 
 **曲の冒頭から、ガガは挑発的な問いかけをする。**
 
@@ -68,7 +68,7 @@ highlights:
 
 ---
 
-### Dance, Sex, Art, Pop, Tech——5つの要素が作るガガ
+## Dance, Sex, Art, Pop, Tech——5つの要素が作るガガ
 
 **サビで繰り返されるフレーズがある。**
 
@@ -88,7 +88,7 @@ highlights:
 
 ---
 
-### 「Burqa（ブルカ）」というメタファー
+## 「Burqa（ブルカ）」というメタファー
 
 **この曲は、元々「Burqa（ブルカ）」というタイトルだった。**
 
@@ -102,9 +102,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### マリアッチとEDMが融合したサウンド
+## マリアッチとEDMが融合したサウンド
 
 この曲で印象的なのは、ギターを中心としたサウンド。ウエスタンギターと中東風の要素が混ざり合い、アラビア的でありながらポップな印象を作り出している。
 
@@ -119,9 +119,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### Stefaniは死んだ、Lady Gagaが生まれた
+## Stefaniは死んだ、Lady Gagaが生まれた
 
 **曲の冒頭では、過去の自分を破壊して、アーティストとしてのガガになったことが暗示されている。**
 
@@ -131,9 +131,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### ARTPOPというコンセプト——アートとポップの境界を壊す
+## ARTPOPというコンセプト——アートとポップの境界を壊す
 
 **この曲は、アルバム『ARTPOP』のオープニングトラックとして、アルバム全体のテーマを象徴している。**
 
@@ -143,7 +143,7 @@ ARTPOPとは、「アート」と「ポップ」の融合。高尚な芸術と�
 
 ---
 
-### 仮面の向こう側——自律性、自己表現、社会的期待
+## 仮面の向こう側——自律性、自己表現、社会的期待
 
 **この曲は、自律性、自己表現、社会的期待について問いかける。**
 
@@ -155,7 +155,7 @@ ARTPOPとは、「アート」と「ポップ」の融合。高尚な芸術と�
 
 ---
 
-### シンプルだけど、強烈に印象に残る存在感
+## シンプルだけど、強烈に印象に残る存在感
 
 **この曲の強みは、そのシンプルさにある。**ギター中心のサウンド、アラビア的でエキゾチックな雰囲気、耳に残るメロディ。複雑な編曲ではない。でも、一度聴いたら忘れられない。
 
@@ -167,7 +167,7 @@ ARTPOPとは、「アート」と「ポップ」の融合。高尚な芸術と�
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 - [Lady Gaga - Aura (Official Audio)](https://www.youtube.com/watch?v=lzT4JXwDKAk)

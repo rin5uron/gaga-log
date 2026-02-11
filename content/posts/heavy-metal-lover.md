@@ -30,9 +30,9 @@ highlights:
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### Born This Wayアルバム最後に録音された曲
+## Born This Wayアルバム最後に録音された曲
 
 **「Heavy Metal Lover」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）に収録された楽曲。**
 
@@ -42,7 +42,7 @@ highlights:
 
 ---
 
-### ヘビーメタル好きの元恋人へのオマージュ
+## ヘビーメタル好きの元恋人へのオマージュ
 
 **この曲のタイトル「Heavy Metal Lover」——ヘビーメタル・ラバー。**
 
@@ -54,9 +54,9 @@ highlights:
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-### 激しく、謝らない恋愛
+## 激しく、謝らない恋愛
 
 この曲が描いているのは、従順な恋愛ではない。
 
@@ -66,7 +66,7 @@ highlights:
 
 ---
 
-### 「Baby, we were born this way」——生まれながらの反抗者
+## 「Baby, we were born this way」——生まれながらの反抗者
 
 この曲の核心は、アルバムタイトル『Born This Way』と呼応している。
 
@@ -78,9 +78,9 @@ highlights:
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-### ロックンロールなエネルギー
+## ロックンロールなエネルギー
 
 この曲は、ダンスビートにロックの精神を乗せている。
 
@@ -96,9 +96,9 @@ highlights:
 
 
 
-## Music Video <span class="section-subtitle">MV見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MV見どころ</span></div>
 
-### ダークでインダストリアルなビジュアル
+## ダークでインダストリアルなビジュアル
 
 この曲の公式MVはないが、Born This Way Ballツアーでのパフォーマンス映像が残っている。
 
@@ -110,9 +110,9 @@ highlights:
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### Born This Wayアルバムの締めくくり
+## Born This Wayアルバムの締めくくり
 
 **「Heavy Metal Lover」は、Born This Wayアルバムの締めくくりにふさわしい曲。**
 
@@ -124,7 +124,7 @@ highlights:
 
 ---
 
-### ロックとポップの融合——ガガの音楽的アイデンティティ
+## ロックとポップの融合——ガガの音楽的アイデンティティ
 
 **この曲が特別なのは、ダンスポップとロックの精神を融合させているから。**
 
@@ -138,7 +138,7 @@ MAYHEM Ball Tourのセットリスト最後にこの曲が置かれているの�
 
 
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式音源
 

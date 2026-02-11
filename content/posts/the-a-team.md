@@ -28,9 +28,9 @@ relatedPosts: ["happier", "thinking-out-loud", "one-shot"]
 
 
 
-## About <span class="section-subtitle">この曲について</span>
+<div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-### <span class="section-subtitle">ホームレス避難所で出会った実話</span>
+## ホームレス避難所で出会った実話
 
 「The A Team」は、イギリス出身のシンガーソングライター、エド・シーラン（Ed Sheeran）のデビューアルバム『+（Plus）』（2011年9月9日リリース）の先行シングルとして、2011年6月12日にリリースされた楽曲。Ed Sheeranにとって初めてのメジャーヒットとなり、全英シングルチャートで最高3位を記録した。
 
@@ -42,7 +42,7 @@ relatedPosts: ["happier", "thinking-out-loud", "one-shot"]
 
 ---
 
-### <span class="section-subtitle">「Aチーム」という皮肉なタイトル</span>
+## 「Aチーム」という皮肉なタイトル
 
 曲タイトルで一瞬ひっかかるポイントがある。
 
@@ -56,11 +56,11 @@ relatedPosts: ["happier", "thinking-out-loud", "one-shot"]
 
 
 
-## Lyrics <span class="section-subtitle">歌詞のポイント</span>
+<div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
-### The A Team の本当の意味
+## The A Team の本当の意味
 
 この曲のタイトルは、「Class A drugs（A級ドラッグ）」が由来とされている。イギリスの薬物分類において、ヘロインやクラックコカインなど最も危険とされる物質を指す言葉だ。
 
@@ -68,7 +68,7 @@ Aチーム＝選ばれた人たち、ではなく、抜け出すのが一番難�
 
 そこにいるのは、華やかなチームではなく、静かに見過ごされていく一人の人間。この皮肉な言葉選びが、曲全体のトーンを支配している。
 
-### 静かに描かれる現実
+## 静かに描かれる現実
 
 この曲の視点が、とにかく冷静だ。
 
@@ -78,7 +78,7 @@ Aチーム＝選ばれた人たち、ではなく、抜け出すのが一番難�
 
 この曲は、「見ている」視点の歌だ。救おうとするのではなく、見過ごさずに歌にする——その距離感が、この曲の強さでもある。
 
-### エド・シーランが"近くに感じられる理由"
+## エド・シーランが"近くに感じられる理由"
 
 Ed Sheeranの歌には、説明しすぎない良さがある。
 
@@ -92,7 +92,7 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 
 
-## Favorite Lines <span class="section-subtitle">口ずさみたいフレーズ</span>
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
 「The A Team」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
@@ -118,7 +118,7 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 
 
-## Music Video <span class="section-subtitle">MVの見どころ</span>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
 「The A Team」のミュージックビデオは、Ed Sheeran自身が登場せず、一人の女性の物語を映像で描いている。
 
@@ -132,9 +132,9 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 
 
-## Analysis <span class="section-subtitle">考察</span>
+<div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-### この曲が今も聞かれ続けている理由
+## この曲が今も聞かれ続けている理由
 
 この曲が特別なのは、**社会問題を静かに歌う姿勢**だ。
 
@@ -144,7 +144,7 @@ Ed Sheeranは、感情を煽らない。同情も、正義感も押し付けな�
 
 この曲は、「見ている」視点の歌だ。救おうとするのではなく、見過ごさずに歌にする——その姿勢が、多くの人の心を打った。
 
-### 恋愛とは違う種類の距離
+## 恋愛とは違う種類の距離
 
 Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲がある。そして、「Happier」という、別れの痛みを静かに歌う曲がある。
 
@@ -160,7 +160,7 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 ---
 
-## References <span class="section-subtitle">参考情報</span>
+<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
 
 ### 公式MV
 
