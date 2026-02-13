@@ -417,34 +417,34 @@ body {
   position: relative;
 }
 
-/* 参考文献セクション（.references-section）：小さめの字・薄い色で控えめに */
+/* 参考文献セクション（.references-section）：小さめの字で控えめに（読みやすい色） */
 .post-content h2.references-section {
   font-size: 1rem !important;
   font-weight: 400 !important;
-  color: #8c929c !important;
+  color: #6b7280 !important;
   margin-top: 4rem !important;
   margin-bottom: 0.5rem !important;
   padding-top: 1.5rem !important;
-  border-top: 1px solid #f3f4f6 !important;
-  border-left: 2px solid #e5e7eb !important;
+  border-top: 1px solid #e5e7eb !important;
+  border-left: 2px solid #d1d5db !important;
 }
 
 .post-content h2.references-section .section-subtitle {
-  color: #d1d5db !important;
+  color: #6b7280 !important;
 }
 
 .post-content h2.references-section ~ h3 {
   font-size: 0.8125rem !important;
   font-weight: 400 !important;
-  color: #d1d5db !important;
+  color: #6b7280 !important;
   margin-top: 0.75rem !important;
   margin-bottom: 0.375rem !important;
-  border-left: 1px solid #f3f4f6 !important;
+  border-left: 1px solid #e5e7eb !important;
 }
 
 .post-content h2.references-section ~ ul {
   font-size: 0.75rem !important;
-  color: #d1d5db !important;
+  color: #6b7280 !important;
   margin-bottom: 0.5rem !important;
 }
 
@@ -456,22 +456,22 @@ body {
 .post-content .references-section {
   margin-top: 4rem;
   padding-top: 1.5rem;
-  border-top: 1px solid #f3f4f6;
+  border-top: 1px solid #e5e7eb;
 }
 .post-content .references-section h2 {
   font-size: 1rem !important;
   font-weight: 400 !important;
-  color: #8c929c !important;
+  color: #6b7280 !important;
   margin-top: 1rem !important;
   margin-bottom: 0.5rem !important;
-  border-left: 2px solid #e5e7eb !important;
+  border-left: 2px solid #d1d5db !important;
 }
 .post-content .references-section h2:first-child {
   margin-top: 0 !important;
 }
 .post-content .references-section ul {
   font-size: 0.75rem !important;
-  color: #d1d5db !important;
+  color: #6b7280 !important;
   margin-bottom: 0.5rem !important;
 }
 .post-content .references-section ul li:last-child {
@@ -479,13 +479,13 @@ body {
 }
 
 .post-content h2.references-section ~ ul a {
-  color: #d1d5db !important;
-  font-weight: 300 !important;
+  color: #6b7280 !important;
+  font-weight: 400 !important;
   text-decoration: none !important;
 }
 
 .post-content h2.references-section ~ ul a:hover {
-  color: #9ca3af !important;
+  color: #374151 !important;
   text-decoration: underline !important;
 }
 
