@@ -146,7 +146,7 @@ Chromaticaは、ガガが創造した架空の惑星。そこは、痛みや悲�
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

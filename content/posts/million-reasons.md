@@ -156,7 +156,7 @@ Joanneアルバムは、ガガの亡くなった叔母Joanneに捧げられた�
 
 
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

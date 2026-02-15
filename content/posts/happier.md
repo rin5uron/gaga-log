@@ -174,7 +174,7 @@ Ed Sheeranには、「Thinking Out Loud」という永遠の愛を誓う曲が�
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

@@ -163,7 +163,7 @@ MVの冒頭では、ガガが「新しい種族」の創造を宣言するシー
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

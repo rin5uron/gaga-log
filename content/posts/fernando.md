@@ -144,7 +144,7 @@ Lady Gagaの[「Alejandro」](/posts/alejandro)は、この「Fernando」から�
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

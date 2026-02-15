@@ -14,6 +14,7 @@ import rehypeStringify from "rehype-stringify";
 import RelatedPosts from "@/components/RelatedPosts";
 import TableOfContents from "@/components/TableOfContents";
 import ArticleHighlights from "@/components/ArticleHighlights";
+import ReferencesSection from "@/components/ReferencesSection";
 import AdSenseUnit from "@/components/AdSenseUnit";
 import DateInfo from "@/components/DateInfo";
 
@@ -399,6 +400,16 @@ export default async function PostPage({
       .join("\n");
   }
 
+  // 参考情報セクションを抽出し、共通コンポーネント用に分離
+  const refMatch = contentHtml.match(
+    /<h2[^>]*class="references-section"[^>]*>[\s\S]*$/i
+  );
+  let referencesHtml = "";
+  if (refMatch) {
+    referencesHtml = refMatch[0].trim();
+    contentHtml = contentHtml.replace(refMatch[0], "").trim();
+  }
+
   // 構造化データ（JSON-LD）を生成
   const structuredData = {
     "@context": "https://schema.org",
@@ -652,6 +663,9 @@ export default async function PostPage({
             className="prose prose-lg max-w-none post-content mb-0"
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
+          {referencesHtml && (
+            <ReferencesSection html={referencesHtml} />
+          )}
         </article>
 
         {/* 記事下部の広告（横長） */}

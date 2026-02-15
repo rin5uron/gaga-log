@@ -152,7 +152,7 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式音源
 - [Lady Gaga - Bloody Mary (Audio)](https://www.youtube.com/watch?v=j3BSPim2CSU)

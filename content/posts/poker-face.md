@@ -135,7 +135,7 @@ MVの冒頭では、ガガが白い部屋で、無表情で立っているシー
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

@@ -184,7 +184,7 @@ Joanneの死は、ガガ一家の「痛みの中心」だった。父親は、�
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

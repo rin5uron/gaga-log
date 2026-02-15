@@ -216,20 +216,16 @@ Hop-ah,hop-ah,hop-ah,hop-ah
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
-<div class="references-section">
-
-## 公式MV・動画
+### 公式MV・動画
 - [Shakira - Zoo (From "Zootopia 2") Official Video](https://www.youtube.com/watch?v=Xry6B0I3pT8)
 - [Dream Ami版「Zoo ～君がいるから～」 - Apple Music](https://music.apple.com/jp/album/zoo-from-zootopia-2-japanese-single-version-single/1861940083)
 - [映画『ズートピア2』公式予告編 - ディズニー公式YouTube](https://www.youtube.com/watch?v=5vTR2-d4k_s)
 - [劇中歌「Zoo」日本版リリックビデオなど - ディズニー日本公式](https://www.disney.co.jp/music/news/20251014_01)
 
-## その他
+### その他
 - [Zoo (From Zootopia 2) - Single - Apple Music](https://music.apple.com/jp/album/zoo-from-zootopia-2-single/1783759649)
 - [Zoo - Spotify](https://open.spotify.com/intl-ja/track/7o9qVPLe7MI7XhdAS1PkrN)
-
-</div>
 
 ---

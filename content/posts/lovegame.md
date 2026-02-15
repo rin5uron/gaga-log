@@ -170,7 +170,7 @@ The MAYHEM Ball Tourでこの曲を聴く時、2008年のガガと2025年のガ�
 
 
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

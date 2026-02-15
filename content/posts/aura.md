@@ -167,7 +167,7 @@ ARTPOPとは、「アート」と「ポップ」の融合。高尚な芸術と�
 
 
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 - [Lady Gaga - Aura (Official Audio)](https://www.youtube.com/watch?v=lzT4JXwDKAk)

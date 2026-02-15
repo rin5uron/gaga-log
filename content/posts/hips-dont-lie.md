@@ -117,7 +117,7 @@ MVの中で印象的なのは、金色の衣装と赤い背景の組み合わせ
 
 ---
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
 ### 公式MV
 

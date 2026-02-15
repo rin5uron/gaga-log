@@ -21,8 +21,13 @@
   --heading-h3-color: #4b5563;   /* h3の文字色（少し薄く） */
 }
 
+/* スマホで開いたときの横ずれ防止：横スクロールを出さない */
+html {
+  overflow-x: hidden;
+}
 /* ページ全体の body：文字色と背景のグラデーション */
 body {
+  overflow-x: hidden;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
