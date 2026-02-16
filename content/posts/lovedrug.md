@@ -13,7 +13,7 @@ description: "Lady Gaga「Love Drug（ラブドラッグ）」歌詞の意味と
 keywords: ["LoveDrug", "ラブドラッグ", "Lady Gaga", "レディーガガ", "ガガ", "MAYHEM", "メイヘム", "歌詞", "意味", "解説", "考察",  "Andrew Watt", "Cirkut"]
 relatedPosts: ["bad-romance", "aura", "joanne"]
 highlights:
-  - Love Drug とは何を指す言葉なのか、その考察
+  - Love Drug のDrugとは何を指すのか、その考察
   - この曲で"歌いたくなるポイント"
 ---
 
@@ -38,12 +38,12 @@ highlights:
 「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
 
 Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
-
+## 制作陣
 **Andrew Watt** は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
 **Cirkut（Henry Walter）**は The Weeknd や Rihanna などのヒットを生むプロデューサー。
 **Michael Polansky** はガガの婚約者で、本作の全体制作をまとめる役も担っている。
 
-## 制作陣
+
 
 ---
 
@@ -96,33 +96,13 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 
 ---
 
-<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
+<div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
-## サビのフレーズ
+## 公式映像で聴く「愛のドラッグ」
 
-**サビのフレーズ**
-
-
-
-> I don't wanna feel / I don't wanna cry  
-> So I'm gonna dance until I feel alright  
-> I just need a dose of the right stuff  
-> I just need a hit of your love drug
-
-I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲しい。矛盾した依存の心理が、サビ全体で繰り返される。
-
-## 冒頭や曲中で繰り返されるフレーズ
-
-**冒頭・曲のあちこちで何度も出てくるフレーズ。**
-
-> need your love, your love drug
-
-サビではないが、Intro やコーラスで何度も繰り返されるこのフレーズ。drugとは何か、ガガはこの切実な想いをどう歌っているか意識してみると、この曲に一歩近づくことができるかもしれません。
-
+80年代アリーナロックを思わせるノリのよいサウンドと、「I don't wanna feel / So I'm gonna dance」という歌詞——感じたくないから踊って誤魔化す、それでも「your love drug」が欲しい——が、公式映像と合わせて聴くと、愛をドラッグに喩えたガガの意図がよりはっきり伝わってくる。記事冒頭に埋め込んでいるのは、Universal Music 公式で公開されている「Love Drug」の公式映像だ。MAYHEM期のほかの曲のようにストーリー性の強いMVは Disease や Abracadabra に譲っているが、この曲はアルバムのなかで「暗い前半から明るい後半への橋渡し」と評される位置にある。
 
 ---
-
-
 
 <div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 ## 沼りたいのに、沼れない
@@ -156,6 +136,32 @@ I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲�
 「Love Drug」が指すもの——それは、愛が救いではなく、依存であり、快楽であり、抜け出せないものだということ。
 
 聴いていて美しいのに、どこか胸がざわつくのは、この曲が愛を"救い"ではなく、"中毒"として扱っているからかもしれません。
+
+---
+
+<div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
+
+## サビのフレーズ
+
+**サビのフレーズ**
+
+
+
+> I don't wanna feel / I don't wanna cry  
+> So I'm gonna dance until I feel alright  
+> I just need a dose of the right stuff  
+> I just need a hit of your love drug
+
+I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲しい。矛盾した依存の心理が、サビ全体で繰り返される。
+
+## 冒頭や曲中で繰り返されるフレーズ
+
+**冒頭・曲のあちこちで何度も出てくるフレーズ。**
+
+> need your love, your love drug
+
+サビではないが、Intro やコーラスで何度も繰り返されるこのフレーズ。drugとは何か、ガガはこの切実な想いをどう歌っているか意識してみると、この曲に一歩近づくことができるかもしれません。
+
 
 ---
 
