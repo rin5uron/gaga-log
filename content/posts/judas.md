@@ -67,7 +67,9 @@ highlights:
 
 <div class="language-note">
 
-ちなみに **"be in love with ～"** は「～に恋している（状態）」という意味の英語表現。"fall in love with ～"（恋に落ちる）が恋に落ちる瞬間を表すのに対し、"be in love with ～" は恋している状態が続いていることを表します。
+**"be in love with ～"**
+
+「～に恋している（状態）」という意味の英語表現。"fall in love with ～"（恋に落ちる）が恋に落ちる瞬間を表すのに対し、"be in love with ～" は恋している状態が続いていることを表します。
 
 </div>
 
