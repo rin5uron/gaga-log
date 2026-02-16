@@ -233,12 +233,12 @@ body {
   border-bottom: none;
 }
 
-/* 記事内テーブルのレスポンシブ：ラッパーで横スクロール */
-.prose .overflow-x-auto {
+/* 記事内テーブルのレスポンシブ：ラッパーで横スクロール（Tailwindの overflow-x-auto と同名だと循環参照になるので独自クラス） */
+.prose .prose-table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
-.prose .overflow-x-auto table {
+.prose .prose-table-scroll table {
   min-width: 320px;
 }
 

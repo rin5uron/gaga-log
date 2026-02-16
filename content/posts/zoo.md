@@ -108,7 +108,7 @@ highlights:
 
 シャキーラ版・Dream Ami版・特別コラボ版の違いは次のとおりです。
 
-<div class="overflow-x-auto" role="region" aria-label="シャキーラ版とDream Ami版の比較表">
+<div class="prose-table-scroll" role="region" aria-label="シャキーラ版とDream Ami版の比較表">
 <table>
 <thead>
 <tr>
