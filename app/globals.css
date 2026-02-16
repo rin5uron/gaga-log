@@ -142,6 +142,24 @@ body {
   margin-bottom: 8px;
 }
 
+/* 語学メモ用の枠（歌詞のポイント内の表現解説など） */
+.post-content .language-note,
+.prose .language-note {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background-color: #f8fafc;
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: #334155;
+}
+
+.post-content .language-note p:last-child,
+.prose .language-note p:last-child {
+  margin-bottom: 0;
+}
+
 /* リスト（ul=黒丸、ol=番号）：左にインデント・下に余白 */
 .prose ul,
 .prose ol {

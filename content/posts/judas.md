@@ -1,5 +1,6 @@
 ---
 title: "Judas"
+theme: "抗えない恋との葛藤"
 song: "Judas"
 artist: "Lady Gaga"
 album: "Born This Way"
@@ -9,7 +10,7 @@ updatedDate: "2026-02-13"
 order: 8
 type: "song"
 description: "Lady Gaga「Judas（ジューダス）」の歌詞の意味を徹底解説。聖書のユダをモチーフに、自己破壊的な恋愛パターンを描く。「I'm in love with Judas」——悪いとわかっているのに惹かれてしまう葛藤を歌う曲。"
-keywords: ["Judas", "ジューダス", "Lady Gaga", "レディーガガ", "ガガ", "Born This Way", "ボーン・ディス・ウェイ", "歌詞", "意味", "解説", "ユダ", "自己破壊", "恋愛", "葛藤", "善と悪"]
+keywords: ["Judas", "ジュダス", "Lady Gaga", "レディーガガ", "ガガ", "歌詞", "意味", "解説", "ユダ", "自己破壊", "恋愛", "葛藤"]
 relatedPosts: ["born-this-way", "bad-romance", "alejandro"]
 highlights:
   - 「I'm in love with Judas」の意——惹かれてしまう葛藤
@@ -38,7 +39,13 @@ highlights:
 
 ## Judasってどんな曲？
 
+> 抗えない恋との葛藤」を歌った曲
+
 「Judas」は、Lady Gagaの2枚目のスタジオアルバム『Born This Way』（2011年）からの2枚目のシングルとして、2011年4月15日にリリースされた楽曲。Lady GagaとRedOneによって書かれ、プロデュースされた。2010年にパリのStudio Gangで録音された。ダンスとエレクトロハウスのビートに乗せて、裏切り者への抗えない愛を歌っている。
+
+
+ガガ自身はこの曲のテーマを「許しと裏切り」と[インタビュー](https://www.eonline.com/news/239573/lady_gagas_controversial_judas_video)で語っており、悪いとわかっているのに惹かれてしまう葛藤が描かれています。
+
 
 ## 曲名の由来は聖書のユダ
 
@@ -58,7 +65,11 @@ highlights:
 
 直訳すると「ユダに恋している」となりますが、聖書の文脈を超えて、「自分にとって良くないものに惹かれてしまう」という普遍的な葛藤を表しています。ガガ自身が「何度も同じ間違った男性を愛してしまう」とも[インタビューで話している](https://www.eonline.com/news/239573/lady_gagas_controversial_judas_video)ように、多くの人が経験する自己破壊的なパターンです。「In the most Biblical sense, I am beyond repentance」（聖書的な意味では、私は悔い改めの域を超えている）は、間違っているとわかっていても後悔しない意志、あるいはもう戻れないという諦めとも取れます。
 
+<div class="language-note">
+
 ちなみに **"be in love with ～"** は「～に恋している（状態）」という意味の英語表現。"fall in love with ～"（恋に落ちる）が恋に落ちる瞬間を表すのに対し、"be in love with ～" は恋している状態が続いていることを表します。
+
+</div>
 
 ## holy foolとはどんなニュアンス？
 サビ前のこのフレーズに出てくるholy fool、聖なる愚か者？なんだろうと思ったので調べていました
@@ -114,7 +125,11 @@ highlights:
 
 > Jesus is my virtue, and Judas is the demon I cling to
 
-「イエスは私の美徳で、ユダは私がしがみつく悪魔」——この一節が、曲の二元性を最も象徴的に表しています。善（イエス）と悪（ユダ）の両方が自分の中にあり、悪だとわかっているものにしがみついてしまう。その矛盾した感情が曲全体を流れています。ガガは「自分の内なる闇を尊重することで、より大きな光へと自分を導くことができる」と[インタビューで説明しています](https://www.eonline.com/news/239573/lady_gagas_controversial_judas_video)。この曲は自己否定ではなく、闇を受け入れ、許すことで前に進む歌です。
+直訳すると「イエスは私のvirtue（美徳）で、ユダは私がしがみつくdemon（悪魔）」——この一節に注目してみると、善（イエス）と悪（ユダ）の両方が自分の中にあり、悪だとわかっているものにしがみついてしまう。その矛盾した感情が曲全体を流れています。ガガは「自分の内なる闇を尊重することで、より大きな光へと自分を導くことができる」と[インタビューで説明しています](https://www.eonline.com/news/239573/lady_gagas_controversial_judas_video)。
+
+## 自己否定ではなく、闇を受け入れる
+抗えない恋と葛藤する中で、自分を蔑むのでなく
+この曲は自己否定ではなく、闇を受け入れ、許すことで前に進む歌だとも言えると思います。
 
 
 ---
