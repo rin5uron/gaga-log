@@ -15,8 +15,8 @@ highlights:
   - アーティストとセレブリティの違い——名声ではなく、パフォーマンスのために
 ---
 
-<!-- ▶️ YouTube公式動画の埋め込み -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZkNMZlkrzaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- ▶️ YouTube公式動画の埋め込み（Lady Gaga公式チャンネル） -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pco91kroVgQ" title="Lady Gaga - Applause (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -164,7 +164,7 @@ highlights:
 
 ### 公式MV
 
-- [Applause - Official Music Video](https://www.youtube.com/watch?v=ZkNMZlkrzaU)
+- [Applause - Official Music Video](https://www.youtube.com/watch?v=pco91kroVgQ)（Lady Gaga公式YouTube）
 
 ### インタビュー・発言
 

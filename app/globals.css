@@ -233,6 +233,15 @@ body {
   border-bottom: none;
 }
 
+/* 記事内テーブルのレスポンシブ：ラッパーで横スクロール */
+.prose .overflow-x-auto {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.prose .overflow-x-auto table {
+  min-width: 320px;
+}
+
 /* 記事内の iframe（YouTube など）：幅いっぱい・16:9 の比率を保つ・下に余白 */
 .prose iframe {
   @apply w-full max-w-full mb-10;

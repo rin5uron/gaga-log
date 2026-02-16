@@ -6,6 +6,7 @@ date: "2026-01-02"
 updatedDate: "2026-01-21"
 order: 24
 type: "song"
+description: "シャキーラ「Hips Don't Lie」歌詞のポイントや意味。ラテン・ヒットの代表曲。Billboard 1位、MV考察まで紹介。"
 ---
 
 <!-- ▶️ YouTube公式動画の埋め込み -->

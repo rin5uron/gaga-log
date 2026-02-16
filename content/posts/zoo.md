@@ -80,7 +80,11 @@ highlights:
 
 **Try Everythingが「個人の成長」を歌ったのに対し、Zooは「コミュニティの団結」を歌っています。**Zooのほうが、より本能に寄った・野生っぽい・ノリで体が動く感じが強いです。どちらもディズニーが伝える「誰もが輝ける場所」というメッセージを体現していますが、アプローチが異なります。
 
+<div class="language-note">
 
+**"we can't be tamed"** — "tame" は「（動物を）飼いならす」という動詞。can't be tamed で「飼いならされない＝型にはまらない、自由なまま」という意味になります。多様な存在がそのまま集まる、という曲のテーマとぴったりです。
+
+</div>
 
 ---
 
@@ -98,18 +102,45 @@ highlights:
 
 ---
 
-## 日本版の特別性——世界で唯一のローカライズ版
+## 日本版の特別性——ズートピアの英語・スペイン語と日本語版
 
-**ズートピア2では、日本版だけが「ローカライズ版」の制作を許可されました。**Dream Amiが歌う「Zoo ～君がいるから～」は、世界で唯一のローカライズ版です。
+**ズートピア2の劇中歌「Zoo」は、公式版では英語とスペイン語で歌われています。**歌っているシャキーラはコロンビア出身で、英語・スペイン語のバイリンガル。ラテン系のリズムやスペイン語のフレーズも曲の魅力のひとつです。一方、**日本では世界で唯一のローカライズ版**が作られ、Dream Amiが「Zoo ～君がいるから～」を歌っています。前作『ズートピア』の主題歌「Try Everything」が日本で大ヒットしたため、ディズニーが日本市場だけ特別に日本語版の制作を許可した形です。
 
-前作『ズートピア』の主題歌「Try Everything」が日本で大ヒットしたことが理由です。ディズニーが日本市場の特別性を認めた結果ですね。
+シャキーラ版・Dream Ami版・特別コラボ版の違いは次のとおりです。
 
-**シャキーラ版とDream Ami版の違い**:
-- **シャキーラ版**: 英語+スペイン語のバイリンガル、国際的な雰囲気
-- **Dream Ami版**: 日本語詞、日本のファン向けにアレンジ
-- **特別コラボ版**: シャキーラ × Dream Amiのデュエット版も配信
+<div class="overflow-x-auto" role="region" aria-label="シャキーラ版とDream Ami版の比較表">
+<table>
+<thead>
+<tr>
+<th>バージョン</th>
+<th>言語</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>シャキーラ版</strong></td>
+<td>英語＋スペイン語</td>
+<td>公式MV・劇中で使用。バイリンガルで国際的な雰囲気</td>
+</tr>
+<tr>
+<td><strong>Dream Ami版</strong></td>
+<td>日本語</td>
+<td>「Zoo ～君がいるから～」。日本向けに作られた世界で唯一のローカライズ版</td>
+</tr>
+<tr>
+<td><strong>特別コラボ版</strong></td>
+<td>英語・スペイン語＋日本語</td>
+<td>シャキーラ × Dream Ami のデュエット版も配信</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-関連する動画は次の3本です。違いが気になる方は、見比べてみてください。
+関連する動画は次の3本です。聞き比べてみると新しい発見があるかも！？
+
+<!-- 映画『ズートピア2』公式予告編（ディズニー公式YouTube） -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vTR2-d4k_s" title="映画『ズートピア2』公式予告編 - ディズニー公式YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **[シャキーラ公式MV](https://www.youtube.com/watch?v=Xry6B0I3pT8)**（Shakira - Zoo (From "Zootopia 2") Official Video）
 - **[Dream Ami版「Zoo ～君がいるから～」](https://music.apple.com/jp/album/zoo-from-zootopia-2-japanese-single-version-single/1861940083)**（Apple Music）／ [ディズニー公式による日本版の紹介](https://www.disney.co.jp/music/news/20251014_01)
@@ -143,6 +174,8 @@ highlights:
 
 ## 「Zoo」が伝えること——動物園は多様性の象徴？
 
+動物園（zoo）は、様々な動物が集まる場所です。ズートピアという街——多様な存在がひとつの居場所で祝い、盛り上がる様子——と重なっています。歌詞の「we can't be tamed」や「turnin' the floor into a zoo」は、誰もがそのままの姿でいていい、というメッセージなのではないでしょうか。タイトル「Zoo」は、多様性そのものを象徴しているのかもしれません。
+
 ---
 
 
@@ -163,7 +196,7 @@ Hop-ah,hop-ah,hop-ah,hop-ah
 > Come on, get on up, we're wild, and we can't be tamed
 > And we're turnin' the floor into a zoo, ooh, ooh
 
-このフレーズはサビに1回目・2回目・最後（一部歌詞違い）と計3回登場します。ここを覚えておけば大体歌えます！
+このフレーズはサビに1回目・2回目・最後（一部歌詞違い）と計3回登場します。ここを覚えておけば大体歌えます！あとは楽しく踊っておけばOK！
 
 | フレーズ | 意味の目安 |
 |--|--|
@@ -171,7 +204,6 @@ Hop-ah,hop-ah,hop-ah,hop-ah
 | **we can't be tamed** | 私たちは飼い慣らされない、止められない |
 | **turnin' the floor into a zoo** | フロアを動物園にしちゃう（盛り上げる） |
 
-意味より**リズムで体に入れる**感覚でOKです。
 
 ---
 

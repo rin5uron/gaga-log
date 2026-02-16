@@ -8,7 +8,7 @@ date: "2025-12-30"
 updatedDate: "2026-01-29"
 order: 9
 type: "song"
-description: "Lady Gaga「Love Drug」の考察と歌いたくなるポイント。愛を中毒として描く曲のテーマと、サビを中心とした読みどころ。"
+description: "Lady Gaga「Love Drug（ラブドラッグ）」歌詞の意味と解説。愛をDrugに例えたレディーガガの最新アルバム曲。テーマ、サビを中心に歌いたくなるポイント。"
 keywords: ["LoveDrug", "ラブドラッグ", "Lady Gaga", "レディーガガ", "ガガ", "MAYHEM", "メイヘム", "歌詞", "意味", "解説", "考察",  "Andrew Watt", "Cirkut"]
 relatedPosts: ["bad-romance", "aura", "joanne"]
 highlights:
