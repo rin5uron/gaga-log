@@ -1,5 +1,6 @@
 ---
 title: "Paparazzi"
+theme: "名声への渇望と執着——ファンかストーカーか、SNS時代にも通じる普遍的なテーマ"
 song: "Paparazzi"
 artist: "Lady Gaga"
 album: "The Fame"

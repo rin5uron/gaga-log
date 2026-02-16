@@ -21,10 +21,10 @@ highlights:
 ---
 
 <!-- 🎧 ストリーミングで聴く -->
-<a href="https://music.apple.com/jp/album/abracadabra/" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+<a href="https://music.apple.com/jp/song/abracadabra/1792667005" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
 </a>
-<a href="https://open.spotify.com/track/" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+<a href="https://open.spotify.com/search/Lady%20Gaga%20Abracadabra" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 

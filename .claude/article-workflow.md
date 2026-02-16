@@ -124,13 +124,14 @@ YouTube動画の下に配置。アイコンのみ、横並び：
 
 ```html
 <!-- 🎧 ストリーミングで聴く -->
-<a href="Apple Music の曲リンク" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
+<a href="APPLE_MUSIC_URL" target="_blank" style="display: inline-block; margin-right: 12px;" title="Apple Musicで聴く">
   <img src="/icons/apple-music.svg" alt="Apple Music" width="32" height="32">
 </a>
-<a href="Spotify の曲リンク" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
+<a href="SPOTIFY_URL" target="_blank" style="display: inline-block;" title="Spotifyで聴く">
   <img src="/icons/spotify.svg" alt="Spotify" width="32" height="32">
 </a>
 ```
+※ `APPLE_MUSIC_URL` / `SPOTIFY_URL` は各曲の実際のURLに置き換える。記事用のリンクであり、サイト内の `/posts/` ページではない。
 
 ### 4. セクション構成
 
