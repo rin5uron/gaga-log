@@ -1,6 +1,6 @@
 ---
 title: "Zoo"
-theme: "タイトル「Zoo」が指すものとは？——みんなの居場所と多様性"
+theme: "「Zoo」が指すものとは？——みんなの居場所と多様性"
 song: "Zoo"
 artist: "Shakira"
 album: "Zoo (From Zootopia 2) - Single"

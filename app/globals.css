@@ -62,6 +62,7 @@ body {
   margin-bottom: 1.75rem;
   line-height: 1.3;
   color: var(--heading-h2-color);
+  overflow-wrap: break-word; /* 長い見出しは折り返し。スマホでは改行されるのが適切なレスポンシブ */
 }
 
 /* 見出し3（h3）：セクション内の小見出し。左にグレーの線・余白 */
@@ -380,10 +381,10 @@ body {
   border-left: var(--heading-h3-border);
 }
 
-/* 記事の h2：上に余白を広めに・上に薄い線でセクション区切り（余白で塊の区切りを出す） */
+/* 記事の h2：上に余白を特に広く・上に薄い線でセクション区切り（塊の区切りをはっきり） */
 .post-content h2 {
-  margin-top: 5.5rem;
-  padding-top: 2.25rem;
+  margin-top: 6.5rem;
+  padding-top: 2.5rem;
   border-top: 0.125rem solid #e5e7eb;
 }
 
@@ -408,14 +409,15 @@ body {
   letter-spacing: -0.01em;
   border-left: var(--heading-h2-border); /* h2と同じ太い線 */
   padding-left: 1rem;
-  margin-top: 4.5rem; /* h2と同じ */
+  margin-top: 6rem; /* Lyrics / MV / Analysis など、About以外のセクション感を出す */
   margin-bottom: 1.75rem;
   line-height: 1.3;
   color: var(--heading-h2-color);
   max-width: none;
+  overflow-wrap: break-word;
 }
 .post-content .section-label:first-of-type {
-  margin-top: 0;
+  margin-top: 0; /* Aboutの上だけ例外で詰める */
 }
 /* ラベル内のspan（サブタイトル）：小さめ・グレー */
 .post-content .section-label .label-subtitle {
@@ -449,14 +451,14 @@ body {
   position: relative;
 }
 
-/* 参考文献セクション（.references-section）：小さめの字で控えめに（読みやすい色） */
+/* 参考文献セクション（.references-section）：小さめの字で控えめに。上は詰める */
 .post-content h2.references-section {
   font-size: 1rem !important;
   font-weight: 400 !important;
   color: #6b7280 !important;
-  margin-top: 4rem !important;
+  margin-top: 2rem !important;
   margin-bottom: 0.5rem !important;
-  padding-top: 1.5rem !important;
+  padding-top: 1rem !important;
   border-top: 1px solid #e5e7eb !important;
   border-left: 2px solid #d1d5db !important;
 }
@@ -484,10 +486,10 @@ body {
   margin-bottom: 0 !important;
 }
 
-/* 参考情報セクション（ラベル+div構造）：.references-section 内の h2 を控えめに */
+/* 参考情報セクション（ラベル+div構造）：上は詰める */
 .post-content .references-section {
-  margin-top: 4rem;
-  padding-top: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
   border-top: 1px solid #e5e7eb;
 }
 .post-content .references-section h2 {
@@ -793,7 +795,7 @@ body {
   .prose h2 .section-subtitle {
     margin-left: 0.5rem;
   }
-  /* スマホ：記事の見出しを少し小さく */
+  /* スマホ：記事の見出しを少し小さく（H2の改行は意図したレスポンシブ） */
   .post-content h2 {
     font-size: 1.25rem;
   }
