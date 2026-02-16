@@ -409,7 +409,7 @@ body {
   letter-spacing: -0.01em;
   border-left: var(--heading-h2-border); /* h2と同じ太い線 */
   padding-left: 1rem;
-  margin-top: 7rem; /* 7行くらい。Lyrics / MV / Analysis など、About以外のセクション感を出す */
+  margin-top: 8.5rem; /* ラベル感を出す（H2上 7.5rem より広く） */
   margin-bottom: 1.75rem;
   line-height: 1.3;
   color: var(--heading-h2-color);
@@ -437,13 +437,14 @@ body {
   border-top: none !important;
   padding-left: 0.75rem !important;
   padding-top: 0 !important;
-  margin-top: 2.75rem !important;
+  margin-top: 7.5rem !important; /* セクション内2本目以降。ラベル直後は下で 2rem に上書き */
   margin-bottom: 1.25rem !important;
   line-height: 1.5 !important;
   letter-spacing: -0.01em !important;
 }
-.post-content h2.section-child-h2:first-of-type {
-  margin-top: 1.5rem !important;
+/* ラベル直後の h2（各セクション1本目）は 2rem。section-child-h2 の 7.5rem を上書き */
+.post-content .section-label + h2.section-child-h2 {
+  margin-top: 2rem !important;
 }
 
 /* 「参考情報」など .section-subtitle を持つ h2 用の土台 */
