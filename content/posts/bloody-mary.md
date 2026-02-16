@@ -90,6 +90,8 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## I'll dance dance dance——手を頭の上に
+
 「Bloody Mary」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も印象的な部分がこのフレーズ。
@@ -101,6 +103,8 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 歌詞がシンプルで覚えやすい。"dance" "hands" "head" と韻を踏みながら、身体全体で表現する感覚が伝わってくる。カラオケで歌う場合は、この部分で実際に手を頭の上に上げて踊ると、曲の雰囲気が出る。
 
 リズムに乗りながら口ずさめるので、ライブで一緒に歌いたくなる。繰り返しが多いので、初めて聞く人でもすぐに覚えられるフレーズだ。
+
+## And when you're gone, I'll tell them my religion's you
 
 そして、"Love is just a history that they may prove" から "forgive" へと続く一節。
 
@@ -116,6 +120,8 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## 公式MVはなし——ライブでの身体表現
+
 「Bloody Mary」には2011年のリリース時に公式ミュージックビデオは制作されなかった。しかし、ガガは過去のライブやパフォーマンスで、この曲を披露する際に独特な振り付けを披露してきた。
 
 **ガガのライブパフォーマンスでの特徴的な動き：**
@@ -123,6 +129,8 @@ Lady Gaga本人も、この流れを受けて[TikTokで反応](https://www.tikto
 - 大きく跳ねない、内側に沈むような動き
 - 表情を作りすぎない、無表情〜冷たい感じの表現
 - リズムを刻むより「間」と「空気」で魅せる身体言語
+
+## Wednesdayとの共鳴とTikTokバズ
 
 ガガがこの曲で披露してきた振り付けは、2022年にNetflix『Wednesday（ウェンズデー）』のダンスシーンと奇跡的に共鳴し、TikTokでバズを生んだ。これは偶然ではなく、ガガが最初からこの曲に込めていた身体言語が、時代を超えて新しい世代に響いた証拠だ。
 

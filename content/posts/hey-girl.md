@@ -58,6 +58,8 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 <div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
+## Just know that I got you——支え合う距離感
+
 サビの「Hey girl」が印象的な曲。何度も呼びかけるように繰り返される「Hey girl」——
 
 その中で、印象的なのはこのフレーズ。
@@ -68,6 +70,8 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 「I got you」——私はあなたをわかっている。あなたは私の味方だよ。この2つの意味が、同時に響いてくる。
 
+## I got you の距離感——近すぎず、遠すぎず
+
 「I understand you」でも「I support you」でもない。「I got you」だから、この距離感なんだ。近すぎず、遠すぎず。同じ目線で、確かに支え合う。
 
 ---
@@ -76,6 +80,8 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## Hey girl——呼びかけとサビ
+
 この曲で印象的なのはやっぱりサビ。ここだけでも歌えたら、曲を聴くのが何倍も楽しくなりそうだ。
 
 > Hey girl
@@ -83,6 +89,8 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 何度も繰り返される呼びかけ。シンプルで覚えやすい。
 
 「girl」とは誰なのか——ガガと同じように戦う女の子なのかもしれない。女性同士がお互いを支え合う、そんな関係性を表しているのかもしれない。
+
+## We can make it easy if we lift each other
 
 > We can make it easy if we lift each other
 
@@ -102,9 +110,13 @@ Florence + The Machineのフローレンス・ウェルチ（Florence Welch）�
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## ガガとフローレンスの共演
+
 <a href="#youtube-embed" class="text-blue-600 hover:underline">この曲のミュージックビデオ</a>では、ガガとフローレンス・ウェルチが登場する。
 
 この曲は、女性同士の連帯と支え合いをテーマにしているため、MVでも二人の強い絆が視覚的に表現されている。
+
+## 支え合う女性の視覚表現
 
 ガガとフローレンスの共演は、お互いを支え合う女性の力強さを象徴している。競い合うのではなく、お互いを高め合う——そんな女性同士の関係性が、MVからも伝わってくる。
 

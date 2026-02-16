@@ -25,11 +25,15 @@ type: "song"
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## デビューシングルとBillboard 1位
+
 「Just Dance」は、Lady Gagaのデビューアルバム『The Fame』（2008年8月19日リリース）からの1枚目のシングルとして、2008年4月8日にリリースされた楽曲。RedOneとガガによって書かれ、プロデュースされた。
 
 この曲は、ガガのデビューシングル。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)し、世界中で大ヒットした。[2009年のグラミー賞では、最優秀ダンスレコーディング賞にノミネート](https://www.grammy.com/awards/51st-annual-grammy-awards)された。
 
 ---
+
+## 考えずに、ただ楽しむ——パーティーの曲
 
 この曲が描いているのは、考えずに、ただ楽しむこと。
 
@@ -43,6 +47,8 @@ type: "song"
 
 <div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
+## Just dance, gonna be okay——サビの核心
+
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
 まず、この曲の核心となるフレーズ。
@@ -53,6 +59,8 @@ type: "song"
 「ただ踊って、大丈夫になる。ダダドゥードゥーム」
 
 シンプルで覚えやすく、メロディも印象的。カラオケで歌う場合は、この部分を力強く、楽しそうに歌うと、曲全体にエネルギーが満ちてくる。
+
+## 飲みすぎと「Just dance」の繰り返し
 
 そして、この曲の最も象徴的な部分。
 
@@ -77,6 +85,8 @@ type: "song"
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## Just dance, gonna be okay
+
 「Just Dance」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も印象的な部分がこのフレーズ。
@@ -84,6 +94,8 @@ type: "song"
 > Just dance, gonna be okay
 
 「ただ踊って、大丈夫になる」——シンプルで覚えやすく、メロディも印象的。カラオケで歌う場合は、この部分を力強く、楽しそうに歌うと、曲全体にエネルギーが満ちてくる。
+
+## I've had a little bit too much と Just dance の繰り返し
 
 そして、サビの中心になるのがこのフレーズ。
 
@@ -103,11 +115,15 @@ type: "song"
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## デビューMV——パーティー会場で踊る
+
 2008年4月8日に公開されたミュージックビデオは、ガガのデビューMV。監督は[Melina Matsoukas](https://www.imdb.com/name/nm2192268/)が担当している（[IMDb](https://www.imdb.com/title/tt6743950/)）。
 
 最も印象的なのは、そのシンプルさ。パーティー会場で、ガガが踊り、歌う——それだけのシンプルな構成。でも、そのシンプルさが、この曲の「ただ楽しむ」というメッセージを完璧に表現している。
 
 MVの冒頭では、ガガがパーティー会場に到着するシーンから始まる。そして、彼女は「Just Dance」の世界に引き込まれていく。
+
+## ただ楽しむ——踊るシーンと世界観
 
 印象的なのは、ガガが「踊る」シーン。様々な人々が一緒に踊り、歌い、この曲を楽しんでいる——それが、このMVの核心だ。
 

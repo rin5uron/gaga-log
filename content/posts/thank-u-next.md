@@ -25,11 +25,15 @@ type: "song"
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## タイトルトラックとBillboard 1位
+
 「Thank U, Next」は、Ariana Grandeの5枚目のスタジオアルバム『Thank U, Next』（2019年2月8日リリース）のタイトルトラックとして、2018年11月3日にリリースされた楽曲。アリアナ・グランデ、Victoria Monét、Tayla Parx、Charles Anderson、Michael Fosterによって書かれ、プロデュースされた。
 
 この曲は、アリアナの過去の恋愛経験を前向きに捉えた楽曲。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/ariana-grande/chart-history/HSI/1)し、世界中で大ヒットした。[2019年のグラミー賞では、最優秀ポップ・ソロ・パフォーマンス賞にノミネート](https://www.grammy.com/awards/61st-annual-grammy-awards)された。
 
 ---
+
+## ありがとう、次へ——過去に感謝して前へ進む
 
 この曲が描いているのは、「ありがとう、次へ」——つまり、過去の恋愛経験に感謝し、前へ進むこと。
 
@@ -45,6 +49,8 @@ type: "song"
 
 <div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
+## Thank you, next——サビの核心
+
 この曲を聴くときに知っておくと深まるポイントがいくつかある。
 
 まず、この曲の核心となるフレーズ。
@@ -57,6 +63,8 @@ type: "song"
 「ありがとう、次へ。ありがとう、次へ。ありがとう、次へ。元彼に本当に感謝している」
 
 シンプルで覚えやすく、メロディも印象的。カラオケで歌う場合は、この部分を力強く、前向きに歌うと、曲全体にエネルギーが満ちてくる。
+
+## One taught me love——過去から学んだこと
 
 そして、この曲の最も象徴的な部分。
 
@@ -84,6 +92,8 @@ type: "song"
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## Thank you, next と I'm so grateful for my ex
+
 「Thank U, Next」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も印象的な部分がこのフレーズ。
@@ -98,6 +108,8 @@ type: "song"
 
 「元彼に本当に感謝している」——このフレーズが、この曲の前向きさを完璧に表現している。英語学習者にとっても、"grateful for"（感謝している）という表現を覚えるのに役立つフレーズだ。
 
+## Now, I'm so amazing
+
 もう一つ覚えておきたいのが、この宣言。
 
 > Now, I'm so amazing
@@ -110,11 +122,15 @@ type: "song"
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## 映画パロディとユーモア
+
 2018年11月30日に公開されたミュージックビデオは、アリアナの過去の恋愛経験をパロディ化した作品。監督は[Hannah Lux Davis](https://www.imdb.com/name/nm0205500/)が担当している（[IMDb](https://www.imdb.com/title/tt9364124/)）。
 
 最も印象的なのは、そのユーモア。過去の恋愛経験を、映画のパロディとして描いている。シンプルで、キャッチーで、そして何より楽しい。
 
 MVの冒頭では、アリアナが過去の恋愛経験を振り返るシーンから始まる。そして、彼女は「Thank U, Next」の世界に引き込まれていく。
+
+## 前へ進む——メッセージの視覚化
 
 印象的なのは、アリアナが「前へ進む」シーン。過去の恋愛経験に感謝し、前へ進む——それが、このMVの核心だ。
 

@@ -26,13 +26,15 @@ relatedPosts: ["telephone", "hey-girl"]
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## Chromaticaからのシングル——雨に打たれても踊る
+
 「Rain on Me」は、2020年リリースのアルバム「Chromatica」からのシングル。アリアナ・グランデをフィーチャリングに迎えた、ダンスポップアンセム。
 
 プロデュースはBloodPop、BURNS、Tchami、そしてガガ自身が担当。90年代ハウスミュージックへのオマージュを感じさせる、高揚感あふれるサウンド。
 
 この曲のテーマは、「雨に打たれても踊り続ける」——痛みや悲しみを経験しても、それを受け入れながら前に進む、というメッセージ。
 
----
+## 初登場1位とパンデミック中の希望
 
 2020年5月にリリースされ、[Billboard Hot 100で初登場1位を獲得](https://www.billboard.com/music/lady-gaga/chart-history/HSI/1)した。これは、全女性コラボレーションとして初の初登場1位という記録となった。[2021年のグラミー賞では、最優秀ポップ・デュオ/グループ・パフォーマンス賞を受賞](https://www.grammy.com/awards/63rd-annual-grammy-awards)した。
 
@@ -41,6 +43,8 @@ relatedPosts: ["telephone", "hey-girl"]
 ---
 
 <div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
+
+## タイトルが表す核心——雨を浴びながら踊る
 
 「Rain on Me」というタイトル自体が、この曲の核心を表している。
 

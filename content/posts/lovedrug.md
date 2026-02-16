@@ -1,5 +1,6 @@
 ---
 title: "LoveDrug"
+theme: "愛を Drug と例えたガガの意図とは"
 song: "LoveDrug"
 artist: "Lady Gaga"
 album: "MAYHEM"
@@ -32,6 +33,8 @@ highlights:
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## MAYHEM収録曲としての概要
+
 「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
 
 Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
@@ -39,6 +42,8 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 **Andrew Watt** は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
 **Cirkut（Henry Walter）**は The Weeknd や Rihanna などのヒットを生むプロデューサー。
 **Michael Polansky** はガガの婚約者で、本作の全体制作をまとめる役も担っている。
+
+## 制作陣
 
 ---
 
@@ -93,6 +98,8 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## サビのフレーズ
+
 **サビのフレーズ**
 
 
@@ -103,6 +110,8 @@ Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによっ�
 > I just need a hit of your love drug
 
 I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲しい。矛盾した依存の心理が、サビ全体で繰り返される。
+
+## 冒頭や曲中で繰り返されるフレーズ
 
 **冒頭・曲のあちこちで何度も出てくるフレーズ。**
 

@@ -100,6 +100,8 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## I want you to be happier
+
 「Happier」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も象徴的な部分。
@@ -107,6 +109,8 @@ relatedPosts: ["thinking-out-loud", "the-a-team", "sing"]
 > I want you to be happier
 
 シンプルで覚えやすく、でも深い。カラオケで歌う場合は、この部分を感情を込めて歌うと、曲全体に深みが出る。
+
+## Ain't nobody hurt you like I hurt you
 
 そして、この対比。
 

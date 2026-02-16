@@ -73,6 +73,8 @@ highlights:
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## P-p-p-poker face の繰り返し
+
 「Poker Face」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も印象的な部分がこのフレーズ。
@@ -80,6 +82,8 @@ highlights:
 > P-p-p-poker face, p-p-poker face
 
 この繰り返しが、この曲の最大の特徴。カラオケで歌う場合は、この部分をリズミカルに、言葉を噛むように歌うと、曲全体にユニークな雰囲気が出る。
+
+## Can't read my poker face と I'll get him hot
 
 そして、サビの中心になるのがこのフレーズ。
 
@@ -99,11 +103,15 @@ highlights:
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## 白い部屋と仮面の視覚表現
+
 2008年10月25日に公開されたミュージックビデオは、ガガの初期のビジュアルアイデンティティを確立した作品。監督は[Ray Kay](https://www.imdb.com/name/nm0443392/)が担当している。
 
 最も印象的なのは、そのシンプルさと、同時に強烈なインパクト。白い背景、ガガの独特なファッション、そしてダンサーたちとの群舞——すべてが、この曲の「仮面を被る」というテーマを視覚的に表現している。
 
 MVの冒頭では、ガガが白い部屋で、無表情で立っているシーンから始まる。そして、彼女は「Poker Face」の世界に引き込まれていく。
+
+## 仮面を被る——世界観の表現
 
 印象的なのは、ガガが「仮面」を被っているシーン。実際の仮面ではなく、表情を変えない——それが、このMVの核心だ。
 

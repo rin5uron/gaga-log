@@ -28,6 +28,8 @@ relatedPosts: ["gaga-five-foot-two"]
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## アルバムの心と魂——叔母へのトリビュート
+
 「Joanne」は、Lady Gagaの5枚目のスタジオアルバム『Joanne』（2016年10月21日リリース）のタイトルトラックとして収録された楽曲。Mark Ronsonと共同プロデュースされ、アルバムの「真の心と魂」と呼ばれる、深く個人的な一曲。
 
 この曲は、ガガが生まれる12年前の1974年に19歳でループス（lupus）により亡くなった叔母、Joanne Germanottaへのトリビュートとして書かれた。
@@ -98,6 +100,8 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## 名前を呼ぶ——Joanne
+
 「Joanne」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の核心となる呼びかけ。
@@ -105,6 +109,8 @@ Joanne Germanotta（ジョアン・ジャーマノッタ）は、1955年3月12�
 > Joanne
 
 ただ名前を呼ぶだけ。でも、この呼びかけが、曲全体を貫いている。シンプルで、でも深い。
+
+## I'll always love you と Where do you think you're goin'?
 
 そして、この約束。
 

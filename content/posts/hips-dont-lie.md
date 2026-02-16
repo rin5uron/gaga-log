@@ -26,11 +26,15 @@ description: "シャキーラ「Hips Don't Lie」歌詞のポイントや意味�
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
+## リリースとBillboard 1位
+
 「Hips Don't Lie」は、Shakiraの6枚目のスタジオアルバム『Oral Fixation, Vol. 2』（2005年11月28日リリース）からの2枚目のシングルとして、2006年2月28日にリリースされた楽曲。シャキーラ、Wyclef Jean、LaTavia Parker、Jerry Duplessisによって書かれ、プロデュースされた。
 
 この曲は、シャキーラの代表曲の一つ。[Billboard Hot 100で1位を記録](https://www.billboard.com/music/shakira/chart-history/HSI/1)し、世界中で大ヒットした。2006年のラテン・グラミー賞では、最優秀レコーディング賞にノミネートされた。
 
 ---
+
+## 体が動く——抗えないエネルギー
 
 この曲を初めて聴いたとき、とにかく体が動いた。
 

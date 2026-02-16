@@ -94,6 +94,8 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## Class A Team と Stuck in her daydream
+
 「The A Team」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の象徴的な部分。
@@ -108,6 +110,8 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 「白日夢の中に閉じ込められている」——現実から逃れるための夢。でもその夢からも、抜け出せない。このフレーズが、彼女の状態を静かに語っている。
 
+## We'll fade out tonight
+
 もう一つ覚えておきたいのが、この繰り返し。
 
 > We'll fade out tonight
@@ -120,11 +124,15 @@ Ed Sheeranの歌には、説明しすぎない良さがある。
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## 一人の女性の物語——静かな描き方
+
 「The A Team」のミュージックビデオは、Ed Sheeran自身が登場せず、一人の女性の物語を映像で描いている。
 
 最も印象的なのは、その描き方の静けさ。派手な演出はなく、淡々と彼女の日常を映し出す。
 
 路上で立つ姿、空虚な表情、一人で過ごす夜——そのすべてが、曲のメッセージと重なっている。MVは曲と同じように、説明しない。ただ、見せる。
+
+## 曲の重みを伝える静けさ
 
 この静かな映像が、曲の持つ重みをより深く伝えている。
 

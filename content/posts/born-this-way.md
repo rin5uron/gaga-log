@@ -100,6 +100,8 @@ highlights:
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
+## I was born this way——サビの核心
+
 「Born This Way」で覚えておくと、この曲が何倍も楽しくなるフレーズを紹介する。
 
 まず、この曲の最も印象的な部分がこのフレーズ。
@@ -107,6 +109,8 @@ highlights:
 > I was born this way
 
 「私はこのように生まれた」——シンプルで覚えやすく、メロディも印象的。カラオケで歌う場合は、この部分を力強く、自信を持って歌うと、曲全体にエネルギーが満ちてくる。
+
+## I'm beautiful in my way と Don't be a drag, just be a queen
 
 そして、サビの中心になるのがこのフレーズ。
 
@@ -127,6 +131,8 @@ highlights:
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
 
+## 多様性の視覚表現
+
 2011年2月28日に公開されたミュージックビデオは、ガガのメッセージを視覚的に表現した作品。監督は[Nick Knight](https://www.imdb.com/name/nm0460800/)が担当している（[IMDb](https://www.imdb.com/title/tt3559502/)）。
 
 最も印象的なのは、その多様性の表現。様々な人種、性別、体型の人々が登場し、すべての人が「Born This Way」であることを視覚的に表現している。
@@ -134,6 +140,8 @@ highlights:
 MVの冒頭では、ガガが「新しい種族」の創造を宣言するシーンから始まる。そして、彼女は「Born This Way」の世界に引き込まれていく。
 
 印象的なのは、ガガが「多様性」を表現しているシーン。様々な人々が一緒に踊り、歌い、この曲を楽しんでいる——それが、このMVの核心だ。
+
+## 自分らしくいることの視覚化
 
 また、このMVは、ガガのファッションセンスが際立つ作品でもある。独特な衣装、メイク、そしてパフォーマンス——すべてが、この曲の「自分らしくいること」というメッセージを完璧に表現している。
 
