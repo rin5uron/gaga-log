@@ -57,7 +57,7 @@ highlights:
 
 <div class="section-label">Lyrics <span class="label-subtitle">歌詞のポイント</span></div>
 
-## 「Zoo」というタイトルに込められた意味
+## 「Zoo」の意味とは？タイトルに込めた想い
 
 > Ah-a-a-a a zoo ooh-ooh-oooh
 
@@ -102,7 +102,7 @@ highlights:
 
 ---
 
-## 日本版の特別性——ズートピアの英語・スペイン語と日本語版
+## ディズニーが日本版のみ別MV制作を許可！
 
 **ズートピア2の劇中歌「Zoo」は、公式版では英語とスペイン語で歌われています。**歌っているシャキーラはコロンビア出身で、英語・スペイン語のバイリンガル。ラテン系のリズムやスペイン語のフレーズも曲の魅力のひとつです。一方、**日本では世界で唯一のローカライズ版**が作られ、Dream Amiが「Zoo ～君がいるから～」を歌っています。前作『ズートピア』の主題歌「Try Everything」が日本で大ヒットしたため、ディズニーが日本市場だけ特別に日本語版の制作を許可した形です。
 
@@ -139,12 +139,17 @@ highlights:
 
 関連する動画は次の3本です。聞き比べてみると新しい発見があるかも！？
 
-<!-- 映画『ズートピア2』公式予告編（ディズニー公式YouTube） -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vTR2-d4k_s" title="映画『ズートピア2』公式予告編 - ディズニー公式YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-embed-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xry6B0I3pT8" title="Shakira - Zoo (From Zootopia 2) Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<p class="text-sm text-gray-600 mt-1 mb-6">Shakira - Zoo (From "Zootopia 2") Official Video</p>
 
-- **[シャキーラ公式MV](https://www.youtube.com/watch?v=Xry6B0I3pT8)**（Shakira - Zoo (From "Zootopia 2") Official Video）
+<div class="youtube-embed-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vTR2-d4k_s" title="映画『ズートピア2』公式予告編 - ディズニー公式YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<p class="text-sm text-gray-600 mt-1 mb-6">映画『ズートピア2』公式予告編（ディズニー公式YouTube）</p>
+
 - **[Dream Ami版「Zoo ～君がいるから～」](https://music.apple.com/jp/album/zoo-from-zootopia-2-japanese-single-version-single/1861940083)**（Apple Music）／ [ディズニー公式による日本版の紹介](https://www.disney.co.jp/music/news/20251014_01)
-- **[映画『ズートピア2』公式予告編](https://www.youtube.com/watch?v=5vTR2-d4k_s)**（ディズニー公式YouTube）
 
 日本版は、単なる翻訳ではなく、日本のファンのために新たに作られた特別版です。
 
@@ -155,7 +160,7 @@ highlights:
 <div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
 
-## この曲を楽しく歌うには
+## 楽しく歌う4つのポイント
 
 **① 韻を踏むところを意識する**: fade away / celebrate / anything——音の「-ay」「伸び」をリズムで揃えると気持ちいいです
 

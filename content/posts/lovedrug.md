@@ -133,7 +133,7 @@ MAYHEMでは Disease や Abracadabra のようにストーリー性の強いMV�
 
 ---
 
-## Love Drug が指すもの
+## 「Love Drug」が指すものとは？
 
 「Love Drug」が指すもの——それは、愛が救いではなく、依存であり、快楽であり、抜け出せないものだということ。
 
@@ -143,7 +143,7 @@ MAYHEMでは Disease や Abracadabra のようにストーリー性の強いMV�
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-## サビのフレーズ
+## サビで歌いたくなるフレーズ
 
 **サビのフレーズ**
 
@@ -156,7 +156,7 @@ MAYHEMでは Disease や Abracadabra のようにストーリー性の強いMV�
 
 I don't wanna feel / I don't wanna cry 、それでも "your love drug" が欲しい。矛盾した依存の心理が、サビ全体で繰り返される。
 
-## 冒頭や曲中で繰り返されるフレーズ
+## 冒頭・曲中で繰り返されるフレーズ
 
 **冒頭・曲のあちこちで何度も出てくるフレーズ。**
 
