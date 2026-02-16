@@ -15,9 +15,16 @@ highlights:
   - ハイライト2（読者が知りたい核心）
   - ハイライト3（あれば3つ目）
 # ↓ SEO用メタデータは自動生成されます（手動設定不要）
-# 生成内容: title, description, keywords, OGP, Twitter Card, canonical URL
 # 詳細: /docs/SEO-METADATA-IMPLEMENTATION.md を参照
 ---
+
+<!-- 記事本文のルール（#22・#30 準拠）
+- セクション順序：About → Lyrics → Music Video（MVがある曲のみ）→ Analysis → Favorite Lines → References
+- ラベル（「この曲について」「歌詞のポイント」等）は section-label で表示のみ。H2 は具体的な見出し（曲ってどんな曲？／フレーズ名／MVの切り口／考察の切り口／口ずさみフレーズ）
+- 流し読み：要点を **太字** で追えるようにする
+- About の概要段落はだ・である調、それ以外はです・ます調。「私は」をどこかに入れる
+- 引用はテーマに接続するものだけ。AI感を避ける（抽象語・テンプレ語・語尾の繰り返しを減らす）
+-->
 
 <!-- ▶️ YouTube公式動画の埋め込み -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,18 +43,19 @@ highlights:
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-## [〇〇ってどんな曲？]
-※テーマをサブタイトル風に出す
+## [曲名]ってどんな曲？
+※H2は具体的に。テーマをサブタイトル風に出す
 
 > 「テーマ」を歌った曲
 
-[概要：リリース情報、誰が書いた、どんな曲か。だ調。テーマのことにも触れて締める]
+[概要：リリース情報、誰が書いた、どんな曲か。だ調。] 最後にテーマのことにも触れて締める。
 
 ---
 
-## [深掘りの切り口]（例：曲名の由来は聖書のユダ）
+## [深掘りの切り口]
+※テーマに繋がる切り口にする（例：曲名の由来、アルバムでの位置、制作の背景）。「〇〇の8曲目」「制作陣」だけの事実H2は避ける
 
-[背景・制作経緯など。です・ます調]
+[背景・制作経緯など。です・ます調。**要点は太字で。**]
 
 ---
 
@@ -57,10 +65,11 @@ highlights:
 ※テーマを証明する引用だけを選ぶ。「好きだから」では選ばない
 
 ## [フレーズ・キーワード]
+※H2は短く・具体的に（1行10〜18文字目安）
 
 > 引用
 
-[このフレーズがテーマとどう関係するか]
+[このフレーズがテーマとどう関係するか。要点は太字で。]
 
 <!-- 語学メモ：その表現がテーマに沿っていれば残してOK。.language-note で囲む -->
 <div class="language-note">
@@ -75,18 +84,19 @@ highlights:
 
 > 引用
 
-[テーマとの関係。語学メモ可]
+[テーマとの関係。語学メモ可。**要点は太字で。**]
 
 ---
 
 
 
 <div class="section-label">Music Video <span class="label-subtitle">MVの見どころ</span></div>
-※MVがある曲だけ。テーマに沿った演出・内容に絞る
+※MVがある曲のみ。本格MVがなく公式音源・公式映像のみの曲は、短く「公式映像で聴く」など1本のH2で可
 
 ## [MVの切り口]
+※テーマに沿った演出・内容に絞る
 
-[テーマに沿った演出・シーンの描写と意味]
+[テーマに沿った演出・シーンの描写と意味。**要点は太字で。**]
 
 ---
 
@@ -99,24 +109,24 @@ highlights:
 
 
 <div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
-※歌詞・MVを踏まえてテーマを深掘りする
+※歌詞・MVを踏まえてテーマを深掘り。引用を多用しない
 
 ## [テーマに沿った深掘り]
 
-[曲の構造、言葉選び、対比／繰り返し、タイトルとのつながり、自分の解釈など]
+[曲の構造、言葉選び、対比／繰り返し、タイトルとのつながり、自分の解釈など。**要点は太字で。**]
 
 ---
 
 ## [まとめ・締め]
 
-[テーマに沿った締め。感想を2〜4行で。解釈・考察の延長として短く]
+[テーマに沿った締め。**感想を2〜4行で。** 解釈・考察の延長として短く。]
 
 ---
 
 
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
-※楽しさゾーン。テーマから離れてOK
+※楽しさゾーン。テーマから離れてOK。とにかく短く、改行多め、視認性重視
 
 ## [覚えておくと楽しいフレーズ]
 
@@ -136,23 +146,13 @@ highlights:
 
 
 
-<div class="section-label">References <span class="label-subtitle">参考情報</span></div>
+## References <span class="section-subtitle">参考情報</span>
 
-<div class="references-section">
-
-### 公式MV
-
+### 公式MV・動画
 - [曲名 - Official Music Video](URL)
 
-### インタビュー・発言
-
-- [インタビュー記事タイトル](URL)
-- [アーティスト本人の発言](URL)
-
 ### その他
-
-- [参考資料](URL)
-
-</div>
+- [Apple Music](URL)
+- [Spotify](URL)
 
 ---

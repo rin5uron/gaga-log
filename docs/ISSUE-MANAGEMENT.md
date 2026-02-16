@@ -2,6 +2,8 @@
 
 **記録の運用**: 実施内容・完了報告は **GitHub issue** の本文またはコメントに書く。編集は `gh issue edit` / `gh issue comment` を使用。手順は `.cursor/rules/file-creation-and-records.md` と `.cursor/rules/issue-cli.md` を参照。
 
+**書き方**: Issue やコメントは、このサイト・依頼者を知らない人が読んでもわかるように書く。ファイルパス（例: `content/posts/judas.md`）だけにせず、「Lady Gagaの曲『Judas』の記事」のように内容が伝わる表現を添える。
+
 ---
 
 ## 基本原則

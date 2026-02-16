@@ -33,15 +33,17 @@ highlights:
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-## MAYHEM収録曲としての概要
+## Love Drugってどんな曲？
 
-「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム**『MAYHEM』（2025年3月7日リリース）の8曲目に収録された楽曲。**
+> 愛をドラッグに喩えた、依存と麻酔としての愛を歌った曲
 
-Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当した。
-## 制作陣
-**Andrew Watt** は Rolling Stones や Miley Cyrus なども手がけるプロデューサー。
-**Cirkut（Henry Walter）**は The Weeknd や Rihanna などのヒットを生むプロデューサー。
-**Michael Polansky** はガガの婚約者で、本作の全体制作をまとめる役も担っている。
+「Love Drug」は、Lady Gagaの7枚目のスタジオアルバム『MAYHEM』（2025年3月7日リリース）に収録された楽曲だ。Lady Gaga、Andrew Watt、Henry Walter（Cirkut）、Michael Polanskyによって書かれ、Lady Gaga、Andrew Watt、Cirkutがプロデュースを担当している。愛を「救い」ではなく、やめられない麻酔・依存として歌い、ガガがこの曲に込めた意図が歌詞の随所に表れている。
+
+---
+
+## ドラッグに喩えた意図——アルバムのなかで
+
+MAYHEMでは Disease や Abracadabra のようにストーリー性の強いMVがリリースされている曲がある一方、Love Drug は本格的なMVは公開されていない。アルバムのなかでは「暗い前半から明るい後半への橋渡し」と評される位置にあり、80年代アリーナロックを思わせるノリのよいサウンドで、愛をドラッグに喩えたメッセージがそのまま届く一曲になっている。
 
 
 
