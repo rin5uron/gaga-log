@@ -383,19 +383,14 @@ body {
 
 /* 記事の h2：上に余白を特に広く・上に薄い線でセクション区切り（塊の区切りをはっきり） */
 .post-content h2 {
-  margin-top: 6.5rem;
+  margin-top: 7.5rem;
   padding-top: 2.5rem;
   border-top: 0.125rem solid #e5e7eb;
 }
 
-/* 記事内で最初の h2 だけ、上の余白を詰める（2remくらい） */
-.post-content h2:first-of-type {
+/* ラベルの直後の h2 はすべて 2rem（各セクションの1本目）。それ以外は 7.5rem */
+.post-content .section-label + h2 {
   margin-top: 2rem;
-}
-
-/* 2番目の h2 は上をもっと開ける（そんなに空いて見えないため） */
-.post-content h2:nth-of-type(2) {
-  margin-top: 7.5rem;
 }
 
 /* .no-heading-style を付けた h2：見出しらしい装飾を全部外す（まとめセクション用など） */
