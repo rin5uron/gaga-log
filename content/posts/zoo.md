@@ -33,9 +33,9 @@ highlights:
 
 <div class="section-label">About <span class="label-subtitle">この曲について</span></div>
 
-## ズートピア2の劇中歌——Zootennial Galaシーンの一曲
+## ズートピア2の劇中歌
 
-> シャキーラが歌う「Zoo」——なぜ動物園が多様性の歌になるのか、歌詞の意味と歌い方のコツを紹介します。
+> シャキーラが歌う「Zoo」——Zootennial Galaシーンの一曲で、映画のテーマにもなる多様性を歌った曲
 
 「Zoo」は、2025年12月5日公開のディズニー・アニメーション映画『ズートピア2』の劇中歌だ。[シャキーラ](/artists/Shakira)が、キリンの歌手、ガゼル役として歌っている。
 
@@ -45,7 +45,7 @@ highlights:
 
 ---
 
-## エド・シーランが手がけたズートピアの祝祭ソング
+## エド・シーランが手がけた祝祭ソング
 
 **この曲の作詞・作曲を担当した[エド・シーラン](/artists/ed-sheeran)は、「[Perfect](/posts/perfect)」「[Thinking Out Loud](/posts/thinking-out-loud)」「[The A Team](/posts/the-a-team)」など、メロディアスなポップソングで知られるアーティストです。**
 
@@ -123,7 +123,8 @@ highlights:
 
 <div class="section-label">Analysis <span class="label-subtitle">考察</span></div>
 
-## 「Zoo」が伝えること——動物園は多様性の象徴だった
+
+## この曲を楽しく歌うには
 
 **① 韻を踏むところを意識する**: fade away / celebrate / anything——音の「-ay」「伸び」をリズムで揃えると気持ちいいです
 
@@ -132,11 +133,6 @@ highlights:
 **③ 動物になって歌う**: Try Everythingの気持ちで、跳ねる・揺れる・崩してOKです
 
 **④ 体を使う**: 軽く跳ねると英語のリズムが一気にハマります
-
----
-
-## 完璧に歌えなくていい——この曲の自由さがそれを教えてくれる
-
 **最初のフレーズが歌えたら、それだけで十分楽しいです。**あとは、覚えて歌うのも、雰囲気で口ずさむのも、ノリで合わせるだけでも、どれでもいいです。
 
 **正確さより楽しさを優先してほしいです。**考えすぎずに、リズムに乗って、声を出して、楽しむ。それだけで十分です。
@@ -145,13 +141,15 @@ highlights:
 
 **ズートピアという街が、多様な動物たちが共存する場所であるように、この曲も「誰が歌ってもいい」「どう歌ってもいい」という自由さがあります。**そんな自由な場所を求めている人にぴったりな曲です。
 
+## 「Zoo」が伝えること——動物園は多様性の象徴？
+
 ---
 
 
 
 <div class="section-label">Favorite Lines <span class="label-subtitle">口ずさみたいフレーズ</span></div>
 
-## 冒頭の「アッパーアッパー」——hop hop（跳ねる）で歌うと楽しい
+## Hop-ah,hop-ah,hop-ah,hop-ah！！
 
 Hop-ah,hop-ah,hop-ah,hop-ah
 曲のいちばん最初、**「ホッパ、またはアッパ」のように聞こえる部分**があります。歌詞サイトや各種サブスクリプションにはAh-a-a-a-a-a-ahと書かれていることもあり実際の歌詞では "upper upper" っぽく発音されていますが、意味としては**跳ねる・ホップする感覚**で使われています。
@@ -160,17 +158,20 @@ Hop-ah,hop-ah,hop-ah,hop-ah
 
 ---
 
-## 冒頭の英語フレーズ——get up / get on up / keep it up
+## ここだけ押さえれば3回歌える！
 
-曲の最初に出てくる **"Come on, get up"「get on up」「keep it up」** の意味の目安は次のとおりです。
+> Come on, get on up, we're wild, and we can't be tamed
+> And we're turnin' the floor into a zoo, ooh, ooh
+
+このフレーズはサビに1回目・2回目・最後（一部歌詞違い）と計3回登場します。ここを覚えておけば大体歌えます！
 
 | フレーズ | 意味の目安 |
 |--|--|
-| **get up** | 立ち上がる／起き上がる |
-| **get on up** | さらに勢いをつけて立ち上がる（口語・ノリ重視の言い方） |
-| **keep it up** | その調子で続けて |
+| **get on up** | 勢いよく立ち上がれ（口語・ノリ重視） |
+| **we can't be tamed** | 私たちは飼い慣らされない、止められない |
+| **turnin' the floor into a zoo** | フロアを動物園にしちゃう（盛り上げる） |
 
-**冒頭部分を歌えると、曲全体が一気に楽しくなります。**ここは完璧に理解しなくても大丈夫です。ノリ重視で、リズムに乗って声に出すだけでOKです。
+意味より**リズムで体に入れる**感覚でOKです。
 
 ---
 
